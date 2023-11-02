@@ -24,21 +24,21 @@
 
 - <b>🗂单仓:</b>
 
-  https://ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/TV%20Box%20Config/TVBox%20%E8%87%AA%E7%94%A8%E4%BB%93.json
+  https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/TV%20Box%20Config/TVBox%20%E8%87%AA%E7%94%A8%E4%BB%93.json
 
 - <b>🗂单仓2：</b>
 
-  https://ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/TV%20Box%20Config/TVBox%20%E8%87%AA%E7%94%A8%E4%BB%932.json
+  https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/TV%20Box%20Config/TVBox%20%E8%87%AA%E7%94%A8%E4%BB%932.json
 
 - <b>🗂🗂多仓：</b>
 
-  https://ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/TV%20Box%20Config/TVBox%20%E8%87%AA%E7%94%A8%E5%A4%9A%E4%BB%93.json
+  https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/TV%20Box%20Config/TVBox%20%E8%87%AA%E7%94%A8%E5%A4%9A%E4%BB%93.json
 
 ### ZY Player 接口
 
-- https://ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/ZY%20Player%20Config/ZY%20Player%20%E6%95%B0%E6%8D%AE%E6%BA%90%20%E7%B2%BE%E9%80%89%E8%87%AA%E7%94%A8.json
+- https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/ZY%20Player%20Config/ZY%20Player%20%E6%95%B0%E6%8D%AE%E6%BA%90%20%E7%B2%BE%E9%80%89%E8%87%AA%E7%94%A8.json
 
-- https://raw.githubusercontent.com/aa1555/Repository/main/ZY%20Player%20Config/ZY%20Player%20%E6%95%B0%E6%8D%AE%E6%BA%902.json
+- https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/ZY%20Player%20Config/ZY%20Player%20%E6%95%B0%E6%8D%AE%E6%BA%902.json
 
 </details>
 
@@ -58,21 +58,21 @@
 
   https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u
 
-  https://ghproxy.com/https://github.com/fanmingming/live/blob/main/tv/m3u/global.m3u
+  https://ghproxy.net/https://github.com/fanmingming/live/blob/main/tv/m3u/global.m3u
 
 ### 项目地址：[2hacc/TVBox](https://github.com/2hacc/TVBox)
 
 - <b>TV Box接口：</b>
 
-  https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json
+  https://ghproxy.net/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json
 
 - <b>小雅接口：</b>
 
-  https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/xiaoya.json
+  https://ghproxy.net/https://raw.githubusercontent.com/2hacc/TVBox/main/xiaoya.json
 
 - <b> 📺海外直播源：</b>
 
-  https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/live/hlive.txt
+  https://ghproxy.net/https://raw.githubusercontent.com/2hacc/TVBox/main/live/hlive.txt
 
 ### 项目地址：[mengzehe/TVBox](https://github.com/mengzehe/TVBox)
 
@@ -80,25 +80,25 @@
 
 - <b>🗂单仓：</b>
 
-  https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/tvbox/main/%E8%87%AA%E7%94%A8%E5%8D%95%E4%BB%93
+  https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/tvbox/main/%E8%87%AA%E7%94%A8%E5%8D%95%E4%BB%93
   
 - <b>🗂单仓2：<b>
 
-  https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/TVBox/main/%E8%87%AA%E7%94%A8%E5%8D%95%E4%BB%932
+  https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/TVBox/main/%E8%87%AA%E7%94%A8%E5%8D%95%E4%BB%932
   
 - <b>🗂🗂多仓：<b>
 
-  https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/TVBox/main/%E8%87%AA%E7%94%A8%E5%A4%9A%E4%BB%93
+  https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/TVBox/main/%E8%87%AA%E7%94%A8%E5%A4%9A%E4%BB%93
 
 ### 项目地址：[dxawi/0](https://github.com/dxawi/0)
 
 - <b>📺直播源</b>（信号不错）：
 
-  https://ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt
+  https://ghproxy.net/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt
 
 - <b>TV Box接口：</b>
 
-  https://ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/0.json
+  https://ghproxy.net/https://raw.githubusercontent.com/dxawi/0/main/0.json
 
 ### 项目地址：[guot55/YGBH](https://github.com/guot55/YGBH)
 
@@ -120,7 +120,7 @@
 
 - 饭太硬：http://饭太硬.ga/x/o.json
 
-- 霜辉月明py：https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json
+- 霜辉月明py：https://ghproxy.net/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json
 
 - 小雅dr：http://drpy.site/js1
 
@@ -136,7 +136,7 @@
 
 - 潇洒：https://download.kstore.space/download/2863/01.txt
 
-- 佰欣园：https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt
+- 佰欣园：https://ghproxy.net/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt
 
 - 胖虎：https://notabug.org/imbig66/tv-spider-man/raw/master/配置/0801.json
 
@@ -148,7 +148,7 @@
 
 - 哔哩学习：http://52bsj.vip:81/api/v3/file/get/41063/bili.json?sign=TxuApYZt6bNl9TzI7vObItW34UnATQ4RQxABAEwHst4%3D%3A0
 
-- UndCover：https://raw.githubusercontent.com/UndCover/PyramidStore/main/py.json
+- UndCover：https://ghproxy.net/https://raw.githubusercontent.com/UndCover/PyramidStore/main/py.json
 
 - 木极：https://pan.tenire.com/down.php/2664dabf44e1b55919f481903a178cba.txt
 
