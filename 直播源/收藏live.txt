@@ -1,0 +1,8 @@
+中天新闻,http://50.7.238.114:8278/ctinews/playlist.m3u8?tid=MB0B9546410395464103&ct=19249&tsum=30c62d7eec5ce9a49a64c3fa3ff8a8b7
+中天新闻,http://198.16.100.90:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203
+中天新闻,http://50.7.238.114:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
+
+TVBS,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
+
+半岛电视,https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
+半岛电视,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
