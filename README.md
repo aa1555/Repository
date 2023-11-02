@@ -60,7 +60,7 @@
 
 - <b>V2Ray 订阅链接：</b>
 
-  https://ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Nodes/V2Ray.txt
+  https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Nodes/V2Ray.txt
 
 <hr>
 
@@ -68,11 +68,11 @@
 
 - <b>Clash订阅链接：</b>
 
-  https://ghproxy.com/https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
+  https://ghproxy.net/https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
 
 - <b>V2ray订阅链接：</b>
 
-  https://ghproxy.com/https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
+  https://ghproxy.net/https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
 
 <hr>
 
@@ -80,11 +80,11 @@
 
 - <b>Clash订阅链接：</b>
 
-  https://ghproxy.com/https://raw.githubusercontent.com/ermaozi01/free_clash_vpn/main/subscribe/clash.yml
+  https://ghproxy.net/https://raw.githubusercontent.com/ermaozi01/free_clash_vpn/main/subscribe/clash.yml
 
 - <b>V2Ray订阅链接：</b>
 
-  https://ghproxy.com/https://raw.githubusercontent.com/ermaozi01/free_clash_vpn/main/subscribe/v2ray.txt
+  https://ghproxy.net/https://raw.githubusercontent.com/ermaozi01/free_clash_vpn/main/subscribe/v2ray.txt
 
 <hr>
 
@@ -92,11 +92,11 @@
 
 - <b>Clash订阅链接:</b>
 
-  https://ghproxy.com/https://raw.githubusercontent.com/tbbatbb/Proxy/master/dist/clash.config.yaml
+  https://ghproxy.net/https://raw.githubusercontent.com/tbbatbb/Proxy/master/dist/clash.config.yaml
   
 - <b>V2Ray订阅链接:</b>
 
-  https://ghproxy.com/https://raw.githubusercontent.com/tbbatbb/Proxy/master/dist/v2ray.config.txt
+  https://ghproxy.net/https://raw.githubusercontent.com/tbbatbb/Proxy/master/dist/v2ray.config.txt
 
 <hr>
 
@@ -104,11 +104,11 @@
 
 - <b>Clash订阅：</b>
 
-  https://ghproxy.com/https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
+  https://ghproxy.net/https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
 
 - <b>通用base64/v2ray订阅：</b>
 
-  https://ghproxy.com/https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub
+  https://ghproxy.net/https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub
 
 <hr>
 
@@ -128,11 +128,11 @@
 
 - <b>Clash订阅：</b>
 
-  https://ghproxy.com/https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml
+  https://ghproxy.net/https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml
 
 - <b>V2Ray订阅链接:</b>
 
-  https://ghproxy.com/https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray
+  https://ghproxy.net/https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray
 
 <hr>
 
@@ -140,7 +140,7 @@
 
 - <b>订阅链接：</b>
 
-  https://ghproxy.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
+  https://ghproxy.net/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
 
 <hr>
 
@@ -160,69 +160,69 @@
 
 - <b>多协议Base64编码：</b>
 
-  https://ghproxy.com/https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription_num
+  https://ghproxy.net/https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription_num
 
   `合并节点总数: 910`
 
 - <b>多协议Base64编码：</b>
 
-  https://ghproxy.com/https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription1
+  https://ghproxy.net/https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription1
 
   `合并节点总数: 114`
 
 - <b>多协议Base64编码：</b>
 
-  https://ghproxy.com/https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription2
+  https://ghproxy.net/https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription2
 
   `合并节点总数: 114`
 
 - <b>多协议Base64编码：</b>
 
-  https://ghproxy.com/https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription3
+  https://ghproxy.net/https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription3
 
   `合并节点总数: 114`
 
 - <b>多协议Base64编码：</b>
 
-  https://ghproxy.com/https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription4
+  https://ghproxy.net/https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription4
 
   `合并节点总数: 114`
 
 - <b>多协议Base64编码：</b>
 
-  https://ghproxy.com/https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription5
+  https://ghproxy.net/https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription5
 
   `合并节点总数: 114`
 
 - <b>多协议Base64编码：</b>
 
-  https://ghproxy.com/https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription6
+  https://ghproxy.net/https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription6
 
   `合并节点总数: 114`
 
 - <b>多协议Base64编码：</b>
 
-  https://ghproxy.com/https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription7
+  https://ghproxy.net/https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription7
 
   `合并节点总数: 114`
 
 - <b>多协议Base64编码：</b>
 
-  https://ghproxy.com/https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription8
+  https://ghproxy.net/https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription8
 
   `合并节点总数: 112`
 
 - <b>Clash 订阅链接：</b>
 
-  https://ghproxy.com/https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription1.yaml
+  https://ghproxy.net/https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription1.yaml
 
 - <b>Clash 订阅链接：</b>
 
-  https://ghproxy.com/https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription2.yaml
+  https://ghproxy.net/https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription2.yaml
 
 - <b>Clash 订阅链接：</b>
 
-  https://ghproxy.com/https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription3.yaml
+  https://ghproxy.net/https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription3.yaml
   
 </details>
 
