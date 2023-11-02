@@ -56,7 +56,7 @@
 
 - <b>Clash 订阅链接：</b>
 
-  https://ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Nodes/Clash.txt
+  https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Nodes/Clash.txt
 
 - <b>V2Ray 订阅链接：</b>
 
