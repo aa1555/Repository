@@ -1,0 +1,341 @@
+/*↓↓老牛字体样式4.0 2015-09-14↓↓*/
+/*↓↓欢迎非商业性使用，但请注明"老牛字体样式"；商业使用请与老牛联系↓↓*/
+@font-face {
+    font-family: "zw";
+    src:
+	local("zw"),local("st"),local("Song T"),local("SongTi"),local("Songti"),
+	local("正文"),local("宋体"),local("明体"),local("明朝"),
+	local("Songti"),local("Songti SC"),local("Songti TC"),
+	local("STSongti"),local("STSong"),local("Song S"),local("Song T"),local("STBShusong"),local("TBMincho"),local("HYMyeongJo"),
+	local("DK-SONGTI"),
+	url(../Fonts/zw.ttf),
+	url(res:///opt/sony/ebook/FONT/zw.ttf),
+	url(res:///Data/FONT/zw.ttf),
+	url(res:///opt/sony/ebook/FONT/tt0011m_.ttf),
+	url(res:///ebook/fonts/../../mnt/sdcard/fonts/zw.ttf),
+	url(res:///ebook/fonts/../../mnt/extsd/fonts/zw.ttf),
+	url(res:///ebook/fonts/zw.ttf),
+	url(res:///ebook/fonts/DroidSansFallback.ttf),
+	url(res:///fonts/ttf/zw.ttf),
+	url(res:///../../media/mmcblk0p1/fonts/zw.ttf),
+	url(file:///mnt/us/DK_System/system/fonts/zw.ttf),
+	url(file:///mnt/us/DK_System/xKindle/res/userfonts/zw.ttf),
+	url(res:///mnt/us/fonts/zw.ttf),
+	url(res:///abook/fonts/zw.ttf),
+	url(res:///system/fonts/zw.ttf),
+	url(res:///system/media/sdcard/fonts/zw.ttf),
+	url(res:///media/fonts/zw.ttf),
+	url(res:///sdcard/fonts/zw.ttf),
+	url(res:///system/fonts/DroidSansFallback.ttf),
+	url(res:///mnt/MOVIFAT/font/zw.ttf),
+	url(res:///media/flash/fonts/zw.ttf),
+	url(res:///media/sd/fonts/zw.ttf),
+	url(res:///opt/onyx/arm/lib/fonts/AdobeHeitiStd-Regular.otf),
+	url(res:///../../fonts/zw.ttf),
+	url(res:///../fonts/zw.ttf),
+	url(../../../../../zw.ttf),
+	url(res:///mnt/sdcard/fonts/zw.ttf),
+	url(res:///fonts/zw.ttf),
+	url(res:///../../../../Windows/fonts/zw.ttf);
+    /*,
+	url(res:///fonts/normal/st),
+	url(res:///fonts/normal/SongTi);
+    */;
+}
+
+@font-face {
+    font-family: "fs";
+    src:
+	local("fs"),local("FangSong"),local("Fangsong"),
+	local("仿宋"),local("仿宋_GB2312"),
+	local("Yuanti"),local("Yuanti SC"),local("Yuanti TC"),
+	local("STYuanti"),local("STYuan"),
+	local("DK-FANGSONG"),
+	url(../Fonts/fs.ttf),
+	url(res:///opt/sony/ebook/FONT/fs.ttf),
+	url(res:///Data/FONT/fs.ttf),
+	url(res:///opt/sony/ebook/FONT/tt0011m_.ttf),
+	url(res:///ebook/fonts/../../mnt/sdcard/fonts/fs.ttf),
+	url(res:///ebook/fonts/../../mnt/extsd/fonts/fs.ttf),
+	url(res:///ebook/fonts/fs.ttf),
+	url(res:///ebook/fonts/DroidSansFallback.ttf),
+	url(res:///fonts/ttf/fs.ttf),
+	url(res:///../../media/mmcblk0p1/fonts/fs.ttf),
+	url(file:///mnt/us/DK_System/system/fonts/fs.ttf),
+	url(file:///mnt/us/DK_System/xKindle/res/userfonts/fs.ttf),
+	url(res:///mnt/us/fonts/fs.ttf),
+	url(res:///abook/fonts/fs.ttf),
+	url(res:///system/fonts/fs.ttf),
+	url(res:///system/media/sdcard/fonts/fs.ttf),
+	url(res:///media/fonts/fs.ttf),
+	url(res:///sdcard/fonts/fs.ttf),
+	url(res:///system/fonts/DroidSansFallback.ttf),
+	url(res:///mnt/MOVIFAT/font/fs.ttf),
+	url(res:///media/flash/fonts/fs.ttf),
+	url(res:///media/sd/fonts/fs.ttf),
+	url(res:///opt/onyx/arm/lib/fonts/AdobeHeitiStd-Regular.otf),
+	url(res:///../../fonts/fs.ttf),
+	url(res:///../fonts/fs.ttf),
+	url(../../../../../fs.ttf),
+	url(res:///mnt/sdcard/fonts/fs.ttf),
+	url(res:///fonts/fs.ttf),
+	url(res:///../../../../Windows/fonts/fs.ttf);
+    /*,
+	url(res:///fonts/normal/fs),
+	url(res:///fonts/normal/FangSong);
+    */;
+}
+
+@font-face {
+    font-family: "kt";
+    src:
+	local("kt"),local("KaiTi"),local("Kaiti"),
+	local("楷体"),local("楷体_GB2312"),
+	local("Kaiti"),local("Kaiti SC"),local("Kaiti TC"),
+	local("STKaiti"),local("STKai"),local("MKai PRC"),local("MKaiGB18030C-Medium"),local("MKaiGB18030C-Bold"),local("STKai"),
+	local("DK-KAITI"),
+	url(../Fonts/kt.ttf),
+	url(res:///opt/sony/ebook/FONT/kt.ttf),
+	url(res:///Data/FONT/kt.ttf),
+	url(res:///opt/sony/ebook/FONT/tt0011m_.ttf),
+	url(res:///ebook/fonts/../../mnt/sdcard/fonts/kt.ttf),
+	url(res:///ebook/fonts/../../mnt/extsd/fonts/kt.ttf),
+	url(res:///ebook/fonts/kt.ttf),
+	url(res:///ebook/fonts/DroidSansFallback.ttf),
+	url(res:///fonts/ttf/kt.ttf),
+	url(res:///../../media/mmcblk0p1/fonts/kt.ttf),
+	url(file:///mnt/us/DK_System/system/fonts/kt.ttf),
+	url(file:///mnt/us/DK_System/xKindle/res/userfonts/kt.ttf),
+	url(res:///mnt/us/fonts/kt.ttf),
+	url(res:///abook/fonts/kt.ttf),
+	url(res:///system/fonts/kt.ttf),
+	url(res:///system/media/sdcard/fonts/kt.ttf),
+	url(res:///media/fonts/kt.ttf),
+	url(res:///sdcard/fonts/kt.ttf),
+	url(res:///system/fonts/DroidSansFallback.ttf),
+	url(res:///mnt/MOVIFAT/font/kt.ttf),
+	url(res:///media/flash/fonts/kt.ttf),
+	url(res:///media/sd/fonts/kt.ttf),
+	url(res:///opt/onyx/arm/lib/fonts/AdobeHeitiStd-Regular.otf),
+	url(res:///../../fonts/kt.ttf),
+	url(res:///../fonts/kt.ttf),
+	url(../../../../../kt.ttf),
+	url(res:///mnt/sdcard/fonts/kt.ttf),
+	url(res:///fonts/kt.ttf),
+	url(res:///../../../../Windows/fonts/kt.ttf);
+    /*,
+	url(res:///fonts/normal/kt),
+	url(res:///fonts/normal/KaiTi);
+    */;
+}
+
+@font-face {
+    font-family: "ht";
+    src:
+	local("ht"),local("HeiTi"),local("Heiti"),
+	local("微软雅黑"),local("黑体"),
+	local("Heiti"),local("Heiti SC"),local("Heiti TC"),
+	local("STHeiti"),local("STHei"),local("MYing Hei S"),local("MYing Hei T"),local("TBGothic"),
+	local("DK-HEITI"),
+	url(../Fonts/ht.ttf),
+	url(res:///opt/sony/ebook/FONT/ht.ttf),
+	url(res:///Data/FONT/ht.ttf),
+	url(res:///opt/sony/ebook/FONT/tt0011m_.ttf),
+	url(res:///ebook/fonts/../../mnt/sdcard/fonts/ht.ttf),
+	url(res:///ebook/fonts/../../mnt/extsd/fonts/ht.ttf),
+	url(res:///ebook/fonts/ht.ttf),
+	url(res:///ebook/fonts/DroidSansFallback.ttf),
+	url(res:///fonts/ttf/ht.ttf),
+	url(res:///../../media/mmcblk0p1/fonts/ht.ttf),
+	url(file:///mnt/us/DK_System/system/fonts/ht.ttf),
+	url(file:///mnt/us/DK_System/xKindle/res/userfonts/ht.ttf),
+	url(res:///mnt/us/fonts/ht.ttf),
+	url(res:///abook/fonts/ht.ttf),
+	url(res:///system/fonts/ht.ttf),
+	url(res:///system/media/sdcard/fonts/ht.ttf),
+	url(res:///media/fonts/ht.ttf),
+	url(res:///sdcard/fonts/ht.ttf),
+	url(res:///system/fonts/DroidSansFallback.ttf),
+	url(res:///mnt/MOVIFAT/font/ht.ttf),
+	url(res:///media/flash/fonts/ht.ttf),
+	url(res:///media/sd/fonts/ht.ttf),
+	url(res:///opt/onyx/arm/lib/fonts/AdobeHeitiStd-Regular.otf),
+	url(res:///../../fonts/ht.ttf),
+	url(res:///../fonts/ht.ttf),
+	url(../../../../../ht.ttf),
+	url(res:///mnt/sdcard/fonts/ht.ttf),
+	url(res:///fonts/ht.ttf),
+	url(res:///../../../../Windows/fonts/ht.ttf);
+    /*,
+	url(res:///fonts/normal/ht),
+	url(res:///fonts/normal/HeiTi);
+    */;
+}
+
+/*↑↑老牛字体样式4.0↑↑*/
+/*↑↑欢迎非商业性使用，但请注明"老牛字体样式"；商业使用请与老牛联系↑↑*/
+@namespace h "http://www.w3.org/1999/xhtml";
+.h3 {
+    /* 标题3 */
+    display: block;
+    font-family: 黑体, "ht", sans-serif;
+    font-size: 1.3em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin: 1em 0;
+    text-align: center;
+}
+
+.h4 {
+    /* 标题4 */
+    display: block;
+    font-family: 黑体, "ht", sans-serif;
+    font-size: 1.15em;
+    font-weight: none;
+    line-height: 1.2;
+    margin: 1em 1em 0.5em 1em;
+    text-align: center;
+}
+
+.h5 {
+    /* 标题5 */
+    display: block;
+    color: #ff3300;
+    font-family: "DK-XIHEITI",仿宋;
+    font-size: 1.1em;
+    font-weight: bold;
+    margin: 1em 1em 0.5em 1em;
+    text-align: center;
+}
+
+.a0 {
+    /* 正文、图片居中 */
+    margin: 0.5em 0;
+    text-indent: 0;
+    text-align: center;
+    color: #ff3300;
+    font-family: "DK-KAITI","楷体";
+}
+
+.a2 {
+    /* 右侧签名 */
+    margin: 0.1em 1em 0 0;
+    text-align: right;
+    color: #ff3300;
+    font-family: "DK-KAITI","楷体";
+    line-height: 1em;
+}
+
+.a3 {
+    /* 引文 */
+   color: #ff3300;
+    font-family: "DK-KAITI", 楷体, serif;
+    margin: 0.5em 0 0 2em;
+    font-size: 1.0em;
+    text-indent: 2em;
+}
+
+.a31 {
+    /* 引文悬挂 */
+    color: #ff3300;
+    font-family: 楷体, "DK-KAITI", serif;
+    margin: 0.5em 0 0 4em;
+    font-size: 1.0em;
+    text-indent: -2em;
+}
+
+.a4 {
+    /* 左侧顶格 */
+    margin: 0;
+    text-indent: 0;
+}
+
+.a5 {
+    /* 文内标题 */
+    font-family: "DK-FANGSONG", 仿宋, serif;
+    font-size: 1.05em;
+    color: #ff3300;
+    font-weight: bold;
+    margin: 1em 0 0.5em 0;
+    text-indent: 0;
+    text-align: center;
+}
+
+.zs1 {
+    /* 注释文本1（分段后文本） */
+    display: block;
+    font-family: 宋体, "zw", serif;
+    font-size: 0.8em;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+    text-indent: 2em;
+}
+
+.c3 {
+    /* 标红 */
+    color: #ff3300;
+    font-weight: bold;
+}
+
+.c31 {
+    /* 大红 */
+    color: #FF3300;
+}
+
+.f2 {
+    /* 仿宋 */
+    font-family: 仿宋, "fs", serif;
+}
+
+.f3 {
+    /* 黑体 */
+    font-family: "DK-XIHEITI",黑体, "ht", sans-serif;
+}
+
+.t1 {
+    /* 居左 */
+    text-align: left;
+    text-indent: 0em;
+}
+
+.t21 {
+    /* 居右空两格 */
+    text-align: right;
+    margin: 0.5em 2em 0.5em 0;
+}
+
+.t3 {
+    /* 居中 */
+    text-align: center;
+}
+
+.t61 {
+    /* 小字 */
+    font-size: 0.8em;
+}
+
+.t62 {
+    /* 大字 */
+    font-size: 1.1em;
+}
+
+.t63 {
+    /* 标题大字1 */
+    font-size: 1.2em;
+}
+
+.t65 {
+    /* 标题大字3 */
+    font-size: 1.5em;
+}
+
+.t92 {
+    /* 页面定位2 */
+    padding: 10% 0 0 0;
+}
+
+.t95 {
+    /* 页面定位5 */
+    padding: 30% 0 0 0;
+}
