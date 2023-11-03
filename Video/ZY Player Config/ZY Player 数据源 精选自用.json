@@ -1,0 +1,4705 @@
+// 删掉了无效和不需要的接口
+// 包含影视源、电视源、解析源。可一键导入ZY Player
+// 内容来自网络
+
+{
+  "analyze": [
+    {
+      "id": 3,
+      "name": "YT",
+      "url": "https://jx.yangtu.top/?url=",
+      "isActive": true
+    },
+    {
+      "name": "JY",
+      "url": "https://jx.playerjy.com/?url=",
+      "isActive": true,
+      "id": 250
+    }
+  ],
+  "iptv": [
+    {
+      "id": 5,
+      "name": "茶客",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/vamoschuck/TV/main/M3U",
+      "isActive": true,
+      "type": "remote",
+      "epg": "https://epg.112114.eu.org/"
+    },
+    {
+      "id": 10,
+      "name": "SXG-IPV6",
+      "url": "https://telegram-feiyangdigital.v1.mk/sxg.m3u",
+      "isActive": true,
+      "type": "remote",
+      "epg": ""
+    },
+    {
+      "id": 17,
+      "name": "Ray直播",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
+      "type": "remote",
+      "epg": "",
+      "isActive": true
+    },
+    {
+      "id": 20,
+      "name": "电视伴音(广播)",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/radio.m3u",
+      "type": "remote",
+      "epg": "",
+      "isActive": true
+    }
+  ],
+  "channel": [
+    {
+      "name": "CCTV1",
+      "url": "http://hms304nc1972679586.live.aikan.miguvideo.com/wh7f454c46tw3831204341_1349411946/wd_r2/cctv/cctv1hd/2500/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.149.232.3&timestamp=20230115080246&ContentId=265183188&timezone=UTC&mtv_session=01b97ad3f1d61532d8f0d40578ee3f47&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=ac6f75650a73ab06efc36233598f26b8",
+      "group": "央视",
+      "id": 332690
+    },
+    {
+      "name": "CCTV2",
+      "url": "http://hms104nc1972679566.live.aikan.miguvideo.com/wh7f454c46tw3468827325_440542616/wd_r2/cctv/cctv2hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208125733&ContentId=265667329&timezone=UTC&mtv_session=f739dcaed0e05c0e9e14fa47d0810c20&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=c4d54a337744e33e655349fe312a5eed",
+      "group": "央视",
+      "id": 332691
+    },
+    {
+      "name": "CCTV3",
+      "url": "http://hms44nc1972679560.live.aikan.miguvideo.com/wh7f454c46tw3692367231_1716696590/wd_r2/ocn/cctv3hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208130116&ContentId=265667206&timezone=UTC&mtv_session=09b9584da7231a3b6c6b2c20aa3572d6&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=f9cf165e747cb07e1e8dd89226e53387",
+      "group": "央视",
+      "id": 332692
+    },
+    {
+      "name": "CCTV4",
+      "url": "http://hms284nc1972679584.live.aikan.miguvideo.com/wh7f454c46tw3805527088_-1274597418/wd_r2/cctv/cctv4hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208130309&ContentId=265667639&timezone=UTC&mtv_session=2dd2ab7bfb6b74ffa7cc9e8d7b6e5ed2&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=d34ff8f1c5a38b07fa8b2d3d15e755a2",
+      "group": "央视",
+      "id": 332693
+    },
+    {
+      "name": "CCTV5+",
+      "url": "http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw4035956330_-1197773273/wd_r2/cctv/cctv5plusnew/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208130700&ContentId=265106763&timezone=UTC&mtv_session=b1d7170ccd660150baa2e9435d787064&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=dfe2cfbc447ddc224a226f33be3d0f39",
+      "group": "央视",
+      "id": 332694
+    },
+    {
+      "name": "CCTV5",
+      "url": "http://hms304nc1972679586.live.aikan.miguvideo.com/wh7f454c46tw3939139141_-877857276/wd_r2/cctv/cctv5hdnew/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208130523&ContentId=265667565&timezone=UTC&mtv_session=e95834282573288096f63eab8a028447&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=12a070f46793605fdbff0e1132d2d0d8",
+      "group": "央视",
+      "id": 332695
+    },
+    {
+      "name": "CCTV6",
+      "url": "http://hms424nc1972679598.live.aikan.miguvideo.com/wh7f454c46tw2025729208_-189538202/wd_r2/ocn/cctv6hd/3000/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.149.232.3&timestamp=20230115084415&ContentId=265667482&timezone=UTC&mtv_session=0ac4193cdf07336c58fe3cdb4aac34a4&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=158f70fd4d75270c1810f0c735e78e18",
+      "group": "央视",
+      "id": 332696
+    },
+    {
+      "name": "CCTV7",
+      "url": "http://hms284nc1972679584.live.aikan.miguvideo.com/wh7f454c46tw4211155753_-1040212167/migu/kailu/20200324/cctv7hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208130955&ContentId=265667268&timezone=UTC&mtv_session=f4a3cbeaf77fa614aed3843cb206bc06&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=38b55b6566aab32075f6169e2d955603",
+      "group": "央视",
+      "id": 332697
+    },
+    {
+      "name": "CCTV8",
+      "url": "http://hms84nc1972679564.live.aikan.miguvideo.com/wh7f454c46tw2243817462_1836799824/wd_r2/ocn/cctv8hd/3000/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.149.232.3&timestamp=20230115084753&ContentId=265667466&timezone=UTC&mtv_session=077374df50cdebf0ab55b2ec30d2f01a&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8b9b358180e9e344fe45e67912ce6985",
+      "group": "央视",
+      "id": 332698
+    },
+    {
+      "name": "CCTV9",
+      "url": "http://hms444nc1972679601.live.aikan.miguvideo.com/wh7f454c46tw4260577431_-1084507862/migu/kailu/20200324/cctv9hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208131044&ContentId=265667202&timezone=UTC&mtv_session=9444a4df4cb7524a1ec85c4d44200abc&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=efdbccd2a72ff1ba2eabbf08f475f7c6",
+      "group": "央视",
+      "id": 332699
+    },
+    {
+      "name": "CCTV10",
+      "url": "http://hms424nc1972679599.live.aikan.miguvideo.com/wh7f454c46tw2383135402_1265174830/wd_r2/ocn/cctv10hd/3000/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.149.232.3&timestamp=20230115085013&ContentId=265667631&timezone=UTC&mtv_session=451a79654bec6f8926b5017302146772&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=e74690616e29be77ff1a1992b303b861",
+      "group": "央视",
+      "id": 332700
+    },
+    {
+      "name": "CCTV11",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=cctv11HD",
+      "group": "央视",
+      "id": 332701
+    },
+    {
+      "name": "CCTV11",
+      "url": "http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3u8?",
+      "group": "央视",
+      "id": 332702
+    },
+    {
+      "name": "CCTV12",
+      "url": "http://hms204nc1972679577.live.aikan.miguvideo.com/wh7f454c46tw1174495643_-1245391177/migu/kailu/20200324/cctv12hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=59.49.185.88&timestamp=20230311020243&ContentId=265667607&timezone=UTC&mtv_session=7581c6271c0379b8ca8b268ff7804765&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=3906a8574a42ff13aba3e255be4cd8e3",
+      "group": "央视",
+      "id": 332703
+    },
+    {
+      "name": "CCTV13",
+      "url": "http://hms184nc1972679575.live.aikan.miguvideo.com/wh7f454c46tw946205927_-649996709/envivo_x/2018/SD/cctv13/2000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208132705&ContentId=265667474&timezone=UTC&mtv_session=36bf599c0c4bc785fd46aaf0ba40ffe7&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=91a8a1c4652526079a5b0e294d5bc18d",
+      "group": "央视",
+      "id": 332704
+    },
+    {
+      "name": "CCTV14",
+      "url": "http://hms344nc1972679590.live.aikan.miguvideo.com/wh7f454c46tw1297666621_-728046298/wd_r2/ocn/cctv14hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=59.49.185.88&timestamp=20230311020446&ContentId=265667325&timezone=UTC&mtv_session=ad6cfd6b6dabe31801ca54a4c87f1bac&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=2757ab80a8dee98edfcfd1ee767a17b8",
+      "group": "央视",
+      "id": 332705
+    },
+    {
+      "name": "CCTV15",
+      "url": "http://hms504nc1972679606.live.aikan.miguvideo.com/wh7f454c46tw1387986390_1468621622/migu/kailu/20200324/cctv15hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=59.49.185.88&timestamp=20230311020617&ContentId=265667535&timezone=UTC&mtv_session=e1254803553b7cace3a119612bf266d8&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=7ba98a3a39d853487109bebe5ed31c43",
+      "group": "央视",
+      "id": 332706
+    },
+    {
+      "name": "CCTV16",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=cctv16HD",
+      "group": "央视",
+      "id": 332707
+    },
+    {
+      "name": "CCTV16",
+      "url": "http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8?$8M1080",
+      "group": "央视",
+      "id": 332708
+    },
+    {
+      "name": "CCTV16",
+      "url": "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?",
+      "group": "央视",
+      "id": 332709
+    },
+    {
+      "name": "CCTV17",
+      "url": "http://hms224nc1972679578.live.aikan.miguvideo.com/wh7f454c46tw1594433061_461954091/migu/kailu/20200324/cctv17hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208133753&ContentId=265667526&timezone=UTC&mtv_session=2ab00b83c917e8ba1b1bb082711b8b77&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=4c04c5308e4761e3cc4b36134b05b864",
+      "group": "央视",
+      "id": 332710
+    },
+    {
+      "name": "CCTV1",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=cctv1HD",
+      "group": "央视",
+      "id": 332711
+    },
+    {
+      "name": "CCTV2",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=cctv2HD",
+      "group": "央视",
+      "id": 332712
+    },
+    {
+      "name": "CCTV3",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=cctv3HD",
+      "group": "央视",
+      "id": 332713
+    },
+    {
+      "name": "CCTV4",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=cctv4HD",
+      "group": "央视",
+      "id": 332714
+    },
+    {
+      "name": "CCTV5",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=cctv5HD",
+      "group": "央视",
+      "id": 332715
+    },
+    {
+      "name": "CCTV6",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=cctv6HD",
+      "group": "央视",
+      "id": 332716
+    },
+    {
+      "name": "CCTV7",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=cctv7HD",
+      "group": "央视",
+      "id": 332717
+    },
+    {
+      "name": "CCTV8",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=cctv8HD",
+      "group": "央视",
+      "id": 332718
+    },
+    {
+      "name": "CCTV9",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=cctv9HD",
+      "group": "央视",
+      "id": 332719
+    },
+    {
+      "name": "CCTV10",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=cctv10HD",
+      "group": "央视",
+      "id": 332720
+    },
+    {
+      "name": "CCTV11",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=cctv11HD",
+      "group": "央视",
+      "id": 332721
+    },
+    {
+      "name": "CCTV12",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=cctv12HD",
+      "group": "央视",
+      "id": 332722
+    },
+    {
+      "name": "CCTV13",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=cctv13HD",
+      "group": "央视",
+      "id": 332723
+    },
+    {
+      "name": "CCTV14",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=cctv14HD",
+      "group": "央视",
+      "id": 332724
+    },
+    {
+      "name": "CCTV15",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=cctv15HD",
+      "group": "央视",
+      "id": 332725
+    },
+    {
+      "name": "CCTV16",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=cctv16HD",
+      "group": "央视",
+      "id": 332726
+    },
+    {
+      "name": "CCTV17",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=cctv17HD",
+      "group": "央视",
+      "id": 332727
+    },
+    {
+      "name": "CCTV5+",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=cctv5SportHD",
+      "group": "央视",
+      "id": 332728
+    },
+    {
+      "name": "CCTV4K",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=CCTV4K",
+      "group": "央视",
+      "id": 332729
+    },
+    {
+      "name": "CCTV16 4K",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K",
+      "group": "央视",
+      "id": 332730
+    },
+    {
+      "name": "CCTV1",
+      "url": "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8",
+      "group": "央视",
+      "id": 332731
+    },
+    {
+      "name": "CCTV2",
+      "url": "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8",
+      "group": "央视",
+      "id": 332732
+    },
+    {
+      "name": "CCTV2",
+      "url": "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8",
+      "group": "央视",
+      "id": 332733
+    },
+    {
+      "name": "CCTV4",
+      "url": "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8",
+      "group": "央视",
+      "id": 332734
+    },
+    {
+      "name": "CCTV5",
+      "url": "http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8",
+      "group": "央视",
+      "id": 332735
+    },
+    {
+      "name": "CCTV5+",
+      "url": "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8",
+      "group": "央视",
+      "id": 332736
+    },
+    {
+      "name": "CCTV8",
+      "url": "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8",
+      "group": "央视",
+      "id": 332737
+    },
+    {
+      "name": "CCTV9",
+      "url": "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8",
+      "group": "央视",
+      "id": 332738
+    },
+    {
+      "name": "CCTV10",
+      "url": "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8",
+      "group": "央视",
+      "id": 332739
+    },
+    {
+      "name": "CCTV13",
+      "url": "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8",
+      "group": "央视",
+      "id": 332740
+    },
+    {
+      "name": "CCTV14",
+      "url": "http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8",
+      "group": "央视",
+      "id": 332741
+    },
+    {
+      "name": "CCTV15",
+      "url": "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8",
+      "group": "央视",
+      "id": 332742
+    },
+    {
+      "name": "CCTV4",
+      "url": "http://jycb.f3322.net:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视",
+      "id": 332743
+    },
+    {
+      "name": "CCTV5+",
+      "url": "http://jycb.f3322.net:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视",
+      "id": 332744
+    },
+    {
+      "name": "浙江卫视",
+      "url": "http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8",
+      "group": "地方",
+      "id": 332745
+    },
+    {
+      "name": "湖南卫视",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=hunanHD",
+      "group": "地方",
+      "id": 332746
+    },
+    {
+      "name": "重庆卫视",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=chongqingHD",
+      "group": "地方",
+      "id": 332747
+    },
+    {
+      "name": "江苏卫视",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=jiangsuHD",
+      "group": "地方",
+      "id": 332748
+    },
+    {
+      "name": "北京卫视",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=beijingHD",
+      "group": "地方",
+      "id": 332749
+    },
+    {
+      "name": "浙江卫视",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=zhejiangHD",
+      "group": "地方",
+      "id": 332750
+    },
+    {
+      "name": "东方卫视",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=shanghaiHD",
+      "group": "地方",
+      "id": 332751
+    },
+    {
+      "name": "深圳卫视",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=shenzhenHD",
+      "group": "地方",
+      "id": 332752
+    },
+    {
+      "name": "辽宁卫视",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=liaoningHD",
+      "group": "地方",
+      "id": 332753
+    },
+    {
+      "name": "天津卫视",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=tianjinHD",
+      "group": "地方",
+      "id": 332754
+    },
+    {
+      "name": "贵州卫视",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=guizhouHD",
+      "group": "地方",
+      "id": 332755
+    },
+    {
+      "name": "四川卫视",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=sichuanHD",
+      "group": "地方",
+      "id": 332756
+    },
+    {
+      "name": "东南卫视",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=dongnanHD",
+      "group": "地方",
+      "id": 332757
+    },
+    {
+      "name": "黑龙江卫视",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=heilongjiangHD",
+      "group": "地方",
+      "id": 332758
+    },
+    {
+      "name": "江西卫视",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=jiangxiHD",
+      "group": "地方",
+      "id": 332759
+    },
+    {
+      "name": "吉林卫视",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=jilinHD",
+      "group": "地方",
+      "id": 332760
+    },
+    {
+      "name": "广西卫视",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=guangxiHD",
+      "group": "地方",
+      "id": 332761
+    },
+    {
+      "name": "广东卫视",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=guangdongHD",
+      "group": "地方",
+      "id": 332762
+    },
+    {
+      "name": "东南卫视",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=henanHD",
+      "group": "地方",
+      "id": 332763
+    },
+    {
+      "name": "第一剧场",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=diyijuchangHD",
+      "group": "地方",
+      "id": 332764
+    },
+    {
+      "name": "都市剧场",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=dsjcHD",
+      "group": "地方",
+      "id": 332765
+    },
+    {
+      "name": "动漫秀场",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=dmxcHD",
+      "group": "地方",
+      "id": 332766
+    },
+    {
+      "name": "魅力足球",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=mlzqHD",
+      "group": "地方",
+      "id": 332767
+    },
+    {
+      "name": "风云剧场",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=fyjcHD",
+      "group": "地方",
+      "id": 332768
+    },
+    {
+      "name": "求索纪录",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=qsjlHD",
+      "group": "地方",
+      "id": 332769
+    },
+    {
+      "name": "兵器科技",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=bqkjHD",
+      "group": "地方",
+      "id": 332770
+    },
+    {
+      "name": "游戏风云",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=yxfyHD",
+      "group": "地方",
+      "id": 332771
+    },
+    {
+      "name": "怀旧剧场",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=hjjcHD",
+      "group": "地方",
+      "id": 332772
+    },
+    {
+      "name": "风云音乐",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=fyyyHD",
+      "group": "地方",
+      "id": 332773
+    },
+    {
+      "name": "央视台球",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=ystqHD",
+      "group": "地方",
+      "id": 332774
+    },
+    {
+      "name": "风云足球",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=fyzqHD",
+      "group": "地方",
+      "id": 332775
+    },
+    {
+      "name": "文化精品",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=yswhHD",
+      "group": "地方",
+      "id": 332776
+    },
+    {
+      "name": "高尔夫网球",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=golfHD",
+      "group": "地方",
+      "id": 332777
+    },
+    {
+      "name": "早期教育",
+      "url": "https://live.goodiptv.club/api/cqyx.php?id=zaojiaoHD",
+      "group": "地方",
+      "id": 332778
+    },
+    {
+      "name": "江苏卫视",
+      "url": "http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8",
+      "group": "地方",
+      "id": 332779
+    },
+    {
+      "name": "深圳卫视",
+      "url": "http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8",
+      "group": "地方",
+      "id": 332780
+    },
+    {
+      "name": "北京卫视",
+      "url": "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8",
+      "group": "地方",
+      "id": 332781
+    },
+    {
+      "name": "黑龙江卫视",
+      "url": "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8",
+      "group": "地方",
+      "id": 332782
+    },
+    {
+      "name": "河北卫视",
+      "url": "http://event.pull.hebtv.com/jishi/weishipindao.m3u8",
+      "group": "地方",
+      "id": 332783
+    },
+    {
+      "name": "云南卫视",
+      "url": "http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8",
+      "group": "地方",
+      "id": 332784
+    },
+    {
+      "name": "青海卫视",
+      "url": "http://stream.qhbtv.com/qhws/sd/live.m3u8",
+      "group": "地方",
+      "id": 332785
+    },
+    {
+      "name": "三沙卫视",
+      "url": "https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8",
+      "group": "地方",
+      "id": 332786
+    },
+    {
+      "name": "延边卫视",
+      "url": "http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8",
+      "group": "地方",
+      "id": 332787
+    },
+    {
+      "name": "浙江少儿",
+      "url": "http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8",
+      "group": "地方",
+      "id": 332788
+    },
+    {
+      "name": "浙江少儿",
+      "url": "http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787",
+      "group": "地方",
+      "id": 332789
+    },
+    {
+      "name": "南京少儿",
+      "url": "http://live.nbs.cn/channels/njtv/sepd/500k.m3u8",
+      "group": "地方",
+      "id": 332790
+    },
+    {
+      "name": "南京少儿",
+      "url": "http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8",
+      "group": "地方",
+      "id": 332791
+    },
+    {
+      "name": "翡翠台",
+      "url": "http://113.117.74.20:8081/hls/25/index.m3u8",
+      "group": "香港",
+      "id": 332792
+    },
+    {
+      "name": "翡翠台",
+      "url": "http://r.jdshipin.com/qClQf",
+      "group": "香港",
+      "id": 332793
+    },
+    {
+      "name": "翡翠台",
+      "url": "http://r.jdshipin.com/n90gt",
+      "group": "香港",
+      "id": 332794
+    },
+    {
+      "name": "翡翠台",
+      "url": "http://r.jdshipin.com/qrfbg",
+      "group": "香港",
+      "id": 332795
+    },
+    {
+      "name": "明珠台",
+      "url": "http://r.jdshipin.com/ZQ4kN",
+      "group": "香港",
+      "id": 332796
+    },
+    {
+      "name": "凤凰资讯",
+      "url": "http://php.17186.eu.org/phtv/fhzx.m3u8",
+      "group": "香港",
+      "id": 332797
+    },
+    {
+      "name": "凤凰中文",
+      "url": "http://php.17186.eu.org/phtv/fhzw.m3u8",
+      "group": "香港",
+      "id": 332798
+    },
+    {
+      "name": "凤凰香港",
+      "url": "http://php.17186.eu.org/phtv/fhxg.m3u8",
+      "group": "香港",
+      "id": 332799
+    },
+    {
+      "name": "凤凰中文",
+      "url": "http://r.jdshipin.com/cCCzW",
+      "group": "香港",
+      "id": 332800
+    },
+    {
+      "name": "凤凰资讯",
+      "url": "http://r.jdshipin.com/0Rp07",
+      "group": "香港",
+      "id": 332801
+    },
+    {
+      "name": "凤凰资讯",
+      "url": "http://kkwk1122.top/fh.php?id=fhzx",
+      "group": "香港",
+      "id": 332802
+    },
+    {
+      "name": "凤凰中文",
+      "url": "http://kkwk1122.top/fh.php?id=fhzw",
+      "group": "香港",
+      "id": 332803
+    },
+    {
+      "name": "香港卫视",
+      "url": "http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8",
+      "group": "香港",
+      "id": 332804
+    },
+    {
+      "name": "香港J2频道",
+      "url": "http://r.jdshipin.com/Nr5jq",
+      "group": "香港",
+      "id": 332805
+    },
+    {
+      "name": "RTHK32",
+      "url": "https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8",
+      "group": "香港",
+      "id": 332806
+    },
+    {
+      "name": "澳门莲花",
+      "url": "https://cntv.sbs/tv/lhws.php",
+      "group": "香港",
+      "id": 332807
+    },
+    {
+      "name": "澳门莲花",
+      "url": "https://p.ggiptv.com/v/macaulotustv.php",
+      "group": "香港",
+      "id": 332808
+    },
+    {
+      "name": "澳门莲花",
+      "url": "http://anren.live/HK/BiIOU11uLA.m3u8",
+      "group": "香港",
+      "id": 332809
+    },
+    {
+      "name": "澳门莲花",
+      "url": "http://nettvpro.live/hls/lotustv.php?zgangd",
+      "group": "香港",
+      "id": 332810
+    },
+    {
+      "name": "义乌新闻综合",
+      "url": "https://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_1796.m3u8?auth_key=4830573978-0-0-92824c2c03f95906a3c49a4aa28f1709&extra_key=Yc1XsmxOKy2UBoPM4Wy5vCPsEYqnj06taCR2SRB2Xrg2w28NPilH03KdIbbM5wgSql-VBohSnoO9AOKl94q2t2DWMftz-XB-2qUX-UjXcS80StcSZahBFjrKLivXaRjiY5r2NOMKWMKFbv-S0Bz2G6iEXgCK8yGjtrFHDcPfAQEE0pvXq0Bwy34b7We8zARN&ali_ffmpeg_version=mpengine",
+      "group": "浙江",
+      "id": 332811
+    },
+    {
+      "name": "浙江钱江都市",
+      "url": "http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8",
+      "group": "浙江",
+      "id": 332812
+    },
+    {
+      "name": "浙江经济生活",
+      "url": "http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8",
+      "group": "浙江",
+      "id": 332813
+    },
+    {
+      "name": "浙江教科影院",
+      "url": "http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8",
+      "group": "浙江",
+      "id": 332814
+    },
+    {
+      "name": "浙江影视娱乐",
+      "url": "http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8",
+      "group": "浙江",
+      "id": 332815
+    },
+    {
+      "name": "浙江民生休闲",
+      "url": "http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8",
+      "group": "浙江",
+      "id": 332816
+    },
+    {
+      "name": "浙江新闻",
+      "url": "http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8",
+      "group": "浙江",
+      "id": 332817
+    },
+    {
+      "name": "浙江少儿",
+      "url": "http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8",
+      "group": "浙江",
+      "id": 332818
+    },
+    {
+      "name": "浙江国际",
+      "url": "http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8",
+      "group": "浙江",
+      "id": 332819
+    },
+    {
+      "name": "之江纪录",
+      "url": "http://hw-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8",
+      "group": "浙江",
+      "id": 332820
+    },
+    {
+      "name": "浙江钱江都市",
+      "url": "http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed",
+      "group": "浙江",
+      "id": 332821
+    },
+    {
+      "name": "浙江经济生活",
+      "url": "http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?zzhed",
+      "group": "浙江",
+      "id": 332822
+    },
+    {
+      "name": "浙江教科影院",
+      "url": "http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?zzhed",
+      "group": "浙江",
+      "id": 332823
+    },
+    {
+      "name": "浙江影视娱乐",
+      "url": "http://hw-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8?zzhed",
+      "group": "浙江",
+      "id": 332824
+    },
+    {
+      "name": "浙江民生休闲",
+      "url": "http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?zzhed",
+      "group": "浙江",
+      "id": 332825
+    },
+    {
+      "name": "浙江新闻",
+      "url": "http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?zzhed",
+      "group": "浙江",
+      "id": 332826
+    },
+    {
+      "name": "浙江国际",
+      "url": "http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?zzhed",
+      "group": "浙江",
+      "id": 332827
+    },
+    {
+      "name": "之江纪录",
+      "url": "http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8?zzhed",
+      "group": "浙江",
+      "id": 332828
+    },
+    {
+      "name": "HTV-2明珠",
+      "url": "http://183.129.242.178:3333/tsfile/live/1016_1.m3u8",
+      "group": "浙江",
+      "id": 332829
+    },
+    {
+      "name": "HTV-3生活",
+      "url": "http://183.129.242.178:3333/tsfile/live/1017_1.m3u8",
+      "group": "浙江",
+      "id": 332830
+    },
+    {
+      "name": "HTV-4影视",
+      "url": "http://183.129.242.178:3333/tsfile/live/1018_1.m3u8",
+      "group": "浙江",
+      "id": 332831
+    },
+    {
+      "name": "HTV-5青少.体育",
+      "url": "http://183.129.242.178:3333/tsfile/live/1019_1.m3u8",
+      "group": "浙江",
+      "id": 332832
+    },
+    {
+      "name": "绍兴新闻综合",
+      "url": "http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8?zzhed",
+      "group": "浙江",
+      "id": 332833
+    },
+    {
+      "name": "绍兴新闻综合",
+      "url": "http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8?zzhed",
+      "group": "浙江",
+      "id": 332834
+    },
+    {
+      "name": "绍兴文化影院",
+      "url": "http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed",
+      "group": "浙江",
+      "id": 332835
+    },
+    {
+      "name": "武义新闻综合",
+      "url": "http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8?zzhed",
+      "group": "浙江",
+      "id": 332836
+    },
+    {
+      "name": "平湖新闻综合",
+      "url": "http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed",
+      "group": "浙江",
+      "id": 332837
+    },
+    {
+      "name": "平湖民生休闲",
+      "url": "http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed",
+      "group": "浙江",
+      "id": 332838
+    },
+    {
+      "name": "萧山新闻综合",
+      "url": "http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed",
+      "group": "浙江",
+      "id": 332839
+    },
+    {
+      "name": "萧山生活频道",
+      "url": "http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed",
+      "group": "浙江",
+      "id": 332840
+    },
+    {
+      "name": "淳安电视台",
+      "url": "https://wtmtyoutlive.watonemt.com/f2p7vq/lf76v9.m3u8?zzhed",
+      "group": "浙江",
+      "id": 332841
+    },
+    {
+      "name": "淳安电视台",
+      "url": "https://wtmtylive.yunshicloud.com/tbziu1/ad592j.m3u8?zzhed",
+      "group": "浙江",
+      "id": 332842
+    },
+    {
+      "name": "余杭综合频道",
+      "url": "http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed",
+      "group": "浙江",
+      "id": 332843
+    },
+    {
+      "name": "余杭未来E频道",
+      "url": "http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed",
+      "group": "浙江",
+      "id": 332844
+    },
+    {
+      "name": "余姚新闻综合",
+      "url": "http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed",
+      "group": "浙江",
+      "id": 332845
+    },
+    {
+      "name": "余姚姚江文化",
+      "url": "http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8?zzhed",
+      "group": "浙江",
+      "id": 332846
+    },
+    {
+      "name": "嵊州新闻综合",
+      "url": "http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed",
+      "group": "浙江",
+      "id": 332847
+    },
+    {
+      "name": "嵊州新闻综合",
+      "url": "https://hlsv2.quklive.com/live/1626935015913208/index.m3u8?zzhed",
+      "group": "浙江",
+      "id": 332848
+    },
+    {
+      "name": "诸暨新闻综合",
+      "url": "http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed",
+      "group": "浙江",
+      "id": 332849
+    },
+    {
+      "name": "上虞新闻综合",
+      "url": "http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed",
+      "group": "浙江",
+      "id": 332850
+    },
+    {
+      "name": "上虞文化影院",
+      "url": "http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed",
+      "group": "浙江",
+      "id": 332851
+    },
+    {
+      "name": "上虞新商都",
+      "url": "http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed",
+      "group": "浙江",
+      "id": 332852
+    },
+    {
+      "name": "海宁新闻综合",
+      "url": "http://live.hndachao.cn/xwzh/sd/live.m3u8?zzhed",
+      "group": "浙江",
+      "id": 332853
+    },
+    {
+      "name": "海宁生活服务",
+      "url": "http://live.hndachao.cn/shfw/sd/live.m3u8?zzhed",
+      "group": "浙江",
+      "id": 332854
+    },
+    {
+      "name": "兰溪新闻综合",
+      "url": "http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed",
+      "group": "浙江",
+      "id": 332855
+    },
+    {
+      "name": "CCTV1",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8",
+      "group": "移动专区",
+      "id": 332856
+    },
+    {
+      "name": "CCTV2",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8",
+      "group": "移动专区",
+      "id": 332857
+    },
+    {
+      "name": "CCTV3",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8",
+      "group": "移动专区",
+      "id": 332858
+    },
+    {
+      "name": "CCTV4",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8",
+      "group": "移动专区",
+      "id": 332859
+    },
+    {
+      "name": "CCTV5",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8",
+      "group": "移动专区",
+      "id": 332860
+    },
+    {
+      "name": "CCTV5+",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8",
+      "group": "移动专区",
+      "id": 332861
+    },
+    {
+      "name": "CCTV6",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8",
+      "group": "移动专区",
+      "id": 332862
+    },
+    {
+      "name": "CCTV7",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8",
+      "group": "移动专区",
+      "id": 332863
+    },
+    {
+      "name": "CCTV8",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",
+      "group": "移动专区",
+      "id": 332864
+    },
+    {
+      "name": "CCTV9",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8",
+      "group": "移动专区",
+      "id": 332865
+    },
+    {
+      "name": "CCTV10",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8",
+      "group": "移动专区",
+      "id": 332866
+    },
+    {
+      "name": "CCTV11",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8",
+      "group": "移动专区",
+      "id": 332867
+    },
+    {
+      "name": "CCTV12",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8",
+      "group": "移动专区",
+      "id": 332868
+    },
+    {
+      "name": "CCTV13",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8",
+      "group": "移动专区",
+      "id": 332869
+    },
+    {
+      "name": "CCTV14",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8",
+      "group": "移动专区",
+      "id": 332870
+    },
+    {
+      "name": "CCTV15",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8",
+      "group": "移动专区",
+      "id": 332871
+    },
+    {
+      "name": "CCTV16",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8",
+      "group": "移动专区",
+      "id": 332872
+    },
+    {
+      "name": "CCTV17",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8",
+      "group": "移动专区",
+      "id": 332873
+    },
+    {
+      "name": "CETV1",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8",
+      "group": "移动专区",
+      "id": 332874
+    },
+    {
+      "name": "CETV2",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8",
+      "group": "移动专区",
+      "id": 332875
+    },
+    {
+      "name": "CETV3",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8",
+      "group": "移动专区",
+      "id": 332876
+    },
+    {
+      "name": "CETV4",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8",
+      "group": "移动专区",
+      "id": 332877
+    },
+    {
+      "name": "不是人卫视",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8",
+      "group": "移动专区",
+      "id": 332878
+    },
+    {
+      "name": "四川卫视",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225768/index.m3u8",
+      "group": "移动专区",
+      "id": 332879
+    },
+    {
+      "name": "重庆卫视",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8",
+      "group": "移动专区",
+      "id": 332880
+    },
+    {
+      "name": "安徽卫视",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226203/index.m3u8",
+      "group": "移动专区",
+      "id": 332881
+    },
+    {
+      "name": "天津卫视",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8",
+      "group": "移动专区",
+      "id": 332882
+    },
+    {
+      "name": "山西卫视",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225763/index.m3u8",
+      "group": "移动专区",
+      "id": 332883
+    },
+    {
+      "name": "山东卫视",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8",
+      "group": "移动专区",
+      "id": 332884
+    },
+    {
+      "name": "山东教育",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226238/index.m3u8",
+      "group": "移动专区",
+      "id": 332885
+    },
+    {
+      "name": "东南卫视",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225766/index.m3u8",
+      "group": "移动专区",
+      "id": 332886
+    },
+    {
+      "name": "海南卫视",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8",
+      "group": "移动专区",
+      "id": 332887
+    },
+    {
+      "name": "厦门卫视",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8",
+      "group": "移动专区",
+      "id": 332888
+    },
+    {
+      "name": "河南卫视",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225767/index.m3u8",
+      "group": "移动专区",
+      "id": 332889
+    },
+    {
+      "name": "湖北卫视",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8",
+      "group": "移动专区",
+      "id": 332890
+    },
+    {
+      "name": "河北卫视",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225750/index.m3u8",
+      "group": "移动专区",
+      "id": 332891
+    },
+    {
+      "name": "湖南卫视",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8",
+      "group": "移动专区",
+      "id": 332892
+    },
+    {
+      "name": "金鹰卡通",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8",
+      "group": "移动专区",
+      "id": 332893
+    },
+    {
+      "name": "东方卫视",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8",
+      "group": "移动专区",
+      "id": 332894
+    },
+    {
+      "name": "哈哈炫动",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8",
+      "group": "移动专区",
+      "id": 332895
+    },
+    {
+      "name": "辽宁卫视",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226201/index.m3u8",
+      "group": "移动专区",
+      "id": 332896
+    },
+    {
+      "name": "黑龙江卫视",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8",
+      "group": "移动专区",
+      "id": 332897
+    },
+    {
+      "name": "吉林卫视",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225792/index.m3u8",
+      "group": "移动专区",
+      "id": 332898
+    },
+    {
+      "name": "广西卫视",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225770/index.m3u8",
+      "group": "移动专区",
+      "id": 332899
+    },
+    {
+      "name": "江西卫视",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225764/index.m3u8",
+      "group": "移动专区",
+      "id": 332900
+    },
+    {
+      "name": "江苏卫视",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8",
+      "group": "移动专区",
+      "id": 332901
+    },
+    {
+      "name": "优漫卡通",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8",
+      "group": "移动专区",
+      "id": 332902
+    },
+    {
+      "name": "深圳卫视",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8",
+      "group": "移动专区",
+      "id": 332903
+    },
+    {
+      "name": "广东卫视",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8",
+      "group": "移动专区",
+      "id": 332904
+    },
+    {
+      "name": "大湾区卫视",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8",
+      "group": "移动专区",
+      "id": 332905
+    },
+    {
+      "name": "北京卫视",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8",
+      "group": "移动专区",
+      "id": 332906
+    },
+    {
+      "name": "北京卡酷",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8",
+      "group": "移动专区",
+      "id": 332907
+    },
+    {
+      "name": "冬奥纪实",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8",
+      "group": "移动专区",
+      "id": 332908
+    },
+    {
+      "name": "嘉佳卡通",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8",
+      "group": "移动专区",
+      "id": 332909
+    },
+    {
+      "name": "云南卫视",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225751/index.m3u8",
+      "group": "移动专区",
+      "id": 332910
+    },
+    {
+      "name": "贵州卫视",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225793/index.m3u8",
+      "group": "移动专区",
+      "id": 332911
+    },
+    {
+      "name": "宁夏卫视",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225748/index.m3u8",
+      "group": "移动专区",
+      "id": 332912
+    },
+    {
+      "name": "甘肃卫视",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225754/index.m3u8",
+      "group": "移动专区",
+      "id": 332913
+    },
+    {
+      "name": "西藏卫视",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8",
+      "group": "移动专区",
+      "id": 332914
+    },
+    {
+      "name": "安多卫视",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226228/index.m3u8",
+      "group": "移动专区",
+      "id": 332915
+    },
+    {
+      "name": "康巴卫视",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226234/index.m3u8",
+      "group": "移动专区",
+      "id": 332916
+    },
+    {
+      "name": "新疆卫视",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225747/index.m3u8",
+      "group": "移动专区",
+      "id": 332917
+    },
+    {
+      "name": "兵团卫视",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8",
+      "group": "移动专区",
+      "id": 332918
+    },
+    {
+      "name": "延边卫视",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226220/index.m3u8",
+      "group": "移动专区",
+      "id": 332919
+    },
+    {
+      "name": "内蒙古卫视",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225786/index.m3u8",
+      "group": "移动专区",
+      "id": 332920
+    },
+    {
+      "name": "康巴卫视",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226234/index.m3u8",
+      "group": "移动专区",
+      "id": 332921
+    },
+    {
+      "name": "电视指南",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8",
+      "group": "移动专区",
+      "id": 332922
+    },
+    {
+      "name": "风云足球",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8",
+      "group": "移动专区",
+      "id": 332923
+    },
+    {
+      "name": "风云剧场",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8",
+      "group": "移动专区",
+      "id": 332924
+    },
+    {
+      "name": "风云音乐",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8",
+      "group": "移动专区",
+      "id": 332925
+    },
+    {
+      "name": "央视台球",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8",
+      "group": "移动专区",
+      "id": 332926
+    },
+    {
+      "name": "第一剧场",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8",
+      "group": "移动专区",
+      "id": 332927
+    },
+    {
+      "name": "女性时尚",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8",
+      "group": "移动专区",
+      "id": 332928
+    },
+    {
+      "name": "怀旧剧场",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8",
+      "group": "移动专区",
+      "id": 332929
+    },
+    {
+      "name": "兵器科技",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8",
+      "group": "移动专区",
+      "id": 332930
+    },
+    {
+      "name": "高尔夫网球",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8",
+      "group": "移动专区",
+      "id": 332931
+    },
+    {
+      "name": "央视文化精品",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8",
+      "group": "移动专区",
+      "id": 332932
+    },
+    {
+      "name": "哒啵电竞",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226951/index.m3u8",
+      "group": "移动专区",
+      "id": 332933
+    },
+    {
+      "name": "哒啵赛事",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226954/index.m3u8",
+      "group": "移动专区",
+      "id": 332934
+    },
+    {
+      "name": "CHC高清电影",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8",
+      "group": "移动专区",
+      "id": 332935
+    },
+    {
+      "name": "CHC家庭影院",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8",
+      "group": "移动专区",
+      "id": 332936
+    },
+    {
+      "name": "CHC动作电影",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8",
+      "group": "移动专区",
+      "id": 332937
+    },
+    {
+      "name": "陕西卫视",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225821/index.m3u8",
+      "group": "移动专区",
+      "id": 332938
+    },
+    {
+      "name": "农林卫视",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8",
+      "group": "移动专区",
+      "id": 332939
+    },
+    {
+      "name": "陕西一套",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8",
+      "group": "移动专区",
+      "id": 332940
+    },
+    {
+      "name": "陕西二套",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/1.m3u8",
+      "group": "移动专区",
+      "id": 332941
+    },
+    {
+      "name": "陕西三套",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226359/1.m3u8",
+      "group": "移动专区",
+      "id": 332942
+    },
+    {
+      "name": "陕西四套",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226360/1.m3u8",
+      "group": "移动专区",
+      "id": 332943
+    },
+    {
+      "name": "陕西五套",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226361/1.m3u8",
+      "group": "移动专区",
+      "id": 332944
+    },
+    {
+      "name": "陕西六套",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226362/1.m3u8",
+      "group": "移动专区",
+      "id": 332945
+    },
+    {
+      "name": "陕西七套",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226363/1.m3u8",
+      "group": "移动专区",
+      "id": 332946
+    },
+    {
+      "name": "陕西八套",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226364/1.m3u8",
+      "group": "移动专区",
+      "id": 332947
+    },
+    {
+      "name": "西安新闻综合",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226366/1.m3u8",
+      "group": "移动专区",
+      "id": 332948
+    },
+    {
+      "name": "西安都市",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226367/1.m3u8",
+      "group": "移动专区",
+      "id": 332949
+    },
+    {
+      "name": "西安商务资讯",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226368/1.m3u8",
+      "group": "移动专区",
+      "id": 332950
+    },
+    {
+      "name": "西安影视",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226369/1.m3u8",
+      "group": "移动专区",
+      "id": 332951
+    },
+    {
+      "name": "西安丝路",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226370/1.m3u8",
+      "group": "移动专区",
+      "id": 332952
+    },
+    {
+      "name": "西安教育",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226371/index.m3u8",
+      "group": "移动专区",
+      "id": 332953
+    },
+    {
+      "name": "咸阳-1",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226372/index.m3u8",
+      "group": "移动专区",
+      "id": 332954
+    },
+    {
+      "name": "杨凌-1",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226373/index.m3u8",
+      "group": "移动专区",
+      "id": 332955
+    },
+    {
+      "name": "延安-1",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226374/1.m3u8",
+      "group": "移动专区",
+      "id": 332956
+    },
+    {
+      "name": "延安-2",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226375/1.m3u8",
+      "group": "移动专区",
+      "id": 332957
+    },
+    {
+      "name": "铜川-1",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226379/1.m3u8",
+      "group": "移动专区",
+      "id": 332958
+    },
+    {
+      "name": "铜川-2",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226380/1.m3u8",
+      "group": "移动专区",
+      "id": 332959
+    },
+    {
+      "name": "宝鸡-1",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226383/1.m3u8",
+      "group": "移动专区",
+      "id": 332960
+    },
+    {
+      "name": "宝鸡-2",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226384/1.m3u8",
+      "group": "移动专区",
+      "id": 332961
+    },
+    {
+      "name": "宁强-1",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226390/1.m3u8",
+      "group": "移动专区",
+      "id": 332962
+    },
+    {
+      "name": "宁强-2",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226389/1.m3u8",
+      "group": "移动专区",
+      "id": 332963
+    },
+    {
+      "name": "汉中-1",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226331/1.m3u8",
+      "group": "移动专区",
+      "id": 332964
+    },
+    {
+      "name": "汉中-3",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225991/index.m3u8",
+      "group": "移动专区",
+      "id": 332965
+    },
+    {
+      "name": "佛坪-1",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226454/1.m3u8",
+      "group": "移动专区",
+      "id": 332966
+    },
+    {
+      "name": "镇巴-1",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226457/1.m3u8",
+      "group": "移动专区",
+      "id": 332967
+    },
+    {
+      "name": "略阳-1",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226322/1.m3u8",
+      "group": "移动专区",
+      "id": 332968
+    },
+    {
+      "name": "西乡-1",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226556/index.m3u8",
+      "group": "移动专区",
+      "id": 332969
+    },
+    {
+      "name": "榆林-1",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226377/1.m3u8",
+      "group": "移动专区",
+      "id": 332970
+    },
+    {
+      "name": "商洛-1",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226378/1.m3u8",
+      "group": "移动专区",
+      "id": 332971
+    },
+    {
+      "name": "渭南-1",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226376/1.m3u8",
+      "group": "移动专区",
+      "id": 332972
+    },
+    {
+      "name": "安康-1",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226385/1.m3u8",
+      "group": "移动专区",
+      "id": 332973
+    },
+    {
+      "name": "纪实人文",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8",
+      "group": "移动专区",
+      "id": 332974
+    },
+    {
+      "name": "山东教育卫视",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226238/index.m3u8",
+      "group": "移动专区",
+      "id": 332975
+    },
+    {
+      "name": "置业频道",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226241/index.m3u8",
+      "group": "移动专区",
+      "id": 332976
+    },
+    {
+      "name": "京视剧场",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226242/index.m3u8",
+      "group": "移动专区",
+      "id": 332977
+    },
+    {
+      "name": "家庭理财",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226244/index.m3u8",
+      "group": "移动专区",
+      "id": 332978
+    },
+    {
+      "name": "奕坦春秋",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226245/index.m3u8",
+      "group": "移动专区",
+      "id": 332979
+    },
+    {
+      "name": "发现之旅",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8",
+      "group": "移动专区",
+      "id": 332980
+    },
+    {
+      "name": "老故事",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8",
+      "group": "移动专区",
+      "id": 332981
+    },
+    {
+      "name": "直播中国精编直播",
+      "url": "http://gcksc.v.kcdnvip.com/gc/wgw05_1/index.m3u8",
+      "group": "直播中国",
+      "id": 332982
+    },
+    {
+      "name": "直播中国精编直播",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/wgw05_1/index.m3u8",
+      "group": "直播中国",
+      "id": 332983
+    },
+    {
+      "name": "湖南张家界水绕四门",
+      "url": "http://gcksc.v.kcdnvip.com/gc/zjjsrsm_1/index.m3u8",
+      "group": "直播中国",
+      "id": 332984
+    },
+    {
+      "name": "湖南张家界水绕四门",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/zjjsrsm_1/index.m3u8",
+      "group": "直播中国",
+      "id": 332985
+    },
+    {
+      "name": "湖南张家界将军列队",
+      "url": "http://gcksc.v.kcdnvip.com/gc/zjjjjdl_1/index.m3u8",
+      "group": "直播中国",
+      "id": 332986
+    },
+    {
+      "name": "湖南张家界将军列队",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/zjjjjdl_1/index.m3u8",
+      "group": "直播中国",
+      "id": 332987
+    },
+    {
+      "name": "湖南张家界阿凡达悬浮山",
+      "url": "http://gcksc.v.kcdnvip.com/gc/zjjafdxfs_1/index.m3u8",
+      "group": "直播中国",
+      "id": 332988
+    },
+    {
+      "name": "湖南张家界阿凡达悬浮山",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/zjjafdxfs_1/index.m3u8",
+      "group": "直播中国",
+      "id": 332989
+    },
+    {
+      "name": "湖南张家界迷魂台",
+      "url": "http://gcksc.v.kcdnvip.com/gc/zjjmht_1/index.m3u8",
+      "group": "直播中国",
+      "id": 332990
+    },
+    {
+      "name": "湖南张家界迷魂台",
+      "url": "http://gccncc.v.wscdns.com/gc/zjjmht_1/index.m3u8",
+      "group": "直播中国",
+      "id": 332991
+    },
+    {
+      "name": "湖南张家界迷魂台",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/zjjmht_1/index.m3u8",
+      "group": "直播中国",
+      "id": 332992
+    },
+    {
+      "name": "湖南张家界宝峰湖",
+      "url": "http://gcksc.v.kcdnvip.com/gc/zjjbfh_1/index.m3u8",
+      "group": "直播中国",
+      "id": 332993
+    },
+    {
+      "name": "湖南张家界宝峰湖",
+      "url": "http://gccncc.v.wscdns.com/gc/zjjbfh_1/index.m3u8",
+      "group": "直播中国",
+      "id": 332994
+    },
+    {
+      "name": "湖南张家界宝峰湖",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/zjjbfh_1/index.m3u8",
+      "group": "直播中国",
+      "id": 332995
+    },
+    {
+      "name": "湖南张家界御笔峰",
+      "url": "http://gcksc.v.kcdnvip.com/gc/zjjybf_1/index.m3u8",
+      "group": "直播中国",
+      "id": 332996
+    },
+    {
+      "name": "湖南张家界御笔峰",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/zjjybf_1/index.m3u8",
+      "group": "直播中国",
+      "id": 332997
+    },
+    {
+      "name": "四川峨眉山云海日出",
+      "url": "http://gcksc.v.kcdnvip.com/gc/emsarm_1/index.m3u8",
+      "group": "直播中国",
+      "id": 332998
+    },
+    {
+      "name": "四川峨眉山云海日出",
+      "url": "http://gccncc.v.wscdns.com/gc/emsarm_1/index.m3u8",
+      "group": "直播中国",
+      "id": 332999
+    },
+    {
+      "name": "四川峨眉山云海日出",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/emsarm_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333000
+    },
+    {
+      "name": "四川峨眉山远眺贡嘎雪山",
+      "url": "http://gcksc.v.kcdnvip.com/gc/emsyh_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333001
+    },
+    {
+      "name": "四川峨眉山远眺贡嘎雪山",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/emsyh_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333002
+    },
+    {
+      "name": "四川峨眉山普贤菩萨铜像",
+      "url": "http://gcksc.v.kcdnvip.com/gc/emspxps_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333003
+    },
+    {
+      "name": "四川峨眉山普贤菩萨铜像",
+      "url": "http://gccncc.v.wscdns.com/gc/emspxps_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333004
+    },
+    {
+      "name": "四川峨眉山普贤菩萨铜像",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/emspxps_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333005
+    },
+    {
+      "name": "四川峨眉山远眺万佛顶",
+      "url": "http://gcksc.v.kcdnvip.com/gc/emswfs_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333006
+    },
+    {
+      "name": "四川峨眉山远眺万佛顶",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/emswfs_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333007
+    },
+    {
+      "name": "浙江杭州云栖小镇",
+      "url": "http://gcksc.v.kcdnvip.com/gc/wygjt2_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333008
+    },
+    {
+      "name": "浙江杭州云栖小镇",
+      "url": "http://gccncc.v.wscdns.com/gc/wygjt2_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333009
+    },
+    {
+      "name": "浙江杭州云栖小镇",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/wygjt2_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333010
+    },
+    {
+      "name": "重庆石柱华溪村",
+      "url": "http://gcksc.v.kcdnvip.com/gc/jsh02_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333011
+    },
+    {
+      "name": "重庆石柱华溪村",
+      "url": "http://gccncc.v.wscdns.com/gc/jsh02_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333012
+    },
+    {
+      "name": "重庆石柱华溪村",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/jsh02_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333013
+    },
+    {
+      "name": "江西井冈山神山村",
+      "url": "http://gcksc.v.kcdnvip.com/gc/wysyxdhp_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333014
+    },
+    {
+      "name": "江西井冈山神山村",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/wysyxdhp_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333015
+    },
+    {
+      "name": "安徽金寨大湾村",
+      "url": "http://gcksc.v.kcdnvip.com/gc/szgk01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333016
+    },
+    {
+      "name": "安徽金寨大湾村",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/szgk01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333017
+    },
+    {
+      "name": "山西苛岚宋家沟新村",
+      "url": "http://gcksc.v.kcdnvip.com/gc/wysdhpcy_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333018
+    },
+    {
+      "name": "山西苛岚宋家沟新村",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/wysdhpcy_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333019
+    },
+    {
+      "name": "河北张北德胜村",
+      "url": "http://gcksc.v.kcdnvip.com/gc/pygc01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333020
+    },
+    {
+      "name": "河北张北德胜村",
+      "url": "http://gccncc.v.wscdns.com/gc/pygc01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333021
+    },
+    {
+      "name": "河北张北德胜村",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/pygc01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333022
+    },
+    {
+      "name": "新疆天山(海西平台)",
+      "url": "http://gcksc.v.kcdnvip.com/gc/xjtchxpt_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333023
+    },
+    {
+      "name": "新疆天山(定海神针)",
+      "url": "http://gcksc.v.kcdnvip.com/gc/xjtcdhsz_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333024
+    },
+    {
+      "name": "新疆天山(定海神针)",
+      "url": "http://gctxyc.liveplay.myqcloud.com/gc/xjtcdhsz_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333025
+    },
+    {
+      "name": "新疆天山(马牙山)",
+      "url": "http://gcksc.v.kcdnvip.com/gc/xjtcmys_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333026
+    },
+    {
+      "name": "新疆天山(灯杆山)",
+      "url": "http://gcksc.v.kcdnvip.com/gc/xjtcdgs_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333027
+    },
+    {
+      "name": "湖南张家界天门山西线玻璃栈道",
+      "url": "http://gcksc.v.kcdnvip.com/gc/tms05_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333028
+    },
+    {
+      "name": "湖南张家界天门山西线玻璃栈道",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/tms05_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333029
+    },
+    {
+      "name": "湖南张家界天门山天门洞",
+      "url": "http://gcksc.v.kcdnvip.com/gc/tmstmd01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333030
+    },
+    {
+      "name": "湖南张家界天门山天门洞",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/tmstmd01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333031
+    },
+    {
+      "name": "湖南张家界天门山天空步道",
+      "url": "http://gcksc.v.kcdnvip.com/gc/tms02_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333032
+    },
+    {
+      "name": "湖南张家界天门山天空步道",
+      "url": "http://gccncc.v.wscdns.com/gc/tms02_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333033
+    },
+    {
+      "name": "湖南张家界天门山天空步道",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/tms02_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333034
+    },
+    {
+      "name": "湖南张家界天门山云梦仙顶",
+      "url": "http://gcksc.v.kcdnvip.com/gc/tms04_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333035
+    },
+    {
+      "name": "湖南张家界天门山云梦仙顶",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/tms04_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333036
+    },
+    {
+      "name": "厦门鼓浪屿",
+      "url": "http://gcksc.v.kcdnvip.com/gc/gly01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333037
+    },
+    {
+      "name": "厦门鼓浪屿",
+      "url": "http://gccncc.v.wscdns.com/gc/gly01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333038
+    },
+    {
+      "name": "厦门鼓浪屿",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/gly01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333039
+    },
+    {
+      "name": "广西玉林大容山莲花山顶",
+      "url": "http://gcksc.v.kcdnvip.com/gc/drs01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333040
+    },
+    {
+      "name": "广西玉林大容山莲花山顶",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/drs01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333041
+    },
+    {
+      "name": "八里沟风景区桃花湾瀑布",
+      "url": "http://gcksc.v.kcdnvip.com/gc/blg05_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333042
+    },
+    {
+      "name": "八里沟风景区桃花湾瀑布",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/blg05_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333043
+    },
+    {
+      "name": "八里沟风景区天界山玻璃栈道",
+      "url": "http://gcksc.v.kcdnvip.com/gc/blg03_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333044
+    },
+    {
+      "name": "八里沟风景区天界山玻璃栈道",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/blg03_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333045
+    },
+    {
+      "name": "汶川映秀新城",
+      "url": "http://gcksc.v.kcdnvip.com/gc/wcyxxc01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333046
+    },
+    {
+      "name": "汶川映秀新城",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/wcyxxc01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333047
+    },
+    {
+      "name": "十八洞村",
+      "url": "http://gcksc.v.kcdnvip.com/gc/sbd01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333048
+    },
+    {
+      "name": "十八洞村",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/sbd01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333049
+    },
+    {
+      "name": "趵突泉",
+      "url": "http://gcksc.v.kcdnvip.com/gc/btq01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333050
+    },
+    {
+      "name": "趵突泉",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/btq01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333051
+    },
+    {
+      "name": "安徽池州九华山风景区拜经台",
+      "url": "http://gcksc.v.kcdnvip.com/gc/jhs02_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333052
+    },
+    {
+      "name": "安徽池州九华山风景区拜经台",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/jhs02_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333053
+    },
+    {
+      "name": "安徽池州九华山风景区九华山",
+      "url": "http://gcksc.v.kcdnvip.com/gc/jhs05_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333054
+    },
+    {
+      "name": "安徽池州九华山风景区九华山",
+      "url": "http://gccncc.v.wscdns.com/gc/jhs05_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333055
+    },
+    {
+      "name": "安徽池州九华山风景区九华山",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/jhs05_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333056
+    },
+    {
+      "name": "安徽池州九华山风景区花台",
+      "url": "http://gcksc.v.kcdnvip.com/gc/jhs01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333057
+    },
+    {
+      "name": "安徽池州九华山风景区花台",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/jhs01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333058
+    },
+    {
+      "name": "江苏徐州云龙湖风景区云龙山观景台西",
+      "url": "http://gcksc.v.kcdnvip.com/gc/ylh04_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333059
+    },
+    {
+      "name": "江苏徐州云龙湖风景区云龙山观景台西",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/ylh04_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333060
+    },
+    {
+      "name": "江苏徐州云龙湖风景区云龙山观景台南",
+      "url": "http://gcksc.v.kcdnvip.com/gc/ylh03_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333061
+    },
+    {
+      "name": "江苏徐州云龙湖风景区云龙山观景台南",
+      "url": "http://gccncc.v.wscdns.com/gc/ylh03_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333062
+    },
+    {
+      "name": "江苏徐州云龙湖风景区云龙山观景台南",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/ylh03_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333063
+    },
+    {
+      "name": "浙江杭州千岛湖",
+      "url": "http://gcksc.v.kcdnvip.com/gc/caqdh_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333064
+    },
+    {
+      "name": "浙江杭州千岛湖",
+      "url": "http://gccncc.v.wscdns.com/gc/caqdh_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333065
+    },
+    {
+      "name": "浙江杭州千岛湖",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/caqdh_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333066
+    },
+    {
+      "name": "南京玄武湖公园",
+      "url": "http://gcksc.v.kcdnvip.com/gc/xwh01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333067
+    },
+    {
+      "name": "南京玄武湖公园",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/xwh01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333068
+    },
+    {
+      "name": "云南丽江玉龙雪山",
+      "url": "http://gcksc.v.kcdnvip.com/gc/ylxs11_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333069
+    },
+    {
+      "name": "云南丽江玉龙雪山",
+      "url": "http://gccncc.v.wscdns.com/gc/ylxs11_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333070
+    },
+    {
+      "name": "云南丽江玉龙雪山",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/ylxs11_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333071
+    },
+    {
+      "name": "云南丽江玉液湖",
+      "url": "http://gcksc.v.kcdnvip.com/gc/hkylxs02_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333072
+    },
+    {
+      "name": "云南丽江玉液湖",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/hkylxs02_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333073
+    },
+    {
+      "name": "云南丽江蓝月谷",
+      "url": "http://gcksc.v.kcdnvip.com/gc/ylxs12_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333074
+    },
+    {
+      "name": "云南丽江蓝月谷",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/ylxs12_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333075
+    },
+    {
+      "name": "云南白沙远眺玉龙雪山",
+      "url": "http://gcksc.v.kcdnvip.com/gc/hkylxs03_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333076
+    },
+    {
+      "name": "云南白沙远眺玉龙雪山",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/hkylxs03_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333077
+    },
+    {
+      "name": "云南丽江一滴水过丽江",
+      "url": "http://gcksc.v.kcdnvip.com/gc/hkylxs04_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333078
+    },
+    {
+      "name": "云南丽江一滴水过丽江",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/hkylxs04_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333079
+    },
+    {
+      "name": "云南丽江玉龙雪山草甸",
+      "url": "http://gcksc.v.kcdnvip.com/gc/hkylxs06_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333080
+    },
+    {
+      "name": "云南丽江玉龙雪山草甸",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/hkylxs06_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333081
+    },
+    {
+      "name": "云南丽江白水台",
+      "url": "http://gcksc.v.kcdnvip.com/gc/hkylxs07_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333082
+    },
+    {
+      "name": "云南丽江白水台",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/hkylxs07_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333083
+    },
+    {
+      "name": "云南丽江蓝月谷中游湖面",
+      "url": "http://gcksc.v.kcdnvip.com/gc/hkylxs08_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333084
+    },
+    {
+      "name": "云南丽江蓝月谷中游湖面",
+      "url": "http://gccncc.v.wscdns.com/gc/hkylxs08_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333085
+    },
+    {
+      "name": "云南丽江蓝月谷中游湖面",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/hkylxs08_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333086
+    },
+    {
+      "name": "云南丽江高尔夫",
+      "url": "http://gcksc.v.kcdnvip.com/gc/hkylxs09_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333087
+    },
+    {
+      "name": "云南丽江高尔夫",
+      "url": "http://gccncc.v.wscdns.com/gc/hkylxs09_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333088
+    },
+    {
+      "name": "云南丽江高尔夫",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/hkylxs09_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333089
+    },
+    {
+      "name": "云南丽江冰川",
+      "url": "http://gcksc.v.kcdnvip.com/gc/hkylxs05_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333090
+    },
+    {
+      "name": "云南丽江冰川",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/hkylxs05_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333091
+    },
+    {
+      "name": "云南丽江印象实景",
+      "url": "http://gcksc.v.kcdnvip.com/gc/hkylxs01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333092
+    },
+    {
+      "name": "云南丽江印象实景",
+      "url": "http://gccncc.v.wscdns.com/gc/hkylxs01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333093
+    },
+    {
+      "name": "云南丽江印象实景",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/hkylxs01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333094
+    },
+    {
+      "name": "江苏南京牛首山",
+      "url": "http://gcksc.v.kcdnvip.com/gc/nss01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333095
+    },
+    {
+      "name": "江苏南京牛首山",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/nss01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333096
+    },
+    {
+      "name": "福建漳州六鳌翡翠湾",
+      "url": "http://gcksc.v.kcdnvip.com/gc/fcw01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333097
+    },
+    {
+      "name": "福建漳州六鳌翡翠湾",
+      "url": "http://gccncc.v.wscdns.com/gc/fcw01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333098
+    },
+    {
+      "name": "福建漳州六鳌翡翠湾",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/fcw01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333099
+    },
+    {
+      "name": "福建漳州醉美沙滩翡翠湾",
+      "url": "http://gcksc.v.kcdnvip.com/gc/fcw03_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333100
+    },
+    {
+      "name": "福建漳州醉美沙滩翡翠湾",
+      "url": "http://gccncc.v.wscdns.com/gc/fcw03_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333101
+    },
+    {
+      "name": "福建漳州醉美沙滩翡翠湾",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/fcw03_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333102
+    },
+    {
+      "name": "天津之眼",
+      "url": "http://gcksc.v.kcdnvip.com/gc/tjhh01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333103
+    },
+    {
+      "name": "天津之眼",
+      "url": "http://gccncc.v.wscdns.com/gc/tjhh01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333104
+    },
+    {
+      "name": "天津之眼",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/tjhh01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333105
+    },
+    {
+      "name": "四川西昌邛海景区",
+      "url": "http://gcksc.v.kcdnvip.com/gc/xcqh01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333106
+    },
+    {
+      "name": "四川西昌邛海景区",
+      "url": "http://gccncc.v.wscdns.com/gc/xcqh01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333107
+    },
+    {
+      "name": "四川西昌邛海景区",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/xcqh01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333108
+    },
+    {
+      "name": "普陀山",
+      "url": "http://gcksc.v.kcdnvip.com/gc/pts01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333109
+    },
+    {
+      "name": "普陀山",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/pts01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333110
+    },
+    {
+      "name": "浙江舟山东极岛",
+      "url": "http://gcksc.v.kcdnvip.com/gc/djd01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333111
+    },
+    {
+      "name": "浙江舟山东极岛",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/djd01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333112
+    },
+    {
+      "name": "河南郑东新区千玺广场",
+      "url": "http://gcksc.v.kcdnvip.com/gc/zdxq01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333113
+    },
+    {
+      "name": "河南郑东新区千玺广场",
+      "url": "http://gccncc.v.wscdns.com/gc/zdxq01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333114
+    },
+    {
+      "name": "河南郑东新区千玺广场",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/zdxq01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333115
+    },
+    {
+      "name": "四川四姑娘山幺妹峰",
+      "url": "http://gcksc.v.kcdnvip.com/gc/sgns01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333116
+    },
+    {
+      "name": "四川四姑娘山幺妹峰",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/sgns01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333117
+    },
+    {
+      "name": "四川四姑娘山隆珠措",
+      "url": "http://gcksc.v.kcdnvip.com/gc/sgns02_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333118
+    },
+    {
+      "name": "四川四姑娘山隆珠措",
+      "url": "http://gccncc.v.wscdns.com/gc/sgns02_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333119
+    },
+    {
+      "name": "四川四姑娘山隆珠措",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/sgns02_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333120
+    },
+    {
+      "name": "宁夏沙坡头黄河漂流",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/nxspthhpl_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333121
+    },
+    {
+      "name": "宁夏沙坡头长河落日",
+      "url": "http://gcksc.v.kcdnvip.com/gc/nxsptdmgychlr_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333122
+    },
+    {
+      "name": "宁夏沙坡头长河落日",
+      "url": "http://gccncc.v.wscdns.com/gc/nxsptdmgychlr_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333123
+    },
+    {
+      "name": "宁夏沙坡头长河落日",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/nxsptdmgychlr_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333124
+    },
+    {
+      "name": "宁夏沙坡头大漠孤烟",
+      "url": "http://gcksc.v.kcdnvip.com/gc/nxsptdmgy_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333125
+    },
+    {
+      "name": "宁夏沙坡头大漠孤烟",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/nxsptdmgy_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333126
+    },
+    {
+      "name": "丽江古城大研花巷观景",
+      "url": "http://gcksc.v.kcdnvip.com/gc/ljgcdyhxgjt_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333127
+    },
+    {
+      "name": "丽江古城大研花巷观景",
+      "url": "http://gccncc.v.wscdns.com/gc/ljgcdyhxgjt_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333128
+    },
+    {
+      "name": "丽江古城大研花巷观景",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/ljgcdyhxgjt_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333129
+    },
+    {
+      "name": "丽江古城大水车",
+      "url": "http://gcksc.v.kcdnvip.com/gc/ljgcdsc_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333130
+    },
+    {
+      "name": "丽江古城大水车",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/ljgcdsc_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333131
+    },
+    {
+      "name": "丽江古城万古楼遥望玉龙雪山",
+      "url": "http://gcksc.v.kcdnvip.com/gc/ljgcwglytylxs_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333132
+    },
+    {
+      "name": "丽江古城万古楼遥望玉龙雪山",
+      "url": "http://gccncc.v.wscdns.com/gc/ljgcwglytylxs_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333133
+    },
+    {
+      "name": "丽江古城万古楼遥望玉龙雪山",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/ljgcwglytylxs_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333134
+    },
+    {
+      "name": "狮子山鸟瞰丽江古城",
+      "url": "http://gcksc.v.kcdnvip.com/gc/ljgcszsnkgc_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333135
+    },
+    {
+      "name": "狮子山鸟瞰丽江古城",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/ljgcszsnkgc_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333136
+    },
+    {
+      "name": "云台山小寨沟",
+      "url": "http://gcksc.v.kcdnvip.com/gc/ytsxzg_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333137
+    },
+    {
+      "name": "云台山小寨沟",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/ytsxzg_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333138
+    },
+    {
+      "name": "云台山百家岩",
+      "url": "http://gcksc.v.kcdnvip.com/gc/ytsbjy_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333139
+    },
+    {
+      "name": "云台山百家岩",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/ytsbjy_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333140
+    },
+    {
+      "name": "云台山红石峡",
+      "url": "http://gcksc.v.kcdnvip.com/gc/ytshsx_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333141
+    },
+    {
+      "name": "云台山红石峡",
+      "url": "http://gccncc.v.wscdns.com/gc/ytshsx_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333142
+    },
+    {
+      "name": "云台山红石峡",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/ytshsx_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333143
+    },
+    {
+      "name": "云台山茱萸峰",
+      "url": "http://gcksc.v.kcdnvip.com/gc/ytszyf_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333144
+    },
+    {
+      "name": "云台山茱萸峰",
+      "url": "http://gccncc.v.wscdns.com/gc/ytszyf_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333145
+    },
+    {
+      "name": "云台山茱萸峰",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/ytszyf_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333146
+    },
+    {
+      "name": "雪乡梦幻家园",
+      "url": "http://gcksc.v.kcdnvip.com/gc/mdjxxmhjyxj_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333147
+    },
+    {
+      "name": "雪乡梦幻家园",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/mdjxxmhjyxj_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333148
+    },
+    {
+      "name": "雪乡梦幻家园观景台",
+      "url": "http://gcksc.v.kcdnvip.com/gc/mdjxxmhjygjt_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333149
+    },
+    {
+      "name": "雪乡梦幻家园观景台",
+      "url": "http://gccncc.v.wscdns.com/gc/mdjxxmhjygjt_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333150
+    },
+    {
+      "name": "雪乡梦幻家园观景台",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/mdjxxmhjygjt_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333151
+    },
+    {
+      "name": "雪乡大石碑",
+      "url": "http://gcksc.v.kcdnvip.com/gc/mdjxxdsb_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333152
+    },
+    {
+      "name": "雪乡大石碑",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/mdjxxdsb_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333153
+    },
+    {
+      "name": "乌镇蓝印花布",
+      "url": "http://gcksc.v.kcdnvip.com/gc/zjwzlyhb_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333154
+    },
+    {
+      "name": "乌镇蓝印花布",
+      "url": "http://gccncc.v.wscdns.com/gc/zjwzlyhb_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333155
+    },
+    {
+      "name": "乌镇蓝印花布",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/zjwzlyhb_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333156
+    },
+    {
+      "name": "乌镇西市河",
+      "url": "http://gcksc.v.kcdnvip.com/gc/zjwzbblh_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333157
+    },
+    {
+      "name": "乌镇西市河",
+      "url": "http://gccncc.v.wscdns.com/gc/zjwzbblh_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333158
+    },
+    {
+      "name": "乌镇西市河",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/zjwzbblh_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333159
+    },
+    {
+      "name": "乌镇龙形田",
+      "url": "http://gcksc.v.kcdnvip.com/gc/zjwzlxt_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333160
+    },
+    {
+      "name": "乌镇龙形田",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/zjwzlxt_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333161
+    },
+    {
+      "name": "乌镇全景",
+      "url": "http://gcksc.v.kcdnvip.com/gc/zjwzblt_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333162
+    },
+    {
+      "name": "乌镇全景",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/zjwzblt_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333163
+    },
+    {
+      "name": "凤凰古城南华山",
+      "url": "http://gcksc.v.kcdnvip.com/gc/fhgcdnhs_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333164
+    },
+    {
+      "name": "凤凰古城南华山",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/fhgcdnhs_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333165
+    },
+    {
+      "name": "凤凰古城东关门",
+      "url": "http://gcksc.v.kcdnvip.com/gc/fhgcdgm_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333166
+    },
+    {
+      "name": "凤凰古城东关门",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/fhgcdgm_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333167
+    },
+    {
+      "name": "黄花城水长城01",
+      "url": "http://gcksc.v.kcdnvip.com/gc/wgw01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333168
+    },
+    {
+      "name": "黄花城水长城01",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/wgw01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333169
+    },
+    {
+      "name": "黄花城水长城02",
+      "url": "http://gcksc.v.kcdnvip.com/gc/wgw02_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333170
+    },
+    {
+      "name": "黄花城水长城02",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/wgw02_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333171
+    },
+    {
+      "name": "黄花城水长城02",
+      "url": "http://gctxyc.liveplay.myqcloud.com/gc/wgw02_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333172
+    },
+    {
+      "name": "黄花城水长城03",
+      "url": "http://gcksc.v.kcdnvip.com/gc/wgw03_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333173
+    },
+    {
+      "name": "黄花城水长城03",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/wgw03_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333174
+    },
+    {
+      "name": "黄花城水长城04",
+      "url": "http://gcksc.v.kcdnvip.com/gc/wgw04_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333175
+    },
+    {
+      "name": "黄花城水长城04",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/wgw04_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333176
+    },
+    {
+      "name": "鸣沙山",
+      "url": "http://gcksc.v.kcdnvip.com/gc/dhyyqst_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333177
+    },
+    {
+      "name": "鸣沙山",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/dhyyqst_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333178
+    },
+    {
+      "name": "鸣沙山山门",
+      "url": "http://gcksc.v.kcdnvip.com/gc/dhyyqyyq_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333179
+    },
+    {
+      "name": "鸣沙山山门",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/dhyyqyyq_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333180
+    },
+    {
+      "name": "月牙泉",
+      "url": "http://gcksc.v.kcdnvip.com/gc/dhyyqsm_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333181
+    },
+    {
+      "name": "月牙泉",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/dhyyqsm_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333182
+    },
+    {
+      "name": "五彩池",
+      "url": "http://gcksc.v.kcdnvip.com/gc/hlwcc_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333183
+    },
+    {
+      "name": "五彩池",
+      "url": "http://gccncc.v.wscdns.com/gc/hlwcc_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333184
+    },
+    {
+      "name": "五彩池",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/hlwcc_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333185
+    },
+    {
+      "name": "黄龙",
+      "url": "http://gcksc.v.kcdnvip.com/gc/hlzycc_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333186
+    },
+    {
+      "name": "黄龙",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/hlzycc_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333187
+    },
+    {
+      "name": "望乡台",
+      "url": "http://gcksc.v.kcdnvip.com/gc/hlwxt_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333188
+    },
+    {
+      "name": "望乡台",
+      "url": "http://gccncc.v.wscdns.com/gc/hlwxt_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333189
+    },
+    {
+      "name": "望乡台",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/hlwxt_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333190
+    },
+    {
+      "name": "洗身洞",
+      "url": "http://gcksc.v.kcdnvip.com/gc/hlxsd_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333191
+    },
+    {
+      "name": "洗身洞",
+      "url": "http://gccncc.v.wscdns.com/gc/hlxsd_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333192
+    },
+    {
+      "name": "洗身洞",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/hlxsd_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333193
+    },
+    {
+      "name": "泰山主峰",
+      "url": "http://gcksc.v.kcdnvip.com/gc/taishan01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333194
+    },
+    {
+      "name": "泰山主峰",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/taishan01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333195
+    },
+    {
+      "name": "泰山大观峰",
+      "url": "http://gcksc.v.kcdnvip.com/gc/taishan03_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333196
+    },
+    {
+      "name": "泰山大观峰",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/taishan03_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333197
+    },
+    {
+      "name": "泰山拱北石",
+      "url": "http://gcksc.v.kcdnvip.com/gc/taishan04_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333198
+    },
+    {
+      "name": "泰山拱北石",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/taishan04_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333199
+    },
+    {
+      "name": "泰山玉皇顶",
+      "url": "http://gcksc.v.kcdnvip.com/gc/taishan06_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333200
+    },
+    {
+      "name": "泰山玉皇顶",
+      "url": "http://gccncc.v.wscdns.com/gc/taishan06_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333201
+    },
+    {
+      "name": "泰山玉皇顶",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/taishan06_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333202
+    },
+    {
+      "name": "泰山十八盘",
+      "url": "http://gcksc.v.kcdnvip.com/gc/taishan05_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333203
+    },
+    {
+      "name": "泰山十八盘",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/taishan05_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333204
+    },
+    {
+      "name": "泰山天街",
+      "url": "http://gcksc.v.kcdnvip.com/gc/taishan07_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333205
+    },
+    {
+      "name": "泰山天街",
+      "url": "http://gccncc.v.wscdns.com/gc/taishan07_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333206
+    },
+    {
+      "name": "泰山天街",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/taishan07_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333207
+    },
+    {
+      "name": "泰山经石峪",
+      "url": "http://gcksc.v.kcdnvip.com/gc/hkts04_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333208
+    },
+    {
+      "name": "泰山经石峪",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/hkts04_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333209
+    },
+    {
+      "name": "泰山望人松",
+      "url": "http://gcksc.v.kcdnvip.com/gc/taishan02_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333210
+    },
+    {
+      "name": "泰山望人松",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/taishan02_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333211
+    },
+    {
+      "name": "泰山龙潭水库",
+      "url": "http://gcksc.v.kcdnvip.com/gc/hkts06_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333212
+    },
+    {
+      "name": "泰山龙潭水库",
+      "url": "http://gccncc.v.wscdns.com/gc/hkts06_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333213
+    },
+    {
+      "name": "泰山龙潭水库",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/hkts06_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333214
+    },
+    {
+      "name": "泰山南天门",
+      "url": "http://gcksc.v.kcdnvip.com/gc/hkts07_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333215
+    },
+    {
+      "name": "泰山南天门",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/hkts07_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333216
+    },
+    {
+      "name": "泰山白云亭悬崖",
+      "url": "http://gcksc.v.kcdnvip.com/gc/hkts02_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333217
+    },
+    {
+      "name": "泰山白云亭悬崖",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/hkts02_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333218
+    },
+    {
+      "name": "泰山扇子崖",
+      "url": "http://gcksc.v.kcdnvip.com/gc/hkts08_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333219
+    },
+    {
+      "name": "泰山扇子崖",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/hkts08_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333220
+    },
+    {
+      "name": "泰山太平岭",
+      "url": "http://gcksc.v.kcdnvip.com/gc/hkts09_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333221
+    },
+    {
+      "name": "泰山太平岭",
+      "url": "http://gccncc.v.wscdns.com/gc/hkts09_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333222
+    },
+    {
+      "name": "泰山太平岭",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/hkts09_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333223
+    },
+    {
+      "name": "泰山碧霞祠",
+      "url": "http://gcksc.v.kcdnvip.com/gc/hkts03_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333224
+    },
+    {
+      "name": "泰山碧霞祠",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/hkts03_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333225
+    },
+    {
+      "name": "泰山玉皇顶东",
+      "url": "http://gcksc.v.kcdnvip.com/gc/hkts10_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333226
+    },
+    {
+      "name": "泰山玉皇顶东",
+      "url": "http://gccncc.v.wscdns.com/gc/hkts10_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333227
+    },
+    {
+      "name": "泰山玉皇顶东",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/hkts10_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333228
+    },
+    {
+      "name": "泰山玉皇顶西",
+      "url": "http://gcksc.v.kcdnvip.com/gc/hkts11_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333229
+    },
+    {
+      "name": "泰山玉皇顶西",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/hkts11_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333230
+    },
+    {
+      "name": "黄山卧云峰",
+      "url": "http://gcksc.v.kcdnvip.com/gc/hswlf_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333231
+    },
+    {
+      "name": "黄山卧云峰",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/hswlf_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333232
+    },
+    {
+      "name": "黄山始信新道",
+      "url": "http://gcksc.v.kcdnvip.com/gc/hsyg_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333233
+    },
+    {
+      "name": "黄山始信新道",
+      "url": "http://gccncc.v.wscdns.com/gc/hsyg_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333234
+    },
+    {
+      "name": "黄山始信新道",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/hsyg_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333235
+    },
+    {
+      "name": "黄山梦笔生花",
+      "url": "http://gcksc.v.kcdnvip.com/gc/hsmbsh_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333236
+    },
+    {
+      "name": "黄山梦笔生花",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/hsmbsh_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333237
+    },
+    {
+      "name": "黄山排云亭",
+      "url": "http://gcksc.v.kcdnvip.com/gc/hspyt_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333238
+    },
+    {
+      "name": "黄山排云亭",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/hspyt_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333239
+    },
+    {
+      "name": "黄山平天矼",
+      "url": "http://gcksc.v.kcdnvip.com/gc/hsptgz_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333240
+    },
+    {
+      "name": "黄山平天矼",
+      "url": "http://gccncc.v.wscdns.com/gc/hsptgz_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333241
+    },
+    {
+      "name": "黄山平天矼",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/hsptgz_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333242
+    },
+    {
+      "name": "黄山飞来石",
+      "url": "http://gcksc.v.kcdnvip.com/gc/hsptgy_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333243
+    },
+    {
+      "name": "黄山飞来石",
+      "url": "http://gccncc.v.wscdns.com/gc/hsptgy_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333244
+    },
+    {
+      "name": "黄山飞来石",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/hsptgy_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333245
+    },
+    {
+      "name": "黄山光明顶",
+      "url": "http://gcksc.v.kcdnvip.com/gc/hsgmd_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333246
+    },
+    {
+      "name": "黄山光明顶",
+      "url": "http://gccncc.v.wscdns.com/gc/hsgmd_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333247
+    },
+    {
+      "name": "黄山光明顶",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/hsgmd_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333248
+    },
+    {
+      "name": "黄山",
+      "url": "http://gcksc.v.kcdnvip.com/gc/ahhs01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333249
+    },
+    {
+      "name": "黄山",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/ahhs01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333250
+    },
+    {
+      "name": "福建宁德太姥山景区",
+      "url": "http://gcksc.v.kcdnvip.com/gc/tms01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333251
+    },
+    {
+      "name": "福建宁德太姥山景区",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/tms01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333252
+    },
+    {
+      "name": "陕西洋县国宝朱鹮01",
+      "url": "http://gcksc.v.kcdnvip.com/gc/zhhd01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333253
+    },
+    {
+      "name": "陕西洋县国宝朱鹮01",
+      "url": "http://gccncc.v.wscdns.com/gc/zhhd01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333254
+    },
+    {
+      "name": "陕西洋县国宝朱鹮01",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/zhhd01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333255
+    },
+    {
+      "name": "陕西洋县国宝朱鹮02",
+      "url": "http://gcksc.v.kcdnvip.com/gc/zh02_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333256
+    },
+    {
+      "name": "陕西洋县国宝朱鹮02",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/zh02_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333257
+    },
+    {
+      "name": "陕西洋县国宝朱鹮03",
+      "url": "http://gcksc.v.kcdnvip.com/gc/zh03_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333258
+    },
+    {
+      "name": "陕西洋县国宝朱鹮03",
+      "url": "http://gccncc.v.wscdns.com/gc/zh03_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333259
+    },
+    {
+      "name": "陕西洋县国宝朱鹮03",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/zh03_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333260
+    },
+    {
+      "name": "陕西洋县国宝朱鹮04",
+      "url": "http://gcksc.v.kcdnvip.com/gc/zh04_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333261
+    },
+    {
+      "name": "陕西洋县国宝朱鹮04",
+      "url": "http://gccncc.v.wscdns.com/gc/zh04_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333262
+    },
+    {
+      "name": "陕西洋县国宝朱鹮04",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/zh04_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333263
+    },
+    {
+      "name": "安徽黟县西递半山亭",
+      "url": "http://gcksc.v.kcdnvip.com/gc/yxxdbst_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333264
+    },
+    {
+      "name": "安徽黟县西递半山亭",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/yxxdbst_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333265
+    },
+    {
+      "name": "安徽黟县西递牌坊",
+      "url": "http://gcksc.v.kcdnvip.com/gc/yxxdpf_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333266
+    },
+    {
+      "name": "安徽黟县西递牌坊",
+      "url": "http://gccncc.v.wscdns.com/gc/yxxdpf_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333267
+    },
+    {
+      "name": "安徽黟县西递牌坊",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/yxxdpf_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333268
+    },
+    {
+      "name": "安徽黟县宏村月沼",
+      "url": "http://gcksc.v.kcdnvip.com/gc/yxhcyz_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333269
+    },
+    {
+      "name": "安徽黟县宏村月沼",
+      "url": "http://gccncc.v.wscdns.com/gc/yxhcyz_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333270
+    },
+    {
+      "name": "安徽黟县宏村月沼",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/yxhcyz_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333271
+    },
+    {
+      "name": "安徽黟县芦村远眺",
+      "url": "http://gcksc.v.kcdnvip.com/gc/yxlcyt_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333272
+    },
+    {
+      "name": "安徽黟县芦村远眺",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/yxlcyt_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333273
+    },
+    {
+      "name": "深圳世界之窗文化主题公园",
+      "url": "http://gcksc.v.kcdnvip.com/gc/sjzc01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333274
+    },
+    {
+      "name": "深圳世界之窗文化主题公园",
+      "url": "http://gccncc.v.wscdns.com/gc/sjzc01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333275
+    },
+    {
+      "name": "深圳世界之窗文化主题公园",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/sjzc01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333276
+    },
+    {
+      "name": "八达岭长城南七楼",
+      "url": "http://gcksc.v.kcdnvip.com/gc/bgws7_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333277
+    },
+    {
+      "name": "八达岭长城南七楼",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/bgws7_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333278
+    },
+    {
+      "name": "八达岭长城北十楼",
+      "url": "http://gcksc.v.kcdnvip.com/gc/bgwn10_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333279
+    },
+    {
+      "name": "八达岭长城北十楼",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/bgwn10_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333280
+    },
+    {
+      "name": "中央电视塔东",
+      "url": "http://gcksc.v.kcdnvip.com/gc/ztd_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333281
+    },
+    {
+      "name": "中央电视塔东",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/ztd_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333282
+    },
+    {
+      "name": "中央电视塔南",
+      "url": "http://gcksc.v.kcdnvip.com/gc/ztn_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333283
+    },
+    {
+      "name": "中央电视塔南",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/ztn_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333284
+    },
+    {
+      "name": "中央电视塔北",
+      "url": "http://gcksc.v.kcdnvip.com/gc/ztb_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333285
+    },
+    {
+      "name": "中央电视塔北",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/ztb_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333286
+    },
+    {
+      "name": "恒山悬空寺全景",
+      "url": "http://gcksc.v.kcdnvip.com/gc/hsxksqj_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333287
+    },
+    {
+      "name": "恒山悬空寺全景",
+      "url": "http://gccncc.v.wscdns.com/gc/hsxksqj_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333288
+    },
+    {
+      "name": "恒山悬空寺全景",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/hsxksqj_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333289
+    },
+    {
+      "name": "恒宗",
+      "url": "http://gcksc.v.kcdnvip.com/gc/hsxkssqdzrqj_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333290
+    },
+    {
+      "name": "恒宗",
+      "url": "http://gccncc.v.wscdns.com/gc/hsxkssqdzrqj_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333291
+    },
+    {
+      "name": "恒宗",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/hsxkssqdzrqj_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333292
+    },
+    {
+      "name": "黄果树银链坠潭瀑布",
+      "url": "http://gcksc.v.kcdnvip.com/gc/hgsylztpb_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333293
+    },
+    {
+      "name": "黄果树银链坠潭瀑布",
+      "url": "http://gccncc.v.wscdns.com/gc/hgsylztpb_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333294
+    },
+    {
+      "name": "黄果树银链坠潭瀑布",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/hgsylztpb_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333295
+    },
+    {
+      "name": "黄果树六角亭瀑布",
+      "url": "http://gcksc.v.kcdnvip.com/gc/hgsspzxdpb_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333296
+    },
+    {
+      "name": "黄果树六角亭瀑布",
+      "url": "http://gccncc.v.wscdns.com/gc/hgsspzxdpb_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333297
+    },
+    {
+      "name": "黄果树六角亭瀑布",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/hgsspzxdpb_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333298
+    },
+    {
+      "name": "天涯鸟瞰",
+      "url": "http://gcksc.v.kcdnvip.com/gc/tyhjtynl_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333299
+    },
+    {
+      "name": "天涯鸟瞰",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/tyhjtynl_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333300
+    },
+    {
+      "name": "天涯石",
+      "url": "http://gcksc.v.kcdnvip.com/gc/tyhjtys_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333301
+    },
+    {
+      "name": "天涯石",
+      "url": "http://gccncc.v.wscdns.com/gc/tyhjtys_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333302
+    },
+    {
+      "name": "天涯石",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/tyhjtys_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333303
+    },
+    {
+      "name": "南天一柱",
+      "url": "http://gcksc.v.kcdnvip.com/gc/tyhjntyz_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333304
+    },
+    {
+      "name": "南天一柱",
+      "url": "http://gccncc.v.wscdns.com/gc/tyhjntyz_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333305
+    },
+    {
+      "name": "南天一柱",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/tyhjntyz_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333306
+    },
+    {
+      "name": "日月石",
+      "url": "http://gcksc.v.kcdnvip.com/gc/tyhjrys_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333307
+    },
+    {
+      "name": "日月石",
+      "url": "http://gccncc.v.wscdns.com/gc/tyhjrys_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333308
+    },
+    {
+      "name": "日月石",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/tyhjrys_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333309
+    },
+    {
+      "name": "平山湖大峡谷石林",
+      "url": "http://gcksc.v.kcdnvip.com/gc/pshdxg02_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333310
+    },
+    {
+      "name": "平山湖大峡谷石林",
+      "url": "http://gccncc.v.wscdns.com/gc/pshdxg02_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333311
+    },
+    {
+      "name": "平山湖大峡谷石林",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/pshdxg02_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333312
+    },
+    {
+      "name": "桂林象山公园",
+      "url": "http://gcksc.v.kcdnvip.com/gc/glxs01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333313
+    },
+    {
+      "name": "桂林象山公园",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/glxs01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333314
+    },
+    {
+      "name": "六盘山红军长征景区",
+      "url": "http://gcksc.v.kcdnvip.com/gc/lpsgmjng01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333315
+    },
+    {
+      "name": "六盘山红军长征景区",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/lpsgmjng01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333316
+    },
+    {
+      "name": "华山",
+      "url": "http://gcksc.v.kcdnvip.com/gc/hkhs01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333317
+    },
+    {
+      "name": "华山",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/hkhs01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333318
+    },
+    {
+      "name": "贵州省兴义市万峰林",
+      "url": "http://gcksc.v.kcdnvip.com/gc/xywfl_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333319
+    },
+    {
+      "name": "贵州省兴义市万峰林",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/xywfl_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333320
+    },
+    {
+      "name": "贵州省兴义市马岭河峡谷",
+      "url": "http://gcksc.v.kcdnvip.com/gc/xymlh_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333321
+    },
+    {
+      "name": "贵州省兴义市马岭河峡谷",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/xymlh_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333322
+    },
+    {
+      "name": "贵州省贞丰市双乳峰景区",
+      "url": "http://gcksc.v.kcdnvip.com/gc/xysrf_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333323
+    },
+    {
+      "name": "贵州省贞丰市双乳峰景区",
+      "url": "http://gccncc.v.wscdns.com/gc/xysrf_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333324
+    },
+    {
+      "name": "贵州省贞丰市双乳峰景区",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/xysrf_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333325
+    },
+    {
+      "name": "云南大理崇圣寺三塔中景",
+      "url": "http://gcksc.v.kcdnvip.com/gc/dlst03_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333326
+    },
+    {
+      "name": "云南大理崇圣寺三塔中景",
+      "url": "http://gccncc.v.wscdns.com/gc/dlst03_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333327
+    },
+    {
+      "name": "云南大理崇圣寺三塔中景",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/dlst03_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333328
+    },
+    {
+      "name": "云南大理崇圣寺三塔湖面",
+      "url": "http://gcksc.v.kcdnvip.com/gc/dlst02_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333329
+    },
+    {
+      "name": "云南大理崇圣寺三塔湖面",
+      "url": "http://gccncc.v.wscdns.com/gc/dlst02_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333330
+    },
+    {
+      "name": "云南大理崇圣寺三塔湖面",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/dlst02_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333331
+    },
+    {
+      "name": "云南大理崇圣寺三塔远景",
+      "url": "http://gcksc.v.kcdnvip.com/gc/dlst01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333332
+    },
+    {
+      "name": "云南大理崇圣寺三塔远景",
+      "url": "http://gccncc.v.wscdns.com/gc/dlst01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333333
+    },
+    {
+      "name": "云南大理崇圣寺三塔远景",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/dlst01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333334
+    },
+    {
+      "name": "广西桂林漓江景区",
+      "url": "http://gcksc.v.kcdnvip.com/gc/gllj01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333335
+    },
+    {
+      "name": "广西桂林漓江景区",
+      "url": "http://gccncc.v.wscdns.com/gc/gllj01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333336
+    },
+    {
+      "name": "广西桂林漓江景区",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/gllj01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333337
+    },
+    {
+      "name": "青岛崂山双福",
+      "url": "http://gcksc.v.kcdnvip.com/gc/qdls03_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333338
+    },
+    {
+      "name": "青岛崂山双福",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/qdls03_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333339
+    },
+    {
+      "name": "青岛崂山太清",
+      "url": "http://gcksc.v.kcdnvip.com/gc/qdls04_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333340
+    },
+    {
+      "name": "青岛崂山太清",
+      "url": "http://gccncc.v.wscdns.com/gc/qdls04_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333341
+    },
+    {
+      "name": "青岛崂山太清",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/qdls04_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333342
+    },
+    {
+      "name": "青岛崂山灵旗峰",
+      "url": "http://gcksc.v.kcdnvip.com/gc/qdls01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333343
+    },
+    {
+      "name": "青岛崂山灵旗峰",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/qdls01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333344
+    },
+    {
+      "name": "青岛崂山八水河",
+      "url": "http://gcksc.v.kcdnvip.com/gc/qdls02_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333345
+    },
+    {
+      "name": "青岛崂山八水河",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/qdls02_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333346
+    },
+    {
+      "name": "三亚南山文化旅游区海上观音",
+      "url": "http://gcksc.v.kcdnvip.com/gc/syns01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333347
+    },
+    {
+      "name": "三亚南山文化旅游区海上观音",
+      "url": "http://gccncc.v.wscdns.com/gc/syns01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333348
+    },
+    {
+      "name": "三亚南山文化旅游区海上观音",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/syns01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333349
+    },
+    {
+      "name": "仙都风景区",
+      "url": "http://gcksc.v.kcdnvip.com/gc/xdfjq01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333350
+    },
+    {
+      "name": "仙都风景区",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/xdfjq01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333351
+    },
+    {
+      "name": "仙都风景区",
+      "url": "http://gctxyc.liveplay.myqcloud.com/gc/xdfjq01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333352
+    },
+    {
+      "name": "宁夏黄河大峡谷",
+      "url": "http://gcksc.v.kcdnvip.com/gc/hhdxg01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333353
+    },
+    {
+      "name": "宁夏黄河大峡谷",
+      "url": "http://gccncc.v.wscdns.com/gc/hhdxg01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333354
+    },
+    {
+      "name": "宁夏黄河大峡谷",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/hhdxg01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333355
+    },
+    {
+      "name": "张掖七彩丹霞",
+      "url": "http://gcksc.v.kcdnvip.com/gc/zyqcdx01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333356
+    },
+    {
+      "name": "张掖七彩丹霞",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/zyqcdx01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333357
+    },
+    {
+      "name": "嵩山少林寺广场",
+      "url": "http://gcksc.v.kcdnvip.com/gc/zsslsgc_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333358
+    },
+    {
+      "name": "嵩山少林寺广场",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/zsslsgc_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333359
+    },
+    {
+      "name": "婺源01",
+      "url": "http://gcksc.v.kcdnvip.com/gc/wygjt1_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333360
+    },
+    {
+      "name": "婺源01",
+      "url": "http://gccncc.v.wscdns.com/gc/wygjt1_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333361
+    },
+    {
+      "name": "婺源01",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/wygjt1_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333362
+    },
+    {
+      "name": "神农架金丝猴01",
+      "url": "http://gcksc.v.kcdnvip.com/gc/jshhd01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333363
+    },
+    {
+      "name": "神农架金丝猴01",
+      "url": "http://gccncc.v.wscdns.com/gc/jshhd01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333364
+    },
+    {
+      "name": "神农架金丝猴01",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/jshhd01_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333365
+    },
+    {
+      "name": "都江堰鱼嘴",
+      "url": "http://gcksc.v.kcdnvip.com/gc/djyqyl1_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333366
+    },
+    {
+      "name": "都江堰鱼嘴",
+      "url": "http://gccncc.v.wscdns.com/gc/djyqyl1_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333367
+    },
+    {
+      "name": "都江堰鱼嘴",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/djyqyl1_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333368
+    },
+    {
+      "name": "丹霞山丹梯铁锁",
+      "url": "http://gcksc.v.kcdnvip.com/gc/dxsdtts_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333369
+    },
+    {
+      "name": "丹霞山丹梯铁锁",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/dxsdtts_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333370
+    },
+    {
+      "name": "丹霞山韶音亭",
+      "url": "http://gcksc.v.kcdnvip.com/gc/dxssyt_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333371
+    },
+    {
+      "name": "丹霞山韶音亭",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/dxssyt_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333372
+    },
+    {
+      "name": "云南红河哈尼梯田多依树景点",
+      "url": "http://gcksc.v.kcdnvip.com/gc/hnttdysjd_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333373
+    },
+    {
+      "name": "云南红河哈尼梯田多依树景点",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/hnttdysjd_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333374
+    },
+    {
+      "name": "云南红河哈尼梯田普高老寨",
+      "url": "http://gcksc.v.kcdnvip.com/gc/hnttpgsz_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333375
+    },
+    {
+      "name": "云南红河哈尼梯田普高老寨",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/hnttpgsz_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333376
+    },
+    {
+      "name": "云南红河哈尼梯田老虎嘴",
+      "url": "http://gcksc.v.kcdnvip.com/gc/hnttlhzjd_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333377
+    },
+    {
+      "name": "云南红河哈尼梯田老虎嘴",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/hnttlhzjd_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333378
+    },
+    {
+      "name": "江西龙虎山中间水泡",
+      "url": "http://gcksc.v.kcdnvip.com/gc/lhszjsp_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333379
+    },
+    {
+      "name": "江西龙虎山中间水泡",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/lhszjsp_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333380
+    },
+    {
+      "name": "江西龙虎山山涧栈道",
+      "url": "http://gcksc.v.kcdnvip.com/gc/lhssjzd_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333381
+    },
+    {
+      "name": "江西龙虎山山涧栈道",
+      "url": "http://gccncc.v.wscdns.com/gc/lhssjzd_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333382
+    },
+    {
+      "name": "江西龙虎山山涧栈道",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/lhssjzd_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333383
+    },
+    {
+      "name": "乐山大佛全景",
+      "url": "http://gcksc.v.kcdnvip.com/gc/lsdfgfl_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333384
+    },
+    {
+      "name": "乐山大佛全景",
+      "url": "http://gccncc.v.wscdns.com/gc/lsdfgfl_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333385
+    },
+    {
+      "name": "乐山大佛全景",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/lsdfgfl_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333386
+    },
+    {
+      "name": "福建武夷山玉女峰",
+      "url": "http://gcksc.v.kcdnvip.com/gc/wysynf_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333387
+    },
+    {
+      "name": "福建武夷山玉女峰",
+      "url": "http://gccncc.v.wscdns.com/gc/wysynf_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333388
+    },
+    {
+      "name": "福建武夷山玉女峰",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/wysynf_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333389
+    },
+    {
+      "name": "为天使护航",
+      "url": "http://gcksc.v.kcdnvip.com/gc/zsslsfwsgz_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333390
+    },
+    {
+      "name": "为天使护航",
+      "url": "http://gcbsc.v.live.baishancdnx.cn/gc/zsslsfwsgz_1/index.m3u8",
+      "group": "直播中国",
+      "id": 333391
+    }
+  ],
+  "sites": [
+    {
+      "key": "vipmv",
+      "name": "天堂资源",
+      "api": "http://vipmv.cc/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "status": true,
+      "type": 1,
+      "id": 2
+    },
+    {
+      "key": "wolongzyw",
+      "name": "卧龙资源",
+      "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "status": true,
+      "type": 1,
+      "id": 3,
+      "isActive": true,
+      "resource": 64482
+    },
+    {
+      "key": "lziapi",
+      "name": "量子资源",
+      "api": "http://cj.lziapi.com/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "status": true,
+      "type": 1,
+      "id": 5,
+      "isActive": true,
+      "resource": 71827
+    },
+    {
+      "key": "lehootv",
+      "name": "乐活影视",
+      "api": "https://lehootv.com/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "status": false,
+      "type": 1,
+      "id": 7
+    },
+    {
+      "key": "apibdzy",
+      "name": "百度云资源",
+      "api": "https://api.apibdzy.com/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "status": true,
+      "type": 1,
+      "id": 9,
+      "isActive": true,
+      "resource": 43560
+    },
+    {
+      "key": "明帝影视",
+      "name": "明帝影视",
+      "api": "https://ys.md214.cn/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "status": true,
+      "type": 1,
+      "id": 11
+    },
+    {
+      "key": "xinlangapi",
+      "name": "新浪资源",
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "status": true,
+      "type": 1,
+      "id": 14,
+      "isActive": true,
+      "resource": 46597
+    },
+    {
+      "key": "快车资源",
+      "name": "快车资源",
+      "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "status": true,
+      "type": 1,
+      "id": 15,
+      "isActive": true,
+      "resource": 30762
+    },
+    {
+      "key": "sdzyapi",
+      "name": "闪电资源网",
+      "api": "https://sdzyapi.com/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "isActive": true,
+      "status": true,
+      "type": 1,
+      "id": 17,
+      "resource": 36411
+    },
+    {
+      "key": "yparse",
+      "name": "步步高资源",
+      "api": "https://api.yparse.com/api/json",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "status": true,
+      "type": 1,
+      "id": 18,
+      "isActive": true,
+      "resource": 175446
+    },
+    {
+      "key": "ckzy",
+      "name": "CK资源",
+      "api": "https://ckzy.me/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "status": false,
+      "type": 1,
+      "id": 19
+    },
+    {
+      "key": "guangsuapi",
+      "name": "光速资源",
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "status": true,
+      "type": 1,
+      "id": 20,
+      "isActive": true,
+      "resource": 46831
+    },
+    {
+      "key": "feisuzy",
+      "name": "飞速资源",
+      "api": "https://www.feisuzy.com/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "isActive": true,
+      "status": false,
+      "type": 1,
+      "id": 23,
+      "resource": 52275
+    },
+    {
+      "key": "28393120-9d11-5110-b209-c925b2d8f87e",
+      "name": "非凡资源",
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "status": true,
+      "isActive": true,
+      "type": 1,
+      "id": 27,
+      "resource": 60219
+    },
+    {
+      "key": "9fbbb48c-d822-55ed-baee-40964804d8a9",
+      "name": "Ikun资源",
+      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "status": true,
+      "type": 1,
+      "id": 28,
+      "isActive": true,
+      "resource": 47127
+    },
+    {
+      "key": "apiyhzy",
+      "name": "樱花动漫",
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "status": false,
+      "type": 1,
+      "id": 29,
+      "isActive": true,
+      "resource": 96014
+    },
+    {
+      "key": "rrvipw",
+      "name": "rrvipw",
+      "api": "https://www.rrvipw.com/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "status": false,
+      "type": 1,
+      "id": 30
+    },
+    {
+      "key": "1080zyku",
+      "name": "1080zyku",
+      "api": "http://api.1080zyku.com/inc/api_mac10.php",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "status": false,
+      "type": 1,
+      "id": 31,
+      "isActive": true,
+      "resource": 46902
+    },
+    {
+      "key": "ukuapi",
+      "name": "U酷资源",
+      "api": "https://api.ukuapi.com/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "status": true,
+      "type": 1,
+      "id": 32,
+      "isActive": true,
+      "resource": 34307
+    },
+    {
+      "key": "无尽资源",
+      "name": "无尽资源",
+      "api": "https://api.wujinapi.me/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "status": true,
+      "isActive": true,
+      "type": 1,
+      "id": 34,
+      "resource": 55363
+    },
+    {
+      "key": "xiaomaomi",
+      "name": "小猫咪",
+      "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/",
+      "playUrl": "http://106.225.218.183:10209/home/api?type=ys&uid=2742611&key=efmqzACFGKORTY3479&url=",
+      "search": 1,
+      "group": "官采",
+      "status": true,
+      "isActive": true,
+      "type": 1,
+      "id": 36,
+      "resource": 64564
+    },
+    {
+      "key": "忆梦资源",
+      "name": "忆梦资源",
+      "api": "http://anltv.cn/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "status": true,
+      "type": 1,
+      "id": 40
+    },
+    {
+      "key": "adys",
+      "name": "小龟",
+      "api": "https://api123.adys.app/xgapp.php/v3/",
+      "playUrl": "",
+      "search": 1,
+      "group": "app",
+      "status": false,
+      "type": 3,
+      "id": 48,
+      "isActive": true,
+      "resource": 9999
+    },
+    {
+      "key": "iptv8848",
+      "name": "8848",
+      "api": "http://bn.iptv8848.site/api.php/app/",
+      "playUrl": "",
+      "search": 1,
+      "group": "app",
+      "status": true,
+      "isActive": true,
+      "type": 3,
+      "id": 51,
+      "resource": 9999
+    },
+    {
+      "key": "jlys6",
+      "name": "家里有事",
+      "api": "http://jlys6.top/mogai_api.php/v1.vod",
+      "playUrl": "",
+      "search": 1,
+      "group": "app",
+      "status": true,
+      "type": 4,
+      "id": 52
+    },
+    {
+      "key": "juquanweb",
+      "name": "具全",
+      "api": "http://xinxing.juquanweb.top/icciu_api.php/v1.vod",
+      "playUrl": "",
+      "search": 1,
+      "group": "app",
+      "status": true,
+      "type": 4,
+      "id": 54,
+      "isActive": true,
+      "resource": 131944
+    },
+    {
+      "key": "非凡资源",
+      "name": "非凡资源",
+      "api": "http://www.ffzy.tv/api.php/provide/vod/",
+      "group": "默认",
+      "status": true,
+      "isActive": true,
+      "type": 1,
+      "resource": 60220,
+      "id": 59,
+      "search": 1,
+      "playUrl": ""
+    },
+    {
+      "key": "最大资源",
+      "name": "最大资源",
+      "api": "http://zuidazy.me/api.php/provide/vod/at/xml",
+      "group": "默认",
+      "status": true,
+      "type": 0,
+      "search": 1,
+      "id": 80,
+      "playUrl": "",
+      "isActive": true,
+      "resource": 34946
+    },
+    {
+      "key": "5ad3edc1-8e52-5bf6-90f1-2f785465ec2a",
+      "name": "奇虎",
+      "api": "https://caiji.qhzyapi.com/api.php/provide/vod/?ac=list",
+      "playUrl": "奇虎",
+      "group": "影视",
+      "search": 1,
+      "status": true,
+      "type": 1,
+      "id": 89
+    },
+    {
+      "key": "a00bc761-7b9f-5804-9bfd-7a07322159b5",
+      "name": "海外",
+      "api": "http://api.haiwaikan.com/v1/vod?ac=list",
+      "playUrl": "http://api.haiwaikan.com/v1/vod?ac=list",
+      "group": "影视",
+      "search": 1,
+      "status": false,
+      "type": 1,
+      "id": 97
+    },
+    {
+      "key": "bajiecaiji",
+      "name": "八戒采集",
+      "api": "http://cj.bajiecaiji.com/inc/bjm3u8.php",
+      "group": "影视",
+      "status": true,
+      "type": 0,
+      "search": 1,
+      "id": 104,
+      "playUrl": "",
+      "isActive": true,
+      "resource": 54398
+    }
+  ],
+  "setting": [
+    {
+      "id": 0,
+      "theme": "light",
+      "externalPlayer": "",
+      "defaultHot": "kylive",
+      "defaultSearchRecommend": "douban",
+      "defaultSearchType": "group",
+      "defaultCheckModel": true,
+      "defaultChangeModel": false,
+      "defaultIptvEpg": "https://epg.112114.eu.org/",
+      "iptvSkipIpv6": true,
+      "iptvThumbnail": false,
+      "restoreWindowPositionAndSize": false,
+      "pauseWhenMinimize": true,
+      "defaultSite": 3,
+      "defaultIptv": 17,
+      "defaultAnalyze": 3,
+      "analyzeFlag": [
+        "youku",
+        "qq",
+        "iqiyi",
+        "qiyi",
+        "letv",
+        "sohu",
+        "tudou",
+        "pptv",
+        "mgtv"
+      ],
+      "analyzeQuickSearchType": "platform",
+      "analyzeSupport": true,
+      "broadcasterType": "xgplayer",
+      "softSolution": false,
+      "skipStartEnd": true,
+      "agreementMask": true,
+      "recordShortcut": "Shift+Command+Z",
+      "selfBoot": false,
+      "hardwareAcceleration": true,
+      "doh": "",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
+      "communitySubscribe": "",
+      "iptvStatus": true,
+      "dns": "https://sm2.doh.pub/dns-query",
+      "webdevUrl": "https://dav.jianguoyun.com/dav/",
+      "webdevUsername": "wy-hai@qq.com",
+      "webdevPassword": "ai4ymsm38zc4y7c7",
+      "snifferType": "pie",
+      "defaultDrive": 33
+    }
+  ]
+}
