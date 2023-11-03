@@ -1,11 +1,9 @@
-<H1 align="center">Repository</H1>
-
-<p align="center">
+<H2 align="center">
 <a href="https://github.com/aa1555/Repository/tree/main/Nodes">节点</a> |
 <a href="https://github.com/aa1555/Repository/blob/main/TV%E6%8E%A5%E5%8F%A3.md">TV接口</a> |
 <a href="https://github.com/aa1555/Repository/blob/main/TG%E7%BE%A4.md">TG群</a> |
 <a href="https://github.com/aa1555?tab=stars">Stars</a> 
-</p>
+</H2>
 
 <hr>
 
