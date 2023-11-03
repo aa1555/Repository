@@ -1,6 +1,6 @@
-[📺TV Box 配置](https://github.com/aa1555/Repository/tree/main/TV%20Box%20Config) 
+[📺TV Box 配置](https://github.com/aa1555/Repository/tree/main/Video/TV%20Box%20%E9%85%8D%E7%BD%AE) 
 
-[📺ZY Player 配置](https://github.com/aa1555/Repository/tree/main/ZY%20Player%20Config) 
+[📺ZY Player 配置](https://github.com/aa1555/Repository/tree/main/Video/ZY%20Player%20%E9%85%8D%E7%BD%AE) 
 
 [📺直播源格式转换](https://guihet.com/tvlistconvert.html) 
 
@@ -24,21 +24,19 @@
 
 - <b>🗂单仓:</b>
 
-  https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/TV%20Box%20Config/TVBox%20%E8%87%AA%E7%94%A8%E4%BB%93.json
-
+  https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/TV%20Box%20%E9%85%8D%E7%BD%AE/TVBox%20%E8%87%AA%E7%94%A8%E4%BB%93.json
+  
 - <b>🗂单仓2：</b>
 
-  https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/TV%20Box%20Config/TVBox%20%E8%87%AA%E7%94%A8%E4%BB%932.json
+  https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/TV%20Box%20%E9%85%8D%E7%BD%AE/TVBox%20%E8%87%AA%E7%94%A8%E4%BB%932.json
 
 - <b>🗂🗂多仓：</b>
 
-  https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/TV%20Box%20Config/TVBox%20%E8%87%AA%E7%94%A8%E5%A4%9A%E4%BB%93.json
+  https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/TV%20Box%20%E9%85%8D%E7%BD%AE/TVBox%20%E8%87%AA%E7%94%A8%E5%A4%9A%E4%BB%93.json
 
 ### ZY Player 接口
 
-- https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/ZY%20Player%20Config/ZY%20Player%20%E6%95%B0%E6%8D%AE%E6%BA%90%20%E7%B2%BE%E9%80%89%E8%87%AA%E7%94%A8.json
-
-- https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/ZY%20Player%20Config/ZY%20Player%20%E6%95%B0%E6%8D%AE%E6%BA%902.json
+- https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/ZY%20Player%20%E9%85%8D%E7%BD%AE/ZY%20Player%20%E6%95%B0%E6%8D%AE%E6%BA%90%20%E6%95%B4%E7%90%86%E7%BB%88%E6%9E%81%E7%89%88%20config.json
 
 </details>
 
@@ -164,7 +162,7 @@
 
 <hr>
 
-## [Github RAW 加速服务](https://github.com/aa1555/Repository/blob/main/Github%20RAW%20%E5%8A%A0%E9%80%9F%E6%9C%8D%E5%8A%A1.md)
+## [Github RAW 加速服务](https://github.com/aa1555/Repository/blob/main/Misc/Github%20RAW%20%E5%8A%A0%E9%80%9F%E6%9C%8D%E5%8A%A1.md)
 
 
 
