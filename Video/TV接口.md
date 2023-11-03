@@ -64,11 +64,11 @@
 
 - <b>🗂单仓：</b>
 
-  https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/tvbox/main/%E8%87%AA%E7%94%A8%E5%8D%95%E4%BB%93
+  https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/TVBox/main/ck.json
   
 - <b>🗂单仓2：<b>
 
-  https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/TVBox/main/%E8%87%AA%E7%94%A8%E5%8D%95%E4%BB%932
+  https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/TVBox/main/ck2.json
   
 - <b>🗂🗂多仓：<b>
 
