@@ -10,15 +10,6 @@
 
 
 
-- 官网：https://ghproxy.com(失效)
-
-  打开网站输入github raw链接生成加速链接
-
-  或者直接输入链接：
-
-  `https://ghproxy.com/`后面接raw地址
-
-
 
 - 官网：https://gh-proxy.com
 
@@ -47,4 +38,14 @@
   直接输入链接：
   
   `https://raw.fastgit.org/`后面接用户名及后面部分。
+
+
+
+  - 官网：https://ghproxy.com(失效)
+
+  打开网站输入github raw链接生成加速链接
+
+  或者直接输入链接：
+
+  `https://ghproxy.com/`后面接raw地址
 
