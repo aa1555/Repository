@@ -26,7 +26,7 @@
 
   或者直接输入链接：
 
-  `https://gh-proxy.com`后面接raw地址
+  `https://gh-proxy.com/`后面接raw地址
 
   
 
