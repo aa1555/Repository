@@ -20,6 +20,16 @@
 
 
 
+- 官网：https://gh-proxy.com
+
+  打开网站输入github raw链接生成加速链接
+
+  或者直接输入链接：
+
+  `https://gh-proxy.com`后面接raw地址
+
+  
+
 - 官网：https://www.jsdelivr.com/github
 
   打开网站输入github raw链接生成加速链接
