@@ -41,7 +41,7 @@
 
 
 
-  - 官网：https://ghproxy.com(失效)
+- 官网：https://ghproxy.com (失效)
 
   打开网站输入github raw链接生成加速链接
 
