@@ -25,10 +25,6 @@
 - <b>🗂单仓:</b>
 
   https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/TV%20Box%20%E9%85%8D%E7%BD%AE/TVBox%20%E8%87%AA%E7%94%A8%E4%BB%93.json
-  
-- <b>🗂单仓2：</b>
-
-  https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/TV%20Box%20%E9%85%8D%E7%BD%AE/TVBox%20%E8%87%AA%E7%94%A8%E4%BB%932.json
 
 - <b>🗂🗂多仓：</b>
 

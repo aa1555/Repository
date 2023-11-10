@@ -1,11 +1,9 @@
-// 自用多仓
-// 接口来源于网络
+// 自用仓
 // storeHouse译为仓库
 
 {"storeHouse": 
 [ 
-{"sourceName":"自用仓1","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/aa1555/aa1555/main/TV%20Box%20%E9%85%8D%E7%BD%AE/TVBox%20%E8%87%AA%E7%94%A8%E4%BB%93.json" }, 
-{"sourceName":"自用仓2","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/aa1555/aa1555/main/TV%20Box%20%E9%85%8D%E7%BD%AE/TVBox%20%E8%87%AA%E7%94%A8%E4%BB%932.json" },
-{"sourceName":"mengzehe/TVBox","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/tvbox/main/%E8%87%AA%E7%94%A8%E5%8D%95%E4%BB%93" }
+{"sourceName":"自用仓","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/TV%20Box%20%E9%85%8D%E7%BD%AE/TVBox%20%E8%87%AA%E7%94%A8%E4%BB%93.json" }, 
+{"sourceName":"mengzehe/TVBox","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/TVBox/main/ck.json" }
 ] 
 }
