@@ -5,9 +5,14 @@
 {"urls":
 [
 
-{"url":"http://cdn.qiaoji8.com/tvbox.json","name": "巧技"},
 
-{"url":"https://download.kstore.space/download/4907/jcsq/fx.json","name": "据说是用的巧技的接口"},
+{"url":"http://pandown.pro/tvbox/tvbox.json","name": "巧计线路1"},
+
+{"url":"http://cdn.qiaoji8.com/tvbox.json","name": "巧计线路2"},
+
+{"url":"https://download.kstore.space/download/4907/jcsq/fx.json","name": "据说也是用的巧技的接口"},
+
+{"url":"http://我不是.肥猫.love:63/接口禁止贩卖","name": "肥猫线路"},
 
 {"url":"http://饭太硬.top/tv","name": "饭太硬线路"},
 
@@ -23,8 +28,6 @@
 
 {"url":"https://yydsys.top/duo","name": "多多家庭线路"},
 
-{"url":"http://我不是.肥猫.love:63/接口禁止贩卖","name": "肥猫线路"},
-
 {"url":"http://tvbo.run.goorm.site/tangs.json","name": "唐三线路"},
 
 {"url":"https://tvbox.cainisi.cf","name": "菜妮丝线" },
@@ -33,7 +36,7 @@
 
 {"url":"http://52bsj.vip:98/cl","name":"宝盒汇线"},
 
-{"url":"http://pandown.pro/tvbox/tvbox.json","name": "巧计线路"}
+
 
 ]
 }
