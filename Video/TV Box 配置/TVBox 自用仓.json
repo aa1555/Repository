@@ -4,6 +4,8 @@
 
 {"urls":
 [
+{"url":"http://cdn.qiaoji8.com/tvbox.json","name": "巧技"},
+{"url":"https://download.kstore.space/download/4907/jcsq/fx.json","name": "据说是用的巧技的接口"},
 {"url":"https://gitee.com/PizazzGY/TVBox_warehouse/raw/main/直播/api.json","name":"PizazzGY直播"},
 {"url":"http://饭太硬.top/tv","name": "饭太硬线"},
 {"url":"http://xhww.fun:63/小米/DEMO.json","name": "小暴脾气"},
