@@ -50,9 +50,9 @@
 
 - <b>📺直播源：</b>
 
-  https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u
+  https://live.fanmingming.com/tv/m3u/global.m3u
 
-  https://ghproxy.net/https://github.com/fanmingming/live/blob/main/tv/m3u/global.m3u
+  https://ghproxy.net/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u
 
 ### 项目地址：[mengzehe/TVBox](https://github.com/mengzehe/TVBox)
 
