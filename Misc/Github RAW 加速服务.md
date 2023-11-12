@@ -15,7 +15,7 @@
 
 
 
-- 官网：https://mirror.ghproxy.com/
+- 官网：https://mirror.ghproxy.com
 
   加速链接：
 
@@ -24,7 +24,7 @@
 
 
 
-- 官网：https://gh.api.99988866.xyz/
+- 官网：https://gh.api.99988866.xyz
 
   加速链接：
 
@@ -33,7 +33,7 @@
 
   
 
-- 官网：https://raw.gitmirror.com/
+- 官网：https://gitmirror.com
 
   加速链接：
 
@@ -50,7 +50,7 @@
 
 
 
-- 官网：https://doc.fastgit.org/zh-cn/
+- 官网：https://doc.fastgit.org/zh-cn
 
   加速链接：
   
