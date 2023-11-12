@@ -47,7 +47,7 @@
 ### ZY Player 接口
 
 - 一键导入配置:
- https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/ZY%20Player%20%E9%85%8D%E7%BD%AE/ZY%20Player%20%E6%95%B0%E6%8D%AE%E6%BA%90%20%E6%95%B4%E7%90%86%E7%BB%88%E6%9E%81%E7%89%88%20config.json
+ https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/ZY%20Player%20%E9%85%8D%E7%BD%AE/ZY%20Player%20%E6%95%B0%E6%8D%AE%E6%BA%90.json
 
 </details>
 
