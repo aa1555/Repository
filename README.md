@@ -68,18 +68,6 @@
 
 <hr>
 
-### [Proxy](https://github.com/tbbatbb/Proxy) 
-
-- <b>Clash订阅链接:</b>
-
-  https://ghproxy.net/https://raw.githubusercontent.com/tbbatbb/Proxy/master/dist/clash.config.yaml
-  
-- <b>V2Ray订阅链接:</b>
-
-  https://ghproxy.net/https://raw.githubusercontent.com/tbbatbb/Proxy/master/dist/v2ray.config.txt
-
-<hr>
-
 ### [freenode](https://github.com/ripaojiedian/freenode)
 
 - <b>Clash订阅：</b>
