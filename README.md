@@ -213,8 +213,14 @@
 
 ## 其他代码托管平台
 
-### ● gitee：https://gitee.com/
+<details>
+  
+  <summary><b>详情</b></summary>
 
-### ● agit：https://agit.ai/
+### ● [gitee](https://gitee.com/)
 
-### ● notabug：https://notabug.org/explore/repos
+### ● [agit](https://agit.ai/)
+
+### ● [notabug](https://notabug.org/explore/repos)
+
+</details>
