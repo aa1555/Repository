@@ -1,3 +1,9 @@
+1.导航
+
+<details>
+  
+  <summary><b>详情</b></summary>
+
 [📺TV Box 配置](https://github.com/aa1555/Repository/tree/main/Video/TV%20Box%20%E9%85%8D%E7%BD%AE) 
 
 [📺ZY Player 配置](https://github.com/aa1555/Repository/tree/main/Video/ZY%20Player%20%E9%85%8D%E7%BD%AE) 
@@ -12,9 +18,11 @@
 
 [📺国内外电视频道直播源搜索]( https://www.foodieguide.com/iptvsearch)
 
+</details>
+
 <hr>
 
-## 自用
+## 2.自用
 
 <details>
   
@@ -42,7 +50,7 @@
 
 <hr>
 
-## 收集的TV接口
+## 3.收集的TV接口
 
 <details>
   
@@ -108,7 +116,7 @@
 
 <hr>
 
-## TVBox各路大佬配置（排名不分先后）
+## 4.TVBox各路大佬配置（排名不分先后）
 
 <details>
   
@@ -166,7 +174,9 @@
 
 <hr>
 
-## [Github RAW 加速服务](https://github.com/aa1555/Repository/blob/main/Misc/Github%20RAW%20%E5%8A%A0%E9%80%9F%E6%9C%8D%E5%8A%A1.md)
+## 加速服务
+
+[Github RAW 加速服务](https://github.com/aa1555/Repository/blob/main/Misc/Github%20RAW%20%E5%8A%A0%E9%80%9F%E6%9C%8D%E5%8A%A1.md)
 
 
 
