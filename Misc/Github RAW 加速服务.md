@@ -12,6 +12,7 @@
   加速链接：
 
   `https://gh-proxy.com/`后面接raw地址
+  <hr>
 
 
 
@@ -20,7 +21,7 @@
   加速链接：
 
   `https://mirror.ghproxy.com/`后面接raw地址
-
+  <hr>
 
 
 
@@ -29,7 +30,7 @@
   加速链接：
 
   `https://gh.api.99988866.xyz/`后面接raw地址
-
+  <hr>
 
 
 
@@ -38,7 +39,8 @@
   加速链接：
 
   `https://fastly.jsdelivr.net/gh/`后面接raw地址的用户名及后面部分，把main前面的/改成@
-
+  <hr>
+  
 
 
 - 官网：https://doc.fastgit.org/zh-cn
@@ -46,7 +48,7 @@
   加速链接：
   
   `https://raw.fastgit.org/`后面接raw地址的用户名及后面部分。
-
+  <hr>
 
 
 
