@@ -18,7 +18,7 @@
 
 
 
- ## 1.节点编辑工具</b>
+ ## (1)节点编辑工具</b>
 
 [订阅转换](https://bianyuan.xyz/) | [节点转Clash](https://v1.v2rayse.com/v2ray-clash/) | [Base64编码解码](https://tool.oschina.net/encrypt?type=3) | [TXT文本处理工具](http://www.txttool.com/)
 
@@ -28,7 +28,7 @@
 
 
 
-## 2.节点订阅
+## (2)节点订阅
 
 <details>
   
@@ -196,13 +196,13 @@
 
 <hr>
 
-## 3.加速服务
+## (3)加速服务
 
 ### [Github RAW 加速服务](https://github.com/aa1555/Repository/blob/main/Misc/Github%20RAW%20%E5%8A%A0%E9%80%9F%E6%9C%8D%E5%8A%A1.md)
 
 <hr>
 
-## 4.其他代码托管平台
+## (4)其他代码托管平台
 
 <details>
   
