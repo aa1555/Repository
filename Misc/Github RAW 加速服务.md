@@ -31,15 +31,6 @@
   `https://gh.api.99988866.xyz/`后面接raw地址
 
 
-  
-
-- 官网：https://gitmirror.com
-
-  加速链接：
-
-  `https://raw.gitmirror.com/`后面接raw地址的用户名及后面部分
-
-
 
 
 - 官网：https://www.jsdelivr.com/github
@@ -58,3 +49,11 @@
 
 
 
+
+- 官网：https://gitmirror.com
+
+  有一些文件类型被过滤掉了
+
+  加速链接：
+
+  `https://raw.gitmirror.com/`后面接raw地址的用户名及后面部分
