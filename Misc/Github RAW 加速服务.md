@@ -1,6 +1,6 @@
-## Github RAW 加速服务 
+## 官网：
 
-### 官网：https://ghproxy.net
+https://ghproxy.net
 
   加速链接：
 
