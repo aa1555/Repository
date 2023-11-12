@@ -3,9 +3,9 @@
 
 {"urls":
 [
-{"url":"http://pandown.pro/tvbox/tvbox.json","name": "巧计线路1（需验证码）"},
+{"url":"http://pandown.pro/tvbox/tvbox.json","name": "巧计线路1"},
 
-{"url":"http://cdn.qiaoji8.com/tvbox.json","name": "巧计线路2（需验证码）"},
+{"url":"http://cdn.qiaoji8.com/tvbox.json","name": "巧计线路2"},
 
 {"url":"https://download.kstore.space/download/4907/jcsq/fx.json","name": "据说也是用的巧技的接口"},
 
