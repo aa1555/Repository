@@ -210,12 +210,12 @@
   
   <summary><b>详情</b></summary>
 
+- [极狐GitLab](https://jihulab.com/)
+
 - [gitee](https://gitee.com/)
 
 - [agit](https://agit.ai/)
 
 - [notabug](https://notabug.org/explore/repos)
-
-- [极狐GitLab](https://jihulab.com/)
 
 </details>
