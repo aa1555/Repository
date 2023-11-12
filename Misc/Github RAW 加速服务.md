@@ -2,9 +2,7 @@
 
 - 官网：https://ghproxy.net
 
-  打开网站输入github raw链接生成加速链接
-
-  或者直接输入链接：
+  加速链接：
 
   `https://ghproxy.net/`后面接raw地址
 
@@ -13,9 +11,7 @@
 
 - 官网：https://gh-proxy.com
 
-  打开网站输入github raw链接生成加速链接
-
-  或者直接输入链接：
+  加速链接：
 
   `https://gh-proxy.com/`后面接raw地址
 
@@ -23,9 +19,7 @@
 
 - 官网：https://www.jsdelivr.com/github
 
-  打开网站输入github raw链接生成加速链接
-
-  或者直接输入链接：
+  加速链接：
 
   `https://cdn.jsdelivr.net/gh/`后面接用户名及后面部分，把main前面的/改成@
 
@@ -35,7 +29,7 @@
 
 - 官网：https://doc.fastgit.org/zh-cn/
 
-  直接输入链接：
+  加速链接：
   
   `https://raw.fastgit.org/`后面接用户名及后面部分。
 
@@ -43,9 +37,15 @@
 
 - 官网：https://mirror.ghproxy.com/
 
-  打开网站输入github raw链接生成加速链接
-
-  或者直接输入链接：
+  加速链接：
 
   `https://mirror.ghproxy.com/`后面接raw地址
 
+
+
+
+- 官网：https://gh.api.99988866.xyz/
+
+  加速链接：
+
+  `https://gh.api.99988866.xyz/`后面接raw地址
