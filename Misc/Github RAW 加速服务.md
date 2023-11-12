@@ -3,7 +3,7 @@
   加速链接：
 
   `https://ghproxy.net/`后面接raw地址
-<br>
+<hr>
 
 
 
