@@ -210,6 +210,8 @@
   
   <summary><b>详情</b></summary>
 
+- [GitHub](https://github.com/)
+
 - [极狐GitLab](https://jihulab.com/)
 
 - [gitee](https://gitee.com/)
