@@ -33,6 +33,15 @@
 
   
 
+- 官网：https://raw.gitmirror.com/
+
+  加速链接：
+
+  `https://raw.gitmirror.com/`后面接raw地址的用户名及后面部分
+
+
+
+
 - 官网：https://www.jsdelivr.com/github
 
   加速链接：
