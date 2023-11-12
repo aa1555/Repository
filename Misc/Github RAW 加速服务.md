@@ -1,4 +1,4 @@
-- <b>官网<b>：https://ghproxy.net
+- 官网：https://ghproxy.net
 
   加速链接：
 
