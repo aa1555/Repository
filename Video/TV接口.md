@@ -24,7 +24,7 @@
 
 <hr>
 
-<h2 align="center">自用接口</h2>
+<h2 align="center">自用的TV接口</h2>
 
 <details>
   
