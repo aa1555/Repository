@@ -15,6 +15,24 @@
 
   `https://gh-proxy.com/`后面接raw地址
 
+
+
+- 官网：https://mirror.ghproxy.com/
+
+  加速链接：
+
+  `https://mirror.ghproxy.com/`后面接raw地址
+
+
+
+
+- 官网：https://gh.api.99988866.xyz/
+
+  加速链接：
+
+  `https://gh.api.99988866.xyz/`后面接raw地址
+
+
   
 
 - 官网：https://www.jsdelivr.com/github
@@ -35,17 +53,3 @@
 
 
 
-- 官网：https://mirror.ghproxy.com/
-
-  加速链接：
-
-  `https://mirror.ghproxy.com/`后面接raw地址
-
-
-
-
-- 官网：https://gh.api.99988866.xyz/
-
-  加速链接：
-
-  `https://gh.api.99988866.xyz/`后面接raw地址
