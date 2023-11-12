@@ -39,7 +39,7 @@
 
   加速链接：
 
-  `https://fastly.jsdelivr.net/gh/`后面接用户名及后面部分，把main前面的/改成@
+  `https://fastly.jsdelivr.net/gh/`后面接raw地址的用户名及后面部分，把main前面的/改成@
 
 
 
@@ -47,7 +47,7 @@
 
   加速链接：
   
-  `https://raw.fastgit.org/`后面接用户名及后面部分。
+  `https://raw.fastgit.org/`后面接raw地址的用户名及后面部分。
 
 
 
