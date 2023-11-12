@@ -1,0 +1,670 @@
+收藏,#genre#
+凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰资讯,http://r.jdshipin.com/0Rp07
+证券资讯,http://cntv.lat/tv/live.php?auth=231110&id=jiazheng
+
+
+
+
+
+全球直连,#genre#
+CCTV-1 综合,http://cntv.lat/tv/live.php?auth=231110&id=cctv1HD
+CCTV-2 财经,http://cntv.lat/tv/live.php?auth=231110&id=cctv2HD
+CCTV-3 综艺,http://cntv.lat/tv/live.php?auth=231110&id=cctv3HD
+CCTV-4 中文国际,http://cntv.lat/tv/live.php?auth=231110&id=cctv4HD
+CCTV-5 体育,http://cntv.lat/tv/live.php?auth=231110&id=cctv5HD
+CCTV-5+ 体育赛事,http://cntv.lat/tv/live.php?auth=231110&id=cctv5SportHD
+CCTV-6 电影,http://cntv.lat/tv/live.php?auth=231110&id=cctv6HD
+CCTV-7 国防军事,http://cntv.lat/tv/live.php?auth=231110&id=cctv7HD
+CCTV-8 电视剧,http://cntv.lat/tv/live.php?auth=231110&id=cctv8HD
+CCTV-9 纪录,http://cntv.lat/tv/live.php?auth=231110&id=cctv9HD
+CCTV-10 科教,http://cntv.lat/tv/live.php?auth=231110&id=cctv10HD
+CCTV-11 戏曲,http://cntv.lat/tv/live.php?auth=231110&id=cctv11HD
+CCTV-12 社会与法,http://cntv.lat/tv/live.php?auth=231110&id=cctv12HD
+CCTV-13 新闻,http://cntv.lat/tv/live.php?auth=231110&id=CCTVNewsHD
+CCTV-14 少儿,http://cntv.lat/tv/live.php?auth=231110&id=cctvseHD
+CCTV-15 音乐,http://cntv.lat/tv/live.php?auth=231110&id=cctv15HD
+CCTV-16 奥林匹克,http://cntv.lat/tv/live.php?auth=231110&id=cctv16HD
+CCTV-17 农业农村,http://cntv.lat/tv/live.php?auth=231110&id=cctv17HD
+CCTV-4K 超高清,http://cntv.lat/tv/live.php?auth=231110&id=CCTV4K
+CCTV-16 4K,http://cntv.lat/tv/live.php?auth=231110&id=CCTV16_4K
+CHC动作电影,http://cntv.lat/tv/live.php?auth=231110&id=chcdzdyHD
+CHC家庭影院,http://cntv.lat/tv/live.php?auth=231110&id=chcjtyyHD
+CHC高清电影,http://cntv.lat/tv/live.php?auth=231110&id=chcgqdyHD
+北京卫视,http://cntv.lat/tv/live.php?auth=231110&id=beijingHD
+浙江卫视,http://cntv.lat/tv/live.php?auth=231110&id=zhejiangHD
+东方卫视,http://cntv.lat/tv/live.php?auth=231110&id=shanghaiHD
+深圳卫视,http://cntv.lat/tv/live.php?auth=231110&id=shenzhenHD
+辽宁卫视,http://cntv.lat/tv/live.php?auth=231110&id=liaoningHD
+天津卫视,http://cntv.lat/tv/live.php?auth=231110&id=tianjinHD
+贵州卫视,http://cntv.lat/tv/live.php?auth=231110&id=guizhouHD
+四川卫视,http://cntv.lat/tv/live.php?auth=231110&id=sichuanHD
+重庆卫视,http://cntv.lat/tv/live.php?auth=231110&id=chongqingHD
+江苏卫视,http://cntv.lat/tv/live.php?auth=231110&id=jiangsuHD
+云南卫视,http://cntv.lat/tv/live.php?auth=231110&id=yunnanSD
+东南卫视,http://cntv.lat/tv/live.php?auth=231110&id=dongnanHD
+黑龙江卫视,http://cntv.lat/tv/live.php?auth=231110&id=heilongjiangHD
+安徽卫视,http://cntv.lat/tv/live.php?auth=231110&id=anhuiSD
+河北卫视,http://cntv.lat/tv/live.php?auth=231110&id=hebeiSD
+江西卫视,http://cntv.lat/tv/live.php?auth=231110&id=jiangxiHD
+湖北卫视,http://cntv.lat/tv/live.php?auth=231110&id=hubeiSD
+海南卫视,http://cntv.lat/tv/live.php?auth=231110&id=hainanSD
+吉林卫视,http://cntv.lat/tv/live.php?auth=231110&id=jilinHD
+广西卫视,http://cntv.lat/tv/live.php?auth=231110&id=guangxiHD
+内蒙古卫视,http://cntv.lat/tv/live.php?auth=231110&id=neimengkuSD
+湖南卫视,http://cntv.lat/tv/live.php?auth=231110&id=hunanHD
+广东卫视,http://cntv.lat/tv/live.php?auth=231110&id=guangdongHD
+河南卫视,http://cntv.lat/tv/live.php?auth=231110&id=henanHD
+山西卫视,http://cntv.lat/tv/live.php?auth=231110&id=shanxiSD
+兵团卫视,http://cntv.lat/tv/live.php?auth=231110&id=bingtuanSD
+宁夏卫视,http://cntv.lat/tv/live.php?auth=231110&id=ningxia
+卡酷少儿,http://cntv.lat/tv/live.php?auth=231110&id=bjkakuSD
+金鹰卡通,http://cntv.lat/tv/live.php?auth=231110&id=jinyingSD
+三沙卫视,http://cntv.lat/tv/live.php?auth=231110&id=sanshaSD
+青海卫视,http://cntv.lat/tv/live.php?auth=231110&id=qinghaiSD
+新疆卫视,http://cntv.lat/tv/live.php?auth=231110&id=xinjiangSD
+西藏卫视,http://cntv.lat/tv/live.php?auth=231110&id=xizangSD
+中国天气,http://cntv.lat/tv/live.php?auth=231110&id=tianqiSD
+北京纪实科教,http://cntv.lat/tv/live.php?auth=231110&id=bjayjsSD
+山东教育卫视,http://cntv.lat/tv/live.php?auth=231110&id=sdjiaoyuSD
+CETV-1,http://cntv.lat/tv/live.php?auth=231110&id=cetv-1SD
+CETV-4,http://cntv.lat/tv/live.php?auth=231110&id=cetv-4SD
+早期教育,http://cntv.lat/tv/live.php?auth=231110&id=zaojiaoHD
+欢笑剧场 4K,http://cntv.lat/tv/live.php?auth=231110&id=hxjc_4K
+生活时尚,http://cntv.lat/tv/live.php?auth=231110&id=shenghuo
+百姓健康,http://cntv.lat/tv/live.php?auth=231110&id=jiankangSD
+快乐垂钓,http://cntv.lat/tv/live.php?auth=231110&id=klcdHD
+都市剧场,http://cntv.lat/tv/live.php?auth=231110&id=dsjcHD
+动漫秀场,http://cntv.lat/tv/live.php?auth=231110&id=dmxcHD
+魅力足球,http://cntv.lat/tv/live.php?auth=231110&id=mlzqHD
+求索纪录,http://cntv.lat/tv/live.php?auth=231110&id=qsjlHD
+游戏风云,http://cntv.lat/tv/live.php?auth=231110&id=yxfyHD
+东方财经,http://cntv.lat/tv/live.php?auth=231110&id=dfcj
+证券服务,http://cntv.lat/tv/live.php?auth=231110&id=jiazheng
+书画,http://cntv.lat/tv/live.php?auth=231110&id=shuhua
+新动漫,http://cntv.lat/tv/live.php?auth=231110&id=dongman
+国学频道,http://cntv.lat/tv/live.php?auth=231110&id=guoxue
+优优宝贝,http://cntv.lat/tv/live.php?auth=231110&id=youxi
+中华特产,http://cntv.lat/tv/live.php?auth=231110&id=techan
+环球奇观,http://cntv.lat/tv/live.php?auth=231110&id=car
+生态环境,http://cntv.lat/tv/live.php?auth=231110&id=shengtai
+四海钓鱼,http://cntv.lat/tv/live.php?auth=231110&id=diaoyu
+车迷,http://cntv.lat/tv/live.php?auth=231110&id=doxtv
+法治天地,http://cntv.lat/tv/live.php?auth=231110&id=fazhi
+金色学堂,http://cntv.lat/tv/live.php?auth=231110&id=jinse
+收藏天下,http://cntv.lat/tv/live.php?auth=231110&id=soucang
+财富天下,http://cntv.lat/tv/live.php?auth=231110&id=caifu
+天元围棋,http://cntv.lat/tv/live.php?auth=231110&id=weiqi
+先锋乒羽,http://cntv.lat/tv/live.php?auth=231110&id=xianfeng
+环球旅游,http://cntv.lat/tv/live.php?auth=231110&id=huanqiulvyou
+摄影频道,http://cntv.lat/tv/live.php?auth=231110&id=sheying
+风云剧场,http://cntv.lat/tv/live.php?auth=231110&id=fyjcHD
+第一剧场,http://cntv.lat/tv/live.php?auth=231110&id=diyijuchangHD
+女性时尚,http://cntv.lat/tv/live.php?auth=231110&id=nvxing
+怀旧剧场,http://cntv.lat/tv/live.php?auth=231110&id=hjjcHD
+风云音乐,http://cntv.lat/tv/live.php?auth=231110&id=fyyyHD
+央视台球,http://cntv.lat/tv/live.php?auth=231110&id=ystqHD
+风云足球,http://cntv.lat/tv/live.php?auth=231110&id=fyzqHD
+央视文化精品,http://cntv.lat/tv/live.php?auth=231110&id=yswhHD
+高尔夫网球,http://cntv.lat/tv/live.php?auth=231110&id=golfHD
+兵器科技,http://cntv.lat/tv/live.php?auth=231110&id=bqkjHD
+发现之旅,http://cntv.lat/tv/live.php?auth=231110&id=faxian
+中学生,http://cntv.lat/tv/live.php?auth=231110&id=qicai
+老故事,http://cntv.lat/tv/live.php?auth=231110&id=gushi
+优购物,http://cntv.lat/tv/live.php?auth=231110&id=yougouwu
+风尚购物,http://cntv.lat/tv/live.php?auth=231110&id=fsgw
+聚鲨环球精选,http://cntv.lat/tv/live.php?auth=231110&id=jusha
+中视购物,http://cntv.lat/tv/live.php?auth=231110&id=ysgw
+家有购物,http://cntv.lat/tv/live.php?auth=231110&id=jygw
+央广购物,http://cntv.lat/tv/live.php?auth=231110&id=yggw
+浙江公共新闻,http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江教科影视,http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江数码时代,http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江经济生活,http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江钱江频道,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+内蒙古新闻综合,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
+内蒙古经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
+内蒙古少儿频道,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
+内蒙古文体娱乐,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
+内蒙古农牧频道,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800
+内蒙古蒙语卫视,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
+内蒙古蒙语文化,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
+重庆新闻,http://cntv.lat/tv/live.php?auth=231110&id=CQTVNewsHD
+重庆影视,http://cntv.lat/tv/live.php?auth=231110&id=cqyingshiHD
+重庆社会与法,http://cntv.lat/tv/live.php?auth=231110&id=CQTVTrendyHD
+重庆时尚生活,http://cntv.lat/tv/live.php?auth=231110&id=cqssgwHD
+重庆文体娱乐,http://cntv.lat/tv/live.php?auth=231110&id=cqwtylHD
+重庆新农村,http://cntv.lat/tv/live.php?auth=231110&id=cqggncHD
+重庆少儿,http://cntv.lat/tv/live.php?auth=231110&id=cqseHD
+重庆科教,http://cntv.lat/tv/live.php?auth=231110&id=CQTVkejiaoHD
+爱看导视,http://cntv.lat/tv/live.php?auth=231110&id=aikanHD
+重庆汽摩,http://cntv.lat/tv/live.php?auth=231110&id=cqcarSD
+重庆移动,http://cntv.lat/tv/live.php?auth=231110&id=mryyHD
+重广融媒,http://cntv.lat/tv/live.php?auth=231110&id=cqrongmei
+凤凰中文,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
+凤凰资讯,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
+翡翠台,https://pi.0472.org/tv/fct.php?auth=231110
+明珠台,https://pi.0472.org/tv/mzt.php?auth=231110
+澳视澳门,https://pi.0472.org/tv/asam.php?auth=231110
+星空卫视,https://pi.0472.org/tv/startv.php?auth=231110
+澳亚卫视,https://pi.0472.org/tv/aoya.php?auth=231110
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+莲花卫视,https://cntv.lat/tv/lhws.php
+人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+CGTN,http://cntv.lat/tv/live.php?auth=231110&id=cgtnSD
+CGTN记录,https://livedoc.cgtn.com/500d/prog_index.m3u8
+CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
+CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
+CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
+CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
+NHKWORLD,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+半岛英语,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+半岛阿语,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+Thai PBS 3,http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+FASHIONTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
+FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+金砖电视,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+亚洲新闻720P,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+亚洲新闻1080P,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+韩·BBS佛教,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
+韩·SBS,http://1.245.74.5:1935/live/tv/.m3u8
+韩·阿里郎Korea,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+韩·JobPlusTV,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+韩·GS My Shop,https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
+韩·KoreaTV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+韩·TBS,https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
+韩·KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+韩·EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+韩·EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+韩·EBSe,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+韩·NBS,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+俄·IGITV,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+俄·RBC,http://92.50.128.180/utv/1358/index.m3u8
+美·NASA 1,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+美·NASA 2,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
+美·红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+乌·M2音乐,http://live.m2.tv/hls3/stream.m3u8
+西·加利西亚欧洲体育电视台,http://europa-crtvg.flumotion.com/playlist.m3u8
+希·FoxTV,http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+越·HBTV,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
+越·ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
+番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+ABC新闻,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+NewsmaxTV,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+PBS America,https://pbs-samsunguk.amagi.tv/playlist.m3u8
+moviesphere,https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+EdgeSport,https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+CanadaOne,http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+CA,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+InsightTV,https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
+Astrakhan24,http://streaming.astrakhan.ru/astrakhan24/index.m3u8
+Самара,http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+日本QVC,http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+日本Shop Channel,https://stream3.shopch.jp/HLS/master.m3u8
+长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
+香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
+VB,http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
+
+
+
+
+
+
+直播中国,#genre#
+直播中国 随机,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+直播中国 随机切换,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
+南京长江大桥,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
+湖南张家界将军列队,https://gcalic.v.myalicdn.com/gc/zjjjjdl_1/index.m3u8
+湖南张家界阿凡达悬浮山,https://gcalic.v.myalicdn.com/gc/zjjafdxfs_1/index.m3u8
+湖南张家界迷魂台,https://gcalic.v.myalicdn.com/gc/zjjmht_1/index.m3u8
+湖南张家界宝峰湖,https://gcalic.v.myalicdn.com/gc/zjjbfh_1/index.m3u8
+湖南张家界御笔峰,https://gcalic.v.myalicdn.com/gc/zjjybf_1/index.m3u8
+四川峨眉山云海日出,https://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8
+济南 七星台,https://gcalic.v.myalicdn.com/gc/emsyh_1/index.m3u8
+青海 祁连山,https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8
+四川峨眉山远眺万佛顶,https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8
+西藏南迦巴瓦峰,https://gcalic.v.myalicdn.com/gc/wygjt2_1/index.m3u8
+四川成都 环球中心,https://gcalic.v.myalicdn.com/gc/jsh02_1/index.m3u8
+湖南张家界 武陵源黄石寨,https://gcalic.v.myalicdn.com/gc/szgk01_1/index.m3u8
+江苏无锡 望锡城,https://gcalic.v.myalicdn.com/gc/wysdhpcy_1/index.m3u8
+河北张北德胜村,https://gcalic.v.myalicdn.com/gc/pygc01_1/index.m3u8
+新疆天山(海西平台),https://gcalic.v.myalicdn.com/gc/xjtchxpt_1/index.m3u8
+新疆天山 天池,https://gcalic.v.myalicdn.com/gc/xjtcdhsz_1/index.m3u8
+新疆天山(马牙山),https://gcalic.v.myalicdn.com/gc/xjtcmys_1/index.m3u8
+河南 信阳 文新茶村,https://gcalic.v.myalicdn.com/gc/xjtcdgs_1/index.m3u8
+湖南张家界天门山西线玻璃栈道,https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8
+湖南张家界天门山天门洞,https://gcalic.v.myalicdn.com/gc/tmstmd01_1/index.m3u8
+江苏扬州 中国大运河博物馆,https://gcalic.v.myalicdn.com/gc/tms02_1/index.m3u8
+湖南张家界天门山云梦仙顶,https://gcalic.v.myalicdn.com/gc/tms04_1/index.m3u8
+厦门 滨海浪漫线,https://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8
+广西玉林大容山莲花山顶,https://gcalic.v.myalicdn.com/gc/drs01_1/index.m3u8
+广东广州,https://gcalic.v.myalicdn.com/gc/blg05_1/index.m3u8
+杭州奥体中心,https://gcalic.v.myalicdn.com/gc/blg03_1/index.m3u8
+汶川映秀新城,https://gcalic.v.myalicdn.com/gc/wcyxxc01_1/index.m3u8
+河北承德七彩森林景区,https://gcalic.v.myalicdn.com/gc/sbd01_1/index.m3u8
+四川成都 东安湖体育公园,https://gcalic.v.myalicdn.com/gc/btq01_1/index.m3u8
+安徽池州九华山风景区拜经台,https://gcalic.v.myalicdn.com/gc/jhs02_1/index.m3u8
+安徽池州九华山风景区九华山,https://gcalic.v.myalicdn.com/gc/jhs05_1/index.m3u8
+山东青岛 艾山天文台,https://gcalic.v.myalicdn.com/gc/jhs01_1/index.m3u8
+重庆 李子坝,https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
+甘肃兰州 中山桥,https://gcalic.v.myalicdn.com/gc/ylh03_1/index.m3u8
+浙江杭州千岛湖,https://gcalic.v.myalicdn.com/gc/caqdh_1/index.m3u8
+南京玄武湖公园,https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
+云南丽江玉龙雪山,https://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8
+贵州贵阳 甲秀楼,https://gcalic.v.myalicdn.com/gc/hkylxs02_1/index.m3u8
+云南丽江蓝月谷,https://gcalic.v.myalicdn.com/gc/ylxs12_1/index.m3u8
+广州 深圳 福田中央商务区,https://gcalic.v.myalicdn.com/gc/hkylxs03_1/index.m3u8
+济南七星台,https://gcalic.v.myalicdn.com/gc/hkylxs04_1/index.m3u8
+福建福州 码头,https://gcalic.v.myalicdn.com/gc/hkylxs06_1/index.m3u8
+云南丽江白水台,https://gcalic.v.myalicdn.com/gc/hkylxs07_1/index.m3u8
+广东深圳,https://gcalic.v.myalicdn.com/gc/hkylxs08_1/index.m3u8
+山东德州,https://gcalic.v.myalicdn.com/gc/hkylxs09_1/index.m3u8
+新疆天山天池,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
+陕西西安大雁塔,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
+福建厦门沙滩,https://gcalic.v.myalicdn.com/gc/nss01_1/index.m3u8
+张家界 西线玻璃栈道,https://gcalic.v.myalicdn.com/gc/fcw01_1/index.m3u8
+江西南昌梅岭,https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8
+上海南浦大桥,https://gcalic.v.myalicdn.com/gc/tjhh01_1/index.m3u8
+四川凉山 景区,https://gcalic.v.myalicdn.com/gc/xcqh01_1/index.m3u8
+河南焦作红石峡,https://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8
+浙江舟山东极岛,https://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8
+河南郑东新区千玺广场,https://gcalic.v.myalicdn.com/gc/zdxq01_1/index.m3u8
+广东阳江海陵岛,https://gcalic.v.myalicdn.com/gc/sgns01_1/index.m3u8
+云南保山 水库,https://gcalic.v.myalicdn.com/gc/sgns02_1/index.m3u8
+江西南昌 滕王阁,https://gcalic.v.myalicdn.com/gc/nxsptdmgychlr_1/index.m3u8
+宁夏沙坡头大漠孤烟,https://gcalic.v.myalicdn.com/gc/nxsptdmgy_1/index.m3u8
+丽江古城大研花巷观景,https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8
+辽宁 沈阳 浑河桥,https://gcalic.v.myalicdn.com/gc/ljgcdsc_1/index.m3u8
+福建厦门 鼓浪屿,https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8
+天津滨海新区,https://gcalic.v.myalicdn.com/gc/ljgcszsnkgc_1/index.m3u8
+北京 雁栖湖,https://gcalic.v.myalicdn.com/gc/ytsxzg_1/index.m3u8
+贵州 茶旅小镇,https://gcalic.v.myalicdn.com/gc/ytsbjy_1/index.m3u8
+内蒙古 呼伦贝尔 大桥,https://gcalic.v.myalicdn.com/gc/ytshsx_1/index.m3u8
+云台山茱萸峰,https://gcalic.v.myalicdn.com/gc/ytszyf_1/index.m3u8
+雪乡梦幻家园,https://gcalic.v.myalicdn.com/gc/mdjxxmhjyxj_1/index.m3u8
+雪乡梦幻家园观景台,https://gcalic.v.myalicdn.com/gc/mdjxxmhjygjt_1/index.m3u8
+青海门源 森林公园,https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8
+浙江乌镇 蓝印花布,https://gcalic.v.myalicdn.com/gc/zjwzlyhb_1/index.m3u8
+乌镇西市河,https://gcalic.v.myalicdn.com/gc/zjwzbblh_1/index.m3u8
+乌镇龙形田,https://gcalic.v.myalicdn.com/gc/zjwzlxt_1/index.m3u8
+乌镇全景,https://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8
+凤凰古城南华山,https://gcalic.v.myalicdn.com/gc/fhgcdnhs_1/index.m3u8
+黄花城水长城01,https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8
+黄花城水长城02,https://gcalic.v.myalicdn.com/gc/wgw02_1/index.m3u8
+黄花城水长城03,https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8
+河北张家口 湿地公园,https://gcalic.v.myalicdn.com/gc/wgw04_1/index.m3u8
+甘肃 月牙泉,https://gcalic.v.myalicdn.com/gc/dhyyqst_1/index.m3u8
+云南 古城,https://gcalic.v.myalicdn.com/gc/dhyyqyyq_1/index.m3u8
+青海 山,https://gcalic.v.myalicdn.com/gc/dhyyqsm_1/index.m3u8
+五彩池,https://gcalic.v.myalicdn.com/gc/hlwcc_1/index.m3u8
+山东济宁 龙湾湖,https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8
+望乡台,https://gcalic.v.myalicdn.com/gc/hlwxt_1/index.m3u8
+洗身洞,https://gcalic.v.myalicdn.com/gc/hlxsd_1/index.m3u8
+四川绵阳 禹王桥,https://gcalic.v.myalicdn.com/gc/taishan01_1/index.m3u8
+泰山大观峰,https://gcalic.v.myalicdn.com/gc/taishan03_1/index.m3u8
+泰山拱北石,https://gcalic.v.myalicdn.com/gc/taishan04_1/index.m3u8
+泰山玉皇顶,https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8
+江苏南通 圆陀角,https://gcalic.v.myalicdn.com/gc/taishan07_1/index.m3u8
+福建福州 平潭,https://gcalic.v.myalicdn.com/gc/hkts04_1/index.m3u8
+泰山望人松,https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8
+宁夏 金沙湾,https://gcalic.v.myalicdn.com/gc/hkts06_1/index.m3u8
+无锡,https://gcalic.v.myalicdn.com/gc/hkts07_1/index.m3u8
+陕西 汉中自然保护区,https://gcalic.v.myalicdn.com/gc/hkts02_1/index.m3u8
+海南热带雨林公园五指山片区,https://gcalic.v.myalicdn.com/gc/hkts08_1/index.m3u8
+黑龙江哈尔滨 霁虹桥,https://gcalic.v.myalicdn.com/gc/hkts09_1/index.m3u8
+河北承德金山岭长城,https://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8
+浙江台州 三门核电站,https://gcalic.v.myalicdn.com/gc/hsptgz_1/index.m3u8
+湖北 武汉 黄鹤楼,https://gcalic.v.myalicdn.com/gc/hkts11_1/index.m3u8
+重庆 长江大桥,https://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
+四川绵阳 广场,https://gcalic.v.myalicdn.com/gc/hsyg_1/index.m3u8
+龙岩未来城,https://gcalic.v.myalicdn.com/gc/hsmbsh_1/index.m3u8
+江苏徐州 徐州之夜,https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8
+贵州省兴义市万峰林,https://gcalic.v.myalicdn.com/gc/xywfl_1/index.m3u8
+黄山飞来石,https://gcalic.v.myalicdn.com/gc/hsptgy_1/index.m3u8
+黄山光明顶,https://gcalic.v.myalicdn.com/gc/hsgmd_1/index.m3u8
+陕西西安 三河水库,https://gcalic.v.myalicdn.com/gc/ahhs01_1/index.m3u8
+福建泉州 大炸山,https://gcalic.v.myalicdn.com/gc/tms01_1/index.m3u8
+陕西洋县国宝朱鹮01,https://gcalic.v.myalicdn.com/gc/zhhd01_1/index.m3u8
+陕西 渭河湿地公园,https://gcalic.v.myalicdn.com/gc/zh02_1/index.m3u8
+吉林 临江门大桥,https://gcalic.v.myalicdn.com/gc/zh03_1/index.m3u8
+浙江杭州 钱江新城,https://gcalic.v.myalicdn.com/gc/zh04_1/index.m3u8
+湖南 瑶族村,https://gcalic.v.myalicdn.com/gc/yxxdbst_1/index.m3u8
+安徽黟县西递牌坊,https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8
+安徽黟县宏村月沼,https://gcalic.v.myalicdn.com/gc/yxhcyz_1/index.m3u8
+安徽黟县芦村远眺,https://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8
+白鹭自然保护区,https://gcalic.v.myalicdn.com/gc/sjzc01_1/index.m3u8
+八达岭长城南七楼,https://gcalic.v.myalicdn.com/gc/bgws7_1/index.m3u8
+河北承德 塞罕坝,https://gcalic.v.myalicdn.com/gc/bgwn10_1/index.m3u8
+北京鼓楼,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+湖北 长江,https://gcalic.v.myalicdn.com/gc/hkts10_1/index.m3u8
+陕西延安 宝塔山,https://gcalic.v.myalicdn.com/gc/ztn_1/index.m3u8
+广州塔,https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8
+泰山 天街,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
+湖南 张家界 云天渡,https://gcalic.v.myalicdn.com/gc/hsxkssqdzrqj_1/index.m3u8
+新疆伊犁 公园,https://gcalic.v.myalicdn.com/gc/hgsylztpb_1/index.m3u8
+辽宁葫芦岛 红海滩,https://gcalic.v.myalicdn.com/gc/hgsspzxdpb_1/index.m3u8
+四川 阿坝州 九曲黄河第一湾,https://gcalic.v.myalicdn.com/gc/tyhjtynl_1/index.m3u8
+双子天文台,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
+南天一柱,https://gcalic.v.myalicdn.com/gc/tyhjntyz_1/index.m3u8
+日月石,https://gcalic.v.myalicdn.com/gc/tyhjrys_1/index.m3u8
+北京四环路,https://gcalic.v.myalicdn.com/gc/glxs01_1/index.m3u8
+河北承德避暑山庄龙泉公园,https://gcalic.v.myalicdn.com/gc/lpsgmjng01_1/index.m3u8
+黑龙江哈尔滨 湘江公园,https://gcalic.v.myalicdn.com/gc/hkhs01_1/index.m3u8
+宁夏 沙坡头,https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8
+陕西 汉江大桥,https://gcalic.v.myalicdn.com/gc/xysrf_1/index.m3u8
+北京 水镇,https://gcalic.v.myalicdn.com/gc/dlst03_1/index.m3u8
+四川 石渠县,https://gcalic.v.myalicdn.com/gc/dlst02_1/index.m3u8
+云南大理崇圣寺三塔远景,https://gcalic.v.myalicdn.com/gc/dlst01_1/index.m3u8
+广西桂林漓江景区,https://gcalic.v.myalicdn.com/gc/gllj01_1/index.m3u8
+江苏南京 雨花台 烈士林园,https://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8
+广东珠海 港珠澳大桥,https://gcalic.v.myalicdn.com/gc/qdls04_1/index.m3u8
+江苏南京 鼓楼广场,https://gcalic.v.myalicdn.com/gc/qdls01_1/index.m3u8
+西藏 珠穆朗玛峰,https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8
+北京 居庸关长城,https://gcalic.v.myalicdn.com/gc/syns01_1/index.m3u8
+天池,https://gcalic.v.myalicdn.com/gc/xdfjq01_1/index.m3u8
+辽宁大连 星海广场,https://gcalic.v.myalicdn.com/gc/hhdxg01_1/index.m3u8
+张掖七彩丹霞,https://gcalic.v.myalicdn.com/gc/zyqcdx01_1/index.m3u8
+山东济南 大明湖 超然楼,https://gcalic.v.myalicdn.com/gc/zsslsgc_1/index.m3u8
+河北张家界,https://gcalic.v.myalicdn.com/gc/wygjt1_1/index.m3u8
+湖南湘西 矮寨大桥,https://gcalic.v.myalicdn.com/gc/jshhd01_1/index.m3u8
+黄鹤楼,https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
+珠海大剧院,https://gcalic.v.myalicdn.com/gc/dxsdtts_1/index.m3u8
+甘肃嘉峪关,https://gcalic.v.myalicdn.com/gc/dxssyt_1/index.m3u8
+山东济南 趵突泉,https://gcalic.v.myalicdn.com/gc/hnttdysjd_1/index.m3u8
+云南红河哈尼梯田普高老寨,https://gcalic.v.myalicdn.com/gc/hnttpgsz_1/index.m3u8
+云南昆明 双桥村,https://gcalic.v.myalicdn.com/gc/hnttlhzjd_1/index.m3u8
+四川成都 天府熊猫塔,https://gcalic.v.myalicdn.com/gc/lhszjsp_1/index.m3u8
+四川成都 太古里,https://gcalic.v.myalicdn.com/gc/lhssjzd_1/index.m3u8
+乐山大佛全景,https://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8
+福建武夷山玉女峰,https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8
+甘肃兰州中山桥,https://gctxyc.liveplay.myqcloud.com/gc/ylh03_1_md.m3u8
+直播中国景点轮播,https://gctxyc.liveplay.myqcloud.com/gc/sbd01_1_md.m3u8
+直播中国景点轮播,https://gctxyc.liveplay.myqcloud.com/gc/sbd01_1/index.m3u8
+张家界天门山云梦仙顶,https://gctxyc.liveplay.myqcloud.com/gc/tms04_1_md.m3u8
+张家界天门山云梦仙顶,https://gctxyc.liveplay.myqcloud.com/gc/tms04_1/index.m3u8
+湖南张家界武陵源黄石寨,https://gctxyc.liveplay.myqcloud.com/gc/szgk01_1_md.m3u8
+湖南张家界武陵源黄石寨,https://gctxyc.liveplay.myqcloud.com/gc/szgk01_1/index.m3u8
+山东东营北宋镇高家村带状种植试验田,https://gctxyc.liveplay.myqcloud.com/gc/jhs05_1_md.m3u8
+山东东营北宋镇高家村带状种植试验田,https://gctxyc.liveplay.myqcloud.com/gc/jhs05_1/index.m3u8
+四川乐山岷江,https://gctxyc.liveplay.myqcloud.com/gc/hkhs01_1_md.m3u8
+四川乐山岷江,https://gctxyc.liveplay.myqcloud.com/gc/hkhs01_1/index.m3u8
+江苏徐州云龙湖风景区云龙山观景台南,https://gctxyc.liveplay.myqcloud.com/gc/ylh03_1/index.m3u8
+北京密云古北水镇,https://gctxyc.liveplay.myqcloud.com/gc/dlst03_1_md.m3u8
+北京密云古北水镇,https://gctxyc.liveplay.myqcloud.com/gc/dlst03_1/index.m3u8
+湖北宜昌夷陵区樟村坪镇观景台,https://gctxyc.liveplay.myqcloud.com/gc/gllj01_1_md.m3u8
+湖北宜昌夷陵区樟村坪镇观景台,https://gctxyc.liveplay.myqcloud.com/gc/gllj01_1/index.m3u8
+四川凉山彝族自治州西昌市邛海景区,https://gctxyc.liveplay.myqcloud.com/gc/xcqh01_1_md.m3u8
+四川凉山彝族自治州西昌市邛海景区,https://gctxyc.liveplay.myqcloud.com/gc/xcqh01_1/index.m3u8
+宁夏黄河大峡谷,https://gctxyc.liveplay.myqcloud.com/gc/hhdxg01_1_md.m3u8
+宁夏黄河大峡谷,https://gctxyc.liveplay.myqcloud.com/gc/hhdxg01_1/index.m3u8
+丽江古城大研花巷观景,https://gctxyc.liveplay.myqcloud.com/gc/ljgcdyhxgjt_1_md.m3u8
+丽江古城大研花巷观景,https://gctxyc.liveplay.myqcloud.com/gc/ljgcdyhxgjt_1/index.m3u8
+辽宁沈阳浑河,https://gctxyc.liveplay.myqcloud.com/gc/ljgcdsc_1_md.m3u8
+辽宁沈阳浑河,https://gctxyc.liveplay.myqcloud.com/gc/ljgcdsc_1/index.m3u8
+河南焦作云台山红石峡,https://gctxyc.liveplay.myqcloud.com/gc/ytshsx_1/index.m3u8
+贵州贵阳十里画廊,https://gctxyc.liveplay.myqcloud.com/gc/wysyxdhp_1_md.m3u8
+贵州贵阳十里画廊,https://gctxyc.liveplay.myqcloud.com/gc/wysyxdhp_1/index.m3u8
+黑龙江哈尔滨霁虹桥,https://gctxyc.liveplay.myqcloud.com/gc/hkts09_1_md.m3u8
+黑龙江哈尔滨霁虹桥,https://gctxyc.liveplay.myqcloud.com/gc/hkts09_1/index.m3u8
+贵州盘州市新民梯田,https://gctxyc.liveplay.myqcloud.com/gc/hkts11_1_md.m3u8
+贵州盘州市新民梯田,https://gctxyc.liveplay.myqcloud.com/gc/hkts11_1/index.m3u8
+张家界武陵源景区迷魂台,https://gctxyc.liveplay.myqcloud.com/gc/zjjmht_1_md.m3u8
+张家界武陵源景区迷魂台,https://gctxyc.liveplay.myqcloud.com/gc/zjjmht_1/index.m3u8
+张家界武陵源景区宝峰湖,https://gctxyc.liveplay.myqcloud.com/gc/zjjbfh_1_md.m3u8
+张家界武陵源景区宝峰湖,https://gctxyc.liveplay.myqcloud.com/gc/zjjbfh_1/index.m3u8
+陕西汉中镇巴县草坝景区,https://gctxyc.liveplay.myqcloud.com/gc/lsdfgfl_1_md.m3u8
+陕西汉中镇巴县草坝景区,https://gctxyc.liveplay.myqcloud.com/gc/lsdfgfl_1/index.m3u8
+湖北十堰丹江口碧水连天,https://gctxyc.liveplay.myqcloud.com/gc/dxsdtts_1_md.m3u8
+湖北十堰丹江口碧水连天,https://gctxyc.liveplay.myqcloud.com/gc/dxsdtts_1/index.m3u8
+海南保亭七仙岭温泉国家森林公园,https://gctxyc.liveplay.myqcloud.com/gc/emsyh_1_md.m3u8
+海南保亭七仙岭温泉国家森林公园,https://gctxyc.liveplay.myqcloud.com/gc/emsyh_1/index.m3u8
+江西吉安井冈山茅坪神山村,https://gctxyc.liveplay.myqcloud.com/gc/djyqyl1_1_md.m3u8
+江西吉安井冈山茅坪神山村,https://gctxyc.liveplay.myqcloud.com/gc/djyqyl1_1/index.m3u8
+湖南湘西州凤凰古城,https://gctxyc.liveplay.myqcloud.com/gc/fhgcdnhs_1_md.m3u8
+湖南湘西州凤凰古城,https://gctxyc.liveplay.myqcloud.com/gc/fhgcdnhs_1/index.m3u8
+浙江乌镇蓝印花布,https://gctxyc.liveplay.myqcloud.com/gc/zjwzlyhb_1_md.m3u8
+浙江乌镇蓝印花布,https://gctxyc.liveplay.myqcloud.com/gc/zjwzlyhb_1/index.m3u8
+牡丹江雪乡梦幻家园,https://gctxyc.liveplay.myqcloud.com/gc/mdjxxmhjyxj_1/index.m3u8
+三号冰川,https://gctxyc.liveplay.myqcloud.com/gc/ztx_1_md.m3u8
+三号冰川,https://gctxyc.liveplay.myqcloud.com/gc/ztx_1/index.m3u8
+江苏南京长江,https://gctxyc.liveplay.myqcloud.com/gc/hsxkscj_1_md.m3u8
+江苏南京长江,https://gctxyc.liveplay.myqcloud.com/gc/hsxkscj_1/index.m3u8
+黄果树瀑布银链坠潭瀑布,https://gctxyc.liveplay.myqcloud.com/gc/hgsylztpb_1_md.m3u8
+黄果树瀑布银链坠潭瀑布,https://gctxyc.liveplay.myqcloud.com/gc/hgsylztpb_1/index.m3u8
+嵩山少林寺胜观峰,https://gctxyc.liveplay.myqcloud.com/gc/zsslstpt_1_md.m3u8
+嵩山少林寺胜观峰,https://gctxyc.liveplay.myqcloud.com/gc/zsslstpt_1/index.m3u8
+青海海北仙女湾景区,https://gctxyc.liveplay.myqcloud.com/gc/yxhcyz_1/index.m3u8
+山东泰山大观峰,https://gctxyc.liveplay.myqcloud.com/gc/taishan03_1/index.m3u8
+江苏无锡惠山二茅峰望锡城,https://gctxyc.liveplay.myqcloud.com/gc/wysdhpcy_1/index.m3u8
+湖南张家界将军列队,https://gctxyc.liveplay.myqcloud.com/gc/zjjjjdl_1/index.m3u8
+四川峨眉山云海日出,https://gctxyc.liveplay.myqcloud.com/gc/emsarm_1/index.m3u8
+广西玉林万亩茶园,https://gctxyc.liveplay.myqcloud.com/gc/tyhjtynl_1/index.m3u8
+湖北恩施佛宝山景区,https://gctxyc.liveplay.myqcloud.com/gc/tyhjntyz_1/index.m3u8
+黑龙江牡丹江镜泊湖,https://gctxyc.liveplay.myqcloud.com/gc/jyg04_1/index.m3u8
+云南红河建水双龙桥,https://gcalic.v.myalicdn.com/gc/pshdxg01_1/index.m3u8
+山西大同广灵县水神堂,https://gcalic.v.myalicdn.com/gc/nywbwg01_1/index.m3u8
+贵州省兴义市马岭河峡谷,https://gcalic.v.myalicdn.com/gc/xymlh_1/index.m3u8
+天津海河,https://gcalic.v.myalicdn.com/gc/tjhh02_1/index.m3u8
+宁夏沙坡头黄河漂流,https://gcalic.v.myalicdn.com/gc/nxspthhpl_1/index.m3u8
+云南保山中寨司莫拉佤族村,https://gcalic.v.myalicdn.com/gc/hnttbdjd_1/index.m3u8
+湖南张家界天门山天空步道,https://gcalic.v.myalicdn.com/gc/djyewm_1/index.m3u8
+湘西凤凰古城东关门,https://gcalic.v.myalicdn.com/gc/fhgcdgm_1/index.m3u8
+北京香山,https://gcalic.v.myalicdn.com/gc/yxhcnh_1/index.m3u8
+
+
+
+
+
+
+
+
+
+相声小品轮播,#genre#
+赵本山爆笑小品2,http://mmitv.top/pltv/yy.php?id=1354936217
+爆笑小品,http://mmitv.top/pltv/yy.php?id=1354931503
+小沈阳春晚小品,http://mmitv.top/pltv/yy.php?id=1382749941
+宋小宝小品合集,http://mmitv.top/pltv/yy.php?id=1354931577
+贾玲春晚小品,http://mmitv.top/pltv/yy.php?id=1382736720
+宋小宝春晚小品合集,http://mmitv.top/pltv/yy.php?id=1382736866
+春晚小品,http://mmitv.top/pltv/yy.php?id=1382773708
+春晚小品,http://mmitv.top/pltv/yy.php?id=1394000564
+历年春晚小品合集,http://mmitv.top/pltv/yy.php?id=1355555484
+春晚小品,http://mmitv.top/pltv/yy.php?id=1382773711
+蔡明春晚小品,http://mmitv.top/pltv/yy.php?id=1354936177
+历年春晚小品合集,http://mmitv.top/pltv/yy.php?id=1382773717
+历年春晚小品合集,http://mmitv.top/pltv/yy.php?id=1382773716
+怀旧小品,http://mmitv.top/pltv/yy.php?id=1382736821
+巩汉林春晚小品合集,http://mmitv.top/pltv/yy.php?id=1354889035
+春晚小品,http://mmitv.top/pltv/yy.php?id=1382773715
+春晚小品,http://mmitv.top/pltv/yy.php?id=1382773706
+本山快乐营-爆笑小品,http://mmitv.top/pltv/yy.php?id=1354930948
+欢乐集结号-每天笑不停,http://mmitv.top/pltv/yy.php?id=1382741642
+欢乐集结号,http://mmitv.top/pltv/yy.php?id=1354931582
+今夜欢乐颂,http://mmitv.top/pltv/yy.php?id=1382735572
+欢乐集结号3,http://mmitv.top/pltv/yy.php?id=1382736822
+欢乐集结号4,http://mmitv.top/pltv/yy.php?id=1382736889
+欢乐集结号58-70,http://mmitv.top/pltv/yy.php?id=1382745119
+赵本山《蓝光版》,http://mmitv.top/pltv/yy.php?id=32160832
+赵本山《超清版》,http://mmitv.top/pltv/yy.php?id=1382683959
+本山快乐营,http://mmitv.top/pltv/yy.php?id=1354933529
+德云郭德纲相声,https://live.metshop.top/huya/25343324
+爆笑小品,https://live.metshop.top/yy/1354931503
+yy小品,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354931503
+yy小品2,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382741642
+
+
+
+
+
+
+相声小品,#genre#
+吃面,https://vd3.bdstatic.com/mda-kihjn2cq7103ivig/v1-cae/hd/mda-kihjn2cq7103ivig.mp4
+非诚来扰,https://vd3.bdstatic.com/mda-jk4sx2ggq7u355d6/hd/mda-jk4sx2ggq7u355d6.mp4
+幸福密码,https://vd3.bdstatic.com/mda-kj9ispnax8gpirkf/hd/mda-kj9ispnax8gpirkf.mp4
+狭路相逢,https://vd3.bdstatic.com/mda-kanfj7h320ueqgkg/v1-cae/hd/mda-kanfj7h320ueqgkg.mp4
+最佳酒友,https://vd3.bdstatic.com/mda-jheqyidz841gwxpy/hd/mda-jheqyidz841gwxpy.mp4
+整容归来,https://vd3.bdstatic.com/mda-ji1xe9cmasuh0722/hd/mda-ji1xe9cmasuh0722.mp4
+老王卖瓜,https://vd3.bdstatic.com/mda-jkrk9bk95f9utr9r/hd/mda-jkrk9bk95f9utr9r.mp4
+策划,https://vd3.bdstatic.com/mda-ki60ag5ub193axs9/hd/mda-ki60ag5ub193axs9.mp4?pd=19&vt=1&playlist=%5B%22sc%22%2C%22hd%22%5D
+不差钱,https://vdse.bdstatic.com//769f31778a85f33825c44a9b0c70ac37.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-06-15T10%3A24%3A57Z%2F-1%2Fhost%2F9d4a74ab09dc18c2f4d9b0b8f77c621471a15359ec3b77c186f51611f4712005
+就差钱,https://vdse.bdstatic.com//812d49e751aa31530ec39debfe54a359.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-06-14T08%3A49%3A09Z%2F-1%2Fhost%2Fa58bdb86d23b53b6909e8e19d85dad9fed3adeba4a664a22eef9a7d32ac2486a
+昨天今天明天,https://vd3.bdstatic.com/mda-ia4xz7n2s4hxbhby/logo/hd/mda-ia4xz7n2s4hxbhby.mp4?pd=19&vt=1&playlist=%5B%22hd%22%2C%22sc%22%5D
+捐助,https://vd3.bdstatic.com/mda-jaqz8g17b9cvryks/hd/mda-jaqz8g17b9cvryks.mp4?pd=19&vt=1
+捐助后传,https://vd3.bdstatic.com/mda-kbsrpz9zmbbvznjw/hd/mda-kbsrpz9zmbbvznjw.mp4?pd=19&vt=1&playlist=%5B%22hd%22%2C%22sc%22%5D
+小崔说事,https://vdse.bdstatic.com//2f54cd59170279f94c5b354179bda8c0.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-06-12T04%3A47%3A48Z%2F-1%2Fhost%2Fc0d35c8c0a00af3226ac1bc3a1510c1474d8054a30290740da4a2d567924f779
+小崔说事儿,https://vdse.bdstatic.com//0881642336164cb448c0d8addd2d22a6.mp4?authorization=bce-auth-v1/40f207e648424f47b2e3dfbb1014b1a5/2022-05-28T07:29:10Z/-1/host/4c290e67925bf7954af616c290b337b52a840355f1184f78619d696a5da5c0bb
+中奖了,https://vd3.bdstatic.com/mda-kmkh9zy2b3gnx4bq/mda-kmkh9zy2b3gnx4bq.mp4?pd=19&vt=1
+卖拐,https://vd3.bdstatic.com/mda-mdgia7vnkscvxh6d/v1-hknm/hd/mda-mdgia7vnkscvxh6d.mp4?pd=19&vt=1
+功夫,https://vd3.bdstatic.com/mda-mjn3rmcivntas8ez/hd/cae_h264_nowatermark/1635016788091110865/mda-mjn3rmcivntas8ez.mp4?pd=19&vt=1
+相亲1,https://vd3.bdstatic.com/mda-ki5quadqsdi1tk9e/mda-ki5quadqsdi1tk9e.mp4?pd=-1&pt=0&cr=0&vt=0&cd=0&did=cfcd208495d565ef66e7dff9f98764da&logid=3024484252&vid=10808391094376007907&auth_key=1655295624-0-0-6fb10727b6c3c195f08ff9bebe036cd0&bcevod_channel=searchbox_feed
+相亲2,https://vd3.bdstatic.com/mda-kipkytij74rnn9k3/hd/mda-kipkytij74rnn9k3.mp4?pd=19&vt=1&playlist=%5B%22sc%22%2C%22hd%22%5D
+钟点工,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200fg10000c8e2e53c77ua6v88gk9g&ratio=720p&line=0
+火炬手,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200fg10000c54t79jc77u7est4rcn0&ratio=720p&line=0
+火炬手,https://vd3.bdstatic.com/mda-jar0302925j1nwep/hd/mda-jar0302925j1nwep.mp4?pd=19&vt=1&playlist=%5B%22hd%22%5D
+生日快乐,https://vd3.bdstatic.com/mda-mkskgzkzsgvgcntm/540p/h264_cae/1638023743815756700/mda-mkskgzkzsgvgcntm.mp4?pd=19&vt=1
+狭路相逢,https://vd3.bdstatic.com/mda-kd0mku18u3rui7gz/v1-cae/hd/mda-kd0mku18u3rui7gz.mp4?pd=19&vt=1&playlist=%5B%22hd%22%2C%22sc%22%5D
+超级大明星,https://vd3.bdstatic.com/mda-ji3f9bxs1cxwmui7/hd/mda-ji3f9bxs1cxwmui7.mp4?pd=19&vt=1&playlist=%5B%22hd%22%5D
+阳仔演笑会,https://vdse.bdstatic.com//cf06ee490cf69657ab9f333e067b348e.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-06-15T10%3A30%3A16Z%2F-1%2Fhost%2Fe3b07458bdfa3f2b9dd841f97ab3b32a73e1f5c3c55fec0e851f21054900b4a3
+阳仔演笑会2,https://vdse.bdstatic.com//b837548733e6bd32629f9134457ad811.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-06-14T12%3A24%3A48Z%2F-1%2Fhost%2F21b407cd58e7d2f39864128a9160659f1f4845e2cf4c01c6e2a3f30be1dbc557
+同桌的你,https://vd3.bdstatic.com/mda-kkfwqyn6sc4r5579/mda-kkfwqyn6sc4r5579.mp4?pd=19&vt=1
+中奖了,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200fg10000c416nhbc77ueljqcfms0&ratio=720p&line=0
+有钱了,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0300fg10000c4mruerc77ua2hethfig&ratio=720p&line=0
+小草,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200f580000bqvq5p2kgg1hr4fgtkng&ratio=720p&line=0
+小九老乐,https://vd3.bdstatic.com/mda-maqs355itqp221rx/v2-hknm/hd/mda-maqs355itqp221rx.mp4?pd=19&vt=1
+办班,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0300f830000bqvq3vcssiod1f1acv10&ratio=720p&line=0
+年前年后,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0300f250000br00c6t03hnekstiv2rg&ratio=720p&line=0
+卖梨,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200f850000bqvq43ueankk4sopbea0&ratio=720p&line=0
+城市打工妹,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200fb00000br0007k2v0nbugkvpqc0&ratio=720p&line=0
+如此竞争,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200fe60000br000frls1kbc9rjapeg&ratio=720p&line=0
+儿子大了,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200f020000bqvq3u89lgt8of4fk0tg&ratio=720p&line=0
+同学会,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200f9c0000brabn8v70gfhplsfi78g&ratio=720p&line=0
+拜年,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0d00fg10000c83hhi3c77u01a8d7hp0&ratio=720p&line=0
+送水,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0d00fg10000c6maam3c77u27tbr0bm0&ratio=720p&line=0
+辽宁小品,http://epg.112114.xyz/douyu/9322175
+新虎口遐想,https://vd4.bdstatic.com/mda-jarfmdf8su7sckk3/hd/mda-jarfmdf8su7sckk3.mp4?auth_key=1655295819-0-0-df94f7531d93ff90ad12888c89a672ca&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3219421685&vid=8705230262897615568&abtest=all
+冯巩郭冬临狗不理包子,https://vd2.bdstatic.com/mda-jdqwqnk1xxszhw8c/mda-jdqwqnk1xxszhw8c.mp4?pd=-1&pt=0&cr=0&vt=0&cd=0&did=cfcd208495d565ef66e7dff9f98764da&logid=2275698282&vid=17330773072848394300&auth_key=1655291275-0-0-73fe6c276ababcdb43b87a4fda6002df&bcevod_channel=searchbox_feed
+牛群冯巩领导冒号,https://vdse.bdstatic.com//123b1e01f5128d0e71b4f392ec1a971c.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-06-12T06%3A54%3A23Z%2F-1%2Fhost%2F6274ff464fd635b6108aacc556df42224f265e9b3f4bd3a37a74cbdbf985d0b8
+冯巩相声,https://vdse.bdstatic.com//65873c285f222c4cfeecf527f3e84259.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-06-15T09%3A55%3A46Z%2F-1%2Fhost%2F9119b3500a8e21fb21665d9576bbf410e5a0fa8904ccc1ce0d3aabde21c99c8a
+牛群冯巩我的儿子,https://vdse.bdstatic.com//f27179e048a85dd2f00d16f6a13ac370.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-06-15T08%3A43%3A23Z%2F-1%2Fhost%2F026eb7ddc17de37a053903ceb90523b0265d8e5c7ed8eb5b20f5cc0de186f27c
+牛群冯巩两个弄潮儿,https://vd3.bdstatic.com/mda-mkqdhm17rs7198m6/hd/cae_h264/1637859905115117938/mda-mkqdhm17rs7198m6.mp4?pd=19&vt=1
+要条件,https://vd2.bdstatic.com/mda-kgah4byryi8gsqk8/v1-cae/mda-kgah4byryi8gsqk8.mp4?pd=-1&pt=0&cr=0&vt=0&cd=0&did=cfcd208495d565ef66e7dff9f98764da&logid=1347013120&vid=11361264719745011699&auth_key=1655290347-0-0-5dfca4bc79fbe4b6685de35fd1e0a622&bcevod_channel=searchbox_feed
+孔云龙扒马褂,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0300fg10000c7la4l3c77u5vs0abgs0&ratio=720p&line=0
+岳云鹏相声给我个机会,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0300fab0000buf8p6s0srttfb9ulotg&ratio=720p&line=0
+经典小品[1920x1080],http://epg.112114.xyz/douyu/9067836
+相声小品[960x540],http://epg.112114.xyz/douyu/9286868
+春晚1983,https://vd2.bdstatic.com/mda-nmgf0aiczefpbjyv/360p/h264/1671273368681637465/mda-nmgf0aiczefpbjyv.mp4
+春晚1984,http://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
+春晚1985,http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
+春晚1986,https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8
+春晚1987,https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
+春晚1988,https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
+春晚1989,http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
+春晚1991,https://txmov2.a.kwimgs.com/bs3/video-hls/5210664837540712798_hlshd15.m3u8
+春晚1992,https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
+春晚1993,https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8
+春晚1994,https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8
+春晚1995,https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8
+春晚1997,https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
+春晚1998,https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
+春晚1999,https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
+春晚2000,https://txmov2.a.kwimgs.com/bs3/video-hls/5216294359327079321_hlshd15.m3u8
+春晚2001,https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8
+春晚2002,https://txmov2.a.kwimgs.com/bs3/video-hls/5255700858599864364_hlshd15.m3u8
+春晚2004,https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hlshd15.m3u8
+春晚2005,https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hlshd15.m3u8
+春晚2006,https://txmov2.a.kwimgs.com/bs3/video-hls/5194339310474320155_hlshd15.m3u8
+春晚2007,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8
+春晚2008,https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hlshd15.m3u8
+春晚2009,https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8
+春晚2014,https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8
+春晚2019,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
+春晚2020,https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8
+春晚2021,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
+春晚2022,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
+春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
+
+
+
+
+
+
+相声（油管）,#genre#
+郭于花式整活，笑翻全场！郭德纲于谦10月最新相声合集，包袱一个接一个，笑点堪称完美！| 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎 #高峰 大收录，助眠相声,https://www.youtube.com/watch?v=BXLcpR4t5fw
+【2023最新相声】郭德纲：印度富豪要求员工每周工作70小时！于谦：比996还狠？《印度新规》郭德纲 于谦| 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎 #高峰,https://www.youtube.com/watch?v=f0tYDLeLgCM
+【2023最新相声】郭德纲：2024春晚相声落选了！于谦：为啥？郭德纲：孙越卸妆把评委吓死了！《春晚落选》郭德纲 于谦| 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #高峰,https://www.youtube.com/watch?v=QTVFtbmxTgQ
+郭于再上新活！带你全程回顾郭德纲于谦10月最新相声专场上海站！| 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎 #高峰 大收录，助眠相声,https://www.youtube.com/watch?v=ybN8GPdonVo
+全网首发，看到赚到！带你一次性看完郭德纲于谦2023年10月最新相声合集，热乎的新段子全在这了！| 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎 #高峰 大收录，助眠相声,https://www.youtube.com/watch?v=OjC4gTkYsF0
+于谦：你还干过牛郎？郭德纲：靠这个发家致富的！《牛郎赚钱》郭德纲 于谦| 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎 #高峰 大收录，助眠相声,https://www.youtube.com/watch?v=TZeK-8OqTyg
+【2023最新相声】郭德纲：于谦穿着裤子还走光了！于谦：穿的开裆裤吧！《下体走光》郭德纲 于谦| 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎 #高峰 大收录，助眠相声,https://www.youtube.com/watch?v=brtfXS36vY8
+【2023最新相声】于谦：郭麒麟嫖娼上热搜了？郭德纲：花了好多钱才撤下来！《撤热搜》郭德纲 于谦| 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎 #高峰 大收录，助眠相声,https://www.youtube.com/watch?v=OAUBm3UL0u8
+郭德纲：同样是男人的运动，梅西比毛片还好看！于谦：那是！《男人运动》郭德纲 于谦| 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎 #高峰 大收录，助眠相声,https://www.youtube.com/watch?v=kP0O2ftd8MM
+郭德纲：我不敢跟说相声的握手。于谦：怎么？郭德纲：怕他偷我大金戒指！《提防同行》郭德纲 于谦| 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎 #高峰 大收录，助眠相声,https://www.youtube.com/watch?v=z2e-fM4KzhI
+郭德纲：孙越被美女网友骗光了钱，那个美女其实是我~于谦：真有你的！《伪装美女》郭德纲 于谦| 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎 #高峰 大收录，助眠相声,https://www.youtube.com/watch?v=b3Pq4NCsYVQ
+郭德纲：昨天被抓酒驾了。于谦：没见你喝酒啊？郭德纲：喝多了酱香拿铁！《茅台咖啡》郭德纲 于谦| 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎 #高峰 大收录，助眠相声,https://www.youtube.com/watch?v=WA4FLz0cG5w
+【2023新相声】郭德纲：我要看片学日语！于谦：你看的根本不说话！郭德纲：我说咋没啥长进呢！《看片学日语》郭德纲 于谦| 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦#高峰,https://www.youtube.com/watch?v=4LbGsBiLfpo
+【2023新相声】郭德纲：德云社在上海开了家妓院！于谦：那您成妓师了？郭德纲：再说要黄标了《新开妓院》郭德纲 于谦| 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎 #高峰,https://www.youtube.com/watch?v=1mt3IXuTSfM
+【2023新相声】高峰：谦哥还在修年假？郭德纲：去拍岛国动作片了，当的裸替！《于谦拍片》郭德纲 高峰| 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎 #高峰,https://www.youtube.com/watch?v=D4nCaWYHm2M
+【2023新相声】郭德纲：昨天去了大英博物馆，全是中国文物！于谦：那叫赃物馆吧！《英国赃物馆》郭德纲 于谦| 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎 #高峰,https://www.youtube.com/watch?v=nPwDomjArDU
+会员专享，看到赚到！带你全程回顾郭德纲于谦2023年8月最新相声！都是热乎的新段子，全程高能爽翻天！| 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎 #高峰,https://www.youtube.com/watch?v=6t2UnqNzFSE
+【2023年最新相声】郭德纲：吃亏是福！于谦：那我祝你福如东海！《多吃点亏》郭德纲 于谦（原《歌舞升平》）| 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎 #高峰,https://www.youtube.com/watch?v=GMFVauWNMRc
+【2023最新相声】郭德纲：谦哥太抠门，嫖娼还讲价！于谦：没这回事！《嫖不起了》郭德纲 于谦（原《行走的荷尔蒙》）| 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎 #高峰,https://www.youtube.com/watch?v=ZJ2cGbQiiUA
+粉丝抢先看，笑翻全场！带你全程回顾2023年7月德云社癸卯大吉相声大会第二场| 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎 #高峰 大收录，助眠相声,https://www.youtube.com/watch?v=mTiWAfAm52g
+限时转免，看到赚到！带你全程回顾2023年郭德纲于谦天津德云社成立一周年庆典演出！| 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎 #高峰 大收录，助眠相声,https://www.youtube.com/watch?v=A4I3EHX2ppA
+会员专享，先看先得！带你一口气看完郭德纲于谦2023年新相声合集，全程高能爽翻天！| 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎 #高峰 大收录，助眠相声,https://www.youtube.com/watch?v=TE7bPSYo5LQ
+超前抢先看！全程高能！带你全程回顾郭德纲于谦2023年8月待播相声！一般人我都不告诉！| 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎 #高峰 大收录，助眠相声,https://www.youtube.com/watch?v=GEwqlWeXj64
+未播先看，无尿点！带你全程回顾2023年7月德云社癸卯大吉相声大会第一场！| 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎 #高峰 大收录，助眠相声,https://www.youtube.com/watch?v=hhpnNVyi6wE
+会员专享，看到赚到！带你全程回顾郭德纲于谦2023年7月最新相声北京专场！| 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎 #高峰 大收录，助眠相声,https://www.youtube.com/watch?v=yC-6fHeiNog
+会员专享，看到赚到！带你全程回顾郭德纲于谦2023年7月最新相声上海专场！| 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎 #高峰 大收录，助眠相声,https://www.youtube.com/watch?v=pqyvAVeWa8k
+会员专享，看到赚到！带你全程回顾郭德纲于谦2023年7月最新相声苏州场！| 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎 #高峰 大收录，助眠相声,https://www.youtube.com/watch?v=b54-OS8esG4
+会员专场，看到赚到！带你全程回顾2023年7月郭德纲于谦最新相声！| 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎 #高峰 大收录，助眠相声,https://www.youtube.com/watch?v=hq7QefGKX-g
+【2023新相声】郭德纲：高峰上泰国做手术去了！于谦：成功了？郭德纲：留在那儿当娘娘了~《高峰变性》郭德纲 于谦| 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎 #高峰,https://www.youtube.com/watch?v=oSVUAvr3xuQ
+【2023新相声】郭德纲：昨天去打酒精保龄球了。于谦：球都倒了吗？郭德纲：我醉倒了！《喝酒打球》郭德纲 于谦| 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎 #高峰,https://www.youtube.com/watch?v=4-j_z2fZvNc
+【2023新相声】郭德纲：台风还要人强制加班！于谦：不然老板怎么换小三？《顶风加班》郭德纲 于谦| 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎 #高峰,https://www.youtube.com/watch?v=k3EMvyfNyxM
+岳云鹏：他们都说我糊了！郭德纲：你红过吗？《灵魂拷问》郭德纲 于谦 岳云鹏| 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎 #高峰 大收录，助眠相声,https://www.youtube.com/watch?v=vlVBZ1NKv_A
+郭德纲：什么？北京球迷居然冲进球场抱梅西？于谦：这钱花的值| 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎 #高峰 大收录，助眠相声,https://www.youtube.com/watch?v=RbPtZ9bJU-w
+【2023年新相声】孙越2023年喜得贵子，岳云鹏：你说气不气人，我和他儿子一个辈分！我还得管他叫哥！《孙越儿子》岳云鹏 孙越 | 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦,https://www.youtube.com/watch?v=SnQ_gerezzM
+【2023年新相声】郭德纲：2023年开业你终于回来了！于谦：没办法，满足不了女演员，走不了！《做梦专家》郭德纲 于谦 | 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎,https://www.youtube.com/watch?v=6U1xipRsASk
+【2023年新相声】张鹤伦：2023是捧哏的天下，郭德纲都去做捧哏了！《捧哏翻身》张鹤伦 郎鹤炎 | 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎 #高峰 大收录，助眠,https://www.youtube.com/watch?v=uSgmWlfQCus
+【永庆安澜2023第四场】曹鹤阳：师父给我这个捧哏的做捧哏！郭德纲：走于谦的路，让于谦无路可走！《文武训徒》郭德纲 曹鹤阳 烧饼 | 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦,https://www.youtube.com/watch?v=0jJciwci28M
+【2023新相声】郭德纲：接下来让我搞点黄色~观众：刚想站起来又坐下了！《杨乃武与小白菜》郭德纲 | 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎 #高峰 大收录，助眠,https://www.youtube.com/watch?v=1EGywdhLGJg
+【2023年新相声】张九南：栾云平为治鼻炎打九价疫苗，栾云平：好家伙，我得的是妇科病《九价疫苗》张九南 栾云平 | 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎 #高峰,https://www.youtube.com/watch?v=hzpaZ8-iwIo
+【2023年新相声】冯照洋：德云社说相声的都是一对儿！杨鹤通：我是1！冯照洋：我是2《我是1》冯照洋 杨鹤通 | 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎 #高峰,https://www.youtube.com/watch?v=PtX9s6nNN5w
+【2023年新相声】于谦请年假，郭德纲沦为进攻型捧哏，高峰：为什么受伤的总是我~《于谦请年假》郭德纲 高峰 | 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎 #高峰,https://www.youtube.com/watch?v=SVwh0pUEUmo
+【2023新相声】孟鹤堂：郭德纲50岁光荣参军！郭德纲：我加入的是中国水军！《中国水军》郭德纲 孟鹤堂 | 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎 #高峰 大收录,https://www.youtube.com/watch?v=FwCRhLG8OIc
+【2023年新相声】郭德纲现场cosplay，孟鹤堂女仆装，张九南直呼：师父你玩儿的挺花呀！《吃元宵+返场》郭德纲 孟鹤堂 张九南 | 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦,https://www.youtube.com/watch?v=W-O6jrt9Fc0
+【2023年新相声】栾云平被降职？高峰：从副总沦为服务总监，全是我一句话的事儿！《服务总监》高峰 栾云平 | 永庆安澜第二场 | | 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦,https://www.youtube.com/watch?v=mzeHXE5pGuY
+【2023年新相声】于谦变性成大美女？于谦：别造谣！郭德纲：你看，你男朋友来了！《于谦男友》郭德纲 于谦,https://www.youtube.com/watch?v=CQDFWOO3AIk
+【2023年新相声】郭德纲：网友说你单飞了！于谦：我双飞都不可能单飞！郭德纲：豁，体力真好~《行走的荷尔蒙》郭德纲 于谦 | 郭德纲于谦相声专场北京站2023 | 德云社相声大全 | #郭德纲 #于谦,https://www.youtube.com/watch?v=qEOTfApjEPc
+【2023新相声】岳云鹏：新作品首演，我已经准备好返场了！孙越：要点脸，你都还没开始说就想返场？！《新人鬼情未了》岳云鹏 孙越 | 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦,https://www.youtube.com/watch?v=-p42im2i4LM
+【2023新相声】李鹤彪：2023满裆红之后你更红了！岳云鹏：是满江红！小剧场的包袱现在都这么狂野了嘛？！《满档红》岳云鹏 李鹤彪 | 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦,https://www.youtube.com/watch?v=-YiVggbPPWQ
+【2023新相声】张九龄：岳云鹏被队伍开除了😳岳云鹏：大哥你怎么笑得这么大声？！《岳云鹏流浪记》张九龄 岳云鹏 | 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎 #高峰,https://www.youtube.com/watch?v=PzCWS87B8V0
+【2023新相声】2023岳云鹏队伍停业！岳云鹏：我只能四处蹭场😭张鹤伦：你也有今天！《歌声飘过三十年》张鹤伦 岳云鹏 | 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎,https://www.youtube.com/watch?v=UUN2a7uCW_w
+🎁【德云社相声大会2023全程回顾】德云社要交给郭麒麟了？！郭麒麟：我爸把传家宝给我了！郭德纲：别光乐！快说话！| 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎,https://www.youtube.com/watch?v=bx8Z5cM_V2Y
+【高清字幕版】😳张云雷自曝唱京剧被封杀？郭德纲：住嘴吧！《汾河湾》郭德纲 张云雷 | 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎 #高峰 大收录，助眠相声,https://www.youtube.com/watch?v=npoJiiO9lBc
+【2023新相声】张云雷：2023我要当副总！跟你那么多年我都17了！郭德纲：那你只比我小一岁啊！《我要当副总》郭德纲 张云雷 | 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦,https://www.youtube.com/watch?v=AnJSuZ6mMoM
+【2023新相声】💥高清字幕版💥岳云鹏：我不拿孙越当人，孙越拿我当狗！郭德纲：那你们是自己人呐！ | 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎 #高峰 大收录，助眠,https://www.youtube.com/watch?v=DhoNj0eSAcQ
+【2023新相声】郭德纲：于谦退社单飞上热搜了😥郭麒麟满眼心疼 《于谦单飞》郭德纲 郭麒麟 | 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎 #高峰 大收录，助眠相声,https://www.youtube.com/watch?v=BrcKpUUc6fU
+🎁【德云社相声大会2023全程回顾】2023年开箱不好看！张云雷：因为于谦没来~郭德纲：瞎说什么大实话！| 德云社相声大会第一场 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎 #高峰,https://www.youtube.com/watch?v=5TdmHTZPqnw
+🎁【德云社相声大会2023全程回顾】郭德纲：你怎么一嘴的泰国口音？岳云鹏：还在恢复期~| 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎 #高峰 大收录，助眠相声,https://www.youtube.com/watch?v=UEJAUQi2nRk
+【2023新相声】😡郭德纲父子时隔两年首次同框！郭德纲：你还知道回来！郭麒麟：再不回来岳云鹏就篡位成一哥了《2023一哥》| 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎,https://www.youtube.com/watch?v=t0vL3ugce1c
+【2023新相声】🤗张鹤伦：好久没在这么大的妓院演出了！郎鹤炎：这是开箱！不是搞黄！《开箱搞黄》张鹤伦 郎鹤炎 | 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎 #高峰,https://www.youtube.com/watch?v=P0M3Wmgl4_Q
+【2023新相声】高峰：为什么这么久没演出？郭德纲：因为老太太们康复后喘不上气！栾云平：老太太和你有什么关系？！《癸卯返场》郭德纲 高峰 栾云平 | 德云社癸卯相声大会 | #郭德纲 #于谦 #岳云鹏,https://www.youtube.com/watch?v=WexQR52GIYc
+【2023新相声】❤癸卯相声大会全场粉丝喊姐夫！张云雷：都是我的粉丝~郭德纲：我的托儿怎么没来！《癸卯返场》郭德纲 张云雷 | 德云社癸卯相声大会| #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦,https://www.youtube.com/watch?v=LbHLQN6HOW4
+【2023新相声】岳云鹏：2023返场又有我！郭德纲：不用你送了，下去吧！《2023返场》郭德纲 岳云鹏 | 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎 #高峰 大收录,https://www.youtube.com/watch?v=wTWKJupkXfc
+【2023新相声】⛔岳云鹏：2023开业，我骑着ETC噌地就来了！郭德纲：结果把脑子落家里了？《卖吊票》郭德纲 岳云鹏 | 德云社癸卯大吉 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎,https://www.youtube.com/watch?v=LbuBZfBEnIo
+【2023新相声】郭德纲又喊高峰扒马褂！😫高峰：得，2023我又要退社了！《扒马褂》郭德纲 高峰 栾云平 | 德云社相声大会第二场 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎 #高峰,https://www.youtube.com/watch?v=-WEmlT7HrX8
+【2023新相声】张云雷：2023终于要捧我了！郭德纲：你不用捧，红不了！《2023捧我》郭德纲 张云雷 | 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎 #高峰 大收录,https://www.youtube.com/watch?v=-NyAokDK1Xc
+【2023新相声】😍郭德纲：智能浴帘曝光于谦裸体！于谦：请给我的脸打上马赛克《于谦裸体》郭德纲 于谦 | 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎 #高峰 大收录,https://www.youtube.com/watch?v=Ing3LTTT7tU
+【2023新相声】🥰岳云鹏：快哄哄我~孙越：老男人撒娇真要命《快哄我》岳云鹏 孙越 | 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎 #高峰 大收录，助眠相声,https://www.youtube.com/watch?v=swy4rmZIYYk
+【2023新相声】岳云鹏：春晚你给大家来段街舞怎么样？😥孙越：你让我跳楼还容易点！《孙越跳街舞》岳云鹏 孙越 | 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #孙越 #张鹤伦 #郎鹤炎 #高峰,https://www.youtube.com/watch?v=SSbg77wOWZY
+【2022年新相声】😍于谦：春晚相声好看嘛？郭德纲：没我哪来的好相声！《吐槽春晚》郭德纲 于谦 | 德云社相声大全 | #郭德纲 #于谦 #岳云鹏 #张鹤伦#高峰 #栾云平 #孟鹤堂 大收录，助眠相声,https://www.youtube.com/watch?v=nTdx0B3YmMY
+【2022年新相声】【全程回顾】😍郭德纲：怀念你烫完头骚骚的样！于谦：我关在家里怎么烫头！《天津德云社成立一周年庆典演出系列之德云社相声大会专场演出第一场》| 德云社相声大全 | #郭德纲 #于谦,https://www.youtube.com/watch?v=bcJnNo39wcA
+【2022新相声】🤣张鹤伦：国足挺进世界杯决赛一举夺冠！ 李鹤彪：你烧糊涂了吧！ 《国足夺冠》张鹤伦 李鹤彪 | 德云社相声大全 | #郭德纲 #于谦 #张鹤伦 #郎鹤炎,https://www.youtube.com/watch?v=bjFj2Tj2EVA
+
+
