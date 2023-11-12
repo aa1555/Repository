@@ -218,6 +218,6 @@
 
 - [Agit](https://agit.ai/)
 
-- [Notabug](https://notabug.org/explore/repos)
+- [NotABug](https://notabug.org/explore/repos)
 
 </details>
