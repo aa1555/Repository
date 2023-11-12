@@ -214,10 +214,10 @@
 
 - [极狐GitLab](https://jihulab.com/)
 
-- [gitee](https://gitee.com/)
+- [Gitee](https://gitee.com/)
 
-- [agit](https://agit.ai/)
+- [Agit](https://agit.ai/)
 
-- [notabug](https://notabug.org/explore/repos)
+- [Notabug](https://notabug.org/explore/repos)
 
 </details>
