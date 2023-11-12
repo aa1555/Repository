@@ -216,4 +216,6 @@
 
 - [notabug](https://notabug.org/explore/repos)
 
+- [极狐GitLab](https://jihulab.com/)
+
 </details>
