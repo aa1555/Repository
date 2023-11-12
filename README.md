@@ -198,12 +198,6 @@
 
 <hr>
 
-<h2 align="center">加速服务</h2>
-
-[Github RAW 加速服务](https://github.com/aa1555/Repository/blob/main/Misc/Github%20RAW%20%E5%8A%A0%E9%80%9F%E6%9C%8D%E5%8A%A1.md)
-
-<hr>
-
 <h2 align="center">代码托管平台</h2>
 
 <details>
@@ -221,3 +215,9 @@
 - [NotABug](https://notabug.org/explore/repos)
 
 </details>
+
+<hr>
+
+<h2 align="center">加速服务</h2>
+
+[Github RAW 加速服务](https://github.com/aa1555/Repository/blob/main/Misc/Github%20RAW%20%E5%8A%A0%E9%80%9F%E6%9C%8D%E5%8A%A1.md)
