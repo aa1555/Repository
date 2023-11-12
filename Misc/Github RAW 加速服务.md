@@ -39,6 +39,7 @@
   加速链接：
 
   `https://fastly.jsdelivr.net/gh/`后面接raw地址的用户名及后面部分，把main前面的/改成@
+  `https://cdn.jsdelivr.net/gh/`后面接raw地址的用户名及后面部分，把main前面的/改成@
   <hr>
   
 
