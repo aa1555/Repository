@@ -1,4 +1,4 @@
-## 1.导航
+<h2 align="center">导航</h2>
 
 <details>
   
@@ -24,7 +24,7 @@
 
 <hr>
 
-## 2.自用接口
+<h2 align="center">自用接口</h2>
 
 <details>
   
@@ -52,7 +52,7 @@
 
 <hr>
 
-## 3.收集的TV接口
+<h2 align="center">收集的TV接口</h2>
 
 <details>
   
@@ -118,7 +118,7 @@
 
 <hr>
 
-## 4.TVBox各路大佬配置（排名不分先后）
+<h2 align="center">TVBox各路大佬配置（排名不分先后）</h2>
 
 <details>
   
@@ -176,7 +176,7 @@
 
 <hr>
 
-## 5.加速服务
+<h2 align="center">加速服务</h2>
 
 [Github RAW 加速服务](https://github.com/aa1555/Repository/blob/main/Misc/Github%20RAW%20%E5%8A%A0%E9%80%9F%E6%9C%8D%E5%8A%A1.md)
 
