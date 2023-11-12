@@ -208,10 +208,10 @@
   
   <summary><b>详情</b></summary>
 
-### ● [gitee](https://gitee.com/)
+- [gitee](https://gitee.com/)
 
-### ● [agit](https://agit.ai/)
+- [agit](https://agit.ai/)
 
-### ● [notabug](https://notabug.org/explore/repos)
+- [notabug](https://notabug.org/explore/repos)
 
 </details>
