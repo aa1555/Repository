@@ -1,6 +1,4 @@
-## 官网：
-
-https://ghproxy.net
+- 官网：https://ghproxy.net
 
   加速链接：
 
@@ -9,7 +7,7 @@ https://ghproxy.net
 
 
 
-### 官网：https://gh-proxy.com
+- 官网：https://gh-proxy.com
 
   加速链接：
 
