@@ -3,7 +3,7 @@
 
 {"urls":
 [
-{"url":"https://download.kstore.space/download/4907/jcsq/fx.json","name": "据说也是用的巧技的接口"},
+{"url":"https://download.kstore.space/download/4907/jcsq/fx.json","name": "据说用的巧技的接口"},
 
 {"url":"http://我不是.肥猫.love:63/接口禁止贩卖","name": "肥猫线路"},
 
@@ -39,11 +39,9 @@
 
 {"url":"https://agit.ai/sejinan/app/raw/branch/box/yu","name":"🐯于氏影业"},
 
-{"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name":"🌪南风"},
+{"url":"http://pandown.pro/tvbox/tvbox.json","name": "巧计线路1（需验证码）"},
 
-{"url":"http://pandown.pro/tvbox/tvbox.json","name": "巧计线路1"},
-
-{"url":"http://cdn.qiaoji8.com/tvbox.json","name": "巧计线路2"},
+{"url":"http://cdn.qiaoji8.com/tvbox.json","name": "巧计线路2（需验证码）"},
 
 {"url":"http://52bsj.vip:98/cl","name":"宝盒汇线"},
 
@@ -51,10 +49,12 @@
 
 {"url":"https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/TV%20Box%20%E9%85%8D%E7%BD%AE/%E9%99%84%EF%BC%9A%E5%9B%BD%E5%86%85%E7%9B%B4%E8%BF%9E%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD%E6%BA%90.json","name":"(直播源)国内直连"},
 
-{"url":"https://xhdwc.tk/0","name": "(直播源)Ray路线"},
+{"url":"https://xhdwc.tk/0","name": "(直播源有效)Ray路线"},
 
-{"url":"https://codeberg.org/jgfx/TVBox2/raw/branch/master/Json/jgpro.json","name":"(直播源)✨精简"},
+{"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name":"(直播源丰富有效)🌪南风"},
 
-{"url":"https://weixine.net/ysc.json","name":"(直播源丰富)🚚运输车"}
+{"url":"https://weixine.net/ysc.json","name":"(直播源丰富)🚚运输车"},
+
+{"url":"https://codeberg.org/jgfx/TVBox2/raw/branch/master/Json/jgpro.json","name":"(直播源)✨精简"}
 ]
 }
