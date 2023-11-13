@@ -1,0 +1,25 @@
+{
+  "sites": [ 
+     { 
+       "key": "Qtv", 
+       "name": "🐧┃企鹅┃官源", 
+       "type": 3, 
+       "api": "http://alist.xn--z7x900a.love:63/ddrpy2.m.js", 
+       "ext": "http://alist.xn--z7x900a.love:63/腾云.js", 
+       "searchable": 1, 
+       "quickSearch": 1, 
+       "filterable": 1 
+     } 
+   ],
+  "lives": [
+    {
+      "name": "live",
+      "type": 0,
+      "playerType": 1,
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u",
+      "ua": "okhttp/3.12.13",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ]
+}
