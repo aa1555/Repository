@@ -9,9 +9,9 @@
 
 {"url":"http://饭太硬.top/tv","name": "饭太硬线路"},
 
-{"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name":"🌪南风"},
-
 {"url":"https://cloud.lxweb.cn/f/MoJNuG/xm.json","name":"应用多多家庭版"},
+
+{"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name":"（直播源丰富）南风"},
 
 {"url":"https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/TV%20Box%20%E9%85%8D%E7%BD%AE/%E9%99%84%EF%BC%9A%E8%87%AA%E7%94%A8%E7%9B%B4%E6%92%AD%E6%BA%90.json","name":"(直播源)自用"},
 
@@ -53,8 +53,6 @@
 
 {"url":"http://cdn.qiaoji8.com/tvbox.json","name": "巧计线路2"},
 
-{"url":"http://52bsj.vip:98/cl","name":"宝盒汇线"},
-
-{"url":"https://codeberg.org/jgfx/TVBox2/raw/branch/master/Json/jgpro.json","name":"(直播源)✨精简"}
+{"url":"http://52bsj.vip:98/cl","name":"宝盒汇线"}
 ]
 }
