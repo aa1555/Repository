@@ -41,6 +41,8 @@
   `https://fastly.jsdelivr.net/gh/`后面接raw地址的用户名及后面部分，把main前面的/改成@
   
   `https://cdn.jsdelivr.net/gh/`后面接raw地址的用户名及后面部分，把main前面的/改成@
+  
+  `https://gcore.jsdelivr.net/gh/`后面接raw地址的用户名及后面部分，把main前面的/改成@
   <hr>
   
 
@@ -54,6 +56,11 @@
 
 
 
+- `https://jsd.cdn.gitkf.com/gh/`后面接raw地址的用户名及后面部分，把main前面的/改成@
+  <hr>
+  
+  
+  
 - 官网：https://gitmirror.com
 
   加速链接：
