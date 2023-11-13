@@ -27,7 +27,7 @@
         {
           "name": "redirect",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cDovL+aIkeS4jeaYry7ogqXnjKsubG92ZTo2My9UVi90dnpiLnR4dA=="
+            "https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/Live%E7%9B%B4%E6%92%AD%E6%BA%90/%E8%87%AA%E7%94%A8%E7%9B%B4%E6%92%AD%E6%BA%90.txt"
           ]
         }
       ]
