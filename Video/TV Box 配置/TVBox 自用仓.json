@@ -49,14 +49,14 @@
 
 {"url":"http://52bsj.vip:98/cl","name":"宝盒汇线"},
 
-{"url":"https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/TV%20Box%20%E9%85%8D%E7%BD%AE/%E9%99%84%EF%BC%9A%E5%9B%BD%E5%86%85%E7%9B%B4%E8%BF%9E%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD%E6%BA%90.json","name":"国内直连（直播源）"},
+{"url":"https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/TV%20Box%20%E9%85%8D%E7%BD%AE/%E9%99%84%EF%BC%9A%E5%9B%BD%E5%86%85%E7%9B%B4%E8%BF%9E%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD%E6%BA%90.json","name":"(直播源)国内直连"},
 
-{"url":"https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/TV%20Box%20%E9%85%8D%E7%BD%AE/%E9%99%84%EF%BC%9A%E8%87%AA%E7%94%A8%E7%9B%B4%E6%92%AD%E6%BA%90.json","name":"自用直播源"},
+{"url":"https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/TV%20Box%20%E9%85%8D%E7%BD%AE/%E9%99%84%EF%BC%9A%E8%87%AA%E7%94%A8%E7%9B%B4%E6%92%AD%E6%BA%90.json","name":"(直播源)自用"},
 
-{"url":"https://codeberg.org/jgfx/TVBox2/raw/branch/master/Json/jgpro.json","name":"✨精简（直播）"},
+{"url":"https://codeberg.org/jgfx/TVBox2/raw/branch/master/Json/jgpro.json","name":"(直播源)✨精简"},
 
-{"url":"https://la.kstore.space/download/2863/01.txt","name":"🏡潇洒（直播）"},
+{"url":"https://la.kstore.space/download/2863/01.txt","name":"(直播源)🏡潇洒"},
 
-{"url":"https://weixine.net/ysc.json","name":"🚚运输车（直播源丰富）"}
+{"url":"https://weixine.net/ysc.json","name":"(直播源)🚚运输车"}
 ]
 }
