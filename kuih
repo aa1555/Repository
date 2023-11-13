@@ -1,4 +1,16 @@
 { 
+   "sites": [ 
+     { 
+       "key": "Qtv", 
+       "name": "🐧┃企鹅┃官源", 
+       "type": 3, 
+       "api": "http://alist.xn--z7x900a.love:63/ddrpy2.m.js", 
+       "ext": "http://alist.xn--z7x900a.love:63/腾云.js", 
+       "searchable": 1, 
+       "quickSearch": 1, 
+       "filterable": 1 
+     } 
+   ],
    "lives": [ 
      { 
        "name": "live", 
