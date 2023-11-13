@@ -4,9 +4,7 @@
        "name": "live", 
        "type": 0, 
        "playerType": 1, 
-       "url": "https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/Live%E7%9B%B4%E6%92%AD%E6%BA%90/%E8%87%AA%E7%94%A8%E7%9B%B4%E6%92%AD%E6%BA%90.txt", 
-       "epg": "https://live.fanmingming.com/e.xml", 
-       "logo": "https://epg.112114.xyz/logo/{name}.png" 
+       "url": "https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/Live%E7%9B%B4%E6%92%AD%E6%BA%90/%E8%87%AA%E7%94%A8%E7%9B%B4%E6%92%AD%E6%BA%90.txt"
      }
-]
+            ]
 }
