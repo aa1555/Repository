@@ -5,7 +5,7 @@
 [
 {"url":"https://download.kstore.space/download/4907/jcsq/fx.json","name": "据说用的巧技的接口"},
 
-{"url":"http://我不是.肥猫.love:63/接口禁止贩卖","name": "肥猫线路"},
+{"url":"http://我不是.肥猫.love:63/接口禁止贩卖","name": "肥猫线路"},-
 
 {"url":"http://饭太硬.top/tv","name": "饭太硬线路"},
 
@@ -24,8 +24,6 @@
 {"url":"http://itvbox.cc/tvbox/云星日记/1.m3u8","name": "云星家庭线路"},
 
 {"url":"https://yydsys.top/duo","name": "多多家庭线路"},
-
-{"url":"http://tvbo.run.goorm.site/tangs.json","name": "唐三线路"},
 
 {"url":"https://tvbox.cainisi.cf","name": "菜妮丝线" },
 
@@ -48,6 +46,8 @@
 {"url":"https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/TV%20Box%20%E9%85%8D%E7%BD%AE/%E9%99%84%EF%BC%9A%E8%87%AA%E7%94%A8%E7%9B%B4%E6%92%AD%E6%BA%90.json","name":"(直播源)自用"},
 
 {"url":"https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/TV%20Box%20%E9%85%8D%E7%BD%AE/%E9%99%84%EF%BC%9A%E5%9B%BD%E5%86%85%E7%9B%B4%E8%BF%9E%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD%E6%BA%90.json","name":"(直播源)国内直连"},
+
+{"url":"http://tvbo.run.goorm.site/tangs.json","name": "(直播源有效)唐三线路"},
 
 {"url":"https://xhdwc.tk/0","name": "(直播源有效)Ray路线"},
 
