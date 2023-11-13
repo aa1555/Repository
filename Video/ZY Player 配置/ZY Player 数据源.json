@@ -2,159 +2,57 @@
   "analyze": [
     {
       "id": 1,
-      "name": "纯净/B站",
+      "name": "纯净",
       "url": "https://im1907.top/?jx=",
       "isActive": true
     },
     {
       "id": 2,
-      "name": "听乐",
-      "url": "https://jx.dj6u.com/?url=",
+      "name": "B站",
+      "url": "https://jx.jsonplayer.com/player/?url=",
       "isActive": true
     },
     {
       "id": 3,
+      "name": "爱豆",
+      "url": "https://jx.aidouer.net/?url=",
+      "isActive": true
+    },
+    {
+      "id": 4,
       "name": "YT",
       "url": "https://jx.yangtu.top/?url=",
       "isActive": true
     },
     {
-      "id": 4,
-      "name": "虾米",
-      "url": "https://jx.xmflv.com/?url=",
-      "isActive": true
-    },
-    {
-      "id": 7,
-      "name": "夜幕",
-      "url": "https://www.yemu.xyz/?url=",
-      "isActive": true
-    },
-    {
-      "id": 8,
-      "name": "M3U8.TV",
-      "url": "https://jx.m3u8.tv/jiexi/?url=",
-      "isActive": true
-    },
-    {
-      "id": 11,
-      "name": "七哥",
-      "url": "https://jx.nnxv.cn/tv.php?url=",
-      "isActive": true
-    },
-    {
-      "id": 14,
-      "name": "CK",
-      "url": "https://www.ckplayer.vip/jiexi/?url=",
-      "isActive": true
-    },
-    {
-      "id": 16,
-      "name": "playerjy/B站",
-      "url": "https://jx.playerjy.com/?url=",
-      "isActive": true
-    },
-    {
-      "id": 22,
-      "name": "MUTV",
-      "url": "https://jiexi.janan.net/jiexi/?url=",
-      "isActive": true
-    },
-    {
-      "id": 31,
-      "name": "阳途",
-      "url": "https://jx.yangtu.top/?url=",
-      "isActive": true
-    },
-    {
-      "name": "JY",
-      "url": "https://jx.playerjy.com/?url=",
-      "isActive": true,
-      "id": 250
-    },
-    {
-      "name": "冰豆",
-      "url": "https://api.qianqi.net/vip/?url=",
-      "isActive": true,
-      "id": 251
-    },
-    {
-      "name": "迪奥",
-      "url": "https://123.1dior.cn/?url=",
-      "isActive": true,
-      "id": 252
-    },
-    {
+      "id": 5,
       "name": "BL",
       "url": "https://vip.bljiex.com/?v=",
-      "isActive": true,
-      "id": 253
-    },
-    {
-      "name": "8090",
-      "url": "https://www.8090g.cn/?url=",
-      "isActive": true,
-      "id": 254
-    },
-    {
-      "name": "180",
-      "url": "https://jx.000180.top/jx/?url=",
-      "isActive": true,
-      "id": 255
+      "isActive": true
     },
     {
       "name": "777Player",
       "url": "https://jx.jsonplayer.com/player/?url=",
       "isActive": true,
-      "id": 256
+      "id": 6
     },
     {
       "name": "云解析1",
       "url": "https://yparse.ik9.cc/index.php?url=",
       "isActive": true,
-      "id": 257
-    },
-    {
-      "name": "春风",
-      "url": "http://111.230.24.38:4433/qingfeng.php/?url=",
-      "isActive": true,
-      "id": 258
-    },
-    {
-      "name": "恋影",
-      "url": "https://json.lianyingtv.com/api/diy/?key=jp5eR2bjKXwMD4z06N&url=",
-      "isActive": true,
-      "id": 259
-    },
-    {
-      "name": "网络",
-      "url": "https://api.cygc.xyz/analysis/?url=",
-      "isActive": true,
-      "id": 260
-    },
-    {
-      "name": "爱豆",
-      "url": "https://jx.aidouer.net/?url=",
-      "isActive": true,
-      "id": 261
-    },
-    {
-      "name": "yangtu",
-      "url": "https://jx.yangtu.top/?url=",
-      "isActive": true,
-      "id": 262
+      "id": 7
     },
     {
       "name": "云解析2",
       "url": "https://jx.yparse.com/index.php?url=",
       "isActive": true,
-      "id": 263
+      "id": 8
     },
     {
       "name": "纯净1",
       "url": "https://z1.im1907.top/?&jx=",
       "isActive": true,
-      "id": 264
+      "id": 9
     }
   ],
   "iptv": [
@@ -164,7 +62,7 @@
       "epg": "",
       "type": "remote",
       "isActive": true,
-      "id": 58
+      "id": 1
     }
   ],
   "channel": [],
@@ -179,8 +77,8 @@
       "status": true,
       "isActive": true,
       "type": 1,
-      "id": 2,
-      "resource": 34643,
+      "id": 1,
+      "resource": 34647,
       "search": 1
     },
     {
@@ -193,7 +91,7 @@
       "status": true,
       "isActive": true,
       "type": 1,
-      "id": 4,
+      "id": 2,
       "resource": 32198,
       "search": 1
     },
@@ -207,7 +105,7 @@
       "status": true,
       "isActive": true,
       "type": 1,
-      "id": 5,
+      "id": 3,
       "resource": 55987,
       "search": 1
     },
@@ -221,8 +119,8 @@
       "status": true,
       "isActive": true,
       "type": 1,
-      "id": 6,
-      "resource": 54145,
+      "id": 4,
+      "resource": 54188,
       "search": 1
     },
     {
@@ -235,8 +133,8 @@
       "status": true,
       "isActive": true,
       "type": 1,
-      "id": 7,
-      "resource": 64903,
+      "id": 5,
+      "resource": 64908,
       "search": 1
     },
     {
@@ -248,7 +146,7 @@
       "group": "默认",
       "status": true,
       "type": 1,
-      "id": 9,
+      "id": 6,
       "isActive": true,
       "resource": 44988
     },
@@ -262,8 +160,8 @@
       "status": true,
       "isActive": true,
       "type": 1,
-      "id": 10,
-      "resource": 53944,
+      "id": 7,
+      "resource": 53987,
       "search": 1
     },
     {
@@ -275,9 +173,9 @@
       "group": "默认",
       "status": true,
       "type": 1,
-      "id": 11,
+      "id": 8,
       "isActive": true,
-      "resource": 47462,
+      "resource": 47465,
       "search": 1
     },
     {
@@ -289,9 +187,9 @@
       "group": "默认",
       "status": true,
       "type": 1,
-      "id": 14,
+      "id": 9,
       "isActive": true,
-      "resource": 48170
+      "resource": 48173
     },
     {
       "key": "易看资源",
@@ -303,22 +201,9 @@
       "status": true,
       "isActive": true,
       "type": 1,
-      "id": 15,
-      "resource": 3997,
+      "id": 10,
+      "resource": 3998,
       "search": 1
-    },
-    {
-      "key": "sdzyapi",
-      "name": "闪电资源网",
-      "api": "https://sdzyapi.com/api.php/provide/vod/",
-      "playUrl": "",
-      "search": 1,
-      "group": "默认",
-      "isActive": true,
-      "status": true,
-      "type": 1,
-      "id": 17,
-      "resource": 42658
     },
     {
       "key": "樱花资源",
@@ -330,8 +215,8 @@
       "status": true,
       "isActive": true,
       "type": 1,
-      "id": 18,
-      "resource": 96396,
+      "id": 11,
+      "resource": 96401,
       "search": 1
     },
     {
@@ -344,8 +229,8 @@
       "status": true,
       "isActive": true,
       "type": 1,
-      "id": 20,
-      "resource": 42658,
+      "id": 12,
+      "resource": 42918,
       "search": 1
     },
     {
@@ -357,9 +242,9 @@
       "group": "默认",
       "status": true,
       "type": 1,
-      "id": 21,
+      "id": 13,
       "isActive": true,
-      "resource": 48158
+      "resource": 48161
     },
     {
       "key": "红牛资源",
@@ -371,9 +256,22 @@
       "status": true,
       "isActive": true,
       "type": 1,
-      "id": 22,
-      "resource": 47968,
+      "id": 14,
+      "resource": 47971,
       "search": 1
+    },
+    {
+      "key": "feisuzy",
+      "name": "飞速资源",
+      "api": "https://www.feisuzy.com/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "默认",
+      "isActive": true,
+      "status": false,
+      "type": 1,
+      "id": 15,
+      "resource": 53841
     },
     {
       "key": "234影视",
@@ -384,10 +282,10 @@
       "group": "默认",
       "status": true,
       "type": 1,
-      "id": 25,
+      "id": 16,
       "search": 1,
       "isActive": true,
-      "resource": 253315
+      "resource": 253670
     },
     {
       "key": "速播",
@@ -399,8 +297,8 @@
       "status": true,
       "isActive": true,
       "type": 1,
-      "id": 26,
-      "resource": 46921,
+      "id": 17,
+      "resource": 46924,
       "search": 1
     },
     {
@@ -412,10 +310,10 @@
       "group": "默认",
       "status": true,
       "type": 1,
-      "id": 28,
+      "id": 18,
       "search": 1,
       "isActive": true,
-      "resource": 253315
+      "resource": 253670
     },
     {
       "key": "apiyhzy",
@@ -426,9 +324,23 @@
       "group": "默认",
       "status": false,
       "type": 1,
-      "id": 29,
+      "id": 19,
       "isActive": true,
-      "resource": 96396
+      "resource": 96401
+    },
+    {
+      "key": "9fbbb48c-d822-55ed-baee-40964804d8a9",
+      "name": "Ikun资源",
+      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "download": "",
+      "playUrl": "",
+      "search": 1,
+      "group": "默认",
+      "status": true,
+      "isActive": true,
+      "type": 1,
+      "id": 20,
+      "resource": 47465
     },
     {
       "key": "TVB云播",
@@ -440,8 +352,8 @@
       "status": true,
       "isActive": true,
       "type": 1,
-      "id": 31,
-      "resource": 116871,
+      "id": 21,
+      "resource": 116880,
       "search": 1
     },
     {
@@ -453,9 +365,9 @@
       "group": "默认",
       "status": true,
       "type": 1,
-      "id": 32,
+      "id": 22,
       "isActive": true,
-      "resource": 34643
+      "resource": 34647
     },
     {
       "key": "vodimg",
@@ -466,9 +378,9 @@
       "group": "默认",
       "status": true,
       "type": 1,
-      "id": 33,
+      "id": 23,
       "isActive": true,
-      "resource": 167722
+      "resource": 167724
     },
     {
       "key": "土豪",
@@ -480,9 +392,23 @@
       "status": true,
       "isActive": true,
       "type": 1,
-      "id": 34,
-      "resource": 271047,
+      "id": 24,
+      "resource": 271226,
       "search": 1
+    },
+    {
+      "key": "rrvipw",
+      "name": "rrvipw",
+      "api": "https://www.rrvipw.com/api.php/provide/vod/",
+      "download": "",
+      "playUrl": "",
+      "search": 1,
+      "group": "默认",
+      "status": false,
+      "type": 1,
+      "id": 25,
+      "isActive": true,
+      "resource": 104461
     },
     {
       "key": "非凡资源",
@@ -493,10 +419,10 @@
       "group": "默认",
       "status": true,
       "type": 1,
-      "id": 36,
+      "id": 26,
       "search": 1,
       "isActive": true,
-      "resource": 61250
+      "resource": 61256
     },
     {
       "key": "映迷影院",
@@ -507,22 +433,23 @@
       "group": "默认",
       "status": true,
       "type": 1,
-      "id": 37,
+      "id": 27,
       "isActive": true,
-      "resource": 70071
+      "resource": 70074
     },
     {
-      "key": "易看资源",
-      "name": "易看资源",
-      "api": "https://api.yikanapi.com/api.php/provide/vod/",
+      "key": "ukuapi",
+      "name": "U酷资源",
+      "api": "https://api.ukuapi.com/api.php/provide/vod/",
+      "download": "",
       "playUrl": "",
       "search": 1,
       "group": "默认",
       "status": true,
-      "type": 1,
-      "id": 39,
       "isActive": true,
-      "resource": 3997
+      "type": 1,
+      "id": 28,
+      "resource": 34647
     },
     {
       "key": "忆梦资源",
@@ -533,22 +460,9 @@
       "group": "默认",
       "status": true,
       "type": 1,
-      "id": 40,
+      "id": 29,
       "isActive": true,
-      "resource": 24657
-    },
-    {
-      "key": "红牛资源",
-      "name": "红牛资源",
-      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
-      "playUrl": "",
-      "search": 1,
-      "group": "默认",
-      "status": true,
-      "type": 1,
-      "id": 42,
-      "isActive": true,
-      "resource": 47968
+      "resource": 24665
     },
     {
       "key": "adys",
@@ -559,7 +473,7 @@
       "group": "默认",
       "status": false,
       "type": 3,
-      "id": 48,
+      "id": 30,
       "isActive": true,
       "resource": 9999
     },
@@ -573,7 +487,7 @@
       "status": true,
       "isActive": true,
       "type": 3,
-      "id": 51,
+      "id": 31,
       "resource": 9999
     },
     {
@@ -585,7 +499,7 @@
       "group": "默认",
       "status": true,
       "type": 4,
-      "id": 54,
+      "id": 32,
       "isActive": true,
       "resource": 131944
     },
@@ -598,9 +512,9 @@
       "group": "默认",
       "status": true,
       "type": 4,
-      "id": 57,
+      "id": 33,
       "isActive": true,
-      "resource": 10134
+      "resource": 10139
     },
     {
       "key": "ishen520",
@@ -611,48 +525,9 @@
       "group": "默认",
       "status": true,
       "type": 4,
-      "id": 58,
+      "id": 34,
       "isActive": true,
-      "resource": 120621
-    },
-    {
-      "key": "非凡资源",
-      "name": "非凡资源",
-      "api": "http://www.ffzy.tv/api.php/provide/vod/",
-      "group": "默认",
-      "status": true,
-      "type": 1,
-      "id": 59,
-      "search": 1,
-      "playUrl": "",
-      "isActive": true,
-      "resource": 61250
-    },
-    {
-      "key": "飞速资源",
-      "name": "飞速资源",
-      "api": "https://www.feisuzyapi.com/api.php/provide/vod/",
-      "group": "默认",
-      "status": true,
-      "type": 1,
-      "id": 60,
-      "search": 1,
-      "playUrl": "",
-      "isActive": true,
-      "resource": 53944
-    },
-    {
-      "key": "速播",
-      "name": "速播",
-      "api": "https://subocaiji.com/api.php/provide/vod/",
-      "group": "默认",
-      "status": true,
-      "type": 1,
-      "search": 1,
-      "id": 61,
-      "playUrl": "",
-      "isActive": true,
-      "resource": 46921
+      "resource": 120633
     },
     {
       "key": "最大资源",
@@ -662,10 +537,36 @@
       "status": true,
       "type": 0,
       "search": 1,
-      "id": 80,
+      "id": 35,
       "playUrl": "",
       "isActive": true,
       "resource": 36230
+    },
+    {
+      "key": "vipmv",
+      "name": "天堂资源",
+      "api": "http://vipmv.cc/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "默认",
+      "isActive": true,
+      "status": true,
+      "type": 1,
+      "id": 36,
+      "resource": 58442
+    },
+    {
+      "key": "lziapi",
+      "name": "量子资源",
+      "api": "http://cj.lziapi.com/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "默认",
+      "isActive": true,
+      "status": true,
+      "type": 1,
+      "id": 37,
+      "resource": 74013
     },
     {
       "key": "a5a4498a-04ae-5267-b11c-a68eb32ff1e8",
@@ -676,9 +577,9 @@
       "search": 1,
       "status": true,
       "type": 1,
-      "id": 90,
+      "id": 38,
       "isActive": true,
-      "resource": 46323
+      "resource": 46326
     },
     {
       "key": "dbf45aab-a93b-5952-97e5-6e1a2c130e4d",
@@ -689,9 +590,9 @@
       "search": 1,
       "status": true,
       "type": 1,
-      "id": 92,
+      "id": 39,
       "isActive": true,
-      "resource": 18660
+      "resource": 18675
     },
     {
       "key": "bbb1d23d-d971-53fa-9a8f-21f17b78cbbf",
@@ -703,9 +604,9 @@
       "search": 1,
       "status": true,
       "type": 1,
-      "id": 94,
+      "id": 40,
       "isActive": true,
-      "resource": 69287
+      "resource": 69402
     },
     {
       "key": "bbb1d23d-d971-53fa-9a8f-21f17b78cbbf",
@@ -718,8 +619,8 @@
       "status": true,
       "isActive": true,
       "type": 1,
-      "id": 95,
-      "resource": 69287
+      "id": 41,
+      "resource": 69402
     },
     {
       "key": "e62319ec-70bb-56d2-9769-f129b508e4f7",
@@ -732,8 +633,8 @@
       "status": true,
       "isActive": true,
       "type": 1,
-      "id": 96,
-      "resource": 50587
+      "id": 42,
+      "resource": 50590
     },
     {
       "key": "e62319ec-70bb-56d2-9769-f129b508e4f7",
@@ -746,8 +647,8 @@
       "status": true,
       "isActive": true,
       "type": 1,
-      "id": 97,
-      "resource": 50587
+      "id": 43,
+      "resource": 50590
     },
     {
       "key": "e62319ec-70bb-56d2-9769-f129b508e4f7",
@@ -760,8 +661,8 @@
       "status": true,
       "isActive": true,
       "type": 1,
-      "id": 98,
-      "resource": 50587
+      "id": 44,
+      "resource": 50590
     },
     {
       "key": "e62319ec-70bb-56d2-9769-f129b508e4f7",
@@ -773,9 +674,9 @@
       "search": 1,
       "status": true,
       "type": 1,
-      "id": 99,
+      "id": 45,
       "isActive": true,
-      "resource": 50587
+      "resource": 50590
     },
     {
       "key": "e62319ec-70bb-56d2-9769-f129b508e4f7",
@@ -788,8 +689,8 @@
       "status": true,
       "isActive": true,
       "type": 1,
-      "id": 100,
-      "resource": 50587
+      "id": 46,
+      "resource": 50590
     },
     {
       "key": "e62319ec-70bb-56d2-9769-f129b508e4f7",
@@ -802,8 +703,8 @@
       "status": true,
       "isActive": true,
       "type": 1,
-      "id": 101,
-      "resource": 50587
+      "id": 47,
+      "resource": 50590
     },
     {
       "key": "e62319ec-70bb-56d2-9769-f129b508e4f7",
@@ -816,8 +717,8 @@
       "status": true,
       "isActive": true,
       "type": 1,
-      "id": 102,
-      "resource": 50587
+      "id": 48,
+      "resource": 50590
     },
     {
       "key": "30160a21-b92a-549f-82be-fcdb70039ed5",
@@ -828,9 +729,9 @@
       "group": "默认",
       "search": 1,
       "status": true,
-      "isActive": true,
       "type": 1,
-      "id": 105,
+      "id": 49,
+      "isActive": true,
       "resource": 8483
     },
     {
@@ -844,22 +745,8 @@
       "status": true,
       "isActive": true,
       "type": 1,
-      "id": 107,
-      "resource": 48158
-    },
-    {
-      "key": "605f69e3-8433-5431-a363-043e1d3220ae",
-      "name": "🎈┃暴风┃影视",
-      "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
-      "download": "",
-      "playUrl": "",
-      "group": "默认",
-      "search": 1,
-      "status": true,
-      "isActive": true,
-      "type": 1,
-      "id": 109,
-      "resource": 56621
+      "id": 50,
+      "resource": 48161
     },
     {
       "key": "b1d57811-11d8-5f7b-bfe4-5a0852e59758",
@@ -871,59 +758,9 @@
       "search": 1,
       "status": true,
       "type": 1,
-      "id": 113,
+      "id": 51,
       "isActive": true,
-      "resource": 167667
-    }
-  ],
-  "setting": [
-    {
-      "id": 0,
-      "theme": "light",
-      "externalPlayer": "",
-      "defaultHot": "kylive",
-      "defaultSearchRecommend": "douban",
-      "defaultSearchType": "group",
-      "defaultCheckModel": true,
-      "defaultChangeModel": false,
-      "defaultIptvEpg": "https://epg.112114.eu.org/",
-      "iptvSkipIpv6": true,
-      "iptvThumbnail": false,
-      "restoreWindowPositionAndSize": false,
-      "pauseWhenMinimize": true,
-      "defaultSite": null,
-      "defaultIptv": 56,
-      "defaultAnalyze": null,
-      "analyzeFlag": [
-        "youku",
-        "qq",
-        "iqiyi",
-        "qiyi",
-        "letv",
-        "sohu",
-        "tudou",
-        "pptv",
-        "mgtv"
-      ],
-      "analyzeQuickSearchType": "platform",
-      "analyzeSupport": true,
-      "broadcasterType": "xgplayer",
-      "softSolution": false,
-      "skipStartEnd": true,
-      "agreementMask": true,
-      "recordShortcut": "Shift+Command+Z",
-      "selfBoot": false,
-      "hardwareAcceleration": true,
-      "doh": "",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
-      "communitySubscribe": "",
-      "iptvStatus": true,
-      "dns": "https://sm2.doh.pub/dns-query",
-      "webdevUrl": "https://dav.jianguoyun.com/dav/",
-      "webdevUsername": "wy-hai@qq.com",
-      "webdevPassword": "ai4ymsm38zc4y7c7",
-      "snifferType": "pie",
-      "defaultDrive": null
+      "resource": 167671
     }
   ]
 }
