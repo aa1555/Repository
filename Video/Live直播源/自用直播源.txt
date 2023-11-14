@@ -12,214 +12,7 @@
 
 
 
-02.全球直连,#genre#
-CCTV-1 综合,http://cntv.lat/tv/live.php?auth=231110&id=cctv1HD
-CCTV-2 财经,http://cntv.lat/tv/live.php?auth=231110&id=cctv2HD
-CCTV-3 综艺,http://cntv.lat/tv/live.php?auth=231110&id=cctv3HD
-CCTV-4 中文国际,http://cntv.lat/tv/live.php?auth=231110&id=cctv4HD
-CCTV-5 体育,http://cntv.lat/tv/live.php?auth=231110&id=cctv5HD
-CCTV-5+ 体育赛事,http://cntv.lat/tv/live.php?auth=231110&id=cctv5SportHD
-CCTV-6 电影,http://cntv.lat/tv/live.php?auth=231110&id=cctv6HD
-CCTV-7 国防军事,http://cntv.lat/tv/live.php?auth=231110&id=cctv7HD
-CCTV-8 电视剧,http://cntv.lat/tv/live.php?auth=231110&id=cctv8HD
-CCTV-9 纪录,http://cntv.lat/tv/live.php?auth=231110&id=cctv9HD
-CCTV-10 科教,http://cntv.lat/tv/live.php?auth=231110&id=cctv10HD
-CCTV-11 戏曲,http://cntv.lat/tv/live.php?auth=231110&id=cctv11HD
-CCTV-12 社会与法,http://cntv.lat/tv/live.php?auth=231110&id=cctv12HD
-CCTV-13 新闻,http://cntv.lat/tv/live.php?auth=231110&id=CCTVNewsHD
-CCTV-14 少儿,http://cntv.lat/tv/live.php?auth=231110&id=cctvseHD
-CCTV-15 音乐,http://cntv.lat/tv/live.php?auth=231110&id=cctv15HD
-CCTV-16 奥林匹克,http://cntv.lat/tv/live.php?auth=231110&id=cctv16HD
-CCTV-17 农业农村,http://cntv.lat/tv/live.php?auth=231110&id=cctv17HD
-CCTV-4K 超高清,http://cntv.lat/tv/live.php?auth=231110&id=CCTV4K
-CCTV-16 4K,http://cntv.lat/tv/live.php?auth=231110&id=CCTV16_4K
-CHC动作电影,http://cntv.lat/tv/live.php?auth=231110&id=chcdzdyHD
-CHC家庭影院,http://cntv.lat/tv/live.php?auth=231110&id=chcjtyyHD
-CHC高清电影,http://cntv.lat/tv/live.php?auth=231110&id=chcgqdyHD
-北京卫视,http://cntv.lat/tv/live.php?auth=231110&id=beijingHD
-浙江卫视,http://cntv.lat/tv/live.php?auth=231110&id=zhejiangHD
-东方卫视,http://cntv.lat/tv/live.php?auth=231110&id=shanghaiHD
-深圳卫视,http://cntv.lat/tv/live.php?auth=231110&id=shenzhenHD
-辽宁卫视,http://cntv.lat/tv/live.php?auth=231110&id=liaoningHD
-天津卫视,http://cntv.lat/tv/live.php?auth=231110&id=tianjinHD
-贵州卫视,http://cntv.lat/tv/live.php?auth=231110&id=guizhouHD
-四川卫视,http://cntv.lat/tv/live.php?auth=231110&id=sichuanHD
-重庆卫视,http://cntv.lat/tv/live.php?auth=231110&id=chongqingHD
-江苏卫视,http://cntv.lat/tv/live.php?auth=231110&id=jiangsuHD
-云南卫视,http://cntv.lat/tv/live.php?auth=231110&id=yunnanSD
-东南卫视,http://cntv.lat/tv/live.php?auth=231110&id=dongnanHD
-黑龙江卫视,http://cntv.lat/tv/live.php?auth=231110&id=heilongjiangHD
-安徽卫视,http://cntv.lat/tv/live.php?auth=231110&id=anhuiSD
-河北卫视,http://cntv.lat/tv/live.php?auth=231110&id=hebeiSD
-江西卫视,http://cntv.lat/tv/live.php?auth=231110&id=jiangxiHD
-湖北卫视,http://cntv.lat/tv/live.php?auth=231110&id=hubeiSD
-海南卫视,http://cntv.lat/tv/live.php?auth=231110&id=hainanSD
-吉林卫视,http://cntv.lat/tv/live.php?auth=231110&id=jilinHD
-广西卫视,http://cntv.lat/tv/live.php?auth=231110&id=guangxiHD
-内蒙古卫视,http://cntv.lat/tv/live.php?auth=231110&id=neimengkuSD
-湖南卫视,http://cntv.lat/tv/live.php?auth=231110&id=hunanHD
-广东卫视,http://cntv.lat/tv/live.php?auth=231110&id=guangdongHD
-河南卫视,http://cntv.lat/tv/live.php?auth=231110&id=henanHD
-山西卫视,http://cntv.lat/tv/live.php?auth=231110&id=shanxiSD
-兵团卫视,http://cntv.lat/tv/live.php?auth=231110&id=bingtuanSD
-宁夏卫视,http://cntv.lat/tv/live.php?auth=231110&id=ningxia
-卡酷少儿,http://cntv.lat/tv/live.php?auth=231110&id=bjkakuSD
-金鹰卡通,http://cntv.lat/tv/live.php?auth=231110&id=jinyingSD
-三沙卫视,http://cntv.lat/tv/live.php?auth=231110&id=sanshaSD
-青海卫视,http://cntv.lat/tv/live.php?auth=231110&id=qinghaiSD
-新疆卫视,http://cntv.lat/tv/live.php?auth=231110&id=xinjiangSD
-西藏卫视,http://cntv.lat/tv/live.php?auth=231110&id=xizangSD
-中国天气,http://cntv.lat/tv/live.php?auth=231110&id=tianqiSD
-北京纪实科教,http://cntv.lat/tv/live.php?auth=231110&id=bjayjsSD
-山东教育卫视,http://cntv.lat/tv/live.php?auth=231110&id=sdjiaoyuSD
-CETV-1,http://cntv.lat/tv/live.php?auth=231110&id=cetv-1SD
-CETV-4,http://cntv.lat/tv/live.php?auth=231110&id=cetv-4SD
-早期教育,http://cntv.lat/tv/live.php?auth=231110&id=zaojiaoHD
-欢笑剧场 4K,http://cntv.lat/tv/live.php?auth=231110&id=hxjc_4K
-生活时尚,http://cntv.lat/tv/live.php?auth=231110&id=shenghuo
-百姓健康,http://cntv.lat/tv/live.php?auth=231110&id=jiankangSD
-快乐垂钓,http://cntv.lat/tv/live.php?auth=231110&id=klcdHD
-都市剧场,http://cntv.lat/tv/live.php?auth=231110&id=dsjcHD
-动漫秀场,http://cntv.lat/tv/live.php?auth=231110&id=dmxcHD
-魅力足球,http://cntv.lat/tv/live.php?auth=231110&id=mlzqHD
-求索纪录,http://cntv.lat/tv/live.php?auth=231110&id=qsjlHD
-游戏风云,http://cntv.lat/tv/live.php?auth=231110&id=yxfyHD
-东方财经,http://cntv.lat/tv/live.php?auth=231110&id=dfcj
-证券服务,http://cntv.lat/tv/live.php?auth=231110&id=jiazheng
-书画,http://cntv.lat/tv/live.php?auth=231110&id=shuhua
-新动漫,http://cntv.lat/tv/live.php?auth=231110&id=dongman
-国学频道,http://cntv.lat/tv/live.php?auth=231110&id=guoxue
-优优宝贝,http://cntv.lat/tv/live.php?auth=231110&id=youxi
-中华特产,http://cntv.lat/tv/live.php?auth=231110&id=techan
-环球奇观,http://cntv.lat/tv/live.php?auth=231110&id=car
-生态环境,http://cntv.lat/tv/live.php?auth=231110&id=shengtai
-四海钓鱼,http://cntv.lat/tv/live.php?auth=231110&id=diaoyu
-车迷,http://cntv.lat/tv/live.php?auth=231110&id=doxtv
-法治天地,http://cntv.lat/tv/live.php?auth=231110&id=fazhi
-金色学堂,http://cntv.lat/tv/live.php?auth=231110&id=jinse
-收藏天下,http://cntv.lat/tv/live.php?auth=231110&id=soucang
-财富天下,http://cntv.lat/tv/live.php?auth=231110&id=caifu
-天元围棋,http://cntv.lat/tv/live.php?auth=231110&id=weiqi
-先锋乒羽,http://cntv.lat/tv/live.php?auth=231110&id=xianfeng
-环球旅游,http://cntv.lat/tv/live.php?auth=231110&id=huanqiulvyou
-摄影频道,http://cntv.lat/tv/live.php?auth=231110&id=sheying
-风云剧场,http://cntv.lat/tv/live.php?auth=231110&id=fyjcHD
-第一剧场,http://cntv.lat/tv/live.php?auth=231110&id=diyijuchangHD
-女性时尚,http://cntv.lat/tv/live.php?auth=231110&id=nvxing
-怀旧剧场,http://cntv.lat/tv/live.php?auth=231110&id=hjjcHD
-风云音乐,http://cntv.lat/tv/live.php?auth=231110&id=fyyyHD
-央视台球,http://cntv.lat/tv/live.php?auth=231110&id=ystqHD
-风云足球,http://cntv.lat/tv/live.php?auth=231110&id=fyzqHD
-央视文化精品,http://cntv.lat/tv/live.php?auth=231110&id=yswhHD
-高尔夫网球,http://cntv.lat/tv/live.php?auth=231110&id=golfHD
-兵器科技,http://cntv.lat/tv/live.php?auth=231110&id=bqkjHD
-发现之旅,http://cntv.lat/tv/live.php?auth=231110&id=faxian
-中学生,http://cntv.lat/tv/live.php?auth=231110&id=qicai
-老故事,http://cntv.lat/tv/live.php?auth=231110&id=gushi
-优购物,http://cntv.lat/tv/live.php?auth=231110&id=yougouwu
-风尚购物,http://cntv.lat/tv/live.php?auth=231110&id=fsgw
-聚鲨环球精选,http://cntv.lat/tv/live.php?auth=231110&id=jusha
-中视购物,http://cntv.lat/tv/live.php?auth=231110&id=ysgw
-家有购物,http://cntv.lat/tv/live.php?auth=231110&id=jygw
-央广购物,http://cntv.lat/tv/live.php?auth=231110&id=yggw
-浙江公共新闻,http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江教科影视,http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-浙江数码时代,http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江经济生活,http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江钱江频道,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-内蒙古新闻综合,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
-内蒙古经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
-内蒙古少儿频道,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
-内蒙古文体娱乐,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
-内蒙古农牧频道,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800
-内蒙古蒙语卫视,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
-内蒙古蒙语文化,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
-重庆新闻,http://cntv.lat/tv/live.php?auth=231110&id=CQTVNewsHD
-重庆影视,http://cntv.lat/tv/live.php?auth=231110&id=cqyingshiHD
-重庆社会与法,http://cntv.lat/tv/live.php?auth=231110&id=CQTVTrendyHD
-重庆时尚生活,http://cntv.lat/tv/live.php?auth=231110&id=cqssgwHD
-重庆文体娱乐,http://cntv.lat/tv/live.php?auth=231110&id=cqwtylHD
-重庆新农村,http://cntv.lat/tv/live.php?auth=231110&id=cqggncHD
-重庆少儿,http://cntv.lat/tv/live.php?auth=231110&id=cqseHD
-重庆科教,http://cntv.lat/tv/live.php?auth=231110&id=CQTVkejiaoHD
-爱看导视,http://cntv.lat/tv/live.php?auth=231110&id=aikanHD
-重庆汽摩,http://cntv.lat/tv/live.php?auth=231110&id=cqcarSD
-重庆移动,http://cntv.lat/tv/live.php?auth=231110&id=mryyHD
-重广融媒,http://cntv.lat/tv/live.php?auth=231110&id=cqrongmei
-凤凰中文,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
-凤凰资讯,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
-翡翠台,https://pi.0472.org/tv/fct.php?auth=231110
-明珠台,https://pi.0472.org/tv/mzt.php?auth=231110
-澳视澳门,https://pi.0472.org/tv/asam.php?auth=231110
-星空卫视,https://pi.0472.org/tv/startv.php?auth=231110
-澳亚卫视,https://pi.0472.org/tv/aoya.php?auth=231110
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-莲花卫视,https://cntv.lat/tv/lhws.php
-人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-CGTN,http://cntv.lat/tv/live.php?auth=231110&id=cgtnSD
-CGTN记录,https://livedoc.cgtn.com/500d/prog_index.m3u8
-CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
-CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
-CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
-CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
-NHKWORLD,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-半岛英语,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-半岛阿语,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-Thai PBS 3,http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-FASHIONTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
-FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-金砖电视,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-亚洲新闻720P,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-亚洲新闻1080P,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-韩·BBS佛教,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
-韩·SBS,http://1.245.74.5:1935/live/tv/.m3u8
-韩·阿里郎Korea,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-韩·JobPlusTV,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
-韩·GS My Shop,https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
-韩·KoreaTV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-韩·TBS,https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
-韩·KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
-韩·EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
-韩·EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-韩·EBSe,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-韩·NBS,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-俄·IGITV,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-俄·RBC,http://92.50.128.180/utv/1358/index.m3u8
-美·NASA 1,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-美·NASA 2,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
-美·红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-乌·M2音乐,http://live.m2.tv/hls3/stream.m3u8
-西·加利西亚欧洲体育电视台,http://europa-crtvg.flumotion.com/playlist.m3u8
-希·FoxTV,http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
-越·HBTV,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
-越·ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
-番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-ABC新闻,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
-NewsmaxTV,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-PBS America,https://pbs-samsunguk.amagi.tv/playlist.m3u8
-moviesphere,https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
-EdgeSport,https://edgesport-samsunguk.amagi.tv/playlist.m3u8
-CanadaOne,http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
-CA,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-InsightTV,https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
-Astrakhan24,http://streaming.astrakhan.ru/astrakhan24/index.m3u8
-Самара,http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
-日本QVC,http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
-日本Shop Channel,https://stream3.shopch.jp/HLS/master.m3u8
-长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
-香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
-VB,http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
-
-
-
-
-03.直播中国,#genre#
+02.直播中国,#genre#
 直播中国 随机,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 直播中国 随机切换,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
 南京长江大桥,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
@@ -463,7 +256,7 @@ VB,http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 
 
 
-04.相声小品轮播,#genre#
+03.相声小品轮播,#genre#
 赵本山爆笑小品2,http://mmitv.top/pltv/yy.php?id=1354936217
 爆笑小品,http://mmitv.top/pltv/yy.php?id=1354931503
 小沈阳春晚小品,http://mmitv.top/pltv/yy.php?id=1382749941
@@ -499,7 +292,7 @@ yy小品2,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382741642
 
 
 
-05.相声小品,#genre#
+04.相声小品,#genre#
 吃面,https://vd3.bdstatic.com/mda-kihjn2cq7103ivig/v1-cae/hd/mda-kihjn2cq7103ivig.mp4
 非诚来扰,https://vd3.bdstatic.com/mda-jk4sx2ggq7u355d6/hd/mda-jk4sx2ggq7u355d6.mp4
 幸福密码,https://vd3.bdstatic.com/mda-kj9ispnax8gpirkf/hd/mda-kj9ispnax8gpirkf.mp4
@@ -585,7 +378,7 @@ yy小品2,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382741642
 春晚2022,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
 春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 
-06.歌曲MV,#genre#
+05.歌曲MV,#genre#
 歌MV1,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgypLV4gUo-ZmUhwc.mp4
 歌MV2,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAglZTV4gUo1tiHrgM.mp4
 歌MV3,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmJbV4gUogpLGkgM.mp4
@@ -798,7 +591,7 @@ sheep张艺兴,https://vdse.bdstatic.com/971347deaddd6fdb5ada6e87e4722ece.mp4?au
 
 
 
-DJ音乐,
+DJ音乐,#genre#
 热火斯卡拉,https://vd4.bdstatic.com/mda-nk3qfbxhf5dqpywt/sc/cae_h264/1667582665910576925/mda-nk3qfbxhf5dqpywt.mp4
 怒击摇,https://vd2.bdstatic.com/mda-mkibx9zvknj8d2fu/sc/cae_h264_nowatermark/1637355659217322910/mda-mkibx9zvknj8d2fu.mp4
 新送情郎,https://vd4.bdstatic.com/mda-meq936zru7niwvd2/sc/cae_h264/1621924823247730000/mda-meq936zru7niwvd2.mp4
@@ -1445,7 +1238,7 @@ BEYOND-醒你,http://em.21dtv.com/songs/60051184.mkv
 
 
 
-🎸｜DJ热,
+🎸｜DJ热,#genre#
 DJ版《真的为你哭了》,https://vd2.bdstatic.com/mda-me5chwexudvzcayg/fhd/cae_h264_nowatermark/1620297137821103617/mda-me5chwexudvzcayg.mp4
 DJ版《夜难眠》,https://vd3.bdstatic.com/mda-mh5hwg99vtp777bj/1080p/cae_h264/1628420576290088489/mda-mh5hwg99vtp777bj.mp4
 DJ小鱼儿 - 如果你真的要离开 (DJ加快版),https://vd4.bdstatic.com/mda-mfh4rq9drsza8gf9/1080p/cae_h264/1623987066817324460/mda-mfh4rq9drsza8gf9.mp4
@@ -1681,7 +1474,7 @@ DJ女驸马,https://vd3.bdstatic.com/mda-mkc73kvdz3q3xwaw/fhd/cae_h264_nowaterma
 
 
 
-🎶｜MTV,
+🎶｜MTV,#genre#
 烟雨人间,http://mobi.kuwo.cn/tmevideo/tme1257648.mp4
 阿果吉曲,http://mobi.kuwo.cn/tmevideo/tme1257695.mp4
 阿果吉曲,http://mobi.kuwo.cn/tmevideo/tme1257647.mp4
@@ -1997,7 +1790,7 @@ AOA - Like A Cat,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtfm95QUok8Wu6AQ
 
 
 
-👫｜太妍,
+👫｜太妍,#genre#
 韩国DJ Soda Remix 2021 电音,https://vd3.bdstatic.com/mda-mev3hw0htz28h5wn/1080p/cae_h264/1622343504467773766/mda-mev3hw0htz28h5wn.mp4
 韩国歌团001,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240095359203.mp4
 韩国歌团002,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239978750464.mp4
@@ -2330,7 +2123,7 @@ Beyond_海阔天空,https://vd2.bdstatic.com/mda-jccg84gp61a7n0ms/sc/mda-jccg84g
 
 
 
-🎙️丨演唱现场,
+🎙️丨演唱现场,#genre#
 BEYOND-血染的风采,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201217/5623330UVqF1sc8YPbod665sH.mp4
 卓依婷东南西北风,http://vd3.bdstatic.com/mda-jf9fszd51shymgp6/mda-jf9fszd51shymgp6.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D卓依婷蜗牛与黄鹂鸟,http://vd3.bdstatic.com/mda-jfjnacpfn6r21dec/mda-jfjnacpfn6r21dec.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
 刀郎-冲动的惩罚西海情歌驼铃等,https://vdse.bdstatic.com//32366fcdc5f95486daaebcc32bec1135.mp4
@@ -2410,7 +2203,7 @@ EXID-啊_是的,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg1J_-4gUouJjNQw.m
 DJ《拥抱你离去》,https://vd4.bdstatic.com/mda-ncrcfxdipc045rvs/cae_h264_delogo/1648284889423266526/mda-ncrcfxdipc045rvs.mp4
 
 
-💃🏻｜动感舞曲,
+💃🏻｜动感舞曲,#genre#
 新歌来了《点燃一根烟》《雪花寄相思》优美歌声值得珍藏,https://vd4.bdstatic.com/mda-ndh6iph1cjnpbx5v/1080p/cae_h264_delogo/1650258726083919516/mda-ndh6iph1cjnpbx5v.mp4
 新歌推荐《今生的唯一》《今夜的雨是谁的眼泪》相当好听,https://vd2.bdstatic.com/mda-ndg6psg9zd12ihzs/1080p/cae_h264_delogo/1650236539803095703/mda-ndg6psg9zd12ihzs.mp4
 新歌推荐《梦中想着你》《惜别的海岸》好听醉人,https://vd2.bdstatic.com/mda-ndg53jbq7si8hftd/1080p/cae_h264_delogo/1650167662040039831/mda-ndg53jbq7si8hftd.mp4
