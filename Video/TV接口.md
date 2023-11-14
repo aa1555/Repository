@@ -1,8 +1,8 @@
-<p align="center">
-<a href="https://github.com/aa1555/Repository/tree/main/Video%2FLive%E7%9B%B4%E6%92%AD%E6%BA%90">📺直播源</a>
-<a href="https://github.com/aa1555/Repository/tree/main/Video/TV%20Box%20%E9%85%8D%E7%BD%AE">📺TV Box 配置</a>
-<a href="https://github.com/aa1555/Repository/tree/main/Video/ZY%20Player%20%E9%85%8D%E7%BD%AE">📺ZY Player 配置</a>
-</p>
+[📺直播源](https://github.com/aa1555/Repository/tree/main/Video%2FLive%E7%9B%B4%E6%92%AD%E6%BA%90)
+
+[📺TV Box 配置](https://github.com/aa1555/Repository/tree/main/Video/TV%20Box%20%E9%85%8D%E7%BD%AE)
+
+[📺ZY Player 配置](https://github.com/aa1555/Repository/tree/main/Video/ZY%20Player%20%E9%85%8D%E7%BD%AE)
 
 <hr>
 
