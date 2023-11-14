@@ -3,6 +3,7 @@
 凤凰资讯,http://r.jdshipin.com/0Rp07
 证券资讯,http://cntv.lat/tv/live.php?auth=231110&id=jiazheng
 兰山,http://alivealone.litenews.cn/201/161a22e99718418da23caa7fa3edb4dd.flv
+宋小宝,http://openhls-tct.douyucdn2.cn/dyliveflv3/9817729rxkZJQa6A_2000.m3u8?txSecret=ebffb19ddc9b71bd12558dea903e7daa&txTime=6552fe35&token=h5-douyu-0-9817729-f9969f9d557cd8ffe063341c42b8b249&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=367951305
 
 
 
