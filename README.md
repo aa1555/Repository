@@ -18,7 +18,7 @@
 
 
 
-<h2 align="center">节点编辑工具</h2>
+<h2 align="center">节点工具</h2>
 
 [订阅转换](https://bianyuan.xyz/) | [节点转Clash](https://v1.v2rayse.com/v2ray-clash/) | [Base64编码解码](https://tool.oschina.net/encrypt?type=3) | [TXT文本处理工具](http://www.txttool.com/)
 

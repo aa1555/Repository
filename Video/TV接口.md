@@ -1,14 +1,13 @@
-<h2 align="center">导航</h2>
-
-<details>
-  
-  <summary><b>详情</b></summary>
-
 [📺直播源](https://github.com/aa1555/Repository/tree/main/Video%2FLive%E7%9B%B4%E6%92%AD%E6%BA%90) 
 
 [📺TV Box 配置](https://github.com/aa1555/Repository/tree/main/Video/TV%20Box%20%E9%85%8D%E7%BD%AE) 
 
 [📺ZY Player 配置](https://github.com/aa1555/Repository/tree/main/Video/ZY%20Player%20%E9%85%8D%E7%BD%AE) 
+
+<hr>
+
+<h2 align="center">接口工具</h2>
+
 
 [📺直播源格式转换](https://guihet.com/tvlistconvert.html) 
 
@@ -19,8 +18,6 @@
 [📺TXT文本处理工具](http://www.txttool.com/)
 
 [📺国内外电视频道直播源搜索]( https://www.foodieguide.com/iptvsearch)
-
-</details>
 
 <hr>
 
