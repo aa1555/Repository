@@ -6,7 +6,7 @@
 
 <hr>
 
-<h2 align="center">接口编辑工具</h2>
+<h2 align="center">接口工具</h2>
 
 
 [📺直播源格式转换](https://guihet.com/tvlistconvert.html) 
