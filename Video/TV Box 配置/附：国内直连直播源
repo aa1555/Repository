@@ -15,22 +15,11 @@
     {
       "name": "live",
       "type": 0,
+      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
       "playerType": 1,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u",
-      "ua": "okhttp/3.12.13",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "ua": "okhttp/3.15",
+      "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "redirect",
-          "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cDovL+aIkeS4jeaYry7ogqXnjKsubG92ZTo2My9UVi90dnpiLnR4dA=="
-          ]
-        }
-      ]
     }
   ],
   "parses": [
