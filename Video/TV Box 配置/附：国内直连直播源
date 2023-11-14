@@ -18,7 +18,7 @@
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u",
       "playerType": 1,
       "ua": "okhttp/3.15",
-      "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
+      "epg": "http://epg.51zmt.top:8000/cc.xml",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
