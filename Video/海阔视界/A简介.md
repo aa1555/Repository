@@ -5,3 +5,5 @@
 ### 小程序规则
 
 https://github.com/qiusunshine/hiker-rules
+
+导入口令在规则地址前加上：海阔视界￥home_rule_url￥
