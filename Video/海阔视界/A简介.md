@@ -11,3 +11,7 @@ https://github.com/qiusunshine/hiker-rules
 一般复制地址后打开app会自动弹出导入窗口，
 
 如果没有，可在规则地址前加上`海阔视界￥home_rule_url￥`手动导入。
+
+### 规则备份
+
+可用坚果云的WebDAV进行备份。
