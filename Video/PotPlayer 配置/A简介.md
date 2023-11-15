@@ -2,9 +2,7 @@
 
 potplayer是一款在Windows使用的播放器，可以播放本地文件，也可以播放网络串流。
 
-### 官网
-
-http://potplayer.daum.net
+官网:http://potplayer.daum.net
 
 ### PotPlayer 哔哩哔哩插件：
 
