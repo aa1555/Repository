@@ -1,12 +1,12 @@
-### 介绍
+## 介绍
 
 uBlock Origin (uBO)是一款广告拦截插件，使用灵活，可以自定义导入广告过滤规则列表，也可以自定义屏蔽网页元素。
 
-### 项目地址：
+## 项目地址：
 
 https://github.com/gorhill/uBlock
 
-### 安装：
+## 安装：
 
 chrome 应用商店：https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=zh-CN
 
@@ -14,7 +14,7 @@ chrome 应用商店：https://chrome.google.com/webstore/detail/ublock-origin/cj
 
 Edge 加载项：https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak
 
-### 广告过滤规则
+## 广告过滤规则
 
 easylist：https://github.com/easylist/easylist
 
