@@ -1,0 +1,7 @@
+#### 介绍
+
+ZY Player是一个在Windows平台运行的开源影视盒子，它是一个空壳影视盒子，本身没有数据源，导入数据源接口即可在线观看视频。
+
+#### 项目地址：
+
+https://github.com/Hiram-Wong/ZyPlayer
