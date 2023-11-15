@@ -2,9 +2,7 @@
 
 uBlock Origin (uBO)是一款广告拦截插件，使用灵活，可以自定义导入广告过滤规则列表，也可以自定义屏蔽网页元素。
 
-## 项目地址：
-
-https://github.com/gorhill/uBlock
+项目地址：https://github.com/gorhill/uBlock
 
 ## 安装：
 
