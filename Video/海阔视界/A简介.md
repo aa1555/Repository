@@ -1,0 +1,7 @@
+#### 介绍
+
+海阔视界是一个能使用小程序的浏览器，实现一个浏览器可以使用多个手机app的效果。
+
+#### 小程序规则
+
+https://github.com/qiusunshine/hiker-rules
