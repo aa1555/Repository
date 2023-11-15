@@ -371,7 +371,7 @@
 <b>
 <span style="font-family: 方正粗圆_GBK; color: rgb(0,0,0); letter-spacing: 0.0000pt; font-weight: bold; text-transform: none; font-style: normal; font-size: 24.0000pt; background: rgb(255,255,255)">
 
-<font face="方正粗圆_GBK"><img src="https://github.com/aa1555/Repository/blob/main/Misc/Telegram-logo.png?raw=true" height="35" width="35">TG群搜索</font></span></b></h1>
+<font face="方正粗圆_GBK"><img src="https://github.com/aa1555/Repository/blob/main/Misc/logo/Telegram-logo.png?raw=true" height="35" width="35">TG群搜索</font></span></b></h1>
 
 <div align="center">
 	<table border="1" cellspacing="2" style="width: 760px; border: 1.5000pt outset rgb(51,102,153)">
