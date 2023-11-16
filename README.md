@@ -1,7 +1,7 @@
 <b>文件夹导航</b>
-|[📺Live直播源](https://github.com/aa1555/Repository/tree/main/Video/Live%E7%9B%B4%E6%92%AD%E6%BA%90)||
+|[📺Live直播源](https://github.com/aa1555/Repository/tree/main/Video/Live%E7%9B%B4%E6%92%AD%E6%BA%90)|[📦TV Box](https://github.com/aa1555/Repository/tree/main/Video/TV%20Box%20%E9%85%8D%E7%BD%AE)|
 |  ----  | ----   |
-|[📦TV Box](https://github.com/aa1555/Repository/tree/main/Video/TV%20Box%20%E9%85%8D%E7%BD%AE)|[📦ZY Player](https://github.com/aa1555/Repository/tree/main/Video/ZY%20Player%20%E9%85%8D%E7%BD%AE)|
+|[📦ZY Player](https://github.com/aa1555/Repository/tree/main/Video/ZY%20Player%20%E9%85%8D%E7%BD%AE)||
 |[✩星标](https://github.com/aa1555?tab=stars)|[节点](https://github.com/aa1555/Repository/tree/main/Nodes)|
 
 </details>
