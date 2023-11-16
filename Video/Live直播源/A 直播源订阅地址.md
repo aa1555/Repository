@@ -6,8 +6,6 @@ mytv https://9xi4o.tk/sub/mytv.txt
 
 YuanHsing https://freed.yuanhsing.cf/tv/live.txt
 
-于俊http://home.jundie.top:81/Cat/tv/live.txt
-
 巧技http://pandown.pro/tvbox/zhibo.txt
 
 南风https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt
