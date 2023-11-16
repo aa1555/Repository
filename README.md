@@ -26,7 +26,7 @@
 
 <h2 align="center">接口订阅</h2>
 
-<h3 align="center">自用的TV接口</h3>
+### 自用的TV接口
 
 <details>
   
@@ -47,7 +47,7 @@
 
 <hr>
 
-<h3 align="center">收集的TV接口</h3>
+###收集的TV接口
 
 <details>
   
