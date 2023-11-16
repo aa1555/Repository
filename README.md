@@ -32,13 +32,13 @@
   
   <summary><b>详情</b></summary>
 
-### TV Box接口
+#### TV Box接口
 
 - <b>🗂自用仓:</b>
 
   https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/TV%20Box%20%E9%85%8D%E7%BD%AE/TVBox%20%E8%87%AA%E7%94%A8%E4%BB%93.json
 
-### ZY Player 接口
+#### ZY Player 接口
 
 - 一键导入配置:
  https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/ZY%20Player%20%E9%85%8D%E7%BD%AE/ZY%20Player%20%E6%95%B0%E6%8D%AE%E6%BA%90.json
@@ -47,13 +47,13 @@
 
 <hr>
 
-###收集的TV接口
+### 收集的TV接口
 
 <details>
   
   <summary><b>详情</b></summary>
 
-### 项目地址：[fanmingming/live](https://github.com/fanmingming/live)
+#### 项目地址：[fanmingming/live](https://github.com/fanmingming/live)
 
   收集国内直连的电视直播源（信号非常好）：
 
@@ -63,7 +63,7 @@
 
   https://ghproxy.net/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u
 
-### 项目地址：[mengzehe/TVBox](https://github.com/mengzehe/TVBox)
+#### 项目地址：[mengzehe/TVBox](https://github.com/mengzehe/TVBox)
 
   专注于收集影视源，直播源
 
@@ -79,15 +79,15 @@
 
   https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/TVBox/main/%E8%87%AA%E7%94%A8%E5%A4%9A%E4%BB%93
 
-### 项目地址：[gaotianliuyun gao](https://github.com/gaotianliuyun/gao)
+#### 项目地址：[gaotianliuyun gao](https://github.com/gaotianliuyun/gao)
 
   收集了很多接口
 
-### 项目地址：[ls125781003/dmtg](https://github.com/ls125781003/dmtg)
+#### 项目地址：[ls125781003/dmtg](https://github.com/ls125781003/dmtg)
 
   整理了很多订阅代码
 
-### 项目地址：[2hacc/TVBox](https://github.com/2hacc/TVBox)
+#### 项目地址：[2hacc/TVBox](https://github.com/2hacc/TVBox)
 
 - <b>TV Box接口：</b>
 
@@ -101,7 +101,7 @@
 
   https://ghproxy.net/https://raw.githubusercontent.com/2hacc/TVBox/main/live/hlive.txt
 
-### 项目地址：[dxawi/0](https://github.com/dxawi/0)
+#### 项目地址：[dxawi/0](https://github.com/dxawi/0)
 
 - <b>📺直播源</b>（信号不错）：
 
@@ -111,7 +111,7 @@
 
   https://ghproxy.net/https://raw.githubusercontent.com/dxawi/0/main/0.json
 
-### 项目地址：[guot55/YGBH](https://github.com/guot55/YGBH)
+#### 项目地址：[guot55/YGBH](https://github.com/guot55/YGBH)
 
 </details>
 
