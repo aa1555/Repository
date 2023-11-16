@@ -3,7 +3,16 @@
 
 {"storeHouse":
 [
-{"sourceName":"星河多仓","sourceUrl": "http://52bsj.vip:81/api/v3/file/get/65430/zongcang.txt?sign=9ncAS6eZ86xmIZGf5FGGdNuBvztyubgFNamtypebe08%3D%3A0"},
-{"sourceName":"多多接口多仓","sourceUrl": "https://jihulab.com/duomv/apps/-/raw/main/fast.json"}
+{"sourceName":"星星影视","sourceUrl": "https://gitee.com/myxkx/xxysckhj/raw/master/星星影视仓库合集～.txt"},
+
+{"sourceName":"多多多仓","sourceUrl": "https://jihulab.com/duomv/apps/-/raw/main/duo.json"},
+
+{"sourceName":"奇奇多仓","sourceUrl": "https://cn.kstore.space/download/2904/123.txt"},
+
+{"sourceName":"业余打发多仓","sourceUrl": "https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/qqtv/main/qq.json"},
+
+{"sourceName":"运输车多仓","sourceUrl": "https://weixine.net/api.json"},
+
+{"sourceName":"精品多仓","sourceUrl": "https://i0k.cn/2xa129"}
 ]
 }
