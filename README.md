@@ -4,19 +4,15 @@
 
 [Live直播源](https://github.com/aa1555/Repository/tree/main/Video/Live直播源)
 
+[TV Box 配置](https://github.com/aa1555/Repository/tree/main/Video/TV Box 配置)
 
+[ZY Player 配置](https://github.com/aa1555/Repository/tree/main/Video/ZY Player 配置)
 
-https://github.com/aa1555/Repository/tree/main/Video/海阔视界
+[海阔视界](https://github.com/aa1555/Repository/tree/main/Video/海阔视界)
 
-https://github.com/aa1555/Repository/tree/main/Video/PotPlayer 配置
+[PotPlayer 配置](https://github.com/aa1555/Repository/tree/main/Video/PotPlayer 配置)
 
-https://github.com/aa1555/Repository/tree/main/Video/ZY Player 配置
-
-https://github.com/aa1555/Repository/tree/main/Video/TV Box 配置
-
-https://github.com/aa1555/Repository/tree/main/Video/
-
-<a href="https://github.com/aa1555?tab=stars">Stars</a>
+[Stars](https://github.com/aa1555?tab=stars)
 
 </details>
 
