@@ -27,6 +27,9 @@
 
 
 
+<details>
+  
+  <summary><b>节点</b></summary>
 
 <h2 align="center">节点订阅</h2>
 
@@ -194,6 +197,8 @@
 
   https://ghproxy.net/https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription3.yaml
   
+</details>
+
 </details>
 
 <hr>
