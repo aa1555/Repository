@@ -132,6 +132,9 @@
 
 
 
+
+
+
 <details>
   
   <summary><b>节点</b></summary>
@@ -144,7 +147,11 @@
 
 <h2 align="center">节点订阅</h2>
 
-### 自用节点订阅
+### 自用的节点订阅
+
+<details>
+  
+  <summary><b>详情</b></summary>
 
 - <b>Clash 订阅链接：</b>
 
@@ -154,9 +161,17 @@
 
   https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Nodes/V2Ray.txt
 
+</details>
+
 <hr>
 
-### [get_subscribe](https://github.com/ermaozi/get_subscribe) 
+### 收集的节点订阅
+
+<details>
+  
+  <summary><b>详情</b></summary>
+
+#### [get_subscribe](https://github.com/ermaozi/get_subscribe) 
 
 - <b>Clash订阅链接：</b>
 
@@ -168,7 +183,7 @@
 
 <hr>
 
-### [free_clash_vpn](https://github.com/ermaozi01/free_clash_vpn)
+#### [free_clash_vpn](https://github.com/ermaozi01/free_clash_vpn)
 
 - <b>Clash订阅链接：</b>
 
@@ -180,7 +195,7 @@
 
 <hr>
 
-### [freenode](https://github.com/ripaojiedian/freenode)
+#### [freenode](https://github.com/ripaojiedian/freenode)
 
 - <b>Clash订阅：</b>
 
@@ -192,7 +207,7 @@
 
 <hr>
 
-### [Nodpai](https://github.com/Paimonhub/Nodpai)
+#### [Nodpai](https://github.com/Paimonhub/Nodpai)
 
  - <b>Clash订阅：</b>
 
@@ -204,7 +219,7 @@
 
 <hr>
 
-### [v2ray](https://github.com/mfuu/v2ray)
+#### [v2ray](https://github.com/mfuu/v2ray)
 
 - <b>Clash订阅：</b>
 
@@ -216,7 +231,7 @@
 
 <hr>
 
-### [Free-servers](https://github.com/Pawdroid/Free-servers)
+#### [Free-servers](https://github.com/Pawdroid/Free-servers)
 
 - <b>订阅链接：</b>
 
@@ -224,7 +239,7 @@
 
 <hr>
 
-### TG群[OEO公益免费节点](https://t.me/oeo12)
+#### TG群[OEO公益免费节点](https://t.me/oeo12)
 
 - <b>Clash订阅链接：</b>
 
@@ -236,7 +251,7 @@
 
 <hr>
 
-### [Auto_proxy](https://github.com/w1770946466/Auto_proxy)
+#### [Auto_proxy](https://github.com/w1770946466/Auto_proxy)
 
 - <b>多协议Base64编码：</b>
 
@@ -304,6 +319,8 @@
 
   https://ghproxy.net/https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription3.yaml
   
+</details>
+
 </details>
 
 <hr>
