@@ -1,9 +1,30 @@
-<h2 align="center">
-<a href="https://github.com/aa1555/Repository/tree/main/Nodes">节点</a> |
-<a href="https://github.com/aa1555/Repository/blob/main/Video/TV%E6%8E%A5%E5%8F%A3.md">TV接口</a> |
-<a href="https://github.com/aa1555/Repository/blob/main/Misc/TG%E7%BE%A4.md">TG群</a> |
-<a href="https://github.com/aa1555?tab=stars">Stars</a> 
-</h2>
+<details>
+  
+  <summary><b>文件夹导航</b></summary>
+
+https://github.com/aa1555/Repository/tree/main/Video/海阔视界
+
+https://github.com/aa1555/Repository/tree/main/Video/PotPlayer 配置
+
+https://github.com/aa1555/Repository/tree/main/Video/ZY Player 配置
+
+https://github.com/aa1555/Repository/tree/main/Video/TV Box 配置
+
+https://github.com/aa1555/Repository/tree/main/Video/Live直播源
+
+<a href="https://github.com/aa1555?tab=stars">Stars</a>
+
+</details>
+
+
+
+
+
+
+
+
+
+
 
 
 <details>
