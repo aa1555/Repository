@@ -407,15 +407,10 @@
   
   <summary><b>代码托管平台</b></summary>
 
-- [GitHub](https://github.com/)
-
-- [极狐GitLab](https://jihulab.com/)
-
-- [Gitee](https://gitee.com/)
-
-- [Agit](https://agit.ai/)
-
-- [NotABug](https://notabug.org/explore/repos)
+|[GitHub](https://github.com/)|[极狐GitLab](https://jihulab.com/)|
+|  ----  | ----   |
+|[Gitee](https://gitee.com/)|[Agit](https://agit.ai/)|
+|[NotABug](https://notabug.org/explore/repos)||
 
 </details>
 
