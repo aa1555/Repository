@@ -1,6 +1,6 @@
 01.收藏,#genre#
-凤凰中文,http://r.jdshipin.com/cCCzW
-凤凰资讯,http://r.jdshipin.com/0Rp07
+凤凰资讯,http://lhome.shuaigebo.top:8686/udp/239.93.34.4:2191
+凤凰中文,http://lhome.shuaigebo.top:8686/udp/239.93.34.9:2192
 证券资讯,http://cntv.lat/tv/live.php?auth=231110&id=jiazheng
 兰山,http://alivealone.litenews.cn/201/161a22e99718418da23caa7fa3edb4dd.flv
 宋小宝,http://openhls-tct.douyucdn2.cn/dyliveflv3/9817729rxkZJQa6A_2000.m3u8?txSecret=ebffb19ddc9b71bd12558dea903e7daa&txTime=6552fe35&token=h5-douyu-0-9817729-f9969f9d557cd8ffe063341c42b8b249&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=367951305
@@ -9,6 +9,9 @@
 郭德纲说书,https://aldirect.flv.huya.com/huyalive/1199589623905-1199589623905-5556606727949910016-2399179371266-10057-A-0-1.flv?wsSecret=cf3f0e40d327cf22b18541f8ffda1337&wsTime=65543921&ctype=tars_mobile&fs=bgct&t=103&ver=1&sv=2110211124&seqid=1701398749335893&uid=1466683083893&uuid=1913308056
 德云社相声,https://al.flv.huya.com/src/1199621835392-1199621835392-5694954011170439168-2399243794240-10057-A-0-1.flv?wsSecret=d7356b03e2cb035a32bf8b628e4dc132&wsTime=655438c5&ctype=tars_mobile&fs=bgct&t=103&ver=1&sv=2110211124&seqid=1701398663074554&uid=1466689057554&uuid=13893343
 郭德纲于谦音频,https://aldirect.flv.huya.com/huyalive/1671227111-1671227111-7177865785933561856-3342577678-10057-A-0-1.flv?wsSecret=2644c6c3127a99126ecef3cd852c81c1&wsTime=655536e2&ctype=tars_mobile&fs=bgct&t=103&ver=1&sv=2110211124&seqid=170
+郭德纲于谦无唱,https://al.flv.huya.com/src/1199612461136-1199612461136-5654691888226107392-2399225045728-10057-A-0-1.flv?wsSecret=5c4a6c947c16334a9aa290d24fd7e30d&wsTime=65564154&ctype=tars_mobile&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_2000,&t=103&ver=1&sv=2110211124&seqid=1701531901963408&uid=1466645757408&uuid=3834145116
+郭德纲于谦音频,https://al.flv.huya.com/src/64310431-64310431-276211197936664576-128744318-10057-A-0-1.flv?wsSecret=a57de6c665d0f596b99c4333b9c59e86&wsTime=6556411b&ctype=tars_mobile&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,264_2000,&t=103&ver=1&sv=2110211124&seqid=1701531862024094&uid=1466674148094&uuid=447746761
+
 
 
 
