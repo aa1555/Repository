@@ -4,7 +4,7 @@
 
 [Live直播源](https://github.com/aa1555/Repository/tree/main/Video/Live直播源)
 
-[TV Box 配置](https://github.com/aa1555/Repository/tree/main/Video/TV Box 配置)
+[TV Box 配置](https://github.com/aa1555/Repository/tree/main/Video/TV%20Box%20%E9%85%8D%E7%BD%AE)
 
 [ZY Player 配置](https://github.com/aa1555/Repository/tree/main/Video/ZY Player 配置)
 
