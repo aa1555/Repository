@@ -1,3 +1,5 @@
+//本直播源订阅地址：https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/Live%E7%9B%B4%E6%92%AD%E6%BA%90/%E8%87%AA%E7%94%A8%E7%9B%B4%E6%92%AD%E6%BA%90.txt
+
 01.收藏,#genre#
 凤凰资讯,http://lhome.shuaigebo.top:8686/udp/239.93.34.4:2191
 凤凰中文,http://lhome.shuaigebo.top:8686/udp/239.93.34.9:2192
@@ -11,6 +13,21 @@
 郭德纲于谦音频,https://aldirect.flv.huya.com/huyalive/1671227111-1671227111-7177865785933561856-3342577678-10057-A-0-1.flv?wsSecret=2644c6c3127a99126ecef3cd852c81c1&wsTime=655536e2&ctype=tars_mobile&fs=bgct&t=103&ver=1&sv=2110211124&seqid=170
 郭德纲于谦无唱,https://al.flv.huya.com/src/1199612461136-1199612461136-5654691888226107392-2399225045728-10057-A-0-1.flv?wsSecret=5c4a6c947c16334a9aa290d24fd7e30d&wsTime=65564154&ctype=tars_mobile&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_2000,&t=103&ver=1&sv=2110211124&seqid=1701531901963408&uid=1466645757408&uuid=3834145116
 郭德纲于谦音频,https://al.flv.huya.com/src/64310431-64310431-276211197936664576-128744318-10057-A-0-1.flv?wsSecret=a57de6c665d0f596b99c4333b9c59e86&wsTime=6556411b&ctype=tars_mobile&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,264_2000,&t=103&ver=1&sv=2110211124&seqid=1701531862024094&uid=1466674148094&uuid=447746761
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -260,6 +277,20 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 03.相声小品轮播,#genre#
 赵本山爆笑小品2,http://mmitv.top/pltv/yy.php?id=1354936217
 爆笑小品,http://mmitv.top/pltv/yy.php?id=1354931503
@@ -292,6 +323,18 @@
 爆笑小品,https://live.metshop.top/yy/1354931503
 yy小品,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354931503
 yy小品2,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382741642
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
