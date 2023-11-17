@@ -112,7 +112,7 @@
 
 #### ■ 黎歌
   
-  [点击进入](http://epg.51zmt.top:8000/)
+  [点击进入](https://www.lige.fit/tvbox)
 
   一个收集、整理、解密TVBox接口的网站。
 
