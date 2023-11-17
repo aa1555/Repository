@@ -73,12 +73,11 @@
   
   <summary><b>TV</b></summary>
 
-<h2 align="center">接口工具</h2>
+<h2 align="center">直播源工具</h2>
 
 |[格式转换](https://guihet.com/tvlistconvert.html)|[接口解密](https://www.lige.fit/ua)| 
 |  ----  | ----   |
-|[电视频道搜索]( https://www.foodieguide.com/iptvsearch)|[配置编辑器](http://qiqiv.cn/tvbox/)|
-|[文本处理工具](http://www.txttool.com/)||
+|[电视频道搜索]( https://www.foodieguide.com/iptvsearch)|[文本处理工具](http://www.txttool.com/)|
 
 <hr>
 
