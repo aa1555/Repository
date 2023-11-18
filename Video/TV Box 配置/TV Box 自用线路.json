@@ -5,9 +5,9 @@
   "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06;md5;364c0f012e73a8801a69900fc25ae9c1",
   "lives": [
     {
-      "name": "dxawi0线路",
+      "name": "自用直播源",
       "type": 0,
-      "url": "https://xhdwc.tk/tvlive.txt"
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/Live%E7%9B%B4%E6%92%AD%E6%BA%90/%E8%87%AA%E7%94%A8%E7%9B%B4%E6%92%AD%E6%BA%90.txt"
     },
     {
       "name": "国内直连",
@@ -15,9 +15,39 @@
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u"
     },
     {
-      "name": "自用直播源",
+      "name": "dxawi0线路",
       "type": 0,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/Live%E7%9B%B4%E6%92%AD%E6%BA%90/%E8%87%AA%E7%94%A8%E7%9B%B4%E6%92%AD%E6%BA%90.txt"
+      "url": "https://xhdwc.tk/tvlive.txt"
+    },
+    {
+      "name": "巧技",
+      "type": 0,
+      "url": "http://pandown.pro/tvbox/zhibo.txt"
+    },
+    {
+      "name": "南风",
+      "type": 0,
+      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt"
+    },
+	{
+      "name": "多多影音",
+      "type": 0,
+      "url": "https://agit.ai/leevi/duo/raw/branch/master/v.txt"
+    },
+	{
+      "name": "饭太硬",
+      "type": 0,
+      "url": "https://xhdwc.tk/tvlive.txt"
+    },
+	{
+      "name": "尉春直播",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/TV.txt"
+    },
+	{
+      "name": "吾爱",
+      "type": 0,
+      "url": "http://52bsj.vip:81/api/v3/file/get/763/live.txt?sign=87BTGT1_6AOry7FPwy_uuxFTv2Wcb9aDMj46rDdRTD8%3D%3A0"
     }
   ],
   "sites": [
