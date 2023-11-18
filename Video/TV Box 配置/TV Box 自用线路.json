@@ -7,20 +7,17 @@
     {
       "name": "dxawi0线路",
       "type": 0,
-      "url": "https://xhdwc.tk/tvlive.txt",
-      "playerType": 1
+      "url": "https://xhdwc.tk/tvlive.txt"
     },
     {
       "name": "国内直连",
       "type": 0,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u",
-      "playerType": 1
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u"
     },
     {
       "name": "自用直播源",
       "type": 0,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/Live%E7%9B%B4%E6%92%AD%E6%BA%90/%E8%87%AA%E7%94%A8%E7%9B%B4%E6%92%AD%E6%BA%90.txt",
-      "playerType": 1
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/Live%E7%9B%B4%E6%92%AD%E6%BA%90/%E8%87%AA%E7%94%A8%E7%9B%B4%E6%92%AD%E6%BA%90.txt"
     }
   ],
   "sites": [
