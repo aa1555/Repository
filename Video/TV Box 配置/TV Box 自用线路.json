@@ -61,6 +61,16 @@
       "filterable": 0
     },
     {
+      "key": "Kuaikan",
+      "name": "快看",
+      "type": "3",
+      "api": "csp_Dora",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1",
+      "ext": "459b1cb892e317546676a2c9dcec2bff"
+    },
+    {
       "key": "77",
       "name": "七七",
       "type": 3,
