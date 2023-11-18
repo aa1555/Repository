@@ -588,18 +588,18 @@
 
 - `https://gh.api.99988866.xyz/`后面接raw地址
 
-- `https://fastly.jsdelivr.net/gh/`后面接raw地址的用户名及后面部分，把main前面的/改成@
+- `https://raw.fastgit.org/`后面接用户名及后面部分
+
+- `https://raw.gitmirror.com/`后面接用户名及后面部分
+
+- `https://fastly.jsdelivr.net/gh/`后面接用户名及后面部分，把main前面的`/`改成`@`
   
-- `https://cdn.jsdelivr.net/gh/`后面接raw地址的用户名及后面部分，把main前面的/改成@
+- `https://cdn.jsdelivr.net/gh/`后面接用户名及后面部分，把main前面的`/`改成`@`
   
-- `https://gcore.jsdelivr.net/gh/`后面接raw地址的用户名及后面部分，把main前面的/改成@
+- `https://gcore.jsdelivr.net/gh/`后面接用户名及后面部分，把main前面的`/`改成`@`
 
-- `https://raw.fastgit.org/`后面接raw地址的用户名及后面部分。
+- `https://jsd.cdn.gitkf.com/gh/`后面接用户名及后面部分，把main前面的`/`改成`@`
 
-- `https://jsd.cdn.gitkf.com/gh/`后面接raw地址的用户名及后面部分，把main前面的/改成@
-
-- `https://jsd.cdn.zzko.cn/gh/`后面接raw地址的用户名及后面部分，把main前面的/改成@
-
-- `https://raw.gitmirror.com/`后面接raw地址的用户名及后面部分
+- `https://jsd.cdn.zzko.cn/gh/`后面接用户名及后面部分，把main前面的`/`改成`@`
 
 </details>
