@@ -102,6 +102,8 @@
 - 一键导入配置:
  https://jsd.cdn.zzko.cn/gh/aa1555/Repository@main/Video/ZY%20Player%20%E9%85%8D%E7%BD%AE/ZY%20Player%20%E6%95%B0%E6%8D%AE%E6%BA%90.json
 
+  短链接：https://tt.vg/FExiW
+
 </details>
 
 <hr>
