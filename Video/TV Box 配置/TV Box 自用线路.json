@@ -30,19 +30,9 @@
       "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt"
     },
 	{
-      "name": "多多影音",
-      "type": 0,
-      "url": "https://agit.ai/leevi/duo/raw/branch/master/v.txt"
-    },
-	{
       "name": "饭太硬",
       "type": 0,
       "url": "https://xhdwc.tk/tvlive.txt"
-    },
-	{
-      "name": "尉春直播",
-      "type": 0,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/TV.txt"
     },
 	{
       "name": "吾爱",
@@ -88,6 +78,53 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json"
+    }
+  ],
+   "parses": [
+    {
+      "name": "纯净1",
+      "type": 1,
+      "url": "https://im1907.top/?jx="
+    },
+	{
+      "name": "纯净2",
+      "type": 0,
+      "url": "https://z1.im1907.top/?&jx="
+    },
+    {
+      "name": "B站",
+      "type": 3,
+      "url": "https://jx.jsonplayer.com/player/?url="
+    },
+    {
+      "name": "爱豆",
+      "type": 1,
+      "url": "https://jx.aidouer.net/?url="
+    },
+    {
+      "name": "YT",
+      "type": 1,
+      "url": "https://jx.yangtu.top/?url="
+    },
+    {
+      "name": "BL",
+      "type": 1,
+      "url": "https://vip.bljiex.com/?v="
+    },
+    {
+      "name": "777Player",
+      "type": 1,
+      "url": "https://jx.jsonplayer.com/player/?url="
+    },
+    {
+      "name": "云解析1",
+      "type": 1,
+      "url": "https://yparse.ik9.cc/index.php?url="
+    },
+    {
+      "name": "云解析2",
+      "type": 0,
+      "url": "https://jx.yparse.com/index.php?url="
     }
   ]
 }
