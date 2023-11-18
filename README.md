@@ -128,7 +128,7 @@
 
   https://live.fanmingming.com/tv/m3u/global.m3u
 
-  https://jsd.cdn.zzko.cn/gh/fanmingming/live/main/tv/m3u/global.m3u
+  https://jsd.cdn.zzko.cn/gh/fanmingming/live@main/tv/m3u/global.m3u
 
 #### ■ 项目地址：[mengzehe/TVBox](https://github.com/mengzehe/TVBox)
 
