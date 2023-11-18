@@ -637,6 +637,9 @@
 
 
 - `https://jsd.cdn.gitkf.com/gh/`后面接raw地址的用户名及后面部分，把main前面的/改成@
+
+
+- `https://jsd.cdn.zzko.cn/gh/`后面接raw地址的用户名及后面部分，把m
   <hr>
   
   
