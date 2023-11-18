@@ -52,23 +52,14 @@
   ],
   "sites": [
     {
-      "key": "豆瓣推荐",
-      "name": "豆瓣推荐",
+      "key": "csp_Nmys",
+      "name": "农民",
       "type": 3,
-      "api": "csp_DouDou",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "Kuaikan",
-      "name": "快看",
-      "type": "3",
-      "api": "csp_Dora",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "ext": "459b1cb892e317546676a2c9dcec2bff"
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json"
     },
     {
       "key": "77",
@@ -88,16 +79,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
-    {
-      "key": "csp_Nmys",
-      "name": "农民",
-      "type": 3,
-      "api": "csp_Nmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json"
     }
   ]
 }
