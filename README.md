@@ -128,7 +128,7 @@
 
   https://live.fanmingming.com/tv/m3u/global.m3u
 
-  https://ghproxy.net/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u
+  https://jsd.cdn.zzko.cn/gh/fanmingming/live/main/tv/m3u/global.m3u
 
 #### ■ 项目地址：[mengzehe/TVBox](https://github.com/mengzehe/TVBox)
 
@@ -136,15 +136,15 @@
 
 - <b>🗂单仓：</b>
 
-  https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/TVBox/main/ck.json
+  https://jsd.cdn.zzko.cn/gh/mengzehe/TVBox@main/ck.json
   
 - <b>🗂单仓2：<b>
 
-  https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/TVBox/main/ck2.json
+  https://jsd.cdn.zzko.cn/gh/mengzehe/TVBox@main/ck2.json
   
 - <b>🗂🗂多仓：<b>
 
-  https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/TVBox/main/%E8%87%AA%E7%94%A8%E5%A4%9A%E4%BB%93
+  https://jsd.cdn.zzko.cn/gh/mengzehe/TVBox@main/%E8%87%AA%E7%94%A8%E5%A4%9A%E4%BB%93
 
 #### ■ 项目地址：[gaotianliuyun gao](https://github.com/gaotianliuyun/gao)
 
