@@ -1,7 +1,6 @@
 //https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/TV%20Box%20%E9%85%8D%E7%BD%AE/TV%20Box%20%E8%87%AA%E7%94%A8%E7%BA%BF%E8%B7%AF.json
 
 {
-  "wallpaper": "https://xhdwc.tk/api/img.php",
   "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06;md5;364c0f012e73a8801a69900fc25ae9c1",
   "lives": [
     {
@@ -78,53 +77,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json"
-    }
-  ],
-   "parses": [
-    {
-      "name": "纯净1",
-      "type": 1,
-      "url": "https://im1907.top/?jx="
-    },
-	{
-      "name": "纯净2",
-      "type": 0,
-      "url": "https://z1.im1907.top/?&jx="
-    },
-    {
-      "name": "B站",
-      "type": 3,
-      "url": "https://jx.jsonplayer.com/player/?url="
-    },
-    {
-      "name": "爱豆",
-      "type": 1,
-      "url": "https://jx.aidouer.net/?url="
-    },
-    {
-      "name": "YT",
-      "type": 1,
-      "url": "https://jx.yangtu.top/?url="
-    },
-    {
-      "name": "BL",
-      "type": 1,
-      "url": "https://vip.bljiex.com/?v="
-    },
-    {
-      "name": "777Player",
-      "type": 1,
-      "url": "https://jx.jsonplayer.com/player/?url="
-    },
-    {
-      "name": "云解析1",
-      "type": 1,
-      "url": "https://yparse.ik9.cc/index.php?url="
-    },
-    {
-      "name": "云解析2",
-      "type": 0,
-      "url": "https://jx.yparse.com/index.php?url="
     }
   ]
 }
