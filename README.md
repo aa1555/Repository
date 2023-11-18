@@ -578,76 +578,26 @@
   
   <summary><b>Github RAW 加速服务</b></summary>
 
-- 官网：https://ghproxy.net
+- `https://ghproxy.net/`后面接raw地址
 
-  加速链接：
+- `https://gh-proxy.com/`后面接raw地址
 
-  `https://ghproxy.net/`后面接raw地址
-  <hr>
+- `https://mirror.ghproxy.com/`后面接raw地址
 
+- `https://gh.api.99988866.xyz/`后面接raw地址
 
-
-- 官网：https://gh-proxy.com
-
-  加速链接：
-
-  `https://gh-proxy.com/`后面接raw地址
-  <hr>
-
-
-
-- 官网：https://mirror.ghproxy.com
-
-  加速链接：
-
-  `https://mirror.ghproxy.com/`后面接raw地址
-  <hr>
-
-
-
-- 官网：https://gh.api.99988866.xyz
-
-  加速链接：
-
-  `https://gh.api.99988866.xyz/`后面接raw地址
-  <hr>
-
-
-
-- 官网：https://www.jsdelivr.com/github
-
-  加速链接：
-
-  `https://fastly.jsdelivr.net/gh/`后面接raw地址的用户名及后面部分，把main前面的/改成@
+- `https://fastly.jsdelivr.net/gh/`后面接raw地址的用户名及后面部分，把main前面的/改成@
   
-  `https://cdn.jsdelivr.net/gh/`后面接raw地址的用户名及后面部分，把main前面的/改成@
+- `https://cdn.jsdelivr.net/gh/`后面接raw地址的用户名及后面部分，把main前面的/改成@
   
-  `https://gcore.jsdelivr.net/gh/`后面接raw地址的用户名及后面部分，把main前面的/改成@
-  <hr>
-  
+- `https://gcore.jsdelivr.net/gh/`后面接raw地址的用户名及后面部分，把main前面的/改成@
 
-
-- 官网：https://doc.fastgit.org/zh-cn
-
-  加速链接：
-  
-  `https://raw.fastgit.org/`后面接raw地址的用户名及后面部分。
-  <hr>
-
-
+- `https://raw.fastgit.org/`后面接raw地址的用户名及后面部分。
 
 - `https://jsd.cdn.gitkf.com/gh/`后面接raw地址的用户名及后面部分，把main前面的/改成@
 
-
 - `https://jsd.cdn.zzko.cn/gh/`后面接raw地址的用户名及后面部分，把m
-  <hr>
-  
-  
-  
-- 官网：https://gitmirror.com
 
-  加速链接：
-
-  `https://raw.gitmirror.com/`后面接raw地址的用户名及后面部分
+- `https://raw.gitmirror.com/`后面接raw地址的用户名及后面部分
 
 </details>
