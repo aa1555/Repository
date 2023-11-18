@@ -22,16 +22,5 @@
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/Live%E7%9B%B4%E6%92%AD%E6%BA%90/%E8%87%AA%E7%94%A8%E7%9B%B4%E6%92%AD%E6%BA%90.txt",
       "playerType": 1
     }
-  ],
-  "sites": [
-    {
-      "key": "豆瓣推荐",
-      "name": "豆瓣推荐",
-      "type": 3,
-      "api": "csp_DouDou",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    }
   ]
 }
