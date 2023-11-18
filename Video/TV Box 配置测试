@@ -1,5 +1,3 @@
-//https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/TV%20Box%20%E9%85%8D%E7%BD%AE/TV%20Box%20%E8%87%AA%E7%94%A8%E7%BA%BF%E8%B7%AF.json
-
 {
   "wallpaper": "https://xhdwc.tk/api/img.php",
   "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06;md5;364c0f012e73a8801a69900fc25ae9c1",
@@ -14,13 +12,13 @@
       "name": "国内直连",
       "type": 0,
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u",
-      "playerType": 1
+      "playerType": 2
     },
     {
       "name": "自用直播源",
       "type": 0,
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/Live%E7%9B%B4%E6%92%AD%E6%BA%90/%E8%87%AA%E7%94%A8%E7%9B%B4%E6%92%AD%E6%BA%90.txt",
-      "playerType": 1
+      "playerType": 3
     }
   ],
   "sites": [
