@@ -272,11 +272,15 @@
 
 - <b>Clash 订阅链接：</b>
 
-  https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Nodes/Clash.txt
+  https://jsd.cdn.zzko.cn/gh/aa1555/Repository@main/Nodes/Clash.txt
+
+  短链接：https://tt.vg/GmJjL
 
 - <b>V2Ray 订阅链接：</b>
 
-  https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Nodes/V2Ray.txt
+  https://jsd.cdn.zzko.cn/gh/aa1555/Repository@main/Nodes/V2Ray.txt
+
+  短链接：https://tt.vg/HYlTl
 
 </details>
 
