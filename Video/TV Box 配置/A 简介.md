@@ -7,3 +7,12 @@ TV Box是一个空壳影视盒子，本身没有数据源，导入数据源接�
 地址发布页：https://yckceo.vip/
 
 网址：http://www.yckceo.com/
+
+## TV Box 配置格式说明
+
+- 多仓:storeHouse(仓库)
+
+- 单仓:urls(网址)
+
+- 线路:sites(影视源),lives(直播源),parses(解析源)
+
