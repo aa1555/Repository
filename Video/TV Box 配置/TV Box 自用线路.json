@@ -1,4 +1,4 @@
-//https://jsd.cdn.zzko.cn/gh/aa1555/Repository@main/Video/TV%20Box%20%E9%85%8D%E7%BD%AE/TV%20Box%20%E8%87%AA%E7%94%A8%E7%BA%BF%E8%B7%AF.json
+//https://gh-proxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Video/TV%20Box%20%E9%85%8D%E7%BD%AE/TV%20Box%20%E8%87%AA%E7%94%A8%E7%BA%BF%E8%B7%AF.json
 //本文件仅用于导入直播源
 
 {
@@ -7,12 +7,12 @@
     {
       "name": "自用直播源",
       "type": 0,
-      "url": "https://jsd.cdn.zzko.cn/gh/aa1555/Repository@main/Video/Live%E7%9B%B4%E6%92%AD%E6%BA%90/%E8%87%AA%E7%94%A8%E7%9B%B4%E6%92%AD%E6%BA%90.txt"
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Video/Live%E7%9B%B4%E6%92%AD%E6%BA%90/%E8%87%AA%E7%94%A8%E7%9B%B4%E6%92%AD%E6%BA%90.txt"
     },
     {
       "name": "国内直连",
       "type": 0,
-      "url": "https://jsd.cdn.zzko.cn/gh/fanmingming/live@main/tv/m3u/global.m3u"
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u"
     },
     {
       "name": "dxawi0线路",
@@ -42,12 +42,12 @@
 	{
       "name": "欧歌",
       "type": 0,
-      "url": "https://jsd.cdn.zzko.cn/gh/aa1555/Repository@main/Video/Live%E7%9B%B4%E6%92%AD%E6%BA%90/mis/%E6%AD%90%E6%AD%8C%E9%A0%BB%E9%81%93.txt"
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Video/Live%E7%9B%B4%E6%92%AD%E6%BA%90/mis/%E6%AD%90%E6%AD%8C%E9%A0%BB%E9%81%93.txt"
     },
 	{
       "name": "音乐MV",
       "type": 0,
-      "url": "https://jsd.cdn.zzko.cn/gh/aa1555/Repository@main/Video/Live%E7%9B%B4%E6%92%AD%E6%BA%90/mis/%E9%9F%B3%E4%B9%90MV.txt"
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Video/Live%E7%9B%B4%E6%92%AD%E6%BA%90/mis/%E9%9F%B3%E4%B9%90MV.txt"
     }
   ],
   "sites": [
