@@ -1,18 +1,16 @@
 {
   "spider": "http://cdn.qiaoji8.com/fix1110.jar;md5;3c3cd629e6463d91c11585d727722580",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "lives": [
-    {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "live",
-          "urls": [
-            "https://ghproxy.net/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u"
-          ]
-        }
-      ]
-    }
+  "lives": [ 
+     { 
+       "name": "live", 
+       "type": 0, 
+       "playerType": 1, 
+       "url": "https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/Live%E7%9B%B4%E6%92%AD%E6%BA%90/%E8%87%AA%E7%94%A8%E7%9B%B4%E6%92%AD%E6%BA%90.txt", 
+       "ua": "okhttp/3.12.13", 
+       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}", 
+       "logo": "https://epg.112114.xyz/logo/{name}.png" 
+     }
   ],
   "sites": [
     {
