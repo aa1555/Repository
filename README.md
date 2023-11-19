@@ -116,33 +116,31 @@
   
   <summary><b>详情</b></summary>
 
-#### ■ 黎歌
-  
-  [点击进入](https://www.lige.fit/tvbox)
+#### - 黎歌[点击进入](https://www.lige.fit/tvbox)
 
   一个收集、整理、解密TVBox接口的网站。
 
-#### ■ 项目地址：[fanmingming/live](https://github.com/fanmingming/live)
+#### - 项目地址：[fanmingming/live](https://github.com/fanmingming/live)
 
-  收集国内直连的电视直播源（信号非常好）：
+  收集国内直连的电视直播源（信号非常好）
 
-#### ■ 项目地址：[mengzehe/TVBox](https://github.com/mengzehe/TVBox)
+#### - 项目地址：[mengzehe/TVBox](https://github.com/mengzehe/TVBox)
 
   专注于收集影视源，直播源
 
-#### ■ 项目地址：[gaotianliuyun gao](https://github.com/gaotianliuyun/gao)
+#### - 项目地址：[gaotianliuyun gao](https://github.com/gaotianliuyun/gao)
 
   收集了很多接口
 
-#### ■ 项目地址：[ls125781003/dmtg](https://github.com/ls125781003/dmtg)
+#### - 项目地址：[ls125781003/dmtg](https://github.com/ls125781003/dmtg)
 
   整理了很多订阅代码
 
-#### ■ 项目地址：[2hacc/TVBox](https://github.com/2hacc/TVBox)
+#### - 项目地址：[2hacc/TVBox](https://github.com/2hacc/TVBox)
 
-#### ■ 项目地址：[dxawi/0](https://github.com/dxawi/0)
+#### - 项目地址：[dxawi/0](https://github.com/dxawi/0)
 
-#### ■ 项目地址：[guot55/YGBH](https://github.com/guot55/YGBH)
+#### - 项目地址：[guot55/YGBH](https://github.com/guot55/YGBH)
 
 </details>
 
