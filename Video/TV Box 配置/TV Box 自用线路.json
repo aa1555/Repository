@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 //本文件仅用于导入直播源
 
+=======
+>>>>>>> b2015452190b466fb4fc146419580e9a4df44705
 {
   "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06;md5;364c0f012e73a8801a69900fc25ae9c1",
   "lives": [
@@ -51,13 +54,14 @@
   ],
   "sites": [
     {
-      "key": "豆瓣推荐",
-      "name": "豆瓣推荐",
+      "key": "csp_Nmys",
+      "name": "农民",
       "type": 3,
-      "api": "csp_DouDou",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json"
     },
     {
       "key": "77",
@@ -77,16 +81,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
-    {
-      "key": "csp_Nmys",
-      "name": "农民",
-      "type": 3,
-      "api": "csp_Nmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json"
     }
   ]
 }
