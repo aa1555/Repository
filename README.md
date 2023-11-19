@@ -95,7 +95,7 @@
 
 - <b>🗂自用仓:</b>
 
-  https://jsd.cdn.zzko.cn/gh/aa1555/Repository@main/Video/TV%20Box%20%E9%85%8D%E7%BD%AE/TVBox%20%E8%87%AA%E7%94%A8%E4%BB%93.json
+  https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/TV%20Box%20%E9%85%8D%E7%BD%AE/TVBox%20%E8%87%AA%E7%94%A8%E4%BB%93.json
 
   短链接：https://tt.vg/oIiCA
 
