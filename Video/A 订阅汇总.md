@@ -99,7 +99,7 @@ TVBox 自用仓.json：https://ghproxy.net/https://raw.githubusercontent.com/aa1
 
 
 
-ZY Player 配置
+# ZY Player 配置
 
 ZY Player 数据源.json：https://ghproxy.net/https://github.com/aa1555/Repository/blob/main/Video/ZY%20Player%20%E9%85%8D%E7%BD%AE/ZY%20Player%20%E6%95%B0%E6%8D%AE%E6%BA%90.json
 
