@@ -10,61 +10,17 @@
 
 ## 网络收集
 
-dxawi/0：https://gh-proxy.com/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt
-
 国内直连电视直播源：https://ghproxy.net/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u
+
+dxawi/0：https://gh-proxy.com/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt
 
 南风：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt
 
-mytv：https://9xi4o.tk/sub/mytv.txt
-
-YuanHsing：https://freed.yuanhsing.cf/tv/live.txt
-
 巧技：http://pandown.pro/tvbox/zhibo.txt
-
-多多影音：https://agit.ai/leevi/duo/raw/branch/master/v.txt
 
 饭太硬：https://xhdwc.tk/tvlive.txt
 
-龙门影视：http://api.iqinu.com/app/conf/live.txt
-
-龙门影视2：http://conf.iqinu.com/app/conf/live.txt
-
-茶客：https://gh-proxy.com/https://raw.githubusercontent.com/meinvtuzai/zy3/master/lives/tea.txt
-
-茶客2：https://gh-proxy.com/https://raw.githubusercontent.com/vamoschuck/TV/main/M3U
-
-OneClickRun：https://9xi4o.tk/OneClickRun/live.txt
-
-尉春直播：https://gh-proxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/TV.txt
-
-IPTV：https://gh-proxy.com/https://raw.githubusercontent.com/meinvtuzai/zy3/master/lives/iptv.m3u
-
-肥羊精选：https://gh-proxy.com/https://raw.githubusercontent.com/meinvtuzai/zy3/master/lives/feiyang.txt
-
-站长大聪明：https://bitbucket.org/xduo/duoapi/raw/master/v.txt
-
 吾爱：http://52bsj.vip:81/api/v3/file/get/763/live.txt?sign=87BTGT1_6AOry7FPwy_uuxFTv2Wcb9aDMj46rDdRTD8%3D%3A0
-
-BESTV：https://gh-proxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u
-
-GHYX：https://gh-proxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/ghyx.m3u
-
-CQYX：https://gh-proxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u
-
-YanG：https://gh-proxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
-
-永恒国度：https://api.sqpon.gq//tv_box/iptv.txt
-
-APTV：https://gh-proxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
-
-虎牙直播：https://gh-proxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/ya.m3u
-
-虎牙一起看：https://gh-proxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/yqk.m3u
-
-斗鱼一起看：https://gh-proxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/douyuyqk.m3u
-
-斗鱼直播：https://gh-proxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/yu.m3u
 
 电视伴音：https://gh-proxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/radio.m3u
 
