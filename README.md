@@ -226,11 +226,7 @@
 
 <h2 align="center">节点订阅</h2>
 
-### 自用的节点订阅
-
-<details>
-  
-  <summary><b>详情</b></summary>
+## 自用节点
 
 - <b>Clash 订阅链接：</b>
 
@@ -240,15 +236,9 @@
 
   https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Nodes/V2Ray.txt
 
-</details>
-
 <hr>
 
 ### 收集的节点订阅
-
-<details>
-  
-  <summary><b>详情</b></summary>
 
 #### ■ [freenode](https://github.com/ripaojiedian/freenode)
 
@@ -259,8 +249,6 @@
 - <b>通用base64/v2ray订阅：</b>
 
   https://ghproxy.net/https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub
-  
-</details>
 
 </details>
 
