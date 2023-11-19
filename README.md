@@ -140,11 +140,11 @@
 
 - <b>🗂单仓：</b>
 
-  https://jsd.cdn.zzko.cn/gh/mengzehe/TVBox@main/ck.json
+  https://gh-proxy.com/https://raw.githubusercontent.com/mengzehe/TVBox/main/ck.json
   
 - <b>🗂单仓2：<b>
 
-  https://jsd.cdn.zzko.cn/gh/mengzehe/TVBox@main/ck2.json
+  https://gh-proxy.com/https://raw.githubusercontent.com/mengzehe/TVBox/main/ck2.json
   
 - <b>🗂🗂多仓：<b>
 
