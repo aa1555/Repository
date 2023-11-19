@@ -1,5 +1,7 @@
 {"urls":
 [
+{"url":"https://gh-proxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Video/TV%20Box%20%E9%85%8D%E7%BD%AE/TV%20Box%20%E8%87%AA%E7%94%A8%E7%BA%BF%E8%B7%AF.json","name":"自用线路"},
+
 {"url":"https://download.kstore.space/download/4907/jcsq/fx.json","name": "不明线路"},
 
 {"url":"http://我不是.肥猫.love:63/接口禁止贩卖","name": "肥猫线路"},
@@ -8,14 +10,12 @@
 
 {"url":"http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2","name":"欧歌线路"},
 
-{"url":"https://gh-proxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Video/TV%20Box%20%E9%85%8D%E7%BD%AE/TV%20Box%20%E8%87%AA%E7%94%A8%E7%BA%BF%E8%B7%AF.json","name":"(直播)自用线路"},
+{"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name":"南风"},
 
-{"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name":"（直播源多）南风"},
+{"url":"https://xhdwc.tk/0","name": "dxawi0路线"},
 
-{"url":"https://xhdwc.tk/0","name": "(直播)dxawi0路线"},
+{"url":"http://pandown.pro/tvbox/tvbox.json","name": "巧计线路1"},
 
-{"url":"http://pandown.pro/tvbox/tvbox.json","name": "(直播)巧计线路1"},
-
-{"url":"http://cdn.qiaoji8.com/tvbox.json","name": "(直播)巧计线路2"}
+{"url":"http://cdn.qiaoji8.com/tvbox.json","name": "巧计线路2"}
 ]
 }
