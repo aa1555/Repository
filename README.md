@@ -1,5 +1,3 @@
-[订阅汇总](https://github.com/aa1555/Repository/blob/main/Video/A%20%E8%AE%A2%E9%98%85%E6%B1%87%E6%80%BB.md)
-
 <b>文件导航<b>
 |[📺Live直播源](https://github.com/aa1555/Repository/tree/main/Video/Live%E7%9B%B4%E6%92%AD%E6%BA%90)|[📦TV Box](https://github.com/aa1555/Repository/tree/main/Video/TV%20Box%20%E9%85%8D%E7%BD%AE)|
 |  ----  | ----   |
@@ -128,27 +126,9 @@
 
   收集国内直连的电视直播源（信号非常好）：
 
-- <b>📺直播源：</b>
-
-  https://live.fanmingming.com/tv/m3u/global.m3u
-
-  https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u
-
 #### ■ 项目地址：[mengzehe/TVBox](https://github.com/mengzehe/TVBox)
 
   专注于收集影视源，直播源
-
-- <b>🗂单仓：</b>
-
-  https://gh-proxy.com/https://raw.githubusercontent.com/mengzehe/TVBox/main/ck.json
-  
-- <b>🗂单仓2：<b>
-
-  https://gh-proxy.com/https://raw.githubusercontent.com/mengzehe/TVBox/main/ck2.json
-  
-- <b>🗂🗂多仓：<b>
-
-  https://gh-proxy.com/https://raw.githubusercontent.com/mengzehe/TVBox/main/%E8%87%AA%E7%94%A8%E5%A4%9A%E4%BB%93
 
 #### ■ 项目地址：[gaotianliuyun gao](https://github.com/gaotianliuyun/gao)
 
@@ -160,27 +140,7 @@
 
 #### ■ 项目地址：[2hacc/TVBox](https://github.com/2hacc/TVBox)
 
-- <b>TV Box接口：</b>
-
-  https://ghproxy.net/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json
-
-- <b>小雅接口：</b>
-
-  https://ghproxy.net/https://raw.githubusercontent.com/2hacc/TVBox/main/xiaoya.json
-
-- <b> 📺海外直播源：</b>
-
-  https://ghproxy.net/https://raw.githubusercontent.com/2hacc/TVBox/main/live/hlive.txt
-
 #### ■ 项目地址：[dxawi/0](https://github.com/dxawi/0)
-
-- <b>📺直播源</b>（信号不错）：
-
-  https://ghproxy.net/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt
-
-- <b>TV Box接口：</b>
-
-  https://ghproxy.net/https://raw.githubusercontent.com/dxawi/0/main/0.json
 
 #### ■ 项目地址：[guot55/YGBH](https://github.com/guot55/YGBH)
 
@@ -292,30 +252,6 @@
   
   <summary><b>详情</b></summary>
 
-#### ■ [get_subscribe](https://github.com/ermaozi/get_subscribe) 
-
-- <b>Clash订阅链接：</b>
-
-  https://ghproxy.net/https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
-
-- <b>V2ray订阅链接：</b>
-
-  https://ghproxy.net/https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
-
-<hr>
-
-#### ■ [free_clash_vpn](https://github.com/ermaozi01/free_clash_vpn)
-
-- <b>Clash订阅链接：</b>
-
-  https://ghproxy.net/https://raw.githubusercontent.com/ermaozi01/free_clash_vpn/main/subscribe/clash.yml
-
-- <b>V2Ray订阅链接：</b>
-
-  https://ghproxy.net/https://raw.githubusercontent.com/ermaozi01/free_clash_vpn/main/subscribe/v2ray.txt
-
-<hr>
-
 #### ■ [freenode](https://github.com/ripaojiedian/freenode)
 
 - <b>Clash订阅：</b>
@@ -325,120 +261,6 @@
 - <b>通用base64/v2ray订阅：</b>
 
   https://ghproxy.net/https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub
-
-<hr>
-
-#### ■ [Nodpai](https://github.com/Paimonhub/Nodpai)
-
-- <b>Clash订阅：</b>
-
-   https://sub.pmsub.me/clash.yaml
-
-- <b>通用base64/v2ray订阅：</b>
-
-  https://sub.pmsub.me/base64
-
-<hr>
-
-#### ■ [v2ray](https://github.com/mfuu/v2ray)
-
-- <b>Clash订阅：</b>
-
-  https://ghproxy.net/https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml
-
-- <b>V2Ray订阅链接:</b>
-
-  https://ghproxy.net/https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray
-
-<hr>
-
-#### ■ [Free-servers](https://github.com/Pawdroid/Free-servers)
-
-- <b>订阅链接：</b>
-
-  https://ghproxy.net/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
-
-<hr>
-
-#### ■ TG群[OEO公益免费节点](https://t.me/oeo12)
-
-- <b>Clash订阅链接：</b>
-
-  https://tt.vg/PZNLh
-
-- <b>通用订阅链接：</b>
-
-  https://tt.vg/eHAmR
-
-<hr>
-
-#### ■ [Auto_proxy](https://github.com/w1770946466/Auto_proxy)
-
-- <b>多协议Base64编码：</b>
-
-  https://ghproxy.net/https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription_num
-
-  `合并节点总数: 910`
-
-- <b>多协议Base64编码：</b>
-
-  https://ghproxy.net/https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription1
-
-  `合并节点总数: 114`
-
-- <b>多协议Base64编码：</b>
-
-  https://ghproxy.net/https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription2
-
-  `合并节点总数: 114`
-
-- <b>多协议Base64编码：</b>
-
-  https://ghproxy.net/https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription3
-
-  `合并节点总数: 114`
-
-- <b>多协议Base64编码：</b>
-
-  https://ghproxy.net/https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription4
-
-  `合并节点总数: 114`
-
-- <b>多协议Base64编码：</b>
-
-  https://ghproxy.net/https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription5
-
-  `合并节点总数: 114`
-
-- <b>多协议Base64编码：</b>
-
-  https://ghproxy.net/https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription6
-
-  `合并节点总数: 114`
-
-- <b>多协议Base64编码：</b>
-
-  https://ghproxy.net/https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription7
-
-  `合并节点总数: 114`
-
-- <b>多协议Base64编码：</b>
-
-  https://ghproxy.net/https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription8
-
-  `合并节点总数: 112`
-
-- <b>Clash 订阅链接：</b>
-
-  https://ghproxy.net/https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription1.yaml
-
-- <b>Clash 订阅链接：</b>
-
-  https://ghproxy.net/https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription2.yaml
-
-- <b>Clash 订阅链接：</b>
-
-  https://ghproxy.net/https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription3.yaml
   
 </details>
 
