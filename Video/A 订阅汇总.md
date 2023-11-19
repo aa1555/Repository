@@ -1,7 +1,0 @@
-# TV Box 配置
-
-多仓.json：https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/TV%20Box%20%E9%85%8D%E7%BD%AE/%E5%A4%9A%E4%BB%93.json
-
-TVBox 自用仓.json：https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/TV%20Box%20%E9%85%8D%E7%BD%AE/TVBox%20%E8%87%AA%E7%94%A8%E4%BB%93.json
-
-网络收集的线路(单仓).json：https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/TV%20Box%20%E9%85%8D%E7%BD%AE/%E7%BD%91%E7%BB%9C%E6%94%B6%E9%9B%86%E7%9A%84%E7%BA%BF%E8%B7%AF(%E5%8D%95%E4%BB%93).json
