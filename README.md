@@ -238,7 +238,7 @@
 
 <hr>
 
-### 收集的节点订阅
+### 收集的节点
 
 #### 项目地址：[freenode](https://github.com/ripaojiedian/freenode)
 
