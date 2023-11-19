@@ -1,5 +1,3 @@
-//lives(直播源)，sites(影视源)，parses(解析源)，线路:spider(接口)
-
 {
   "lives": [
     {
