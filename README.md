@@ -240,7 +240,7 @@
 
 ### 收集的节点订阅
 
-#### ■ [freenode](https://github.com/ripaojiedian/freenode)
+#### 项目地址：[freenode](https://github.com/ripaojiedian/freenode)
 
 - <b>Clash订阅：</b>
 
