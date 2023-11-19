@@ -1,19 +1,7 @@
 {"storeHouse":
 [
-{"sourceName":"星星影视","sourceUrl": "https://gitee.com/myxkx/xxysckhj/raw/master/星星影视仓库合集～.txt"},
+{"sourceName":"自用仓.json","sourceUrl": "https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/TV%20Box%20%E9%85%8D%E7%BD%AE/TVBox%20%E8%87%AA%E7%94%A8%E4%BB%93.json"},
 
-{"sourceName":"多多多仓","sourceUrl": "https://jihulab.com/duomv/apps/-/raw/main/duo.json"},
-
-{"sourceName":"奇奇多仓","sourceUrl": "https://cn.kstore.space/download/2904/123.txt"},
-
-{"sourceName":"业余打发多仓","sourceUrl": "https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/qqtv/main/qq.json"},
-
-{"sourceName":"运输车多仓","sourceUrl": "https://weixine.net/api.json"},
-
-{"sourceName":"精品多仓","sourceUrl": "https://i0k.cn/2xa129"},
-
-{"sourceName":"收集了一些线路(单仓).json","sourceUrl": "https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/TV%20Box%20%E9%85%8D%E7%BD%AE/mis/%E6%94%B6%E9%9B%86%E4%BA%86%E4%B8%80%E4%BA%9B%E7%BA%BF%E8%B7%AF(%E5%8D%95%E4%BB%93).json"},
-
-{"sourceName":"自用仓.json","sourceUrl": "https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/TV%20Box%20%E9%85%8D%E7%BD%AE/TVBox%20%E8%87%AA%E7%94%A8%E4%BB%93.json"}
+{"sourceName":"网络收集的线路(单仓).json","sourceUrl": "https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/TV%20Box%20%E9%85%8D%E7%BD%AE/%E7%BD%91%E7%BB%9C%E6%94%B6%E9%9B%86%E7%9A%84%E7%BA%BF%E8%B7%AF(%E5%8D%95%E4%BB%93).json"}
 ]
 }
