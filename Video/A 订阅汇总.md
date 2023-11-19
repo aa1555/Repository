@@ -1,8 +1,8 @@
-# 直播源
+# Live直播源
 
-## 自用
+自用直播源.txt：https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/Live%E7%9B%B4%E6%92%AD%E6%BA%90/%E8%87%AA%E7%94%A8%E7%9B%B4%E6%92%AD%E6%BA%90.txt
 
-自用直播源：https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/Live%E7%9B%B4%E6%92%AD%E6%BA%90/%E8%87%AA%E7%94%A8%E7%9B%B4%E6%92%AD%E6%BA%90.txt
+## mis
 
 歐歌頻道.txt：https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/Live%E7%9B%B4%E6%92%AD%E6%BA%90/mis/%E6%AD%90%E6%AD%8C%E9%A0%BB%E9%81%93.txt
 
@@ -76,17 +76,15 @@ APTV：https://gh-proxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/mas
 
 
 
-# TV Box
+# TV Box 配置
 
-## 自用
-
-线路：https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/TV%20Box%20%E9%85%8D%E7%BD%AE/TV%20Box%20%E8%87%AA%E7%94%A8%E7%BA%BF%E8%B7%AF.json
+TV Box 自用线路.json：https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/TV%20Box%20%E9%85%8D%E7%BD%AE/TV%20Box%20%E8%87%AA%E7%94%A8%E7%BA%BF%E8%B7%AF.json
 
 TVBox 自用仓.json：https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/TV%20Box%20%E9%85%8D%E7%BD%AE/TVBox%20%E8%87%AA%E7%94%A8%E4%BB%93.json
 
-多仓：https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/TV%20Box%20%E9%85%8D%E7%BD%AE/%E5%A4%9A%E4%BB%93.json
+多仓.json：https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/TV%20Box%20%E9%85%8D%E7%BD%AE/%E5%A4%9A%E4%BB%93.json
 
-## 网络收集
+## mis
 
 收集了一些线路(单仓).json：https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/TV%20Box%20%E9%85%8D%E7%BD%AE/mis/%E6%94%B6%E9%9B%86%E4%BA%86%E4%B8%80%E4%BA%9B%E7%BA%BF%E8%B7%AF(%E5%8D%95%E4%BB%93).json
 
@@ -101,13 +99,9 @@ TVBox 自用仓.json：https://ghproxy.net/https://raw.githubusercontent.com/aa1
 
 
 
-ZY Player
-
-## 自用
+ZY Player 配置
 
 ZY Player 数据源.json：https://ghproxy.net/https://github.com/aa1555/Repository/blob/main/Video/ZY%20Player%20%E9%85%8D%E7%BD%AE/ZY%20Player%20%E6%95%B0%E6%8D%AE%E6%BA%90.json
-
-## 网络收集
 
 zy.json：https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/ZY%20Player%20%E9%85%8D%E7%BD%AE/zy.json
 
