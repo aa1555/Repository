@@ -642,6 +642,90 @@
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+    { 
+       "name": "自用直播源", 
+       "type": 0, 
+       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Video/Live%E7%9B%B4%E6%92%AD%E6%BA%90/%E8%87%AA%E7%94%A8%E7%9B%B4%E6%92%AD%E6%BA%90.txt", 
+       "epg": "http://epg.112114.xyz/?ch={name}&date={date}", 
+       "logo": "https://epg.112114.xyz/logo/{name}.png" 
+     }, 
+     { 
+       "name": "国内直连", 
+       "type": 0, 
+       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u", 
+       "epg": "http://epg.112114.xyz/?ch={name}&date={date}", 
+       "logo": "https://epg.112114.xyz/logo/{name}.png" 
+     }, 
+     { 
+       "name": "dxawi0线路", 
+       "type": 0, 
+       "url": "https://xhdwc.tk/tvlive.txt", 
+       "epg": "http://epg.112114.xyz/?ch={name}&date={date}", 
+       "logo": "https://epg.112114.xyz/logo/{name}.png" 
+     }, 
+     { 
+       "name": "巧技", 
+       "type": 0, 
+       "url": "http://pandown.pro/tvbox/zhibo.txt", 
+       "epg": "http://epg.112114.xyz/?ch={name}&date={date}", 
+       "logo": "https://epg.112114.xyz/logo/{name}.png" 
+     }, 
+     { 
+       "name": "南风", 
+       "type": 0, 
+       "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt", 
+       "epg": "http://epg.112114.xyz/?ch={name}&date={date}", 
+       "logo": "https://epg.112114.xyz/logo/{name}.png" 
+     }, 
+     { 
+       "name": "运输船", 
+       "type": 0, 
+       "url": "https://weixine.net/tv/ysclive.txt", 
+       "epg": "http://epg.112114.xyz/?ch={name}&date={date}", 
+       "logo": "https://epg.112114.xyz/logo/{name}.png" 
+     }, 
+     { 
+       "name": "不明线路", 
+       "type": 0, 
+       "url": "https://download.kstore.space/download/4907/jcsq/js/live.txt", 
+       "epg": "http://epg.112114.xyz/?ch={name}&date={date}", 
+       "logo": "https://epg.112114.xyz/logo/{name}.png" 
+     }, 
+     { 
+       "name": "饭太硬", 
+       "type": 0, 
+       "url": "https://xhdwc.tk/tvlive.txt", 
+       "epg": "http://epg.112114.xyz/?ch={name}&date={date}", 
+       "logo": "https://epg.112114.xyz/logo/{name}.png" 
+     }, 
+     { 
+       "name": "吾爱", 
+       "type": 0, 
+       "url": "http://52bsj.vip:81/api/v3/file/get/763/live.txt?sign=87BTGT1_6AOry7FPwy_uuxFTv2Wcb9aDMj46rDdRTD8%3D%3A0", 
+       "epg": "http://epg.112114.xyz/?ch={name}&date={date}", 
+       "logo": "https://epg.112114.xyz/logo/{name}.png" 
+     }, 
+     { 
+       "name": "欧歌", 
+       "type": 0, 
+       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Video/Live%E7%9B%B4%E6%92%AD%E6%BA%90/mis/%E6%AD%90%E6%AD%8C%E9%A0%BB%E9%81%93.txt", 
+       "epg": "http://epg.112114.xyz/?ch={name}&date={date}", 
+       "logo": "https://epg.112114.xyz/logo/{name}.png" 
+     }, 
+     { 
+       "name": "唐三", 
+       "type": 0, 
+       "url": "http://home.jundie.top:81/Cat/tv/live.txt", 
+       "epg": "http://epg.112114.xyz/?ch={name}&date={date}", 
+       "logo": "https://epg.112114.xyz/logo/{name}.png" 
+     }, 
+     { 
+       "name": "音乐MV", 
+       "type": 0, 
+       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Video/Live%E7%9B%B4%E6%92%AD%E6%BA%90/mis/%E9%9F%B3%E4%B9%90MV.txt", 
+       "epg": "http://epg.112114.xyz/?ch={name}&date={date}", 
+       "logo": "https://epg.112114.xyz/logo/{name}.png" 
+     },
     {
       "group": "redirect",
       "channels": [
