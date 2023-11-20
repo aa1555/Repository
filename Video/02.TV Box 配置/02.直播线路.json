@@ -50,6 +50,13 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
+      "name": "不知道",
+      "type": 0,
+      "url": "https://wds.ecsxs.com/230989.json",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
       "name": "饭太硬",
       "type": 0,
       "url": "https://xhdwc.tk/tvlive.txt",
