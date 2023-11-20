@@ -15,3 +15,9 @@ https://github.com/Hiram-Wong/ZyPlayer
 - analyze（分析）：解析源
 
 - sites（网站）：影视源
+
+- "analyze"(分析):
+
+- "iptv":
+
+- "sites":
