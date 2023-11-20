@@ -36,6 +36,13 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
+      "name": "不知道",
+      "type": 0,
+      "url": "https://wds.ecsxs.com/230864.json",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
       "name": "运输船",
       "type": 0,
       "url": "https://weixine.net/tv/ysclive.txt",
