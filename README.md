@@ -91,7 +91,7 @@
 
 #### TV Box接口
 
-- <b>🗂🗂多仓</b>
+- <b>🗂🗂自用多仓</b>
 
   https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/02.TV%20Box%20%E9%85%8D%E7%BD%AE/05.%E8%87%AA%E7%94%A8%E5%A4%9A%E4%BB%93.json
 
