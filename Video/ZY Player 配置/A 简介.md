@@ -10,14 +10,8 @@ https://github.com/Hiram-Wong/ZyPlayer
 
 [点击此处](https://github.com/Hiram-Wong/ZyPlayer)往下翻有格式说明
 
-- IPTV（网络电视）：电视直播源
+- "analyze"(分析)：解析源
 
-- analyze（分析）：解析源
+- "iptv"(网络电视)：电视直播源
 
-- sites（网站）：影视源
-
-- "analyze"(分析):
-
-- "iptv":
-
-- "sites":
+- "sites"(网站)：影视源
