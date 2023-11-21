@@ -85,13 +85,6 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "群里找",
-      "type": 0,
-      "url": "http://tvkj.top/DC.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
       "name": "群里找的",
       "type": 0,
       "url": "https://wds.ecsxs.com/230864.json",
