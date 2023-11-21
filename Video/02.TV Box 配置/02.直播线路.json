@@ -52,8 +52,8 @@
     {
       "name": "运输车vip",
       "type": 0,
-      "url": "http://tvkj.top/DC/nf/tvkj/svip.json",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "url": "http://tvkj.top/DC/ysc/tvkj/lib/ysclive.txt",
+      "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
