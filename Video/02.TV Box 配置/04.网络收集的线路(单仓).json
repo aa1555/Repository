@@ -5,11 +5,7 @@
 
 {"urls":
 [
-{"url":"http://cdn.qiaoji8.com/tvbox.json","name": "巧技接口"},
-
 {"url":"http://tvbo.run.goorm.site/tangs.json","name": "唐三线路"},
-
-{"url":"https://xhdwc.tk/0","name": "dxawi0线路"},
 
 {"url":"https://ghproxy.net/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json","name": "香雅情线路"},
 
@@ -40,10 +36,6 @@
 {"url":"https://jihulab.com/dimaston1/4k/-/raw/main/tongyong.json?ref_type=heads","name":"4k"},
 
 {"url":"https://codeberg.org/jgfx/JSJSON/raw/branch/main/a.json","name": "DYM精选"},
-
-{"url":"https://pastebin.com/raw/5NHaxyGR","name":"道长路线"},
-
-{"url":"http://饭太硬.top/tv","name":"饭太硬线路"},
 
 {"url":"https://tvbox.cainisi.cf","name":"菜妮丝线路"},
 
