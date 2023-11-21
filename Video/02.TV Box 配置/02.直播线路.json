@@ -36,20 +36,6 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "群里找的",
-      "type": 0,
-      "url": "https://wds.ecsxs.com/230864.json",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "影视tv群小武哥分享",
-      "type": 0,
-      "url": "http://rihou.vip:61/lib/live.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
       "name": "运输船",
       "type": 0,
       "url": "https://weixine.net/tv/ysclive.txt",
@@ -67,13 +53,6 @@
       "name": "饭太硬",
       "type": 0,
       "url": "https://xhdwc.tk/tvlive.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "群里找的",
-      "type": 0,
-      "url": "http://tvkj.top/DC.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -104,7 +83,28 @@
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Video/01.Live%E7%9B%B4%E6%92%AD%E6%BA%90/03.%E9%9F%B3%E4%B9%90MV.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
+    },
+    {
+      "name": "群里找",
+      "type": 0,
+      "url": "http://tvkj.top/DC.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "群里找的",
+      "type": 0,
+      "url": "https://wds.ecsxs.com/230864.json",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "影视tv群小武哥分享",
+      "type": 0,
+      "url": "http://rihou.vip:61/lib/live.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
   ],
 
 
