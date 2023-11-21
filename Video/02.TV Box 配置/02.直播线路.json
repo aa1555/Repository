@@ -15,7 +15,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "dxawi0线路",
+      "name": "dxawi0",
       "type": 0,
       "url": "https://xhdwc.tk/tvlive.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -78,14 +78,14 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "不明线路",
+      "name": "不明直播源1",
       "type": 0,
       "url": "https://download.kstore.space/download/4907/jcsq/js/live.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "群里找的",
+      "name": "群分享直播源1",
       "type": 0,
       "url": "https://wds.ecsxs.com/230864.json",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
