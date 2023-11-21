@@ -43,9 +43,16 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "运输船线路",
+      "name": "运输车线路",
       "type": 0,
       "url": "https://weixine.net/tv/ysclive.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "运输车vip",
+      "type": 0,
+      "url": "http://tvkj.top/DC/nf/tvkj/svip.json",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
