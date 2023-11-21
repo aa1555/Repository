@@ -1,7 +1,7 @@
 {
   "lives": [
     {
-      "name": "自用直播源",
+      "name": "自用直播源（自建）",
       "type": 0,
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Video/01.Live%E7%9B%B4%E6%92%AD%E6%BA%90/01.%E8%87%AA%E7%94%A8%E7%9B%B4%E6%92%AD%E6%BA%90.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -22,44 +22,51 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "巧技",
+      "name": "巧技线路",
       "type": 0,
       "url": "http://pandown.pro/tvbox/zhibo.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "南风1",
+      "name": "南风线路1",
       "type": 0,
       "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "南风2",
+      "name": "南风线路2",
       "type": 0,
       "url": "http://tvkj.top/DC/nf/tvkj/lib/live.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "运输船",
+      "name": "运输船线路",
       "type": 0,
       "url": "https://weixine.net/tv/ysclive.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "吾爱",
+      "name": "吾爱线路",
       "type": 0,
       "url": "http://52bsj.vip:81/api/v3/file/get/763/live.txt?sign=87BTGT1_6AOry7FPwy_uuxFTv2Wcb9aDMj46rDdRTD8%3D%3A0",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "欧歌",
+      "name": "欧歌线路1（自建）",
       "type": 0,
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Video/01.Live%E7%9B%B4%E6%92%AD%E6%BA%90/02.%E6%AC%A7%E6%AD%8C%E9%A0%BB%E9%81%93.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "欧歌线路2",
+      "type": 0,
+      "url": "http://tv.nxog.top/m/jar.php?id=live",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -71,7 +78,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "音乐MV",
+      "name": "音乐MV（自建）",
       "type": 0,
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Video/01.Live%E7%9B%B4%E6%92%AD%E6%BA%90/03.%E9%9F%B3%E4%B9%90MV.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
