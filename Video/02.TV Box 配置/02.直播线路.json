@@ -15,7 +15,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "dxawi0",
+      "name": "dxawi 0",
       "type": 0,
       "url": "https://xhdwc.tk/tvlive.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -46,13 +46,6 @@
       "name": "运输船",
       "type": 0,
       "url": "https://weixine.net/tv/ysclive.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "饭太硬",
-      "type": 0,
-      "url": "https://xhdwc.tk/tvlive.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
