@@ -118,6 +118,13 @@
       "url": "http://rihou.vip:61/lib/live.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "多多",
+      "type": 0,
+      "url": "https://agit.ai/leevi/duo/raw/branch/master/v.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
 
