@@ -404,10 +404,32 @@
   
   <summary><b>代码托管平台</b></summary>
 
-|[GitHub](https://github.com/)|[极狐GitLab](https://jihulab.com/)|
-|  ----  | ----   |
-|[Gitee](https://gitee.com/)|[Agit](https://agit.ai/)|
-|[NotABug](https://notabug.org/explore/repos)||
+<div align="center">
+	<table border="1" width="280" height="96" style="border-left-width: 0px; border-right-width: 0px; border-top-width: 0px">
+		<tr>
+			<td align="center" width="282" height="24" colspan="2" style="border-style: none; border-width: medium">
+			<b>代码托管平台</b></td>
+		</tr>
+		<tr>
+			<td align="center" width="139" height="24">
+			<a href="https://github.com/">GitHub</a></td>
+			<td align="center" width="139" height="24">
+			<a href="https://jihulab.com/">极狐GitLab</a></td>
+		</tr>
+		<tr>
+			<td align="center" width="139" height="24" style="border-top-style: none; border-top-width: medium">
+			<a href="https://gitee.com/">Gitee</a></td>
+			<td align="center" width="139" height="24" style="border-top-style: none; border-top-width: medium">
+			<a href="https://agit.ai/">Agit</a></td>
+		</tr>
+		<tr>
+			<td align="center" width="139" height="24">
+			<a href="https://notabug.org/explore/repos">NotABug</a></td>
+			<td align="center" width="139" height="24">
+			　</td>
+		</tr>
+	</table>
+</div>
 
 </details>
 
