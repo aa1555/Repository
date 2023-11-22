@@ -20,7 +20,7 @@
 <span style="font-family: 宋体; font-weight: bold; font-size: 18.0000pt">
 <font face="宋体">节点分享</font></span></b></h2>
 <div align="center">
-	<table border="1" cellspacing="0" style="border-collapse: collapse; width: 62%; border: medium none" height="175">
+	<table border="1" cellspacing="0" style="border-collapse: collapse; width: 62%; border: medium none" height="">
 		<tr style="height:36.6500pt;">
 			<td valign="center" style="width: 33%; border: 1.0000pt solid windowtext; padding-left: 9.7500pt; padding-right: 9.7500pt; padding-top: 4.5000pt; padding-bottom: 4.5000pt">
 			<p class="MsoNormal" align="justify" style="text-align: justify; text-justify: inter-ideograph">
