@@ -1,12 +1,14 @@
-<h2 align="center">文件导航<h4>
-
 <div align="center">
-	<table border="1" width="291" height="120">
+	<table border="1" width="291" height="66" style="border-left-width: 0px; border-right-width: 0px; border-top-width: 0px">
 		<tr>
-			<td align="center" width="143" height="22">
+			<td align="center" width="287" height="22" colspan="2" style="border-style: none; border-width: medium">
+			<b>文件导航</b></td>
+		</tr>
+		<tr>
+			<td align="center" width="143" height="22" style="border-top-style: none; border-top-width: medium">
 			<a href="https://github.com/aa1555/Repository/tree/main/Video/01.Live直播源">
 			Live直播源</a></td>
-			<td align="center" width="144" height="22">
+			<td align="center" width="144" height="22" style="border-top-style: none; border-top-width: medium">
 			<a href="https://github.com/aa1555/Repository/tree/main/Video/02.TV%20Box%20配置">
 			TV Box</a></td>
 		</tr>
