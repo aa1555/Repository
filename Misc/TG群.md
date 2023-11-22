@@ -278,7 +278,7 @@
 </div>
 <h2 align="center" style="text-align:center;">　<b><span style="font-family: 宋体; font-weight: bold; font-size: 18.0000pt"><font face="宋体">其他</font></span></b></h2>
 <div align="center">
-	<table border="0" cellspacing="0" style="border-collapse: collapse; border: medium none" height="198" width="">
+	<table border="0" cellspacing="0" style="border-collapse: collapse; border: medium none" height="" width="">
 		<tr>
 			<td valign="center" style="border: 1.0000pt solid windowtext; padding-left: 9.7500pt; padding-right: 9.7500pt; padding-top: 4.5000pt; padding-bottom: 4.5000pt" height="46" width="230">
 			<p class="MsoNormal" style="text-align: left">
