@@ -85,7 +85,7 @@
 <span style="font-family: 宋体; font-weight: bold; font-size: 18.0000pt">
 <font face="宋体">TG直连</font></span></b></h2>
 <div align="center">
-	<table border="0" style="border-color:inherit; border-collapse: collapse; width: 924px; " height="225">
+	<table border="0" style="border-color:inherit; border-collapse: collapse; width: 924px; " height="">
 		<tr style="height:41.4500pt;page-break-inside:avoid;">
 			<td valign="center" style="border-left:1px solid windowtext; border-top:1px solid windowtext; width: 307px; padding-left: 9.7500pt; padding-right: 9.7500pt; padding-top: 4.5000pt; padding-bottom: 4.5000pt; border-right-color:windowtext; border-bottom-color:windowtext" height="49">
 			<p class="MsoNormal" align="justify" style="text-align: justify; text-justify: inter-ideograph">
