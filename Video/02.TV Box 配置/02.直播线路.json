@@ -127,7 +127,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "晴天源（只有部分盒子可播放）",
+      "name": "晴天源",
       "type": 0,
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Video/01.Live%E7%9B%B4%E6%92%AD%E6%BA%90/04.%E6%99%B4%E5%A4%A9%E6%BA%90.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
