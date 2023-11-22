@@ -263,7 +263,7 @@
 	<table border="1" width="329" height="" style="border-left-width: 0px; border-right-width: 0px; border-top-width: 0px">
 		<tr>
 			<td align="center" width="307" height="22" colspan="2" style="border-style: none; border-width: medium">
-			<b>文件导航</b></td>
+			<b>节点工具</b></td>
 		</tr>
 		<tr>
 			<td align="center" width="163" height="22">
