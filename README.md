@@ -405,7 +405,7 @@
   <summary><b>代码托管平台</b></summary>
 
 <div align="center">
-	<table border="1" width="280" height="96" style="border-left-width: 0px; border-right-width: 0px; border-top-width: 0px">
+	<table border="1" width="280" height="" style="border-left-width: 0px; border-right-width: 0px; border-top-width: 0px">
 		<tr>
 			<td align="center" width="282" height="24" colspan="2" style="border-style: none; border-width: medium">
 			<b>代码托管平台</b></td>
