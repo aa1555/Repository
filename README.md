@@ -5,12 +5,6 @@
 			<b>文件导航</b></td>
 		</tr>
 		<tr>
-			<td align="center" width="143" height="22">
-			<a href="https://github.com/aa1555/Repository/tree/main/Nodes">节点</a></td>
-			<td align="center" width="144" height="22">
-			<a href="https://github.com/aa1555?tab=stars">&#10025;星标</a></td>
-		</tr>
-		<tr>
 			<td align="center" width="143" height="22" style="border-top-style: none; border-top-width: medium">
 			<a href="https://github.com/aa1555/Repository/tree/main/Video/01.Live直播源">
 			📺Live直播源</a></td>
@@ -26,7 +20,12 @@
 			<a href="https://github.com/aa1555/Repository/blob/main/Video/海阔视界.md">
 			海阔视界</a></td>
 		</tr>
-
+		<tr>
+			<td align="center" width="143" height="22">
+			<a href="https://github.com/aa1555/Repository/tree/main/Nodes">节点</a></td>
+			<td align="center" width="144" height="22">
+			<a href="https://github.com/aa1555?tab=stars">&#10025;星标</a></td>
+		</tr>
 	</table>
 </div>
 
