@@ -1,11 +1,31 @@
 <b>文件导航<b>
 
-|[📺Live直播源](https://github.com/aa1555/Repository/tree/main/Video/01.Live%E7%9B%B4%E6%92%AD%E6%BA%90)|[📦TV Box](https://github.com/aa1555/Repository/tree/main/Video/02.TV%20Box%20%E9%85%8D%E7%BD%AE)|
-|  ----  | ----   |
-|[📦ZY Player](https://github.com/aa1555/Repository/tree/main/Video/03.ZY%20Player%20%E9%85%8D%E7%BD%AE)|[海阔视界](https://github.com/aa1555/Repository/blob/main/Video/%E6%B5%B7%E9%98%94%E8%A7%86%E7%95%8C.md)|
-|[节点](https://github.com/aa1555/Repository/tree/main/Nodes)|[✩星标](https://github.com/aa1555?tab=stars)|
-
-</details>
+<div align="center">
+	<table border="1" width="291" height="66">
+		<tr>
+			<td align="center" width="143" height="22">
+			<a href="https://github.com/aa1555/Repository/tree/main/Video/01.Live直播源">
+			Live直播源</a></td>
+			<td align="center" width="144" height="22">
+			<a href="https://github.com/aa1555/Repository/tree/main/Video/02.TV%20Box%20配置">
+			TV Box</a></td>
+		</tr>
+		<tr>
+			<td align="center" width="143" height="22">
+			<a href="https://github.com/aa1555/Repository/tree/main/Video/03.ZY%20Player%20配置">
+			ZY Player</a></td>
+			<td align="center" width="144" height="22">
+			<a href="https://github.com/aa1555/Repository/blob/main/Video/海阔视界.md">
+			海阔视界</a></td>
+		</tr>
+		<tr>
+			<td align="center" width="143" height="22">
+			<a href="https://github.com/aa1555/Repository/tree/main/Nodes">节点</a></td>
+			<td align="center" width="144" height="22">
+			<a href="https://github.com/aa1555?tab=stars">&#10025;星标</a></td>
+		</tr>
+	</table>
+</div>
 
 <hr>
 
