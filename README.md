@@ -1,4 +1,4 @@
-<b align="center">文件导航<b>
+<h2 align="center">文件导航<h4>
 
 <div align="center">
 	<table border="1" width="291" height="125">
