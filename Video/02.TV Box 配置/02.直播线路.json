@@ -94,13 +94,6 @@
     {
       "name": "群分享直播源1",
       "type": 0,
-      "url": "https://wds.ecsxs.com/230864.json",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "群分享直播源2",
-      "type": 0,
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/SPX372928/MyIPTV/master/%E9%99%95%E8%A5%BFPLTV%E7%A7%BB%E5%8A%A8CDN%E7%89%88.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
