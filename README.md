@@ -226,6 +226,8 @@
 - [源](https://cyuan.netlify.app/)
 
   一个收集TV Box接口的网站。
+  
+- [源仓库(地址发布页)](https://yckceo.vip/)
 
 - 项目地址：[fanmingming/live](https://github.com/fanmingming/live)
 
