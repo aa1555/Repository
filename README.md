@@ -338,8 +338,6 @@
 
 - `https://ghproxy.net/`后面接raw地址
 
-- `https://gh-proxy.com/`后面接raw地址
-
 - `https://mirror.ghproxy.com/`后面接raw地址
 
 - `https://gh.api.99988866.xyz/`后面接raw地址
