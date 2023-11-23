@@ -225,7 +225,7 @@
 
 - 项目地址：[fanmingming/live](https://github.com/fanmingming/live)
 
-  收集国内直连的电视直播源（信号非常好）
+  收集国内可直连的全球电视直播源
 
 - 项目地址：[mengzehe/TVBox](https://github.com/mengzehe/TVBox)
 
