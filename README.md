@@ -219,7 +219,7 @@
 
 ### 收集的TV接口
 
-- 黎歌[点击进入](https://www.lige.fit/tvbox)
+- [黎歌の主页](https://www.lige.fit/)
 
   一个收集、整理、解密TVBox接口的网站。
 
