@@ -108,7 +108,7 @@
     {
       "name": "假的电视家",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/aa1555/Repository/main/Video/01.Live%E7%9B%B4%E6%92%AD%E6%BA%90/%E5%81%87%E7%9A%84%E9%9B%BB%E8%A6%96%E5%AE%B6%E7%9B%B4%E6%92%AD%E6%BA%90.txt",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/01.Live%E7%9B%B4%E6%92%AD%E6%BA%90/%E5%81%87%E7%9A%84%E9%9B%BB%E8%A6%96%E5%AE%B6%E7%9B%B4%E6%92%AD%E6%BA%90.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
