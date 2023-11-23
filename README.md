@@ -231,20 +231,6 @@
 
   专注于收集影视源，直播源
 
-- 项目地址：[gaotianliuyun gao](https://github.com/gaotianliuyun/gao)
-
-  收集了很多接口
-
-- 项目地址：[ls125781003/dmtg](https://github.com/ls125781003/dmtg)
-
-  整理了很多订阅代码
-
-- 项目地址：[2hacc/TVBox](https://github.com/2hacc/TVBox)
-
-- 项目地址：[dxawi/0](https://github.com/dxawi/0)
-
-- 项目地址：[guot55/YGBH](https://github.com/guot55/YGBH)
-
 </details>
 
 <hr>
