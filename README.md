@@ -342,6 +342,8 @@
 
 - `https://gh.api.99988866.xyz/`后面接raw地址
 
+- `https://999740.xyz/`后面接raw地址
+
 - `https://raw.fastgit.org/`后面接用户名及后面部分
 
 - `https://raw.gitmirror.com/`后面接用户名及后面部分
