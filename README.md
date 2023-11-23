@@ -336,28 +336,28 @@
 
   `https://ghproxy.net/https://raw.githubusercontent.com/`用户名/仓库名/main/文件名(文件夹名/文件名)
 
-- `https://ghproxy.net/`后面接raw地址
+- `https://ghproxy.net/`接raw地址
 
-- `https://mirror.ghproxy.com/`后面接raw地址
+- `https://mirror.ghproxy.com/`接raw地址
 
-- `https://gh.api.99988866.xyz/`后面接raw地址
+- `https://gh.api.99988866.xyz/`接raw地址
 
-- `https://999740.xyz/`后面接raw地址
+- `https://999740.xyz/`接raw地址
 
-- `https://raw.fastgit.org/`后面接用户名及后面部分
+- `https://raw.fastgit.org/`接用户名及后面部分
 
-- `https://raw.gitmirror.com/`后面接用户名及后面部分
+- `https://raw.gitmirror.com/`接用户名及后面部分
 
 - [JSDELIVR](https://www.jsdelivr.com/github)
 
-  `https://fastly.jsdelivr.net/gh/`后面接用户名及后面部分，把main前面的`/`改成`@`
+  `https://fastly.jsdelivr.net/gh/`接用户名及后面部分，把main前面的`/`改成`@`
   
-  `https://cdn.jsdelivr.net/gh/`后面接用户名及后面部分，把main前面的`/`改成`@`
+  `https://cdn.jsdelivr.net/gh/`接用户名及后面部分，把main前面的`/`改成`@`
   
-  `https://gcore.jsdelivr.net/gh/`后面接用户名及后面部分，把main前面的`/`改成`@`
+  `https://gcore.jsdelivr.net/gh/`接用户名及后面部分，把main前面的`/`改成`@`
 
-- `https://jsd.cdn.gitkf.com/gh/`后面接用户名及后面部分，把main前面的`/`改成`@`
+- `https://jsd.cdn.gitkf.com/gh/`接用户名及后面部分，把main前面的`/`改成`@`
 
-- `https://jsd.cdn.zzko.cn/gh/`后面接用户名及后面部分，把main前面的`/`改成`@`
+- `https://jsd.cdn.zzko.cn/gh/`接用户名及后面部分，把main前面的`/`改成`@`
 
 </details>
