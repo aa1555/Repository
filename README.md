@@ -348,11 +348,13 @@
 
 - `https://raw.gitmirror.com/`后面接用户名及后面部分
 
-- `https://fastly.jsdelivr.net/gh/`后面接用户名及后面部分，把main前面的`/`改成`@`
+- [JSDELIVR](https://www.jsdelivr.com/github)
+
+  `https://fastly.jsdelivr.net/gh/`后面接用户名及后面部分，把main前面的`/`改成`@`
   
-- `https://cdn.jsdelivr.net/gh/`后面接用户名及后面部分，把main前面的`/`改成`@`
+  `https://cdn.jsdelivr.net/gh/`后面接用户名及后面部分，把main前面的`/`改成`@`
   
-- `https://gcore.jsdelivr.net/gh/`后面接用户名及后面部分，把main前面的`/`改成`@`
+  `https://gcore.jsdelivr.net/gh/`后面接用户名及后面部分，把main前面的`/`改成`@`
 
 - `https://jsd.cdn.gitkf.com/gh/`后面接用户名及后面部分，把main前面的`/`改成`@`
 
