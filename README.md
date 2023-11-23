@@ -201,10 +201,6 @@
 
 ### 自用的TV接口
 
-<details>
-  
-  <summary><b>详情</b></summary>
-
 #### TV Box接口
 
 - <b>🗂自用单仓</b>
@@ -219,15 +215,9 @@
 
   https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/02.TV%20Box%20%E9%85%8D%E7%BD%AE/05.%E8%87%AA%E7%94%A8%E5%A4%9A%E4%BB%93.json
 
-</details>
-
 <hr>
 
 ### 收集的TV接口
-
-<details>
-  
-  <summary><b>详情</b></summary>
 
 - 黎歌[点击进入](https://www.lige.fit/tvbox)
 
@@ -254,8 +244,6 @@
 - 项目地址：[dxawi/0](https://github.com/dxawi/0)
 
 - 项目地址：[guot55/YGBH](https://github.com/guot55/YGBH)
-
-</details>
 
 </details>
 
