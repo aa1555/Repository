@@ -224,8 +224,6 @@
   一个收集、整理、解密TVBox接口的网站。
   
 - [源](https://cyuan.netlify.app/)
-
-  一个收集TV Box接口的网站。
   
 - [源仓库(地址发布页)](https://yckceo.vip/)
 
