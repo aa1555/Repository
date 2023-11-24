@@ -91,11 +91,11 @@
 
 - <b>Clash 订阅链接：</b>
 
-  https://raw.githubusercontent.com/aa1555/Repository/main/Nodes/03.Clash.txt
+  https://mirror.ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Nodes/03.Clash.txt
 
 - <b>V2Ray 订阅链接：</b>
 
-  https://raw.githubusercontent.com/aa1555/Repository/main/Nodes/02.V2Ray.txt
+  https://mirror.ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Nodes/02.V2Ray.txt
 
 <hr>
 
@@ -105,11 +105,11 @@
 
 - <b>Clash订阅：</b>
 
-  https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
+  https://mirror.ghproxy.com/https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
 
 - <b>通用base64/v2ray订阅：</b>
 
-  https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub
+  https://mirror.ghproxy.com/https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub
 
 </details>
 
@@ -172,11 +172,11 @@
 
 - <b>🗂自用单仓</b>
 
-  https://raw.githubusercontent.com/aa1555/Repository/main/Video/02.TV%20Box%20%E9%85%8D%E7%BD%AE/03.%E8%87%AA%E7%94%A8%E5%8D%95%E4%BB%93.json
+  https://mirror.ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Video/02.TV%20Box%20%E9%85%8D%E7%BD%AE/03.%E8%87%AA%E7%94%A8%E5%8D%95%E4%BB%93.json
 
 - <b>🗂🗂自用多仓</b>
 
-  https://raw.githubusercontent.com/aa1555/Repository/main/Video/02.TV%20Box%20%E9%85%8D%E7%BD%AE/04.%E8%87%AA%E7%94%A8%E5%A4%9A%E4%BB%93.json
+  https://mirror.ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Video/02.TV%20Box%20%E9%85%8D%E7%BD%AE/04.%E8%87%AA%E7%94%A8%E5%A4%9A%E4%BB%93.json
 
 <hr>
 
