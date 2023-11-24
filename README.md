@@ -115,11 +115,11 @@
 
 - <b>Clash 订阅链接：</b>
 
-  https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Nodes/03.Clash.txt
+  https://raw.githubusercontent.com/aa1555/Repository/main/Nodes/03.Clash.txt
 
 - <b>V2Ray 订阅链接：</b>
 
-  https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Nodes/02.V2Ray.txt
+  https://raw.githubusercontent.com/aa1555/Repository/main/Nodes/02.V2Ray.txt
 
 <hr>
 
@@ -129,11 +129,11 @@
 
 - <b>Clash订阅：</b>
 
-  https://ghproxy.net/https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
+  https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
 
 - <b>通用base64/v2ray订阅：</b>
 
-  https://ghproxy.net/https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub
+  https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub
 
 </details>
 
@@ -205,15 +205,15 @@
 
 - <b>🗂自用单仓</b>
 
-  https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/02.TV%20Box%20%E9%85%8D%E7%BD%AE/03.%E8%87%AA%E7%94%A8%E5%8D%95%E4%BB%93.json
+  https://raw.githubusercontent.com/aa1555/Repository/main/Video/02.TV%20Box%20%E9%85%8D%E7%BD%AE/03.%E8%87%AA%E7%94%A8%E5%8D%95%E4%BB%93.json
 
 - <b>🗂网络收集的线路(单仓)</b>
 
-  https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/02.TV%20Box%20%E9%85%8D%E7%BD%AE/04.%E7%BD%91%E7%BB%9C%E6%94%B6%E9%9B%86%E7%9A%84%E7%BA%BF%E8%B7%AF(%E5%8D%95%E4%BB%93).json
+  https://raw.githubusercontent.com/aa1555/Repository/main/Video/02.TV%20Box%20%E9%85%8D%E7%BD%AE/04.%E7%BD%91%E7%BB%9C%E6%94%B6%E9%9B%86%E7%9A%84%E7%BA%BF%E8%B7%AF(%E5%8D%95%E4%BB%93).json
   
 - <b>🗂🗂自用多仓</b>
 
-  https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/02.TV%20Box%20%E9%85%8D%E7%BD%AE/05.%E8%87%AA%E7%94%A8%E5%A4%9A%E4%BB%93.json
+  https://raw.githubusercontent.com/aa1555/Repository/main/Video/02.TV%20Box%20%E9%85%8D%E7%BD%AE/05.%E8%87%AA%E7%94%A8%E5%A4%9A%E4%BB%93.json
 
 <hr>
 
