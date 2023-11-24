@@ -3,7 +3,7 @@
     {
       "name": "自用直播源（自建）",
       "type": 0,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/01.Live%E7%9B%B4%E6%92%AD%E6%BA%90/01.%E8%87%AA%E7%94%A8%E7%9B%B4%E6%92%AD%E6%BA%90.txt",
+      "url": "https://raw.githubusercontent.com/aa1555/Repository/main/Video/01.Live%E7%9B%B4%E6%92%AD%E6%BA%90/01.%E8%87%AA%E7%94%A8%E7%9B%B4%E6%92%AD%E6%BA%90.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -52,7 +52,7 @@
     {
       "name": "欧歌线路1（自建）",
       "type": 0,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/01.Live%E7%9B%B4%E6%92%AD%E6%BA%90/02.%E6%AC%A7%E6%AD%8C%E9%A0%BB%E9%81%93.txt",
+      "url": "https://raw.githubusercontent.com/aa1555/Repository/main/Video/01.Live%E7%9B%B4%E6%92%AD%E6%BA%90/02.%E6%AC%A7%E6%AD%8C%E9%A0%BB%E9%81%93.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -73,7 +73,7 @@
     {
       "name": "音乐MV（自建）",
       "type": 0,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/01.Live%E7%9B%B4%E6%92%AD%E6%BA%90/03.%E9%9F%B3%E4%B9%90MV.txt",
+      "url": "https://raw.githubusercontent.com/aa1555/Repository/main/Video/01.Live%E7%9B%B4%E6%92%AD%E6%BA%90/03.%E9%9F%B3%E4%B9%90MV.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -87,7 +87,7 @@
     {
       "name": "群分享直播源1",
       "type": 0,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/SPX372928/MyIPTV/master/%E9%99%95%E8%A5%BFPLTV%E7%A7%BB%E5%8A%A8CDN%E7%89%88.txt",
+      "url": "https://raw.githubusercontent.com/SPX372928/MyIPTV/master/%E9%99%95%E8%A5%BFPLTV%E7%A7%BB%E5%8A%A8CDN%E7%89%88.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -108,7 +108,7 @@
     {
       "name": "假的电视家",
       "type": 0,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/aa1555/Repository/main/Video/01.Live%E7%9B%B4%E6%92%AD%E6%BA%90/%E5%81%87%E7%9A%84%E9%9B%BB%E8%A6%96%E5%AE%B6%E7%9B%B4%E6%92%AD%E6%BA%90.txt",
+      "url": "https://raw.githubusercontent.com/aa1555/Repository/main/Video/01.Live%E7%9B%B4%E6%92%AD%E6%BA%90/%E5%81%87%E7%9A%84%E9%9B%BB%E8%A6%96%E5%AE%B6%E7%9B%B4%E6%92%AD%E6%BA%90.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
