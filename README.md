@@ -197,7 +197,7 @@
 		<tr>
 			<td align="center" width="143" height="22" style="border-top-style: none; border-top-width: medium">
 			<a href="https://www.sojson.com/">
-			json格式化工具</a></td>
+			JSON格式化工具</a></td>
 			<td align="center" width="144" height="22" style="border-top-style: none; border-top-width: medium">
 			<a href="">
 			</a></td>
