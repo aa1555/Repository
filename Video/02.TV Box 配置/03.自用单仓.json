@@ -1,6 +1,6 @@
 {"urls":
 [
-{"url":"https://raw.githubusercontent.com/aa1555/Repository/main/Video/02.TV%20Box%20%E9%85%8D%E7%BD%AE/02.%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF.json","name":"直播线路"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Video/02.TV%20Box%20%E9%85%8D%E7%BD%AE/02.%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF.json","name":"直播线路"},
 
 {"url":"http://tvkj.top/DC/nf/tvkj/svip.json","name": "南风线路"}, 
 
@@ -10,9 +10,9 @@
 
 {"url":"https://download.kstore.space/download/4907/jcsq/fx.json","name": "不明线路1"}, 
 
-{"url":"https://raw.githubusercontent.com/xiaolinshao/linshao/main/1.json","name": "群分享"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolinshao/linshao/main/1.json","name": "群分享"},
 
-{"url":"https://raw.githubusercontent.com/xiaolinshao/linshao","name": "---分割线---"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolinshao/linshao","name": "---分割线---"},
 
 
 
@@ -26,7 +26,7 @@
 
 {"url":"http://我不是.肥猫.live/接口禁止贩卖","name": "肥猫备用2"},
 
-{"url":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json","name": "蜂蜜"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json","name": "蜂蜜"},
 
 {"url":"http://饭太硬.top/tv","name": "饭太硬线路"},
 
@@ -42,7 +42,7 @@
 
 {"url":"http://tvbo.run.goorm.site/tangs.json","name": "唐三线路"},
 
-{"url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json","name": "香雅情线路"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json","name": "香雅情线路"},
 
 {"url":"https://jihulab.com/z-blog/vip/-/raw/main/xyq/t.json","name": "香雅情线路"},
 
@@ -86,13 +86,13 @@
 
 {"url":"https://szyyds.cn/tv/x.json","name":"小马线路"},
 
-{"url":"https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydfjk.json","name":"业余线路"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydfjk.json","name":"业余线路"},
 
 {"url":"https://jihulab.com/ymz1231/xymz/-/raw/main/ymz","name":"夜猫子"},
 
-{"url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json","name":"高天流云"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json","name":"高天流云"},
 
-{"url":"https://raw.githubusercontent.com/okcaptain/okjar/rm/ok.json","name":"ok线路"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/okcaptain/okjar/rm/ok.json","name":"ok线路"},
 
 {"url":"https://wds.ecsxs.com/230989.json","name": "不明线路2"}
 ]
