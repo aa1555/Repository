@@ -346,8 +346,6 @@
 
   `https://raw.githubusercontent.com/`用户名/仓库名/main/文件名(文件夹名/文件名)
 
-- `https://ghproxy.net/`接raw地址
-
 - `https://mirror.ghproxy.com/`接raw地址
 
 - `https://gh.api.99988866.xyz/`接raw地址
