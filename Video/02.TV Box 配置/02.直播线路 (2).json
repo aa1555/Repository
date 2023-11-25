@@ -1,13 +1,12 @@
-
 {
-  "lives": [
-	{
-      "name": "虎牙一起看",
-      "type": 0,
-      "url": "https://goodiptv.vercel.app/huyayqk.m3u",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
+"lives": [
+{
+"name": "虎牙一起看",
+"type": 0,
+"url":"https://goodiptv.vercel.app/huyayqk.m3u",
+"epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+"logo":"https://epg.112114.xyz/logo/{name}.png"
+},
 	{
       "name": "斗鱼一起看",
       "type": 0,
