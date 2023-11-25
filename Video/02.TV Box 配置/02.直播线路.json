@@ -107,12 +107,6 @@
       "type": 0,
       "url": "http://111.67.196.189/tvbox/tv/thtv.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-    },
-    {
-      "name": "名称",
-      "type": 0,
-      "url": "网址",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
     }
   ],
 
