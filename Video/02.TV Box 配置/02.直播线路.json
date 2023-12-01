@@ -19,6 +19,12 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
     },
     {
+      "name": "SPX372928/MyIPTV",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/SPX372928/MyIPTV/master/%E9%99%95%E8%A5%BFPLTV%E7%A7%BB%E5%8A%A8CDN%E7%89%88.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+    },
+    {
       "name": "dxawi0",
       "type": 0,
       "url": "https://xhdwc.tk/tvlive.txt",
@@ -64,12 +70,6 @@
       "name": "唐三",
       "type": 0,
       "url": "http://home.jundie.top:81/Cat/tv/live.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-    },
-    {
-      "name": "SPX372928/MyIPTV",
-      "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/SPX372928/MyIPTV/master/%E9%99%95%E8%A5%BFPLTV%E7%A7%BB%E5%8A%A8CDN%E7%89%88.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
     },
     {
