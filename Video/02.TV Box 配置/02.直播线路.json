@@ -113,6 +113,12 @@
       "type": 0,
       "url": "https://codeberg.org/ygbh8888/BH/raw/branch/main/ZB/ZB.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+    },
+    {
+      "name": "YueChan",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
     }
   ],
 
