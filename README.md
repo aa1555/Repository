@@ -6,7 +6,7 @@
 		</tr>
 		<tr>
 			<td align="center" width="143" height="22">
-			<a href="https://github.com/aa1555?tab=stars">已加星标</a></td>
+			<a href="https://github.com/aa1555?tab=stars">星标</a></td>
 			<td align="center" width="144" height="22">
 			<a href="https://github.com/aa1555/Repository/tree/main/Nodes">节点</a></td>
 		</tr>
