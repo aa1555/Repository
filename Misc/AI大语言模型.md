@@ -1,4 +1,4 @@
-# AI大模型
+# AI大语言模型
 
 ◆ [项目地址](https://github.com/wgwang/awesome-LLMs-In-China)
 
