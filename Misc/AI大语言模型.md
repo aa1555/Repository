@@ -6,7 +6,7 @@
 
 # AI大模型
 
-◆[项目地址](https://github.com/wgwang/awesome-LLMs-In-China)
+◆ [项目地址](https://github.com/wgwang/awesome-LLMs-In-China)
 
 收集了很多国产大模型
 
