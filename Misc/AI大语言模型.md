@@ -6,18 +6,18 @@
 
 # AI大模型
 
-1.收集了很多国产大模型 
+1.[项目地址](https://github.com/wgwang/awesome-LLMs-In-China)
 
-[项目地址](https://github.com/wgwang/awesome-LLMs-In-China)
+收集了很多国产大模型
 
-2.北京智谱的大模型。
+2.[项目地址](https://github.com/THUDM/ChatGLM-6B) 
 
-[项目地址](https://github.com/THUDM/ChatGLM-6B) 
+北京智谱的大模型。
 
-3.大语言模型集合 
+3.[项目地址](https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models)
 
-[项目地址](https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models)
+大语言模型集合
 
-4.可以说是LLM Agent的鼻祖了。Auto-GPT是一个实验性的开源应用程序，展示了GPT-4语言模型的能力。Auto-GPT突破了人工智能的极限，将AI进程推向了新高度 -- 自主人工智能。
+4.[项目地址](https://github.com/Significant-Gravitas/AutoGPT)
 
-[项目地址](https://github.com/Significant-Gravitas/AutoGPT)
+可以说是LLM Agent的鼻祖了。Auto-GPT是一个实验性的开源应用程序，展示了GPT-4语言模型的能力。Auto-GPT突破了人工智能的极限，将AI进程推向了新高度 -- 自主人工智能。
