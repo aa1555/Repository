@@ -16,6 +16,13 @@
 
 可以说是LLM Agent的鼻祖了。Auto-GPT是一个实验性的开源应用程序，展示了GPT-4语言模型的能力。Auto-GPT突破了人工智能的极限，将AI进程推向了新高度 -- 自主人工智能。
 
+<img src="https://pica.zhimg.com/50/v2-8817b929ce13d551097c07d49d7de9f4_720w.jpg?source=2c26e567" data-size="normal" data-rawwidth="1080" data-rawheight="656" data-original-token="v2-291a1d6d5a9a006437e25298455781bc" class="origin_image zh-lightbox-thumb" width="1080" data-original="https://picx.zhimg.com/v2-8817b929ce13d551097c07d49d7de9f4_r.jpg?source=2c26e567"/>人类与AI协同的三种方式
+
+作者：北方的郎
+链接：https://www.zhihu.com/question/637090848/answer/3354027066
+来源：知乎
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
 # 智能体（Agent）
 
 人类设定目标和提供必要的资源（例如计算能力），然后AI独立地承担大部分工作，最后人类监督进程以及评估最终结果。这种模式下，AI充分体现了智能体的互动性、自主性和适应性特征，接近于独立的行动者，而人类则更多地扮演监督者和评估者的角色。
