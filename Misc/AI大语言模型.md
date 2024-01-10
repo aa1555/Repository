@@ -16,7 +16,7 @@
 
 可以说是LLM Agent的鼻祖了。Auto-GPT是一个实验性的开源应用程序，展示了GPT-4语言模型的能力。Auto-GPT突破了人工智能的极限，将AI进程推向了新高度 -- 自主人工智能。
 
-<img src="https://pica.zhimg.com/50/v2-8817b929ce13d551097c07d49d7de9f4_720w.jpg?source=2c26e567" data-size="normal" data-rawwidth="1080" data-rawheight="656" data-original-token="v2-291a1d6d5a9a006437e25298455781bc" class="origin_image zh-lightbox-thumb" width="1080" data-original="https://picx.zhimg.com/v2-8817b929ce13d551097c07d49d7de9f4_r.jpg?source=2c26e567"/>人类与AI协同的三种方式
+<img src="https://pica.zhimg.com/50/v2-8817b929ce13d551097c07d49d7de9f4_720w.jpg?source=2c26e567" data-size="normal" data-rawwidth="1080" data-rawheight="656" data-original-token="v2-291a1d6d5a9a006437e25298455781bc" class="origin_image zh-lightbox-thumb" width="1080" data-original="https://picx.zhimg.com/v2-8817b929ce13d551097c07d49d7de9f4_r.jpg?source=2c26e567"/>
 
 # 智能体（Agent）
 
