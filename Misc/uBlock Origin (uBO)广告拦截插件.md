@@ -1,4 +1,4 @@
-## 介绍
+<h1 align="center"><img src="https://github.com/gorhill/uBlock/blob/master/src/img/ublock.svg" height="38" width="38">uBlock Origin (uBO)</h1>
 
 uBlock Origin (uBO)是一款广告拦截插件，使用灵活，可以自定义导入广告过滤规则列表，也可以自定义屏蔽网页元素。
 
