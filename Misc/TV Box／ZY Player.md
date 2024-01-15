@@ -12,7 +12,7 @@ TV Box是一款在安卓系统运行的影视盒子，它是一个空壳，需�
 
 ### 介绍：
 
-一个在Windows系统运行的影视盒子，这是个空壳，需要手动导入数据源。
+ZY Player是一个在Windows系统运行的影视盒子，这是个空壳，需要手动导入数据源。
 
 星标列表：[ZY Player相关项目](https://github.com/stars/aa1555/lists/zy-player-win%E7%89%88%E7%94%B5%E8%A7%86%E7%9B%92%E5%AD%90)
 
