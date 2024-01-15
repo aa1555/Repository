@@ -1,4 +1,4 @@
-# 开源阅读
+<h1 align="center"><img src="https://github.com/gedoor/legado/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" height="38" width="38">阅读</h1>
 
 ### 介绍：
 
