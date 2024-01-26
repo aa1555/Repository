@@ -1,3 +1,9 @@
+# 提示词
+
+一个收集 GPTs 提示词的文档，通过预设这些提示词，使 ChatGPT 拥有不同的功能和角色，里面也包含了中文提示词，
+
+项目地址：https://github.com/linexjlin/GPTs
+
 # AI大语言模型
 
 ◆ [awesome-LLMs-In-China](https://github.com/wgwang/awesome-LLMs-In-China)
