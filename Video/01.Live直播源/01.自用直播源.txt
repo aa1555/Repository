@@ -7,6 +7,7 @@
 湖南张家界迷魂台,https://gcalic.v.myalicdn.com/gc/zjjmht_1/index.m3u8
 湖南张家界宝峰湖,https://gcalic.v.myalicdn.com/gc/zjjbfh_1/index.m3u8
 湖南张家界御笔峰,https://gcalic.v.myalicdn.com/gc/zjjybf_1/index.m3u8
+
 四川峨眉山云海日出,https://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8
 济南 七星台,https://gcalic.v.myalicdn.com/gc/emsyh_1/index.m3u8
 青海 祁连山,https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8
