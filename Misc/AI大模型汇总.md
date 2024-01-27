@@ -1,38 +1,38 @@
 # 提示词prompt
 
-◆ 中文：https://prompts.fresns.cn/general/translation.html
+- 中文：https://prompts.fresns.cn/general/translation.html
 
-◆ 中文：https://prompts.fresns.cn/ 
+- 中文：https://prompts.fresns.cn/ 
 
-   开源地址：https://github.com/jevantang/chatgpt-prompts
+  开源地址：https://github.com/jevantang/chatgpt-prompts
 
-◆ 两个收集 GPTs 提示词的文档，通过预设这些提示词，使 ChatGPT 拥有不同的功能和角色，里面也包含了中文提示词。
+- 两个收集 GPTs 提示词的文档，通过预设这些提示词，使 ChatGPT 拥有不同的功能和角色，里面也包含了中文提示词。
 
-项目地址：
+  项目地址：
 
-https://github.com/linexjlin/GPTs
+  https://github.com/linexjlin/GPTs
 
-https://github.com/friuns2/Leaked-GPTs
+  https://github.com/friuns2/Leaked-GPTs
 
-◆ 英文：https://promptvibes.com/
+- 英文：https://promptvibes.com/
 
 
 
 # AI大语言模型
 
-◆ [awesome-LLMs-In-China](https://github.com/wgwang/awesome-LLMs-In-China)
+- [awesome-LLMs-In-China](https://github.com/wgwang/awesome-LLMs-In-China)
 
 收集了很多国产大模型
 
-◆ [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) 
+- [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) 
 
 北京智谱的大模型。
 
-◆ [awesome-pretrained-chinese-nlp-models](https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models)
+- [awesome-pretrained-chinese-nlp-models](https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models)
 
 大语言模型集合
 
-◆ [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
+- [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
 
 可以说是LLM Agent的鼻祖了。Auto-GPT是一个实验性的开源应用程序，展示了GPT-4语言模型的能力。Auto-GPT突破了人工智能的极限，将AI进程推向了新高度 -- 自主人工智能。
 
