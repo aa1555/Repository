@@ -3,8 +3,7 @@
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites": [
     {
-     
-         "key": "腾讯资源",
+      "key": "腾讯资源",
       "name": "️万达官方┃w1988.cc",
       "type": 1,
       "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qq/?at/xml/",
@@ -35,8 +34,7 @@
       ]
     },
     {
-
- "key": "meowtv_yqks",
+      "key": "meowtv_yqks",
       "name": "🧡抢先看┃影视",
       "type": 3,
       "api": "csp_YQKan",
@@ -45,8 +43,7 @@
       "changeable": 1
     },
     {
-
- "key": "csp_WDzy",
+      "key": "csp_WDzy",
       "name": "💘万达直播室",
       "type": 1,
       "api": "http://www.duse.pro//api.php/provide/vod/?ac=list",
@@ -54,18 +51,13 @@
       "quickSearch": 1,
       "filterable": 1,
       "categories": [
-    
-       
-        
         "电影直播-放映厅",
         "电视直播-放映厅",
         "体育直播-放映厅",
-     
       ]
     },
     {
-
-        "key": "骚火",
+      "key": "骚火",
       "name": "💘秒播电影",
       "type": 3,
       "api": "csp_XBPQ",
@@ -87,8 +79,7 @@
       }
     },
     {
-        
-   "key": "360",
+      "key": "360",
       "name": "💘万达电影",
       "type": 3,
       "api": "csp_SP33",
@@ -98,8 +89,7 @@
       "changeable": 0
     },
     {
-
-  "key": "天天视频",
+      "key": "天天视频",
       "name": "💘万达┃4K",
       "type": 3,
       "api": "csp_AppYsV2",
@@ -109,7 +99,6 @@
       "ext": "https://ttsp.live/api.php/app/"
     },
     {
-
       "key": "爱奇异",
       "name": "💘爱奇艺(官)",
       "type": 3,
@@ -145,10 +134,7 @@
       "ext": "https://www.macms.pro/box/lib/caigou.js"
     },
     {
-        
-
-        
-         "key": "新片热播",
+      "key": "新片热播",
       "name": "💘新片热播",
       "type": 1,
       "api": "https://api.iku.cool/api.php/provide/vod/?ac=list",
@@ -163,9 +149,6 @@
       ]
     },
     {
-        
-   
-         
       "key": "奇优",
       "name": "💘快播",
       "type": 3,
@@ -176,7 +159,6 @@
       "ext": "https://www.macms.pro/box/lib/奇优.json"
     },
     {
-   
       "key": "csp_Bttwoo",
       "name": "💘超快",
       "type": 3,
@@ -196,10 +178,7 @@
       "ext": "https://api123.adys.app/xgapp.php/v3/"
     },
     {
-        
-
-
-  "key": "drpy_js_88看球",
+      "key": "drpy_js_88看球",
       "name": "⚽┃88┃直播",
       "type": 3,
       "api": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js",
@@ -219,8 +198,7 @@
       "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/JRKAN直播.js"
     },
     {
-        
-          "key": "py_qie",
+      "key": "py_qie",
       "name": "🏀┃企鹅┃体育",
       "type": 3,
       "api": "py_qie",
@@ -280,11 +258,7 @@
       "ext": "https://www.macms.pro/box/lib/JRKAN.js"
     },
     {
-
-
-
-        
-         "key": "蚂蚁",
+      "key": "蚂蚁",
       "name": "💘蚂蚁┃秒播",
       "type": 3,
       "api": "csp_AppYsV2",
@@ -294,7 +268,6 @@
       "ext": "http://wushutvcms.byzz.top/api.php/app/"
     },
     {
-    
       "key": "农民影视",
       "name": "💘农民┃秒播",
       "type": 3,
@@ -341,7 +314,6 @@
       "ext": "https://www.macms.pro/box/lib/changzhang.json"
     },
     {
-    
       "key": "低端影视",
       "name": "💘低端┃秒播",
       "type": 3,
@@ -359,9 +331,6 @@
       "ext": "https://www.macms.pro/box/lib/zaixian.js"
     },
     {
-     
-        
-    
       "key": "阿里云盘网",
       "name": "💘云盘网┃4K",
       "type": 3,
@@ -401,15 +370,8 @@
       "filterable": 1,
       "ext": "https://www.macms.pro/box/lib/4KHDR.json"
     },
-    {  
-        
-        
-        
-   
- 
-
-
-     "key": "meowtv_33ys",
+    {
+      "key": "meowtv_33ys",
       "name": "💜三六┃视频",
       "type": 3,
       "api": "csp_SP33",
@@ -418,9 +380,7 @@
       "changeable": 0
     },
     {
-
-
-   "key": "Freeok",
+      "key": "Freeok",
       "name": "💜Freeok",
       "type": 3,
       "api": "csp_XBPQ",
@@ -447,8 +407,6 @@
       }
     },
     {
-        
-    
       "key": "芒果资源",
       "name": "️🌿┃芒果影视",
       "type": 1,
@@ -573,8 +531,7 @@
       ]
     },
     {
-        
-         "key": "360影视",
+      "key": "360影视",
       "name": "🌿┃360官源",
       "type": 3,
       "api": "csp_XBPQ",
@@ -583,8 +540,6 @@
       "ext": "https://www.macms.pro/box/lib/360影视.json"
     },
     {
-    
-     
       "key": "骑骑影院",
       "name": "💘我┃影院",
       "type": 3,
@@ -618,8 +573,7 @@
       "ext": "https://szyyds.cn/tv/js/nmys.json"
     },
     {
-        
-   "key": "csp_短剧",
+      "key": "csp_短剧",
       "name": "🎦看┃短剧",
       "type": 3,
       "api": "csp_XBPQ",
@@ -628,9 +582,8 @@
       "filterable": 1,
       "ext": "https://www.macms.pro/box/lib/短剧网.json"
     },
-    {     
-        
-         "key": "短视频",
+    {
+      "key": "短视频",
       "name": "🎦短视频",
       "type": 3,
       "api": "csp_XBPQ",
@@ -651,8 +604,8 @@
         "链接": "href=\"&&\""
       }
     },
-    {  
-       "key": "csp_Bili短剧",
+    {
+      "key": "csp_Bili短剧",
       "name": "🎦┃短剧┃BiL",
       "api": "csp_Bili",
       "type": 3,
@@ -709,11 +662,7 @@
         "分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"
       }
     },
-    {  
-        
-        
-        
-        
+    {
       "key": "BD",
       "name": "🧡BD┃资源",
       "type": 1,
@@ -737,7 +686,7 @@
       ]
     },
     {
-         "key": "meowtv_77yy",
+      "key": "meowtv_77yy",
       "name": "🧡七七┃影视",
       "type": 3,
       "api": "csp_Kunyu77",
@@ -746,7 +695,6 @@
       "changeable": 1
     },
     {
-     
       "key": "meowtv_Btoo",
       "name": "🧡比特┃影视",
       "type": 3,
@@ -756,8 +704,6 @@
       "changeable": 1
     },
     {
-        
-      
       "key": "cjzy_暴风资源",
       "name": "🌪️暴风影视",
       "type": 1,
@@ -783,7 +729,6 @@
       ]
     },
     {
-   
       "key": "csp_SNzy",
       "name": "🛸索尼高清",
       "type": 1,
@@ -856,7 +801,6 @@
       ]
     },
     {
-   
       "key": "drpy_js_虎牙直播",
       "name": "🐯虎牙直播",
       "type": 3,
@@ -888,9 +832,6 @@
       "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/有声小说吧.js"
     },
     {
-    
-        
-   
       "key": "MV_vod",
       "name": "🎸明星MV",
       "type": 1,
