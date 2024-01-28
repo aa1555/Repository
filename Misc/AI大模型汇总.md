@@ -1,4 +1,4 @@
-# 提示词prompt
+# 提示词Prompt
 
 - 中文：https://prompts.fresns.cn/general/translation.html
 
