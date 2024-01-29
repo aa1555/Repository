@@ -272,6 +272,8 @@
   
   <summary><b>Github RAW 加速服务</b></summary>
 
+- [代理集合](https://tool.aoaostar.com/github_proxy)
+
 - raw地址格式：
 
   `https://raw.githubusercontent.com/`用户名/仓库名/main/文件名(文件夹名/文件名)
