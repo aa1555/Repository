@@ -29,7 +29,7 @@
   </tr>
   <tr>
    <td align="center" width="143" height="22">
-   <a href="https://github.com/aa1555/Repository/blob/main/Misc/Python/00.Python%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0.md">
+   <a href="https://github.com/aa1555/Repository/tree/main/Misc%2FPython">
    Python</a></td>
    <td align="center" width="144" height="22">
    <a href="https://github.com/aa1555/Repository/tree/main/Misc">Misc</a></td>
