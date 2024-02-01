@@ -41,5 +41,5 @@ while money > 0:    # 只要money大于0，就可以一直玩下去。每一局�
             print('玩家胜!\n')
             money += debt
         else:
-            go_on = True
+            go_on = True  # 没分出胜负，就打开循环开关，继续摇色子
 print('你破产了, 游戏结束!')
