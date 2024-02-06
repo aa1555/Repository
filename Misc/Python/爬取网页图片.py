@@ -7,7 +7,7 @@ headers = {
 }
 
 # 设置目标网页的URL
-url = 'https://www.mn52.com/xingganmeinv/1053689.html'
+url = 'https://www.mn52.com/fj/11408.html'
 
 # 发送GET请求
 response = requests.get(url, headers=headers)
@@ -25,9 +25,17 @@ for image_url in image_urls:
     # 发送GET请求下载图片
     image_response = requests.get(full_image_url, headers=headers)
     
-    # 提取图片文件名，str.split()方法，用于将字符串分割成一个列表。split('/')方法会在每个斜杠（/）处分割这个字符串，并返回一个列表。[-1]表示索引列表的最后一个元素
+    # 提取图片文件名
+    # str.split()方法，用于将字符串分割成一个列表。
+    # split('/')方法会在每个斜杠（/）处分割这个字符串，并返回一个列表。
+    # [-1]表示索引列表的最后一个元素
     image_filename = image_url.split('/')[-1]
     
     # 保存图片到本地
-    with open(image_filename, 'wb') as f:
+    with open(fr'C:\Users\Administrator\Desktop\新建文件夹\{image_filename}', 'wb') as f:
         f.write(image_response.content)
+
+    # 打印图片信息
+    print(image_filename,full_image_url)
+    
+print('完成')

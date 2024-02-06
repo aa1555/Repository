@@ -24,12 +24,14 @@ for img in imgs:
     alt_text = img.get('alt')
     img_url = img.get('src')
 
-    # 打印图片信息
-    print(alt_text, img_url)
-
     # 下载图片
     img_response = requests.get(img_url, headers=headers)
 
     # 保存图片到文件
-    with open(f"{alt_text}.jpg", 'wb') as file:
+    with open(fr"C:\Users\Administrator\Desktop\新建文件夹\{alt_text}.jpg", 'wb') as file:
         file.write(img_response.content)
+
+    # 打印图片信息
+    print(alt_text, img_url)
+
+print('完成')
