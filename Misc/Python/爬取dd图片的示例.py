@@ -20,7 +20,7 @@ imgs = tree.xpath('//img[@width="100"]')
 
 # 遍历图片元素
 for img in imgs:
-    # 获取图片的alt属性和src属性
+    # 获取图片的alt属性和src属性，alt是图片名，src是图片地址。
     alt_text = img.get('alt')
     img_url = img.get('src')
 
