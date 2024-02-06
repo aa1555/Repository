@@ -34,4 +34,5 @@ for img in imgs:
     # 打印图片信息(方便在终端查看下载进度)
     print(alt_text, img_url)
 
+# 上面的程序全部完成后打印完成，方便在终端查看下载进度
 print('完成')
