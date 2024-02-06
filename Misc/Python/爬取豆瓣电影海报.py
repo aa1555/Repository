@@ -31,7 +31,7 @@ for img in imgs:
     with open(fr"C:\Users\Administrator\Desktop\新建文件夹\{alt_text}.jpg", 'wb') as file:
         file.write(img_response.content)
 
-    # 打印图片信息
+    # 打印图片信息(方便在终端查看下载进度)
     print(alt_text, img_url)
 
 print('完成')
