@@ -27,3 +27,7 @@ for i in range(2, sht.max_row + 1):
     # 使用save方法保存绩效评分表工作簿，保存的文件名为员工的姓名加上.xlsx扩展名
     # 文件保存在D:/demo/绩效/目录下，如果目录不存在，将抛出错误
     wb_jx.save('D:/demo/绩效/{}.xlsx'.format(sht.cell(i, 1).value))
+
+'''
+这段代码的主要功能是将一个Excel文件（员工表）中的数据读取到内存中，然后逐行将这些数据写入另一个Excel文件（绩效评分表）的指定位置，并为每个员工保存一个单独的绩效评分表文件。代码中使用了openpyxl库，这是一个用于读取和写入Excel 2010 xlsx/xlsm/xltx/xltm文件的Python库。
+'''
