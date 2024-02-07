@@ -18,6 +18,7 @@ res = requests.get(url, headers=headers)
 ids = re.findall(r'href="/song\?id=(\d*?)">(.+?)</a>', res.text)
 
 # 创建保存歌曲的目录
+# 这两行代码确保了 d:/files/temp/ 这个目录存在，如果不存在，就会创建它，而且如果目录已经存在，代码不会因为这个而停止执行或抛出错误。这是非常有用的，因为在你想要确保目录存在的情况下，你不需要先检查它是否存在，然后才决定是否创建它。
 output_directory = 'd:/files/temp/'
 os.makedirs(output_directory, exist_ok=True)
 
