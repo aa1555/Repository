@@ -37,4 +37,5 @@ for tr_element in tr_elements:
 # 保存Excel文件
 excel_file_path = r'C:\Users\Administrator\Desktop\新建文件夹\Weibo_Hot.xlsx'  # 保持路径和文件名
 wb.save(excel_file_path)
+
 print('完成')
