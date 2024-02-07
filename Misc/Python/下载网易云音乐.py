@@ -14,7 +14,8 @@ headers = {
 res = requests.get(url, headers=headers)
 
 # 使用正则表达式找到所有歌曲的ID和标题
-# re.findall(pattern, string, flags=0)函数返回一个列表，列表中包含所有匹配的子串。在正则表达式中使用括号()来定义捕获组
+# re.findall(pattern, string, flags=0)函数返回一个列表，列表中包含所有匹配的子串。
+# 在正则表达式中使用括号()来定义捕获组，每个捕获组可以捕获匹配的一部分文本，并且它们在匹配结果中按照出现的顺序返回。
 ids = re.findall(r'href="/song\?id=(\d*?)">(.+?)</a>', res.text)
 
 # 创建保存歌曲的目录
