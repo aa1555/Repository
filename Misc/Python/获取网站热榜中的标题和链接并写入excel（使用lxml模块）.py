@@ -18,7 +18,8 @@ response.encoding = 'utf-8'  # 确保中文字符可以正确解析
 tree = etree.HTML(response.text)
 
 # 提取标题和链接
-# 使用XPath路径来选择每个tr元素
+# chrome复制的xpath路径：//*[@id="page"]/div[2]/div[2]/div[1]/div[2]/div/div[1]/table/tbody/tr[1]/td[2]/a
+# 使用XPath路径来选择每个tr元素。因为标题和链接是被包含在每一个tr元素下的。
 tr_elements = tree.xpath('//*[@id="page"]/div[2]/div[2]/div[1]/div[2]/div/div[1]/table/tbody/tr')
 
 # 创建Excel工作簿
@@ -28,7 +29,7 @@ ws = wb.active
 # 将标题和链接写入Excel
 ws.append(['标题', '链接'])
 for tr_element in tr_elements:
-    title_element = tr_element.xpath('td[2]/a')[0]  # 对每个tr进行迭代，并进一步提取每个tr中的td中的a元素
+    title_element = tr_element.xpath('td[2]/a')[0]  # 对每个tr进行迭代，并进一步提取每个tr中的第二个td中的a元素
     title = title_element.xpath('text()')[0]  # 获取a元素中的文本
     link = title_element.xpath('@href')[0]  # 获取a元素的href属性
     ws.append([title, link])

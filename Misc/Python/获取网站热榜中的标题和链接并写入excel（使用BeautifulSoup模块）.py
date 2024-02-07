@@ -20,7 +20,7 @@ soup = BeautifulSoup(response.text, 'html.parser')
 
 # 提取标题和链接
 # 使用CSS选择器来选择每个tr元素
-tr_elements = soup.select('tr:has(td:nth-child(2) a)') #选择第二个td中含有<a>元素的tr元素
+tr_elements = soup.select('tr:has(td:nth-child(2) a)') # 选择第二个td中含有<a>元素的tr元素
 
 # 创建Excel工作簿
 wb = Workbook()
