@@ -4,6 +4,12 @@
 
 https://github.com/j-hc/revanced-magisk-module
 
+GmsCore:
+
+需要安装这个东西youtube才能运行
+
+https://github.com/ReVanced/GmsCore
+
 https://github.com/NoName-exe/revanced-extended
 
 ## VancedMicroG
