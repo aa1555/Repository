@@ -10,6 +10,8 @@ GmsCore:
 
 https://github.com/ReVanced/GmsCore
 
+https://github.com/microg/GmsCore/releases
+
 https://github.com/NoName-exe/revanced-extended
 
 ## VancedMicroG
