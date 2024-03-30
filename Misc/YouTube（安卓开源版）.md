@@ -8,9 +8,9 @@ GmsCore:
 
 需要安装这个东西youtube才能运行
 
-https://github.com/ReVanced/GmsCore
-
 https://github.com/microg/GmsCore/releases
+
+https://github.com/ReVanced/GmsCore
 
 https://github.com/NoName-exe/revanced-extended
 
