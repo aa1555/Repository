@@ -20,7 +20,7 @@ plt.tight_layout()
 bar = 'bar_chart.png'
 plt.savefig(bar)
 # 指定Excel文件保存的路径
-excel = 'E:\\下载\\示例.xlsx'
+excel = r'C:\Users\aa155\Desktop\示例.xlsx'
 # 创建Excel写入器
 with pd.ExcelWriter(excel, engine='openpyxl') as writer:
     # 将数据写入Excel
