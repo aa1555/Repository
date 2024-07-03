@@ -5,3 +5,11 @@ OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏
 项目地址：
 
 https://github.com/hiroi-sora/Umi-OCR
+
+<h2 align="center"><img src="https://github.com/ZGGSONG/STranslate/raw/main/img/favicon.svg" height="35" width="35">STranslate</h2>
+
+WPF 开发的一款即开即用、即用即走的翻译、OCR工具
+
+项目地址：
+
+https://github.com/ZGGSONG/STranslate/blob/main/README_ZH.md
