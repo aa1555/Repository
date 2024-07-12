@@ -1,8 +1,8 @@
 import os
 
-directory = r"C:\Users\aa155\Desktop\A春 - 副本 - 副本"           # 设置文件夹路径
+directory = r"C:\Users\aa155\Desktop\新建文件夹"                  # 设置文件夹路径
 
-prefix_to_remove = '徐建军_'                                      # 设置要删除的前缀
+prefix_to_remove = '前缀_'                                        # 设置要删除的前缀
 
 # 获取当前目录下所有文件和目录列表
 files_and_dirs = os.listdir(directory)

@@ -1,8 +1,8 @@
 import os
 
-directory = r"C:\Users\aa155\Desktop\A春 - 副本 - 副本"                                       #设置需重名的文件所在文件夹路径
+directory = r"C:\Users\aa155\Desktop\新建文件夹"                                       #设置文件夹路径
 # 设置新文件名的前缀
-new_filename_prefix = '徐建军'                                                               #修改前缀
+new_filename_prefix = ''                                                              #修改前缀
 # 获取当前目录下所有文件列表
 files = os.listdir(directory)
 

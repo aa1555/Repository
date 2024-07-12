@@ -1,8 +1,8 @@
 import os
 
-directory = r"C:\Users\aa155\Desktop\A春 - 副本 - 副本"                #设置文件夹路径
-# 设置要添加的前缀
-prefix = '徐建军_'                                                     #设置需要添加的前缀
+directory = r"C:\Users\aa155\Desktop\新建文件夹"                #设置文件夹路径
+
+prefix = '前缀_'                                               #设置需要添加的前缀
 
 # 获取当前目录下所有文件和目录列表
 files_and_dirs = os.listdir(directory)
