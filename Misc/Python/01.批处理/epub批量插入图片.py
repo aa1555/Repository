@@ -17,5 +17,5 @@ for i in range(1,80):                                                           
     f += d + "\n\n"    # 把每组数据都添加到f变量中，且每组数据之间都有一个空格。
 
 # 写入txt文件
-with open(r"C:\Users\aa155\Desktop\新建文件夹\example.txt", 'w', encoding='utf-8') as file:           #修改txt地址
+with open(r"C:\Users\aa155\Desktop\新建文件夹\在epub中插入图片.txt", 'w', encoding='utf-8') as file:           #修改txt地址
     file.write(f)
