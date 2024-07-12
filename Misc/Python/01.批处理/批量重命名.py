@@ -2,7 +2,7 @@ import os
 
 directory = r"C:\Users\aa155\Desktop\新建文件夹"                                       #设置文件夹路径
 # 设置新文件名的前缀
-new_filename_prefix = ''                                                              #修改前缀
+new_filename_prefix = '新文件名'                                                       #设置新文件名
 # 获取当前目录下所有文件列表
 files = os.listdir(directory)
 
