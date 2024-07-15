@@ -171,6 +171,10 @@
 
 #### TV Box接口
 
+- <b>直播源</b>
+
+  https://mirror.ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Video/01.Live%E7%9B%B4%E6%92%AD%E6%BA%90/01.%E8%87%AA%E7%94%A8%E7%9B%B4%E6%92%AD%E6%BA%90.txt
+
 - <b>🗂直播线路</b>
 
   https://mirror.ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Video/02.TV%20Box%20%E9%85%8D%E7%BD%AE/02.%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF.json
