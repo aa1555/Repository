@@ -29,8 +29,8 @@ def convert_to_m3u8(input_file, output_file):
                     print(f"Error processing line: {line}. Error: {e}")
 
 # 替换以下路径为您的文件路径
-input_txt_file = r"C:\Users\aa155\Desktop\新建文件夹\01.自用直播源.txt"  # 输入文件路径
-output_m3u8_file = r"C:\Users\aa155\Desktop\新建文件夹\file.m3u8"  # 输出文件路径
+input_txt_file = r"C:\Users\aa155\Desktop\示例.txt"  # 输入文件路径
+output_m3u8_file = r"C:\Users\aa155\Desktop\示例.m3u8"  # 输出文件路径
 
 # 调用函数进行转换
 convert_to_m3u8(input_txt_file, output_m3u8_file)
