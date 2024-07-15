@@ -2,6 +2,12 @@
   "spider": "https://mirror.ghproxy.com/https://github.com/aa1555/Repository/raw/main/Video/02.TV%20Box%20%E9%85%8D%E7%BD%AE/jar/feimao.jar;md5;364c0f012e73a8801a69900fc25ae9c1",
   "lives": [
     {
+      "name": "fanmingminng",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/index.m3u",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+    },
+    {
       "name": "自用直播源（自建）",
       "type": 0,
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Video/01.Live%E7%9B%B4%E6%92%AD%E6%BA%90/01.%E8%87%AA%E7%94%A8%E7%9B%B4%E6%92%AD%E6%BA%90.txt",
