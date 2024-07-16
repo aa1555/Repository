@@ -253,7 +253,11 @@
 			<td align="center" width="139" height="24">
 			　</td>
 		</tr>
-			<a href="https://agit.ai/">Agit</a></td>
+		<tr>
+			<td align="center" width="139" height="24">
+			<a href="https://notabug.org/explore/repos">NotABug</a></td>
+			<td align="center" width="139" height="24">
+			<a href="https://gitcode.com/">GitCode</a></td>
 		</tr>
 	</table>
 </div>
