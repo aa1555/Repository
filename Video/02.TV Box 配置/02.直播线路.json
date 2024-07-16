@@ -2,15 +2,21 @@
   "spider": "https://mirror.ghproxy.com/https://github.com/aa1555/Repository/raw/main/Video/02.TV%20Box%20%E9%85%8D%E7%BD%AE/jar/feimao.jar;md5;364c0f012e73a8801a69900fc25ae9c1",
   "lives": [
     {
-      "name": "fanmingminng",
+      "name": "fanmingminng_github",
       "type": 0,
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/index.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
     },
     {
-      "name": "gitcode目前信号不错",
+      "name": "cngsm_gitcode目前信号不错",
       "type": 0,
       "url": "https://raw.gitcode.com/cngsm/live/raw/main/live.json",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+    },
+    {
+      "name": "Luodingyi_gitcode目前信号不错",
+      "type": 0,
+      "url": "https://raw.gitcode.com/Luodingyi/TV/raw/main/zbtv.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
     },
     {
@@ -20,7 +26,7 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
     },
     {
-      "name": "音乐MV（自建）",
+      "name": "音乐MV(自建)",
       "type": 0,
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Video/01.Live%E7%9B%B4%E6%92%AD%E6%BA%90/03.%E9%9F%B3%E4%B9%90MV.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
