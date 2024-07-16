@@ -252,8 +252,12 @@
 			<a href="https://notabug.org/explore/repos">NotABug</a></td>
 			<td align="center" width="139" height="24">
 			　</td>
-			<td align="center" width="139" height="24">
-			<a href="https://jihulab.com/">极狐GitLab</a></td>
+		</tr>
+		<tr>
+			<td align="center" width="139" height="24" style="border-top-style: none; border-top-width: medium">
+			<a href="https://gitee.com/">Gitee</a></td>
+			<td align="center" width="139" height="24" style="border-top-style: none; border-top-width: medium">
+			<a href="https://agit.ai/">Agit</a></td>
 		</tr>
 	</table>
 </div>
