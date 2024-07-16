@@ -252,6 +252,8 @@
 			<a href="https://notabug.org/explore/repos">NotABug</a></td>
 			<td align="center" width="139" height="24">
 			　</td>
+			<td align="center" width="139" height="24">
+			<a href="https://jihulab.com/">极狐GitLab</a></td>
 		</tr>
 	</table>
 </div>
