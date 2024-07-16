@@ -20,13 +20,13 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
     },
     {
-      "name": "nynginuirnr(高清好源)",
+      "name": "nynginuirnr_gitcode(高清好源)",
       "type": 0,
       "url": "https://raw.gitcode.com/nynginuirnr/TV/raw/main/TV",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
     },
     {
-      "name": "zjglaoji目前信号不错",
+      "name": "zjglaoji_gitcode目前信号不错",
       "type": 0,
       "url": "https://raw.gitcode.com/zjglaoji/tv/raw/main/tv.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
