@@ -50,12 +50,6 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
     },
     {
-      "name": "龙门影视",
-      "type": 0,
-      "url": "http://api.iqinu.com/app/conf/live.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-    },
-    {
       "name": "群里扒来的",
       "type": 0,
       "url": "https://wds.ecsxs.com/230864.json",
