@@ -249,11 +249,9 @@
 		</tr>
 		<tr>
 			<td align="center" width="139" height="24">
-			<a href="https://notabug.org/explore/repos">NotABug</a></td>
+			<a href="https://github.com/">GitHub</a></td>
 			<td align="center" width="139" height="24">
-			　</td>
-		</tr>
-			<a href="https://agit.ai/">Agit</a></td>
+			<a href="https://jihulab.com/">极狐GitLab</a></td>
 		</tr>
 	</table>
 </div>
