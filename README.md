@@ -252,8 +252,6 @@
 			<a href="https://notabug.org/explore/repos">NotABug</a></td>
 			<td align="center" width="139" height="24">
 			　</td>
-			<td align="center" width="139" height="24" style="border-top-style: none; border-top-width: medium">
-			<a href="https://gitcode.com/">GitCode</a></td>
 		</tr>
 	</table>
 </div>
