@@ -253,10 +253,6 @@
 			<td align="center" width="139" height="24">
 			　</td>
 		</tr>
-		<tr>
-			<td align="center" width="139" height="24" style="border-top-style: none; border-top-width: medium">
-			<a href="https://gitee.com/">Gitee</a></td>
-			<td align="center" width="139" height="24" style="border-top-style: none; border-top-width: medium">
 			<a href="https://agit.ai/">Agit</a></td>
 		</tr>
 	</table>
