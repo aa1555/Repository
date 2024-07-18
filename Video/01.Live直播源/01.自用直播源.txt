@@ -26,175 +26,47 @@ CCTV-17 农业农村,http://39.135.133.173/wh7f454c46tw1413839057_-1613738138/ot
 内蒙古蒙语卫视,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
 内蒙古蒙语文化,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
 CGTN阿语,http://livear.cgtn.com/1000a/prog_index.m3u8
+CHC动作电影,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00002030/index.m3u8
+CHC影迷电影,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00002029/index.m3u8
+CHC家庭影院,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00002028/index.m3u8
 
 
 
 
 
 
-
-
-
-
-
-
-fanmingming,#genre#
-CCTV1,https://itv.lat/hls?channel=CCTV-1H265&token=fbca23599065f5bd644b330db4e3b1f5
-CCTV2,https://itv.lat/hls?channel=CCTV-2H265&token=fbca23599065f5bd644b330db4e3b1f5
-CCTV3,https://itv.lat/hls?channel=CCTV-3H265&token=fbca23599065f5bd644b330db4e3b1f5
-CCTV4,https://itv.lat/hls?channel=CCTV-4H265&token=fbca23599065f5bd644b330db4e3b1f5
-CCTV5,https://itv.lat/hls?channel=CCTV-5H265&token=fbca23599065f5bd644b330db4e3b1f5
-CCTV5+,https://itv.lat/hls?channel=CCTV-5plusH265&token=fbca23599065f5bd644b330db4e3b1f5
-CCTV6,https://itv.lat/hls?channel=CCTV-6H265&token=fbca23599065f5bd644b330db4e3b1f5
-CCTV7,https://itv.lat/hls?channel=CCTV-7H265&token=fbca23599065f5bd644b330db4e3b1f5
-CCTV8,https://itv.lat/hls?channel=CCTV-8H265&token=fbca23599065f5bd644b330db4e3b1f5
-CCTV9,https://itv.lat/hls?channel=CCTV-9H265&token=fbca23599065f5bd644b330db4e3b1f5
-CCTV10,https://itv.lat/hls?channel=CCTV-10H265&token=fbca23599065f5bd644b330db4e3b1f5
-CCTV11,https://itv.lat/hls?channel=CCTV-11-H265&token=fbca23599065f5bd644b330db4e3b1f5
-CCTV12,https://itv.lat/hls?channel=CCTV-12H265&token=fbca23599065f5bd644b330db4e3b1f5
-CCTV13,https://itv.lat/hls?channel=CCTV-xw&token=fbca23599065f5bd644b330db4e3b1f5
-CCTV14,https://itv.lat/hls?channel=CCTV-14H265&token=fbca23599065f5bd644b330db4e3b1f5
-CCTV15,https://itv.lat/hls?channel=CCTV-15-yyH265&token=fbca23599065f5bd644b330db4e3b1f5
-CCTV16,https://itv.lat/hls?channel=CCTV-16&token=fbca23599065f5bd644b330db4e3b1f5
-CCTV16,https://itv.lat/hls?channel=CCTV-16-4K_8000&token=fbca23599065f5bd644b330db4e3b1f5
-CCTV17,https://itv.lat/hls?channel=CCTV-17&token=fbca23599065f5bd644b330db4e3b1f5
-CCTV4K,https://itv.lat/hls?channel=ys4Kcq_2000&token=fbca23599065f5bd644b330db4e3b1f5
-4K超高清电影,https://itv.lat/hls?channel=emdy4k_8000&token=fbca23599065f5bd644b330db4e3b1f5
-欢笑剧场,https://itv.lat/hls?channel=hxjc-4k_8000&token=fbca23599065f5bd644b330db4e3b1f5
-CHC动作电影,https://itv.lat/hls?channel=wqCHCdzdyH265&token=fbca23599065f5bd644b330db4e3b1f5
-CHC影迷电影,https://itv.lat/hls?channel=lnwsCHC-HDH265&token=fbca23599065f5bd644b330db4e3b1f5
-CHC家庭影院,https://itv.lat/hls?channel=jbtygqCHCjtyyH265&token=fbca23599065f5bd644b330db4e3b1f5
-重温经典,https://itv.lat/hls?channel=CWJD&token=fbca23599065f5bd644b330db4e3b1f5
-凤凰中文,https://itv.lat/hls?channel=test1&token=fbca23599065f5bd644b330db4e3b1f5
-凤凰资讯,https://itv.lat/hls?channel=test2&token=fbca23599065f5bd644b330db4e3b1f5
-安徽卫视,https://itv.lat/hls?channel=ahwsH265&token=fbca23599065f5bd644b330db4e3b1f5
-北京卫视,https://itv.lat/hls?channel=bjwsH265&token=fbca23599065f5bd644b330db4e3b1f5
-兵团卫视,https://itv.lat/hls?channel=btws&token=fbca23599065f5bd644b330db4e3b1f5
-重庆卫视,https://itv.lat/hls?channel=cqwsH265&token=fbca23599065f5bd644b330db4e3b1f5
-东方卫视,https://itv.lat/hls?channel=dfwsH265&token=fbca23599065f5bd644b330db4e3b1f5
-东南卫视,https://itv.lat/hls?channel=dnwsfjwsH265&token=fbca23599065f5bd644b330db4e3b1f5
-甘肃卫视,https://itv.lat/hls?channel=gsws&token=fbca23599065f5bd644b330db4e3b1f5
-广东卫视,https://itv.lat/hls?channel=gdwsH265&token=fbca23599065f5bd644b330db4e3b1f5
-广西卫视,https://itv.lat/hls?channel=gxws&token=fbca23599065f5bd644b330db4e3b1f5
-贵州卫视,https://itv.lat/hls?channel=gzwsH265&token=fbca23599065f5bd644b330db4e3b1f5
-海南卫视,https://itv.lat/hls?channel=hnws&token=fbca23599065f5bd644b330db4e3b1f5
-河南卫视,https://itv.lat/hls?channel=hnws35&token=fbca23599065f5bd644b330db4e3b1f5
-黑龙江卫视,https://itv.lat/hls?channel=hljwsH265&token=fbca23599065f5bd644b330db4e3b1f5
-湖北卫视,https://itv.lat/hls?channel=hbwsH265&token=fbca23599065f5bd644b330db4e3b1f5
-湖南卫视,https://itv.lat/hls?channel=hnwsH265&token=fbca23599065f5bd644b330db4e3b1f5
-吉林卫视,https://itv.lat/hls?channel=jlwsH265&token=fbca23599065f5bd644b330db4e3b1f5
-江苏卫视,https://itv.lat/hls?channel=jswsH265&token=fbca23599065f5bd644b330db4e3b1f5
-江西卫视,https://itv.lat/hls?channel=jxwsH265&token=fbca23599065f5bd644b330db4e3b1f5
-康巴卫视,https://itv.lat/hls?channel=kbwsH264_2000&token=fbca23599065f5bd644b330db4e3b1f5
-辽宁卫视,https://itv.lat/hls?channel=lnwsHDH264&token=fbca23599065f5bd644b330db4e3b1f5
-内蒙古卫视,https://itv.lat/hls?channel=nmgws&token=fbca23599065f5bd644b330db4e3b1f5
-山东教育卫视,https://itv.lat/hls?channel=sdjy&token=fbca23599065f5bd644b330db4e3b1f5
-山东卫视,https://itv.lat/hls?channel=sdwsH265&token=fbca23599065f5bd644b330db4e3b1f5
-山西卫视,https://itv.lat/hls?channel=sxws42&token=fbca23599065f5bd644b330db4e3b1f5
-陕西卫视,https://itv.lat/hls?channel=sxws&token=fbca23599065f5bd644b330db4e3b1f5
-深圳卫视,https://itv.lat/hls?channel=szwsH265&token=fbca23599065f5bd644b330db4e3b1f5
-四川卫视,https://itv.lat/hls?channel=scwsH265&token=fbca23599065f5bd644b330db4e3b1f5
-天津卫视,https://itv.lat/hls?channel=tjwsH265&token=fbca23599065f5bd644b330db4e3b1f5
-西藏卫视,https://itv.lat/hls?channel=xzwsH264_2000&token=fbca23599065f5bd644b330db4e3b1f5
-云南卫视,https://itv.lat/hls?channel=ynws&token=fbca23599065f5bd644b330db4e3b1f5
-浙江卫视,https://itv.lat/hls?channel=zjwsH265&token=fbca23599065f5bd644b330db4e3b1f5
-CETV1,https://itv.lat/hls?channel=CETV-1H264&token=fbca23599065f5bd644b330db4e3b1f5
-动漫秀场,https://itv.lat/hls?channel=yybb-dmxc-H265&token=fbca23599065f5bd644b330db4e3b1f5
-都市剧场,https://itv.lat/hls?channel=yxfydsjcHDH265&token=fbca23599065f5bd644b330db4e3b1f5
-法治天地,https://itv.lat/hls?channel=fztx&token=fbca23599065f5bd644b330db4e3b1f5
-北京纪实科教,https://itv.lat/hls?channel=bjjs_2000&token=fbca23599065f5bd644b330db4e3b1f5
-嘉佳卡通,https://itv.lat/hls?channel=jjkt_2000&token=fbca23599065f5bd644b330db4e3b1f5
-家庭理财,https://itv.lat/hls?channel=jtlc&token=fbca23599065f5bd644b330db4e3b1f5
-财富天下,https://itv.lat/hls?channel=cftx&token=fbca23599065f5bd644b330db4e3b1f5
-金鹰纪实,https://itv.lat/hls?channel=jyjsHDH265&token=fbca23599065f5bd644b330db4e3b1f5
-金鹰卡通,https://itv.lat/hls?channel=jykt_2000&token=fbca23599065f5bd644b330db4e3b1f5
-劲爆体育,https://itv.lat/hls?channel=lqhxjcHDH265&token=fbca23599065f5bd644b330db4e3b1f5
-卡酷少儿,https://itv.lat/hls?channel=kkkt&token=fbca23599065f5bd644b330db4e3b1f5
-快乐垂钓,https://itv.lat/hls?channel=fyzqklcdHDH265&token=fbca23599065f5bd644b330db4e3b1f5
-乐游,https://itv.lat/hls?channel=qjs-HDH265&token=fbca23599065f5bd644b330db4e3b1f5
-梨园,https://itv.lat/hls?channel=ly&token=fbca23599065f5bd644b330db4e3b1f5
-魅力足球,https://itv.lat/hls?channel=mlyy&token=fbca23599065f5bd644b330db4e3b1f5
-生活时尚,https://itv.lat/hls?channel=shssH265&token=fbca23599065f5bd644b330db4e3b1f5
-四海钓鱼,https://itv.lat/hls?channel=shdy&token=fbca23599065f5bd644b330db4e3b1f5
-天元围棋,https://itv.lat/hls?channel=tywq_2000&token=fbca23599065f5bd644b330db4e3b1f5
-武术世界,https://itv.lat/hls?channel=wssj&token=fbca23599065f5bd644b330db4e3b1f5
-先锋乒羽,https://itv.lat/hls?channel=xfpy&token=fbca23599065f5bd644b330db4e3b1f5
-新视觉,https://itv.lat/hls?channel=ycxsjH265&token=fbca23599065f5bd644b330db4e3b1f5
-证券资讯,https://itv.lat/hls?channel=jz_2000&token=fbca23599065f5bd644b330db4e3b1f5
-中国天气,https://itv.lat/hls?channel=zgqx&token=fbca23599065f5bd644b330db4e3b1f5
-发现之旅,https://itv.lat/hls?channel=fxzl_2000&token=fbca23599065f5bd644b330db4e3b1f5
-老故事,https://itv.lat/hls?channel=lgs_2000&token=fbca23599065f5bd644b330db4e3b1f5
-中学生,https://itv.lat/hls?channel=zxs&token=fbca23599065f5bd644b330db4e3b1f5
-精品导视,https://itv.lat/hls?channel=jpdsH265&token=fbca23599065f5bd644b330db4e3b1f5
-SCTV2,https://itv.lat/hls?channel=SCTV-2-H265&token=fbca23599065f5bd644b330db4e3b1f5
-SCTV4,https://itv.lat/hls?channel=SCTV-4H265&token=fbca23599065f5bd644b330db4e3b1f5
-SCTV5,https://itv.lat/hls?channel=SCTV-5-scysH265&token=fbca23599065f5bd644b330db4e3b1f5
-SCTV7,https://itv.lat/hls?channel=SCTV-7-&token=fbca23599065f5bd644b330db4e3b1f5
-SCTV8,https://itv.lat/hls?channel=SCTV-ggSCTV-8&token=fbca23599065f5bd644b330db4e3b1f5
-SCTV9,https://itv.lat/hls?channel=SCTV-kjSCTV-9-&token=fbca23599065f5bd644b330db4e3b1f5
-SCTV3,https://itv.lat/hls?channel=SCTV-3-H265&token=fbca23599065f5bd644b330db4e3b1f5
-峨眉电影,https://itv.lat/hls?channel=emdygqH265&token=fbca23599065f5bd644b330db4e3b1f5
-成都新闻综合,https://itv.lat/hls?channel=CDTV-1&token=fbca23599065f5bd644b330db4e3b1f5
-成都经济资讯,https://itv.lat/hls?channel=CDTV-2&token=fbca23599065f5bd644b330db4e3b1f5
-成都都市生活,https://itv.lat/hls?channel=CDTV-3&token=fbca23599065f5bd644b330db4e3b1f5
-成都影视文艺,https://itv.lat/hls?channel=CDTV-4&token=fbca23599065f5bd644b330db4e3b1f5
-成都公共,https://itv.lat/hls?channel=CDTV-5&token=fbca23599065f5bd644b330db4e3b1f5
-CGTN俄语,https://itv.lat/hls?channel=ey_2000&token=fbca23599065f5bd644b330db4e3b1f5
-CGTN法语,https://itv.lat/hls?channel=fy_2000&token=fbca23599065f5bd644b330db4e3b1f5
-CGTN西语,https://itv.lat/hls?channel=xbyy_2000&token=fbca23599065f5bd644b330db4e3b1f5
-CGTN,https://itv.lat/hls?channel=CGTN&token=fbca23599065f5bd644b330db4e3b1f5
-CCTV1,https://live.0472.org/ysp/cctv1
-CCTV2,https://live.0472.org/ysp/cctv2
-CCTV3,https://live.0472.org/ysp/cctv3
-CCTV4,https://live.0472.org/ysp/cctv4
-CCTV5,https://live.0472.org/ysp/cctv5
-CCTV5+,https://live.0472.org/ysp/cctv5p
-CCTV6,https://live.0472.org/ysp/cctv6
-CCTV7,https://live.0472.org/ysp/cctv7
-CCTV8,https://live.0472.org/ysp/cctv8
-CCTV9,https://live.0472.org/ysp/cctv9
-CCTV10,https://live.0472.org/ysp/cctv10
-CCTV11,https://live.0472.org/ysp/cctv11
-CCTV12,https://live.0472.org/ysp/cctv12
-CCTV13,https://live.0472.org/ysp/cctv13
-CCTV14,https://live.0472.org/ysp/cctv14
-CCTV15,https://live.0472.org/ysp/cctv15
-CCTV16,https://live.0472.org/ysp/cctv16
-CCTV16,https://live.0472.org/ysp/cctv16-4k
-CCTV17,https://live.0472.org/ysp/cctv17
-CCTV4K,https://live.0472.org/ysp/cctv4k
-CCTV8K,https://live.0472.org/ysp/cctv8k
-北京卫视,https://live.0472.org/ysp/beijing
-东方卫视,https://live.0472.org/ysp/dongfang
-天津卫视,https://live.0472.org/ysp/tianjin
-重庆卫视,https://live.0472.org/ysp/chongqing
-黑龙江卫视,https://live.0472.org/ysp/heilongjiang
-辽宁卫视,https://live.0472.org/ysp/liaoning
-河北卫视,https://live.0472.org/ysp/hebei
-山东卫视,https://live.0472.org/ysp/shandong
-安徽卫视,https://live.0472.org/ysp/anhui
-河南卫视,https://live.0472.org/ysp/henan
-湖北卫视,https://live.0472.org/ysp/hubei
-湖南卫视,https://live.0472.org/ysp/hunan
-江西卫视,https://live.0472.org/ysp/jiangxi
-江苏卫视,https://live.0472.org/ysp/jiangsu
-浙江卫视,https://live.0472.org/ysp/zhejiang
-东南卫视,https://live.0472.org/ysp/dongnan
-广东卫视,https://live.0472.org/ysp/guangdong
-深圳卫视,https://live.0472.org/ysp/shenzhen
-广西卫视,https://live.0472.org/ysp/guangxi
-贵州卫视,https://live.0472.org/ysp/guizhou
-四川卫视,https://live.0472.org/ysp/sichuan
-新疆卫视,https://live.0472.org/ysp/xinjiang
-海南卫视,https://live.0472.org/ysp/hainan
-CGTN,https://live.0472.org/ysp/cgtn
-CGTN纪录,https://live.0472.org/ysp/cgtn-dockmentary
-CGTN西语,https://live.0472.org/ysp/cgtn-spanish
-CGTN法语,https://live.0472.org/ysp/cgtn-french
-CGTN阿语,https://live.0472.org/ysp/cgtn-arabic
-CGTN俄语,https://live.0472.org/ysp/cgtn-russian
-CETV1,https://live.0472.org/ysp/cetv1
-兵团卫视,https://live.0472.org/ysp/bingtuan
+山东移动,#genre#
+CHC动作电影,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00002030/index.m3u8
+CHC影迷电影,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00002029/index.m3u8
+CHC家庭影院,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00002028/index.m3u8
+CCTV1 综合,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000311/index.m3u8
+CCTV2 财经,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000317/index.m3u8
+CCTV3 综艺,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000359/index.m3u8
+CCTV4 中文国际,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000320/index.m3u8
+CCTV5+ 体育赛事,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000316/index.m3u8
+CCTV5 体育,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000360/index.m3u8
+CCTV6 电影频道,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000361/index.m3u8
+CCTV7 国防军事,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000318/index.m3u8
+CCTV8 电视剧,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000362/index.m3u8
+CCTV9 纪录,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000319/index.m3u8
+CCTV10,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000321/index.m3u8
+CCTV11,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000344/index.m3u8
+CCTV12,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000322/index.m3u8
+CCTV13,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000345/index.m3u8
+CCTV14,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000323/index.m3u8
+CCTV15,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000346/index.m3u8
+CCTV17,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000303/index.m3u8
+CCTV4K 超高清,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000382/index.m3u8
+CETV1,http://39.134.144.6:8089/PLTV/88888888/224/3221226252/index.m3u8
+CETV2,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000077/index.m3u8
+CETV4,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000666/index.m3u8
+CGTN,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000009/index.m3u8
+CGTV阿拉伯语,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000356/index.m3u8
+CGTV俄语,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000357/index.m3u8
+CGTV法语,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000355/index.m3u8
+CGTV纪录片,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000353/index.m3u8
+CGTV西班牙语,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000354/index.m3u8
+中国交通,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000073/index.m3u8
 
 
 
