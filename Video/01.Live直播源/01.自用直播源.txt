@@ -110,7 +110,6 @@ CCTV-6 电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/inde
 電影劇場✔原,http://159.75.85.63:35455/douyu/7575350
 國語電影✔原,http://159.75.85.63:35455/douyu/2436390
 豆瓣高分✔原,http://159.75.85.63:35455/douyu/8770422
-花卷陪看✔原,http://159.75.85.63:35455/douyu/52787
 漫威剧情✔原,http://159.75.85.63:35455/douyu/6140589
 霍格沃茨✔原,http://159.75.85.63:35455/douyu/8814650
 鱼宝恐怖✔原,http://159.75.85.63:35455/douyu/1165374
@@ -136,9 +135,6 @@ CCTV-6 电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/inde
 黑莓电影,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/1.m3u8
 怡宝妹妹台,https://www.goodiptv.club/douyu/434971
 神乐影院1台,https://www.goodiptv.club/douyu/85894
-赵本山经典小品,https://www.goodiptv.club/douyu/9817716
-开心麻花小品,https://www.goodiptv.club/douyu/10153463
-宋小宝小品,https://www.goodiptv.club/douyu/9817729
 
 
 
@@ -202,8 +198,6 @@ CCTV-6 电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/inde
 儿子大了,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200f020000bqvq3u89lgt8of4fk0tg&ratio=720p&line=0
 同学会,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200f9c0000brabn8v70gfhplsfi78g&ratio=720p&line=0
 拜年,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0d00fg10000c83hhi3c77u01a8d7hp0&ratio=720p&line=0
-送水,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0d00fg10000c6maam3c77u27tbr0bm0&ratio=720p&line=0
-辽宁小品,http://epg.112114.xyz/douyu/9322175
 新虎口遐想,https://vd4.bdstatic.com/mda-jarfmdf8su7sckk3/hd/mda-jarfmdf8su7sckk3.mp4?auth_key=1655295819-0-0-df94f7531d93ff90ad12888c89a672ca&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3219421685&vid=8705230262897615568&abtest=all
 冯巩郭冬临狗不理包子,https://vd2.bdstatic.com/mda-jdqwqnk1xxszhw8c/mda-jdqwqnk1xxszhw8c.mp4?pd=-1&pt=0&cr=0&vt=0&cd=0&did=cfcd208495d565ef66e7dff9f98764da&logid=2275698282&vid=17330773072848394300&auth_key=1655291275-0-0-73fe6c276ababcdb43b87a4fda6002df&bcevod_channel=searchbox_feed
 牛群冯巩领导冒号,https://vdse.bdstatic.com//123b1e01f5128d0e71b4f392ec1a971c.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-06-12T06%3A54%3A23Z%2F-1%2Fhost%2F6274ff464fd635b6108aacc556df42224f265e9b3f4bd3a37a74cbdbf985d0b8
@@ -212,9 +206,6 @@ CCTV-6 电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/inde
 牛群冯巩两个弄潮儿,https://vd3.bdstatic.com/mda-mkqdhm17rs7198m6/hd/cae_h264/1637859905115117938/mda-mkqdhm17rs7198m6.mp4?pd=19&vt=1
 要条件,https://vd2.bdstatic.com/mda-kgah4byryi8gsqk8/v1-cae/mda-kgah4byryi8gsqk8.mp4?pd=-1&pt=0&cr=0&vt=0&cd=0&did=cfcd208495d565ef66e7dff9f98764da&logid=1347013120&vid=11361264719745011699&auth_key=1655290347-0-0-5dfca4bc79fbe4b6685de35fd1e0a622&bcevod_channel=searchbox_feed
 孔云龙扒马褂,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0300fg10000c7la4l3c77u5vs0abgs0&ratio=720p&line=0
-岳云鹏相声给我个机会,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0300fab0000buf8p6s0srttfb9ulotg&ratio=720p&line=0
-经典小品[1920x1080],http://epg.112114.xyz/douyu/9067836
-相声小品[960x540],http://epg.112114.xyz/douyu/9286868
 春晚1983,https://vd2.bdstatic.com/mda-nmgf0aiczefpbjyv/360p/h264/1671273368681637465/mda-nmgf0aiczefpbjyv.mp4
 春晚1984,http://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
 春晚1985,http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
@@ -244,7 +235,7 @@ CCTV-6 电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/inde
 春晚2020,https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8
 春晚2021,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
 春晚2022,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
-春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
+
 
 
 
@@ -264,74 +255,39 @@ CCTV-6 电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/inde
 直播中国 随机切换,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
 南京长江大桥,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 湖南张家界将军列队,https://gcalic.v.myalicdn.com/gc/zjjjjdl_1/index.m3u8
-湖南张家界阿凡达悬浮山,https://gcalic.v.myalicdn.com/gc/zjjafdxfs_1/index.m3u8
-湖南张家界迷魂台,https://gcalic.v.myalicdn.com/gc/zjjmht_1/index.m3u8
 湖南张家界宝峰湖,https://gcalic.v.myalicdn.com/gc/zjjbfh_1/index.m3u8
 湖南张家界御笔峰,https://gcalic.v.myalicdn.com/gc/zjjybf_1/index.m3u8
 四川峨眉山云海日出,https://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8
 济南 七星台,https://gcalic.v.myalicdn.com/gc/emsyh_1/index.m3u8
 青海 祁连山,https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8
 四川峨眉山远眺万佛顶,https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8
-西藏南迦巴瓦峰,https://gcalic.v.myalicdn.com/gc/wygjt2_1/index.m3u8
-四川成都 环球中心,https://gcalic.v.myalicdn.com/gc/jsh02_1/index.m3u8
-湖南张家界 武陵源黄石寨,https://gcalic.v.myalicdn.com/gc/szgk01_1/index.m3u8
-江苏无锡 望锡城,https://gcalic.v.myalicdn.com/gc/wysdhpcy_1/index.m3u8
-河北张北德胜村,https://gcalic.v.myalicdn.com/gc/pygc01_1/index.m3u8
-新疆天山(海西平台),https://gcalic.v.myalicdn.com/gc/xjtchxpt_1/index.m3u8
 新疆天山 天池,https://gcalic.v.myalicdn.com/gc/xjtcdhsz_1/index.m3u8
 新疆天山(马牙山),https://gcalic.v.myalicdn.com/gc/xjtcmys_1/index.m3u8
 河南 信阳 文新茶村,https://gcalic.v.myalicdn.com/gc/xjtcdgs_1/index.m3u8
 湖南张家界天门山西线玻璃栈道,https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8
-湖南张家界天门山天门洞,https://gcalic.v.myalicdn.com/gc/tmstmd01_1/index.m3u8
-江苏扬州 中国大运河博物馆,https://gcalic.v.myalicdn.com/gc/tms02_1/index.m3u8
-湖南张家界天门山云梦仙顶,https://gcalic.v.myalicdn.com/gc/tms04_1/index.m3u8
 厦门 滨海浪漫线,https://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8
 广西玉林大容山莲花山顶,https://gcalic.v.myalicdn.com/gc/drs01_1/index.m3u8
 广东广州,https://gcalic.v.myalicdn.com/gc/blg05_1/index.m3u8
 杭州奥体中心,https://gcalic.v.myalicdn.com/gc/blg03_1/index.m3u8
-汶川映秀新城,https://gcalic.v.myalicdn.com/gc/wcyxxc01_1/index.m3u8
-河北承德七彩森林景区,https://gcalic.v.myalicdn.com/gc/sbd01_1/index.m3u8
-四川成都 东安湖体育公园,https://gcalic.v.myalicdn.com/gc/btq01_1/index.m3u8
-安徽池州九华山风景区拜经台,https://gcalic.v.myalicdn.com/gc/jhs02_1/index.m3u8
 安徽池州九华山风景区九华山,https://gcalic.v.myalicdn.com/gc/jhs05_1/index.m3u8
 山东青岛 艾山天文台,https://gcalic.v.myalicdn.com/gc/jhs01_1/index.m3u8
 重庆 李子坝,https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
-甘肃兰州 中山桥,https://gcalic.v.myalicdn.com/gc/ylh03_1/index.m3u8
-浙江杭州千岛湖,https://gcalic.v.myalicdn.com/gc/caqdh_1/index.m3u8
 南京玄武湖公园,https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
 云南丽江玉龙雪山,https://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8
-贵州贵阳 甲秀楼,https://gcalic.v.myalicdn.com/gc/hkylxs02_1/index.m3u8
 云南丽江蓝月谷,https://gcalic.v.myalicdn.com/gc/ylxs12_1/index.m3u8
 广州 深圳 福田中央商务区,https://gcalic.v.myalicdn.com/gc/hkylxs03_1/index.m3u8
-济南七星台,https://gcalic.v.myalicdn.com/gc/hkylxs04_1/index.m3u8
 福建福州 码头,https://gcalic.v.myalicdn.com/gc/hkylxs06_1/index.m3u8
-云南丽江白水台,https://gcalic.v.myalicdn.com/gc/hkylxs07_1/index.m3u8
-广东深圳,https://gcalic.v.myalicdn.com/gc/hkylxs08_1/index.m3u8
-山东德州,https://gcalic.v.myalicdn.com/gc/hkylxs09_1/index.m3u8
 新疆天山天池,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
-陕西西安大雁塔,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
 福建厦门沙滩,https://gcalic.v.myalicdn.com/gc/nss01_1/index.m3u8
-张家界 西线玻璃栈道,https://gcalic.v.myalicdn.com/gc/fcw01_1/index.m3u8
 江西南昌梅岭,https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8
-上海南浦大桥,https://gcalic.v.myalicdn.com/gc/tjhh01_1/index.m3u8
-四川凉山 景区,https://gcalic.v.myalicdn.com/gc/xcqh01_1/index.m3u8
 河南焦作红石峡,https://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8
 浙江舟山东极岛,https://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8
-河南郑东新区千玺广场,https://gcalic.v.myalicdn.com/gc/zdxq01_1/index.m3u8
-广东阳江海陵岛,https://gcalic.v.myalicdn.com/gc/sgns01_1/index.m3u8
 云南保山 水库,https://gcalic.v.myalicdn.com/gc/sgns02_1/index.m3u8
-江西南昌 滕王阁,https://gcalic.v.myalicdn.com/gc/nxsptdmgychlr_1/index.m3u8
-宁夏沙坡头大漠孤烟,https://gcalic.v.myalicdn.com/gc/nxsptdmgy_1/index.m3u8
 丽江古城大研花巷观景,https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8
 辽宁 沈阳 浑河桥,https://gcalic.v.myalicdn.com/gc/ljgcdsc_1/index.m3u8
 福建厦门 鼓浪屿,https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8
 天津滨海新区,https://gcalic.v.myalicdn.com/gc/ljgcszsnkgc_1/index.m3u8
-北京 雁栖湖,https://gcalic.v.myalicdn.com/gc/ytsxzg_1/index.m3u8
-贵州 茶旅小镇,https://gcalic.v.myalicdn.com/gc/ytsbjy_1/index.m3u8
-内蒙古 呼伦贝尔 大桥,https://gcalic.v.myalicdn.com/gc/ytshsx_1/index.m3u8
-云台山茱萸峰,https://gcalic.v.myalicdn.com/gc/ytszyf_1/index.m3u8
 雪乡梦幻家园,https://gcalic.v.myalicdn.com/gc/mdjxxmhjyxj_1/index.m3u8
-雪乡梦幻家园观景台,https://gcalic.v.myalicdn.com/gc/mdjxxmhjygjt_1/index.m3u8
 青海门源 森林公园,https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8
 浙江乌镇 蓝印花布,https://gcalic.v.myalicdn.com/gc/zjwzlyhb_1/index.m3u8
 乌镇西市河,https://gcalic.v.myalicdn.com/gc/zjwzbblh_1/index.m3u8
@@ -341,113 +297,46 @@ CCTV-6 电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/inde
 黄花城水长城01,https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8
 黄花城水长城02,https://gcalic.v.myalicdn.com/gc/wgw02_1/index.m3u8
 黄花城水长城03,https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8
-河北张家口 湿地公园,https://gcalic.v.myalicdn.com/gc/wgw04_1/index.m3u8
 甘肃 月牙泉,https://gcalic.v.myalicdn.com/gc/dhyyqst_1/index.m3u8
-云南 古城,https://gcalic.v.myalicdn.com/gc/dhyyqyyq_1/index.m3u8
 青海 山,https://gcalic.v.myalicdn.com/gc/dhyyqsm_1/index.m3u8
 五彩池,https://gcalic.v.myalicdn.com/gc/hlwcc_1/index.m3u8
 山东济宁 龙湾湖,https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8
 望乡台,https://gcalic.v.myalicdn.com/gc/hlwxt_1/index.m3u8
-洗身洞,https://gcalic.v.myalicdn.com/gc/hlxsd_1/index.m3u8
 四川绵阳 禹王桥,https://gcalic.v.myalicdn.com/gc/taishan01_1/index.m3u8
 泰山大观峰,https://gcalic.v.myalicdn.com/gc/taishan03_1/index.m3u8
-泰山拱北石,https://gcalic.v.myalicdn.com/gc/taishan04_1/index.m3u8
 泰山玉皇顶,https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8
-江苏南通 圆陀角,https://gcalic.v.myalicdn.com/gc/taishan07_1/index.m3u8
-福建福州 平潭,https://gcalic.v.myalicdn.com/gc/hkts04_1/index.m3u8
 泰山望人松,https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8
-宁夏 金沙湾,https://gcalic.v.myalicdn.com/gc/hkts06_1/index.m3u8
 无锡,https://gcalic.v.myalicdn.com/gc/hkts07_1/index.m3u8
 陕西 汉中自然保护区,https://gcalic.v.myalicdn.com/gc/hkts02_1/index.m3u8
-海南热带雨林公园五指山片区,https://gcalic.v.myalicdn.com/gc/hkts08_1/index.m3u8
 黑龙江哈尔滨 霁虹桥,https://gcalic.v.myalicdn.com/gc/hkts09_1/index.m3u8
-河北承德金山岭长城,https://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8
-浙江台州 三门核电站,https://gcalic.v.myalicdn.com/gc/hsptgz_1/index.m3u8
-湖北 武汉 黄鹤楼,https://gcalic.v.myalicdn.com/gc/hkts11_1/index.m3u8
 重庆 长江大桥,https://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
 四川绵阳 广场,https://gcalic.v.myalicdn.com/gc/hsyg_1/index.m3u8
-龙岩未来城,https://gcalic.v.myalicdn.com/gc/hsmbsh_1/index.m3u8
 江苏徐州 徐州之夜,https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8
 贵州省兴义市万峰林,https://gcalic.v.myalicdn.com/gc/xywfl_1/index.m3u8
 黄山飞来石,https://gcalic.v.myalicdn.com/gc/hsptgy_1/index.m3u8
-黄山光明顶,https://gcalic.v.myalicdn.com/gc/hsgmd_1/index.m3u8
 陕西西安 三河水库,https://gcalic.v.myalicdn.com/gc/ahhs01_1/index.m3u8
-福建泉州 大炸山,https://gcalic.v.myalicdn.com/gc/tms01_1/index.m3u8
-陕西洋县国宝朱鹮01,https://gcalic.v.myalicdn.com/gc/zhhd01_1/index.m3u8
 陕西 渭河湿地公园,https://gcalic.v.myalicdn.com/gc/zh02_1/index.m3u8
 吉林 临江门大桥,https://gcalic.v.myalicdn.com/gc/zh03_1/index.m3u8
-浙江杭州 钱江新城,https://gcalic.v.myalicdn.com/gc/zh04_1/index.m3u8
-湖南 瑶族村,https://gcalic.v.myalicdn.com/gc/yxxdbst_1/index.m3u8
 安徽黟县西递牌坊,https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8
-安徽黟县宏村月沼,https://gcalic.v.myalicdn.com/gc/yxhcyz_1/index.m3u8
 安徽黟县芦村远眺,https://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8
-白鹭自然保护区,https://gcalic.v.myalicdn.com/gc/sjzc01_1/index.m3u8
-八达岭长城南七楼,https://gcalic.v.myalicdn.com/gc/bgws7_1/index.m3u8
-河北承德 塞罕坝,https://gcalic.v.myalicdn.com/gc/bgwn10_1/index.m3u8
 北京鼓楼,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
-湖北 长江,https://gcalic.v.myalicdn.com/gc/hkts10_1/index.m3u8
 陕西延安 宝塔山,https://gcalic.v.myalicdn.com/gc/ztn_1/index.m3u8
-广州塔,https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8
 泰山 天街,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
-湖南 张家界 云天渡,https://gcalic.v.myalicdn.com/gc/hsxkssqdzrqj_1/index.m3u8
-新疆伊犁 公园,https://gcalic.v.myalicdn.com/gc/hgsylztpb_1/index.m3u8
 辽宁葫芦岛 红海滩,https://gcalic.v.myalicdn.com/gc/hgsspzxdpb_1/index.m3u8
-四川 阿坝州 九曲黄河第一湾,https://gcalic.v.myalicdn.com/gc/tyhjtynl_1/index.m3u8
 双子天文台,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
-南天一柱,https://gcalic.v.myalicdn.com/gc/tyhjntyz_1/index.m3u8
-日月石,https://gcalic.v.myalicdn.com/gc/tyhjrys_1/index.m3u8
-北京四环路,https://gcalic.v.myalicdn.com/gc/glxs01_1/index.m3u8
 河北承德避暑山庄龙泉公园,https://gcalic.v.myalicdn.com/gc/lpsgmjng01_1/index.m3u8
-黑龙江哈尔滨 湘江公园,https://gcalic.v.myalicdn.com/gc/hkhs01_1/index.m3u8
 宁夏 沙坡头,https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8
-陕西 汉江大桥,https://gcalic.v.myalicdn.com/gc/xysrf_1/index.m3u8
 北京 水镇,https://gcalic.v.myalicdn.com/gc/dlst03_1/index.m3u8
-四川 石渠县,https://gcalic.v.myalicdn.com/gc/dlst02_1/index.m3u8
-云南大理崇圣寺三塔远景,https://gcalic.v.myalicdn.com/gc/dlst01_1/index.m3u8
 广西桂林漓江景区,https://gcalic.v.myalicdn.com/gc/gllj01_1/index.m3u8
 江苏南京 雨花台 烈士林园,https://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8
-广东珠海 港珠澳大桥,https://gcalic.v.myalicdn.com/gc/qdls04_1/index.m3u8
-江苏南京 鼓楼广场,https://gcalic.v.myalicdn.com/gc/qdls01_1/index.m3u8
 西藏 珠穆朗玛峰,https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8
-北京 居庸关长城,https://gcalic.v.myalicdn.com/gc/syns01_1/index.m3u8
-天池,https://gcalic.v.myalicdn.com/gc/xdfjq01_1/index.m3u8
-辽宁大连 星海广场,https://gcalic.v.myalicdn.com/gc/hhdxg01_1/index.m3u8
 张掖七彩丹霞,https://gcalic.v.myalicdn.com/gc/zyqcdx01_1/index.m3u8
-山东济南 大明湖 超然楼,https://gcalic.v.myalicdn.com/gc/zsslsgc_1/index.m3u8
-河北张家界,https://gcalic.v.myalicdn.com/gc/wygjt1_1/index.m3u8
-湖南湘西 矮寨大桥,https://gcalic.v.myalicdn.com/gc/jshhd01_1/index.m3u8
 黄鹤楼,https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
-珠海大剧院,https://gcalic.v.myalicdn.com/gc/dxsdtts_1/index.m3u8
-甘肃嘉峪关,https://gcalic.v.myalicdn.com/gc/dxssyt_1/index.m3u8
-山东济南 趵突泉,https://gcalic.v.myalicdn.com/gc/hnttdysjd_1/index.m3u8
-云南红河哈尼梯田普高老寨,https://gcalic.v.myalicdn.com/gc/hnttpgsz_1/index.m3u8
-云南昆明 双桥村,https://gcalic.v.myalicdn.com/gc/hnttlhzjd_1/index.m3u8
-四川成都 天府熊猫塔,https://gcalic.v.myalicdn.com/gc/lhszjsp_1/index.m3u8
-四川成都 太古里,https://gcalic.v.myalicdn.com/gc/lhssjzd_1/index.m3u8
 乐山大佛全景,https://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8
 福建武夷山玉女峰,https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8
-甘肃兰州中山桥,https://gctxyc.liveplay.myqcloud.com/gc/ylh03_1_md.m3u8
-直播中国景点轮播,https://gctxyc.liveplay.myqcloud.com/gc/sbd01_1_md.m3u8
-直播中国景点轮播,https://gctxyc.liveplay.myqcloud.com/gc/sbd01_1/index.m3u8
-张家界天门山云梦仙顶,https://gctxyc.liveplay.myqcloud.com/gc/tms04_1_md.m3u8
-张家界天门山云梦仙顶,https://gctxyc.liveplay.myqcloud.com/gc/tms04_1/index.m3u8
-湖南张家界武陵源黄石寨,https://gctxyc.liveplay.myqcloud.com/gc/szgk01_1_md.m3u8
 湖南张家界武陵源黄石寨,https://gctxyc.liveplay.myqcloud.com/gc/szgk01_1/index.m3u8
 山东东营北宋镇高家村带状种植试验田,https://gctxyc.liveplay.myqcloud.com/gc/jhs05_1_md.m3u8
 山东东营北宋镇高家村带状种植试验田,https://gctxyc.liveplay.myqcloud.com/gc/jhs05_1/index.m3u8
-四川乐山岷江,https://gctxyc.liveplay.myqcloud.com/gc/hkhs01_1_md.m3u8
-四川乐山岷江,https://gctxyc.liveplay.myqcloud.com/gc/hkhs01_1/index.m3u8
-江苏徐州云龙湖风景区云龙山观景台南,https://gctxyc.liveplay.myqcloud.com/gc/ylh03_1/index.m3u8
-北京密云古北水镇,https://gctxyc.liveplay.myqcloud.com/gc/dlst03_1_md.m3u8
-北京密云古北水镇,https://gctxyc.liveplay.myqcloud.com/gc/dlst03_1/index.m3u8
-湖北宜昌夷陵区樟村坪镇观景台,https://gctxyc.liveplay.myqcloud.com/gc/gllj01_1_md.m3u8
-湖北宜昌夷陵区樟村坪镇观景台,https://gctxyc.liveplay.myqcloud.com/gc/gllj01_1/index.m3u8
-四川凉山彝族自治州西昌市邛海景区,https://gctxyc.liveplay.myqcloud.com/gc/xcqh01_1_md.m3u8
-四川凉山彝族自治州西昌市邛海景区,https://gctxyc.liveplay.myqcloud.com/gc/xcqh01_1/index.m3u8
-宁夏黄河大峡谷,https://gctxyc.liveplay.myqcloud.com/gc/hhdxg01_1_md.m3u8
-宁夏黄河大峡谷,https://gctxyc.liveplay.myqcloud.com/gc/hhdxg01_1/index.m3u8
-丽江古城大研花巷观景,https://gctxyc.liveplay.myqcloud.com/gc/ljgcdyhxgjt_1_md.m3u8
-丽江古城大研花巷观景,https://gctxyc.liveplay.myqcloud.com/gc/ljgcdyhxgjt_1/index.m3u8
 辽宁沈阳浑河,https://gctxyc.liveplay.myqcloud.com/gc/ljgcdsc_1_md.m3u8
 辽宁沈阳浑河,https://gctxyc.liveplay.myqcloud.com/gc/ljgcdsc_1/index.m3u8
 河南焦作云台山红石峡,https://gctxyc.liveplay.myqcloud.com/gc/ytshsx_1/index.m3u8
@@ -455,7 +344,6 @@ CCTV-6 电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/inde
 贵州贵阳十里画廊,https://gctxyc.liveplay.myqcloud.com/gc/wysyxdhp_1/index.m3u8
 黑龙江哈尔滨霁虹桥,https://gctxyc.liveplay.myqcloud.com/gc/hkts09_1_md.m3u8
 黑龙江哈尔滨霁虹桥,https://gctxyc.liveplay.myqcloud.com/gc/hkts09_1/index.m3u8
-贵州盘州市新民梯田,https://gctxyc.liveplay.myqcloud.com/gc/hkts11_1_md.m3u8
 贵州盘州市新民梯田,https://gctxyc.liveplay.myqcloud.com/gc/hkts11_1/index.m3u8
 张家界武陵源景区迷魂台,https://gctxyc.liveplay.myqcloud.com/gc/zjjmht_1_md.m3u8
 张家界武陵源景区迷魂台,https://gctxyc.liveplay.myqcloud.com/gc/zjjmht_1/index.m3u8
@@ -463,7 +351,6 @@ CCTV-6 电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/inde
 张家界武陵源景区宝峰湖,https://gctxyc.liveplay.myqcloud.com/gc/zjjbfh_1/index.m3u8
 陕西汉中镇巴县草坝景区,https://gctxyc.liveplay.myqcloud.com/gc/lsdfgfl_1_md.m3u8
 陕西汉中镇巴县草坝景区,https://gctxyc.liveplay.myqcloud.com/gc/lsdfgfl_1/index.m3u8
-湖北十堰丹江口碧水连天,https://gctxyc.liveplay.myqcloud.com/gc/dxsdtts_1_md.m3u8
 湖北十堰丹江口碧水连天,https://gctxyc.liveplay.myqcloud.com/gc/dxsdtts_1/index.m3u8
 海南保亭七仙岭温泉国家森林公园,https://gctxyc.liveplay.myqcloud.com/gc/emsyh_1_md.m3u8
 海南保亭七仙岭温泉国家森林公园,https://gctxyc.liveplay.myqcloud.com/gc/emsyh_1/index.m3u8
@@ -474,11 +361,8 @@ CCTV-6 电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/inde
 浙江乌镇蓝印花布,https://gctxyc.liveplay.myqcloud.com/gc/zjwzlyhb_1_md.m3u8
 浙江乌镇蓝印花布,https://gctxyc.liveplay.myqcloud.com/gc/zjwzlyhb_1/index.m3u8
 牡丹江雪乡梦幻家园,https://gctxyc.liveplay.myqcloud.com/gc/mdjxxmhjyxj_1/index.m3u8
-三号冰川,https://gctxyc.liveplay.myqcloud.com/gc/ztx_1_md.m3u8
 三号冰川,https://gctxyc.liveplay.myqcloud.com/gc/ztx_1/index.m3u8
-江苏南京长江,https://gctxyc.liveplay.myqcloud.com/gc/hsxkscj_1_md.m3u8
 江苏南京长江,https://gctxyc.liveplay.myqcloud.com/gc/hsxkscj_1/index.m3u8
-黄果树瀑布银链坠潭瀑布,https://gctxyc.liveplay.myqcloud.com/gc/hgsylztpb_1_md.m3u8
 黄果树瀑布银链坠潭瀑布,https://gctxyc.liveplay.myqcloud.com/gc/hgsylztpb_1/index.m3u8
 嵩山少林寺胜观峰,https://gctxyc.liveplay.myqcloud.com/gc/zsslstpt_1_md.m3u8
 嵩山少林寺胜观峰,https://gctxyc.liveplay.myqcloud.com/gc/zsslstpt_1/index.m3u8
@@ -491,11 +375,8 @@ CCTV-6 电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/inde
 湖北恩施佛宝山景区,https://gctxyc.liveplay.myqcloud.com/gc/tyhjntyz_1/index.m3u8
 黑龙江牡丹江镜泊湖,https://gctxyc.liveplay.myqcloud.com/gc/jyg04_1/index.m3u8
 云南红河建水双龙桥,https://gcalic.v.myalicdn.com/gc/pshdxg01_1/index.m3u8
-山西大同广灵县水神堂,https://gcalic.v.myalicdn.com/gc/nywbwg01_1/index.m3u8
-贵州省兴义市马岭河峡谷,https://gcalic.v.myalicdn.com/gc/xymlh_1/index.m3u8
 天津海河,https://gcalic.v.myalicdn.com/gc/tjhh02_1/index.m3u8
 宁夏沙坡头黄河漂流,https://gcalic.v.myalicdn.com/gc/nxspthhpl_1/index.m3u8
 云南保山中寨司莫拉佤族村,https://gcalic.v.myalicdn.com/gc/hnttbdjd_1/index.m3u8
-湖南张家界天门山天空步道,https://gcalic.v.myalicdn.com/gc/djyewm_1/index.m3u8
 湘西凤凰古城东关门,https://gcalic.v.myalicdn.com/gc/fhgcdgm_1/index.m3u8
-北京香山,https://gcalic.v.myalicdn.com/gc/yxhcnh_1/index.m3u8
+
