@@ -8,30 +8,6 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
     },
     {
-      "name": "cngsm_gitcode目前信号不错",
-      "type": 0,
-      "url": "https://raw.gitcode.com/cngsm/live/raw/main/live.json",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-    },
-    {
-      "name": "Luodingyi_gitcode目前信号不错",
-      "type": 0,
-      "url": "https://raw.gitcode.com/Luodingyi/TV/raw/main/zbtv.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-    },
-    {
-      "name": "nynginuirnr_gitcode(高清好源)",
-      "type": 0,
-      "url": "https://raw.gitcode.com/nynginuirnr/TV/raw/main/TV",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-    },
-    {
-      "name": "zjglaoji_gitcode黑龙江移动源好用",
-      "type": 0,
-      "url": "https://raw.gitcode.com/zjglaoji/tv/raw/main/tv.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-    },
-    {
       "name": "自用直播源（自建）",
       "type": 0,
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Video/01.Live%E7%9B%B4%E6%92%AD%E6%BA%90/01.%E8%87%AA%E7%94%A8%E7%9B%B4%E6%92%AD%E6%BA%90.txt",
