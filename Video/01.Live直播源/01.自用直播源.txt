@@ -8,8 +8,8 @@ CCTV-17 农业农村,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.li
 CHC动作电影,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00002030/index.m3u8
 CHC影迷电影,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00002029/index.m3u8
 CHC家庭影院,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00002028/index.m3u8
-
-
+第一财经,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.37:8000
+农业致富,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225683/index.m3u8$4.0M_1080
 
 
 
@@ -57,7 +57,7 @@ CGTV法语,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:
 CGTV纪录片,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000353/index.m3u8
 CGTV西班牙语,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000354/index.m3u8
 中国交通,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000073/index.m3u8
-
+北京纪实科教,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000332/index.m3u8
 
 
 
