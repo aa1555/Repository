@@ -28,7 +28,13 @@
     {
       "name": "07",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Video/01.Live%E7%9B%B4%E6%92%AD%E6%BA%90/07..txt",
+      "url": "https://mirror.ghproxy.com/https://github.com/aa1555/Repository/blob/main/Video%2F01.Live%E7%9B%B4%E6%92%AD%E6%BA%90%2F07%E5%B7%B2%E6%A3%80%E6%B5%8B.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+    },
+    {
+      "name": "08",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Video/01.Live%E7%9B%B4%E6%92%AD%E6%BA%90/08.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
     },
     {
