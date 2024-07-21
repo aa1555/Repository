@@ -68,3 +68,5 @@ doraemon.pendown()
 doraemon.circle(30, 180)
 doraemon.penup()
 doraemon.goto(0, 0)
+
+turtle.done()  # 保持窗口打开

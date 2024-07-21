@@ -22,5 +22,6 @@ turtle.end_fill()
 turtle.penup()
 turtle.goto(-40, -50)
 turtle.pendown()
-turtle.write('',  font = ('SimHei', 15, 'bold'))
 turtle.hideturtle()
+
+turtle.done()  # 保持窗口打开
