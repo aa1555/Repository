@@ -28,8 +28,6 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.80.111.229:443?path=tg%40zdyz2&s
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@170.114.45.96:443?path=tg%40zdyz2&security=tls&encryption=none&host=cfed.tgzdyz2.top&type=ws&sni=cfed.tgzdyz2.top#US_youtube%40%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB%E5%B8%88_104
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.80.110.200:2053?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=juzibaipiao.5112233.xyz&type=ws&sni=juzibaipiao.5112233.xyz#EE_youtube%40%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB%E5%B8%88_97
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.133.247.14:443?path=%2Ftg%40zdyz2&security=tls&encryption=none&host=cfed.tgzdyz2.top&type=ws&sni=cfed.tgzdyz2.top#SC_youtube%40%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB%E5%B8%88_230
-vless://f775978b-6e
-22-41a8-ae5e-5f9779e6745f@199.181.197.39:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=juzibaipiao.5112233.xyz&type=ws&sni=juzibaipiao.5112233.xyz#US_youtube%40%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB%E5%B8%88_134
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@140.99.233.156:2087?path=%2Ftg%40zdyz2&security=tls&encryption=none&host=cfed.tgzdyz2.top&type=ws&sni=cfed.tgzdyz2.top#US_youtube%40%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB%E5%B8%88_100
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@150.66.24.104:34237?path=%2Ftg%40zdyz2&security=tls&encryption=none&host=cfed.tgzdyz2.top&type=ws&sni=cfed.tgzdyz2.top#JP_youtube%40%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB%E5%B8%88_85
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.140.0.141:443?path=tg%40zdyz2&security=tls&encryption=none&host=cfed.tgzdyz2.top&type=ws&sni=cfed.tgzdyz2.top#AE_youtube%40%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB%E5%B8%88_186
