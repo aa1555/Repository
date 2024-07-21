@@ -14,7 +14,7 @@
   <tr>
    <td align="center" width="143" height="22" style="border-top-style: none; border-top-width: medium">
    <a href="https://github.com/aa1555/Repository/tree/main/Video/01.Live直播源">
-   📺直播源</a></td>
+   📺Live</a></td>
    <td align="center" width="144" height="22" style="border-top-style: none; border-top-width: medium">
    <a href="https://github.com/aa1555/Repository/tree/main/Video/02.TV%20Box%20配置">
    📦TV Box</a></td>
