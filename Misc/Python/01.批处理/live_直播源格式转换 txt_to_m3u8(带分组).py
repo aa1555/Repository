@@ -1,3 +1,5 @@
+import os
+
 # 定义一个函数，将简化的格式转换为完整的M3U8格式
 def convert_to_m3u8(input_file, output_file):
     current_group_title = None
@@ -28,9 +30,28 @@ def convert_to_m3u8(input_file, output_file):
                 except ValueError as e:
                     print(f"Error processing line: {line}. Error: {e}")
 
-# 替换以下路径为您的文件路径
-input_txt_file = r"C:\Users\aa155\Desktop\示例.txt"  # 输入文件路径
-output_m3u8_file = r"C:\Users\aa155\Desktop\示例.m3u8"  # 输出文件路径
+
+
+
+
+
+
+input_txt_file = r"E:\下载\极速TV2.txt"         # 替换路径为您的文件路径
+
+
+
+
+
+
+
+# 提取文件名（包括扩展名）
+file_name_with_extension = os.path.basename(input_txt_file)
+
+# 提取文件名（不包括扩展名）
+file_name_without_extension = os.path.splitext(file_name_with_extension)[0]  # os.path.splitext返回包含文件名和扩展名（如'.txt'）的元组。[0]取第一个元素，即文件名
+
+# 保存到桌面
+output_m3u8_file = fr"C:\Users\aa155\Desktop\{file_name_without_extension}.m3u8"  # 输出文件路径
 
 # 调用函数进行转换
 convert_to_m3u8(input_txt_file, output_m3u8_file)
