@@ -95,7 +95,7 @@
   "sites": [
     {
       "key": "drpy_js_360影视",
-      "name": "官源",
+      "name": "主页",
       "type": 3,
       "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
       "ext": "https://d.kstore.space/download/6296/js/360.js"
