@@ -261,7 +261,7 @@
 			<td align="center" width="139" height="24">
 			<a href="https://github.com/">GitHub</a></td>
 			<td align="center" width="139" height="24">
-			<a href="https://jihulab.com/">极狐GitLab</a></td>
+			<a href="https://jihulab.com/explore">极狐GitLab</a></td>
 </tr>
 
 
