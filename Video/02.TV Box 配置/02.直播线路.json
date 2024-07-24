@@ -5,13 +5,13 @@
   
   "lives": [
     {
-      "name": "直播源（自用）",
+      "name": "live",
       "type": 0,
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Video/01.Live%E7%9B%B4%E6%92%AD%E6%BA%90/01.%E8%87%AA%E7%94%A8%E7%9B%B4%E6%92%AD%E6%BA%90.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
     },
     {
-      "name": "音乐MV(自用)",
+      "name": "mv",
       "type": 0,
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Video/01.Live%E7%9B%B4%E6%92%AD%E6%BA%90/02.%E9%9F%B3%E4%B9%90MV.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
@@ -86,18 +86,6 @@
       "name": "yz",
       "type": 0,
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Video/01.Live%E7%9B%B4%E6%92%AD%E6%BA%90/yz.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-    },
-    {
-      "name": "live",
-      "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Video/01.Live%E7%9B%B4%E6%92%AD%E6%BA%90/01.%E8%87%AA%E7%94%A8%E7%9B%B4%E6%92%AD%E6%BA%90.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-    },
-    {
-      "name": "mv",
-      "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Video/01.Live%E7%9B%B4%E6%92%AD%E6%BA%90/02.%E9%9F%B3%E4%B9%90MV.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
     },
     {
