@@ -1,4 +1,5 @@
 频道收藏,#genre#
+小品轮播,http://tc-tct.douyucdn2.cn/dyliveflv1a/10153463r0oBSmAG.m3u8
 CHC动作电影,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00002030/index.m3u8
 CHC影迷电影,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00002029/index.m3u8
 CHC家庭影院,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00002028/index.m3u8
