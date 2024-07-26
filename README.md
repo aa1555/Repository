@@ -298,9 +298,7 @@
 
 - [代理集合](https://tool.aoaostar.com/github_proxy)
 
-- raw地址格式：
-
-  `https://raw.githubusercontent.com/`用户名/仓库名/main/文件名(文件夹名/文件名)
+- raw地址：`https://raw.githubusercontent.com/`用户名/仓库名/main/文件夹名/文件名
 
 - `https://mirror.ghproxy.com/`接raw地址
 
