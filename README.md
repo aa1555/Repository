@@ -302,6 +302,8 @@
 
   `https://raw.githubusercontent.com/`用户名/仓库名/main/文件名(文件夹名/文件名)
 
+- `https://mirror.ghproxy.com/`接raw地址
+
 - `https://raw.gitmirror.com/`接用户名及后面部分
 
 - [JSDELIVR](https://www.jsdelivr.com/github)
