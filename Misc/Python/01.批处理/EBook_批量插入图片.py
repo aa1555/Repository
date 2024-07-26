@@ -1,4 +1,4 @@
-f = ""   #用于暂存处理后的数据
+f = ""   # 为后面使用f += d + "\n\n"做准备
 
 for i in range(1,80):                                                           #设置要插入的图片数量
     a = '''  <div class="duokan-image-single">
