@@ -296,21 +296,19 @@
   
   <summary><b>Github RAW 加速服务</b></summary>
 
-- [代理集合](https://tool.aoaostar.com/github_proxy)
-
-- raw地址：`https://raw.githubusercontent.com/`用户名/仓库名/main/文件夹名/文件名
+- `https://raw.githubusercontent.com/`用户名/仓库名/main/文件夹名/文件名
 
 - `https://mirror.ghproxy.com/`接raw地址
 
 - `https://raw.gitmirror.com/`接用户名及后面部分
 
-- [JSDELIVR](https://www.jsdelivr.com/github)
+  [JSDELIVR](https://www.jsdelivr.com/github)
 
-  `https://fastly.jsdelivr.net/gh/`接用户名及后面部分，把main前面的`/`改成`@`
+ - `https://fastly.jsdelivr.net/gh/`接用户名及后面部分，把main前面的`/`改成`@`
   
-  `https://cdn.jsdelivr.net/gh/`接用户名及后面部分，把main前面的`/`改成`@`
+-  `https://cdn.jsdelivr.net/gh/`接用户名及后面部分，把main前面的`/`改成`@`
   
-  `https://gcore.jsdelivr.net/gh/`接用户名及后面部分，把main前面的`/`改成`@`
+ - `https://gcore.jsdelivr.net/gh/`接用户名及后面部分，把main前面的`/`改成`@`
 
 - `https://jsd.cdn.zzko.cn/gh/`接用户名及后面部分，把main前面的`/`改成`@`
 
