@@ -28,7 +28,7 @@ for img in imgs:
     img_response = requests.get(img_url, headers=headers)
 
     # 保存图片到文件
-    with open(fr"C:\Users\Administrator\Desktop\新建文件夹\{alt_text}.jpg", 'wb') as file:
+    with open(fr"C:\Users\aa155\Desktop\新建文件夹\{alt_text}.jpg", 'wb') as file:
         file.write(img_response.content)
 
     # 打印图片信息(方便在终端查看下载进度)
