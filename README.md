@@ -302,7 +302,7 @@
 
 - `https://raw.gitmirror.com/`接用户名及后面部分
 
-  [JSDELIVR](https://www.jsdelivr.com/github)
+  官网：[JSDELIVR](https://www.jsdelivr.com/github)
 
  - `https://fastly.jsdelivr.net/gh/`接用户名及后面部分，把main前面的`/`改成`@`
   
