@@ -2,7 +2,7 @@ import random
 
 choices = ["石头", "剪刀", "布"]
 computer = random.choice(choices)
-player = input("请选择石头、剪刀或布：")
+player = input("请选择‘石头’、‘剪刀’或‘布’：")
 
 print(f"电脑选择了：{computer}")
 print(f"你选择了：{player}")

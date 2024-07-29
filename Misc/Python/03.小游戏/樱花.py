@@ -69,3 +69,5 @@ t.color('sienna')
 Tree(60, t)
 # 掉落的花瓣
 Petal(200, t)
+
+w.mainloop()
