@@ -35,7 +35,7 @@
 
   <tr>
    <td align="center" width="143" height="22">
-   <a href="https://github.com/aa1555/Repository/tree/main/Misc%2FPython">
+   <a href="https://github.com/aa1555/Repository/tree/main/Python">
    Python</a></td>
    <td align="center" width="144" height="22">
    <a href="https://github.com/aa1555/Repository/tree/main/Misc">Misc</a></td>
