@@ -1,3 +1,5 @@
+来源：https://github.com/Buildings-Lei/mysql_note/blob/main/README.md
+
 # 基础篇
 
 ## 通用语法及分类
@@ -1502,9 +1504,3 @@ FROM information_schema.TABLES
 GROUP BY table_schema;
 ```
 
-# 后续内容
-
-后续内容因为跟当前学习、工作计划有冲突，所以后续课程的学习计划会无限期推后。
-目前的工作重点放在重做一个学习笔记网站，当然这是边做边学的，开发过程中遇到的难点和知识点我也会记录下来供大家学习。
-**在此感谢B站同样爱学习的同学 @守心-人 提供的后续课程笔记，大家有条件一定要去给个star，你的每一个star和点赞都是我们前进的动力**
-**[https://github.com/Buildings-Lei/mysql_note/blob/main/README.md](https://github.com/Buildings-Lei/mysql_note/blob/main/README.md)**
