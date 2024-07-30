@@ -1,4 +1,6 @@
-来源：https://github.com/Buildings-Lei/mysql_note/blob/main/README.md
+来源：
+
+https://github.com/Buildings-Lei/mysql_note/blob/main/README.md
 
 # 基础篇
 
