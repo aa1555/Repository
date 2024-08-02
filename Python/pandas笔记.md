@@ -44,7 +44,7 @@ print('新建空白文件.xlsx成功')
 import pandas as pd
 path = '读取文件.csv'
 read_data = pd.read_csv(path,sep=',',header=None,names=['姓名','年龄','地址','电话','入职日期'],encoding='utf-8',index_col='入职日期',nrows=3)
-print(读取数据)        
+print(read_data)        
 ```
 ## read_csv的参数
 
@@ -90,82 +90,82 @@ read_date.to_excel('path')          # 写入到Excel文件
 常用方法
 
 ```python
-数据.index #查看索引
-数据.values #查看数值
-数据.isnull() #查看为空的，返回布尔型，为空返回Ture，反之返回False
-数据.notnull() # 查看不为空,不为空返回Ture
-数据.sort_index() #按索引排序
-数据.sort_values() #按数值排序
+date.index #查看索引
+date.values #查看数值
+date.isnull() #查看为空的，返回布尔型，为空返回Ture，反之返回False
+date.notnull() # 查看不为空,不为空返回Ture
+date.sort_index() #按索引排序
+date.sort_values() #按数值排序
 ```
 
 ## DataFrame
 
 ```python
 import pandas as pd
-数据=pd.DataFrame([[1,2,3],[4,5,6],[7,8,9]],columns=['a','b','c'])  #columns列索引
-print(数据)  
-print(数据['a'][0] )   # 取a列0行
-print(数据.loc[0]['a'] )  # 取0行，a列
-print(数据.iloc[0][0] )   # 取0行，0列，根据号取值，不根据列名
-print(数据[['a','b']])  # 取a列和b列，这个索引就是以一个索引的列表作为一个元素，代替一个索引值元素。
+date=pd.DataFrame([[1,2,3],[4,5,6],[7,8,9]],columns=['a','b','c'])  #columns列索引
+print(date)  
+print(date['a'][0] )   # 取a列0行
+print(date.loc[0]['a'] )  # 取0行，a列
+print(date.iloc[0][0] )   # 取0行，0列，根据号取值，不根据列名
+print(date[['a','b']])  # 取a列和b列，这个索引就是以一个索引的列表作为一个元素，代替一个索引值元素。
 ```
-`数据['a'][0]`:取a列0行
+`date['a'][0]`:取a列0行
 
-`数据.loc[0]['a']`:取0行，a列
+`date.loc[0]['a']`:取0行，a列
 
-`数据.iloc[0][0]`:取0行，0列，根据号取值，不根据名
+`date.iloc[0][0]`:取0行，0列，根据号取值，不根据名
 
-`数据[['a','b']]`:取a列和b列
+`date[['a','b']]`:取a列和b列
 
 ### 多个字典序列创建DataFrame
 ```python
 
 import pandas as pd
-字典 = {
+dict = {
         '姓名':['孙兴华','李小龙','叶问'],
         '年龄':[20,80,127],
         '功夫':['撸铁','截拳道','咏春']
         }
-数据 = pd.DataFrame(字典)
-print(数据)
-print(数据.dtypes)    # 返回每一列的类型
-print(数据.columns) # 返回列索引，以列表形式返回：[列名1，列名2，…]
-print(数据.index)      # 返回行索引，（起始，结束，步长）
+date = pd.DataFrame(dict)
+print(date)
+print(date.dtypes)    # 返回每一列的类型
+print(date.columns) # 返回列索引，以列表形式返回：[列名1，列名2，…]
+print(date.index)      # 返回行索引，（起始，结束，步长）
 ```
 
-`df数据.columns`：返回列索引
+`date.columns`：返回列索引
 
-`df数据.index`：返回行索引
+`date.index`：返回行索引
 
-`df数据.loc[2]['b']`:查询第2行第b列
+`date.loc[2]['b']`:查询第2行第b列
 
 ## DataFrame常用方法
 ```python
-数据.head( 5 ) #查看前5行
-数据.tail( 3 ) #查看后3行
-数据.values #查看数值
-数据shape #查看行数、列数
-数据.fillna(0) #将空值填充0
-数据.replace( 1, -1) #将1替换成-1
-数据.isnull() #查找数据中出现的空值
-数据.notnull() #非空值
-数据.dropna() #删除空值
-数据.unique() #查看唯一值
-数据.reset_index() #修改、删除，原有索引，详见例1
-数据.columns #查看数据的列名
-数据.index #查看索引
-数据.sort_index() #索引排序 
-数据.sort_values() #值排序
+date.head( 5 ) #查看前5行
+date.tail( 3 ) #查看后3行
+date.values #查看数值
+date.shape #查看行数、列数
+date.fillna(0) #将空值填充0
+date.replace( 1, -1) #将1替换成-1
+date.isnull() #查找数据中出现的空值
+date.notnull() #非空值
+date.dropna() #删除空值
+date.unique() #查看唯一值
+date.reset_index() #修改、删除，原有索引，详见例1
+date.columns #查看数据的列名
+date.index #查看索引
+date.sort_index() #索引排序 
+date.sort_values() #值排序
 pd.merge(数据1,数据1) #合并
 pd.concat([数据1,数据2]) #合并，与merge的区别，自查
-pd.pivot_table( 数据 ) #用df做数据透视表（类似于Excel的数透）
+pd.pivot_table( date ) #用df做数据透视表（类似于Excel的数透）
 ```
 例1：
 ```python
 import pandas as pd
-路径 = 'c:/pandas/读取文件.xlsx'
-读取数据 = pd.read_excel(路径,header=None,names=['序号','姓名','年龄','手机','地址','入职日期'],index_col='序号')
-print(读取数据.reset_index(drop=True)) # 索引被直接删除
-print(读取数据.reset_index(drop=False)) # 索引列会被还原为普通列
+path = 'c:/pandas/读取文件.xlsx'
+read_date = pd.read_excel(path,header=None,names=['序号','姓名','年龄','手机','地址','入职日期'],index_col='序号')
+print(read_date.reset_index(drop=True)) # 索引被直接删除
+print(read_date.reset_index(drop=False)) # 索引列会被还原为普通列
 ```
  
