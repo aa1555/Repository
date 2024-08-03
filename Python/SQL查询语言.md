@@ -4,9 +4,27 @@ https://github.com/Buildings-Lei/mysql_note/blob/main/README.md
 
 # 单词
 
-CONCAT:字符串拼接
+字段就是列名
 
-SELECT：选择
+CONCAT:字段连接
+
+SELECT：选择字段
+
+FROM：从...表中
+
+ORDEY：排序。ASC升序（默认，可省略），DESC降序
+
+BETWEEN:在...之间
+
+DISTINCT：不同。用来去重
+
+WHERE：后面接查询条件
+
+
+
+
+
+
 
 
 ### DQL（数据查询语言）
