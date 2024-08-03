@@ -2,6 +2,54 @@
 
 https://github.com/Buildings-Lei/mysql_note/blob/main/README.md
 
+# 单词
+
+CONCAT:字符串拼接
+
+SELECT：选择
+
+# 语法
+
+语法：select 查询列表 from 表名;
+```sql
+例1：SELECT 商品编码 FROM `销售表`;
+例2：SELECT 商品编码,店号 FROM `销售表`;      # 顺序可以改变
+例3：SELECT * FROM `销售表`; 
+```
+注意：
+1、查询列表可以是：表中的字段、常量值、表达式、函数
+2、查询的结果是一个虚拟表格
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### DQL（数据查询语言）
 
 语法：
@@ -190,5 +238,4 @@ SELECT * FROM employee LIMIT 10, 10;
 #### DQL执行顺序
 
 FROM -> WHERE -> GROUP BY -> SELECT -> ORDER BY -> LIMIT
-
 
