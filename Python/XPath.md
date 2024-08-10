@@ -1,4 +1,6 @@
-XPath（XML Path Language）是一种用于在XML文档中查找信息的语言，它也可以用于HTML文档。XPath使用路径表达式来选取XML或HTML文档中的元素或元素集。
+XPath（XML Path Language）是一种用于在XML文档中查找信息的语言，它也可以用于HTML文档。
+
+XPath使用路径表达式来选取XML或HTML文档中的元素或元素集。
 
 XPath表达式的一般结构包括：
 
