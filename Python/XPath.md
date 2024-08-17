@@ -4,7 +4,7 @@ XPath使用路径表达式来选取XML或HTML文档中的元素或元素集。
 
 在HTML文档里，一个元素里包含`开始标签`、`属性`、`文本`、`结束标签`。其中，`属性`藏在在`开始标签`内，`文本`被`开始标签`和`结束标签`包裹起来。如：
 ```html
-<p class="muted-param">Xpath</p>
+<p class="muted-param">XPath</p>
 ```
 XPath表达式的一般结构包括：
 
