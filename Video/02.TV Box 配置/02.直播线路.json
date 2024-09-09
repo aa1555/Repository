@@ -89,6 +89,18 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
     },
     {
+      "name": "地方台可以看",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Video/01.Live%E7%9B%B4%E6%92%AD%E6%BA%90/%E5%9C%B0%E6%96%B9%E5%8F%B0%E4%B8%8D%E9%94%99.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+    },
+    {
+      "name": "怪好",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Video/01.Live%E7%9B%B4%E6%92%AD%E6%BA%90/%E6%80%AA%E5%A5%BD.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+    },
+    {
       "name": "FM广播",
       "type": 0,
       "url": "https://raw.gitcode.com/qkbxx/TV/raw/main/DIYP.txt",
