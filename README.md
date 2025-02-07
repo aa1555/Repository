@@ -220,10 +220,6 @@
 
   收集国内可直连的全球电视直播源
 
-- 项目地址：[mengzehe/TVBox](https://github.com/mengzehe/TVBox)
-
-  专注于收集影视源，直播源
-
 </details>
 
 <hr>
