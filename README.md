@@ -209,20 +209,12 @@
 <hr>
 
 ### 收集的TV接口
-
-- [黎歌の主页](https://www.lige.fit/)
-
-  一个收集、整理、解密TVBox接口的网站。
-  
-- [源](https://cyuan.netlify.app/)
   
 - [源仓库(地址发布页)](https://yckceo.vip/)
 
-- [肥猫](http://xn--z7x900a.live/)
+- [源](https://cyuan.netlify.app/)
 
 - [欧歌](http://m.nxog.top/index.html)
-
-- [饭太硬](http://xn--sss604efuw.top/)
 
 - 项目地址：[fanmingming/live](https://github.com/fanmingming/live)
 
