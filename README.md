@@ -100,11 +100,11 @@
 
 - <b>V2Ray 订阅链接：</b>
 
-  https://mirror.ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Nodes/02.V2Ray.txt
+  https://ghfast.top/https://raw.githubusercontent.com/aa1555/Repository/main/Nodes/02.V2Ray.txt
 
 - <b>Clash 订阅链接：</b>
 
-  https://mirror.ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Nodes/03.Clash.txt
+  https://ghfast.top/https://raw.githubusercontent.com/aa1555/Repository/main/Nodes/03.Clash.txt
 
 <hr>
 
@@ -114,11 +114,11 @@
 
 - <b>Clash订阅：</b>
 
-  https://mirror.ghproxy.com/https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
+  https://ghfast.top/https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
 
 - <b>通用base64/v2ray订阅：</b>
 
-  https://mirror.ghproxy.com/https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub
+  https://ghfast.top/https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub
 
 </details>
 
@@ -192,19 +192,19 @@
 
 - <b>📺直播源</b>
 
-  https://mirror.ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Video/01.Live%E7%9B%B4%E6%92%AD%E6%BA%90/01.%E8%87%AA%E7%94%A8%E7%9B%B4%E6%92%AD%E6%BA%90.txt
+  https://ghfast.top/https://raw.githubusercontent.com/aa1555/Repository/main/Video/01.Live%E7%9B%B4%E6%92%AD%E6%BA%90/01.%E8%87%AA%E7%94%A8%E7%9B%B4%E6%92%AD%E6%BA%90.txt
 
 - <b>📺直播线路</b>
 
-  https://mirror.ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Video/02.TV%20Box%20%E9%85%8D%E7%BD%AE/02.%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF.json
+  https://ghfast.top/https://raw.githubusercontent.com/aa1555/Repository/main/Video/02.TV%20Box%20%E9%85%8D%E7%BD%AE/02.%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF.json
 
 - <b>🗂自用单仓</b>
 
-  https://mirror.ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Video/02.TV%20Box%20%E9%85%8D%E7%BD%AE/03.%E8%87%AA%E7%94%A8%E5%8D%95%E4%BB%93.json
+  https://ghfast.top/https://raw.githubusercontent.com/aa1555/Repository/main/Video/02.TV%20Box%20%E9%85%8D%E7%BD%AE/03.%E8%87%AA%E7%94%A8%E5%8D%95%E4%BB%93.json
 
 - <b>🗂🗂自用多仓</b>
 
-  https://mirror.ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Video/02.TV%20Box%20%E9%85%8D%E7%BD%AE/04.%E8%87%AA%E7%94%A8%E5%A4%9A%E4%BB%93.json
+  https://ghfast.top/https://raw.githubusercontent.com/aa1555/Repository/main/Video/02.TV%20Box%20%E9%85%8D%E7%BD%AE/04.%E8%87%AA%E7%94%A8%E5%A4%9A%E4%BB%93.json
 
 <hr>
 
@@ -303,17 +303,17 @@
 
 - `https://raw.githubusercontent.com/`用户名/仓库名/main/文件夹名/文件名
 
-- `https://mirror.ghproxy.com/`接raw地址
+- `https://ghfast.top/`接raw地址
 
 - `https://raw.gitmirror.com/`接用户名及后面部分
 
-  官网：[JSDELIVR](https://www.jsdelivr.com/github)
+官网：[JSDELIVR](https://www.jsdelivr.com/github)
 
- - `https://fastly.jsdelivr.net/gh/`接用户名及后面部分，把main前面的`/`改成`@`
-  
 -  `https://cdn.jsdelivr.net/gh/`接用户名及后面部分，把main前面的`/`改成`@`
+
+- `https://fastly.jsdelivr.net/gh/`接用户名及后面部分，把main前面的`/`改成`@`
   
- - `https://gcore.jsdelivr.net/gh/`接用户名及后面部分，把main前面的`/`改成`@`
+- `https://gcore.jsdelivr.net/gh/`接用户名及后面部分，把main前面的`/`改成`@`
 
 - `https://jsd.cdn.zzko.cn/gh/`接用户名及后面部分，把main前面的`/`改成`@`
 
