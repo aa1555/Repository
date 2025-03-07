@@ -25,11 +25,21 @@ def batch_rename():
         if os.path.isfile(filepath) and filename.endswith(old_extension):
             new_filename = filename[:-len(old_extension)] + new_extension
             new_filepath = os.path.join(directory, new_filename)
-            os.rename(filepath, new_filepath)
-            print(f"已重命名 '{filename}' 为 '{new_filename}'")
-            renamed_files_count += 1
+            try:
+                os.rename(filepath, new_filepath)
+                print(f"已重命名 '{filename}' 为 '{new_filename}'")
+                renamed_files_count += 1
+            except Exception as e:
+                print(f"重命名 '{filename}' 失败: {e}")
 
     messagebox.showinfo("完成", f"成功重命名了 {renamed_files_count} 个文件。")
+
+def browse_directory():
+    directory_entry.delete(0, tk.END)
+    directory = filedialog.askdirectory()
+    if directory:
+        directory_entry.insert(0, directory)
+        old_extension_entry.focus()
 
 # 创建主窗口
 root = tk.Tk()
@@ -39,7 +49,7 @@ root.title("批量重命名文件")
 tk.Label(root, text="选择文件夹:").grid(row=0, column=0, padx=10, pady=10)
 directory_entry = tk.Entry(root, width=50)
 directory_entry.grid(row=0, column=1)
-tk.Button(root, text="浏览", command=lambda: directory_entry.insert(0, filedialog.askdirectory())).grid(row=0, column=2)
+tk.Button(root, text="浏览", command=browse_directory).grid(row=0, column=2)
 
 tk.Label(root, text="旧扩展名:").grid(row=1, column=0, padx=10, pady=10)
 old_extension_entry = tk.Entry(root)
