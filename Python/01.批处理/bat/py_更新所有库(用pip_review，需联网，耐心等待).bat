@@ -14,4 +14,7 @@ echo.
 pip-review --local --interactive
 
 echo.
+echo 更新完成!
+echo.
+
 pause
