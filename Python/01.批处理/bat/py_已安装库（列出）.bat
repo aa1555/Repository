@@ -9,6 +9,9 @@ cls
 ::切换目录，使命令在特定目录下执行。
 cd /d C:\Users\aa155
 
+echo 正在检查已安装的库，请稍后...
+echo.
+
 :: 执行命令
 python -m pip list
 
