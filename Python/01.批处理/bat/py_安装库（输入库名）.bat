@@ -5,8 +5,7 @@
 cd /d C:\Users\aa155
 
 echo ��ֱ������������а�װ�⣺
-echo.
-
+ec
 :: ��ȡ�û�����
 set /p library=python -m pip install 
 
