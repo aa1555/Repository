@@ -1,21 +1,22 @@
 @echo off
+chcp 936
 
 
-::ÇÐ»»Ä¿Â¼£¬Ê¹ÃüÁîÔÚÌØ¶¨Ä¿Â¼ÏÂÖ´ÐÐ¡£
+::ï¿½Ð»ï¿½Ä¿Â¼ï¿½ï¿½Ê¹ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ø¶ï¿½Ä¿Â¼ï¿½ï¿½Ö´ï¿½Ð¡ï¿½
 cd /d C:\Users\aa155
 
-echo ÇëÖ±½ÓÊäÈë¿âÃû½øÐÐ°²×°¿â£º
+echo è¯·ç›´æŽ¥è¾“å…¥åº“åè¿›è¡Œå®‰è£…åº“ï¼š
 echo.
 
-:: »ñÈ¡ÓÃ»§ÊäÈë
+:: èŽ·å–ç”¨æˆ·è¾“å…¥
 set /p library=python -m pip install 
 
-::Ö´ÐÐÃüÁî£¬¡°%library%¡±Îª»ñÈ¡µÄÓÃ»§ÊäÈë
+::æ‰§è¡Œå‘½ä»¤ï¼Œâ€œ%library%â€ä¸ºèŽ·å–çš„ç”¨æˆ·è¾“å…¥
 python -m pip install %library%
 
 echo.
-echo °²×°Íê³É!
+echo å®‰è£…å®Œæˆ!
 echo.
 
-:: pauseÃüÁîÓÃÓÚÔÝÍ£Åú´¦ÀíÎÄ¼þµÄÖ´ÐÐ£¬²¢ÏÔÊ¾Ò»ÌõÏûÏ¢¡°Çë°´ÈÎÒâ¼ü¼ÌÐø. . .¡±¡£
+:: pauseå‘½ä»¤ç”¨äºŽæš‚åœæ‰¹å¤„ç†æ–‡ä»¶çš„æ‰§è¡Œï¼Œå¹¶æ˜¾ç¤ºä¸€æ¡æ¶ˆæ¯â€œè¯·æŒ‰ä»»æ„é”®ç»§ç»­. . .â€ã€‚
 pause
