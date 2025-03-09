@@ -1,7 +1,9 @@
-:: @echo off
+@echo off
 
-::åˆ‡æ¢ç›®å½•ï¼Œä½¿å‘½ä»¤åœ¨ç‰¹å®šç›®å½•ä¸‹æ‰§è¡Œã€‚
+echo ÕýÔÚÆô¶¯jupyter notebook£¬ÇëÉÔµÈ...
+echo.
+
+::ÇÐ»»Ä¿Â¼£¬Ê¹ÃüÁîÔÚÌØ¶¨Ä¿Â¼ÏÂÖ´ÐÐ¡£
 cd /d E:\Python
 
 jupyter notebook
-
