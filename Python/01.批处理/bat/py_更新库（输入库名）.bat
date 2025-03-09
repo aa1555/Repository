@@ -1,23 +1,20 @@
 @echo off
-:: 将控制台切换为 UTF-8 编码模式
-chcp 65001 > nul
-cls
 
-::切换目录，使命令在特定目录下执行。
+::�л�Ŀ¼��ʹ�������ض�Ŀ¼��ִ�С�
 cd /d C:\Users\aa155
 
-echo 请直接输入库名进行更新库：
+echo ��ֱ������������и��¿⣺
 echo.
 
-:: 获取用户输入
+:: ��ȡ�û�����
 set /p library=python -m pip install --upgrade 
 
-::执行命令，“%library%”为获取的用户输入
+::ִ�������%library%��Ϊ��ȡ���û�����
 python -m pip install --upgrade %library%
 
 echo.
-echo 更新完成!
+echo �������!
 echo.
 
-:: pause命令用于暂停批处理文件的执行，并显示一条消息“请按任意键继续. . .”。
+:: pause����������ͣ�������ļ���ִ�У�����ʾһ����Ϣ���밴���������. . .����
 pause
