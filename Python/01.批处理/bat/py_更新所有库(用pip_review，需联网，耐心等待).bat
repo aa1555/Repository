@@ -11,7 +11,7 @@ echo 正在检查可更新的库，时间稍长，请耐心等待...
 echo.
 
 :: 执行更新操作（需联网）
-pip-review --local --interactive
+pip-review --interactive
 
 echo.
 echo 更新完成!
