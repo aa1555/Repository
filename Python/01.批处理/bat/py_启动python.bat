@@ -1,6 +1,9 @@
-:: @echo off
+@echo off
 
-::切换目录，使命令在特定目录下执行。
+echo ���ڴ�Python�����Ե�...
+echo.
+
+::�л�Ŀ¼��ʹ�������ض�Ŀ¼��ִ�С�
 cd /d C:\Users\aa155
 
 python
