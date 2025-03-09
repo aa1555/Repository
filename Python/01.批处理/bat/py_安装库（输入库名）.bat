@@ -1,20 +1,21 @@
 @echo off
 
-::ÇÐ»»Ä¿Â¼£¬Ê¹ÃüÁîÔÚÌØ¶¨Ä¿Â¼ÏÂÖ´ÐÐ¡£
+
+::ï¿½Ð»ï¿½Ä¿Â¼ï¿½ï¿½Ê¹ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ø¶ï¿½Ä¿Â¼ï¿½ï¿½Ö´ï¿½Ð¡ï¿½
 cd /d C:\Users\aa155
 
-echo ÇëÖ±½ÓÊäÈë¿âÃû½øÐÐ°²×°¿â£º
+echo ï¿½ï¿½Ö±ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð°ï¿½×°ï¿½â£º
 echo.
 
-:: »ñÈ¡ÓÃ»§ÊäÈë
+:: ï¿½ï¿½È¡ï¿½Ã»ï¿½ï¿½ï¿½ï¿½ï¿½
 set /p library=python -m pip install 
 
-::Ö´ÐÐÃüÁî£¬¡°%library%¡±Îª»ñÈ¡µÄÓÃ»§ÊäÈë
+::Ö´ï¿½ï¿½ï¿½ï¿½ï¿½î£¬ï¿½ï¿½%library%ï¿½ï¿½Îªï¿½ï¿½È¡ï¿½ï¿½ï¿½Ã»ï¿½ï¿½ï¿½ï¿½ï¿½
 python -m pip install %library%
 
 echo.
-echo °²×°Íê³É!
+echo ï¿½ï¿½×°ï¿½ï¿½ï¿½!
 echo.
 
-:: pauseÃüÁîÓÃÓÚÔÝÍ£Åú´¦ÀíÎÄ¼þµÄÖ´ÐÐ£¬²¢ÏÔÊ¾Ò»ÌõÏûÏ¢¡°Çë°´ÈÎÒâ¼ü¼ÌÐø. . .¡±¡£
+:: pauseï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Í£ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä¼ï¿½ï¿½ï¿½Ö´ï¿½Ð£ï¿½ï¿½ï¿½ï¿½ï¿½Ê¾Ò»ï¿½ï¿½ï¿½ï¿½Ï¢ï¿½ï¿½ï¿½ë°´ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½. . .ï¿½ï¿½ï¿½ï¿½
 pause
