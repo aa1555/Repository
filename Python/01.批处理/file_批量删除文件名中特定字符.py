@@ -10,7 +10,7 @@ def rename_files(directory):
             continue
         
         # 删除"拷贝"
-        new_name = filename.replace("拷贝", "")
+        new_name = filename.replace("拷贝","")                 #若有多个字符需要删除，可以继续调用replace()方法
         
         # 仅当新名字不同时才重命名
         if new_name != filename:
