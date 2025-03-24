@@ -72,7 +72,7 @@
 		</tr>
 		<tr>
 			<td align="center" width="163" height="22">
-			<a href="https://github.com/aa1555/Repository/blob/main/Nodes/01.代理工具.md">
+			<a href="https://github.com/aa1555/Repository/blob/main/Misc/03.代理工具.md">
 			代理工具</a></td>
 			<td align="center" width="164" height="22">
 			<a href="https://bianyuan.xyz/">订阅转换</a></td>
@@ -100,11 +100,11 @@
 
 - <b>V2Ray 订阅链接：</b>
 
-  https://ghfast.top/https://raw.githubusercontent.com/aa1555/Repository/main/Nodes/02.V2Ray.txt
+  https://ghfast.top/https://raw.githubusercontent.com/aa1555/Repository/main/Nodes/V2Ray.txt
 
 - <b>Clash 订阅链接：</b>
 
-  https://ghfast.top/https://raw.githubusercontent.com/aa1555/Repository/main/Nodes/03.Clash.txt
+  https://ghfast.top/https://raw.githubusercontent.com/aa1555/Repository/main/Nodes/Clash.txt
 
 <hr>
 
