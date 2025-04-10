@@ -8,34 +8,38 @@ def multiply(x, y):
     return x * y
 
 def divide(x, y):
-    if y != 0:
-        return x / y
-    else:
-        return "除数不能为0"
+    return x / y if y != 0 else "除数不能为0"
+
+operations = {
+    "add": ("加法", add),
+    "subtract": ("减法", subtract),
+    "multiply": ("乘法", multiply),
+    "divide": ("除法", divide),
+}
+
+def get_number(prompt):
+    while True:
+        try:
+            return float(input(prompt))
+        except ValueError:
+            print("请输入一个有效的数字。")
 
 while True:
     print("选项：")
-    print("输入 'add' 进行加法")
-    print("输入 'subtract' 进行减法")
-    print("输入 'multiply' 进行乘法")
-    print("输入 'divide' 进行除法")
+    for key, (name, _) in operations.items():
+        print(f"输入 '{key}' 进行{name}")
     print("输入 'quit' 退出程序")
-    user_input = input(": ")
+    
+    user_input = input(": ").strip().lower()
 
     if user_input == "quit":
+        print("程序已退出。")
         break
 
-    elif user_input in ("add", "subtract", "multiply", "divide"):
-        x = float(input("输入第一个数字: "))
-        y = float(input("输入第二个数字: "))
-
-        if user_input == "add":
-            print(add(x, y))
-        elif user_input == "subtract":
-            print(subtract(x, y))
-        elif user_input == "multiply":
-            print(multiply(x, y))
-        elif user_input == "divide":
-            print(divide(x, y))
+    if user_input in operations:
+        x = get_number("输入第一个数字: ")
+        y = get_number("输入第二个数字: ")
+        result = operations[user_input][1](x, y)
+        print(f"结果: {result}")
     else:
-        print("无效输入")
+        print("无效输入，请重试。")
