@@ -1,16 +1,31 @@
 {
-    "version": "2.0.0",
-    "tasks": [
+  // 任务配置文件的版本号（VS Code 使用的架构版本）
+  "version": "2.0.0",
+
+  // 定义的任务列表（可包含多个任务）
+  "tasks": [
       {
-        "label": "Git sync on startup",
-        "type": "shell",
-        "command": "git pull",
-        "runOptions": {
-          "runOn": "folderOpen"
-        }
+          // 任务显示名称（在VS Code界面中标识）
+          "label": "Git sync on startup",
+
+          // 任务类型：shell 表示在终端执行命令
+          "type": "shell",
+
+          // 要执行的命令：git pull（从远程仓库拉取最新代码）
+          "command": "git pull",
+
+          // 任务触发条件配置
+          "runOptions": {
+              // 当VS Code打开文件夹时自动运行此任务
+              "runOn": "folderOpen"
+          }
       }
-    ],
-    "presentation": {
-      "reveal": "never"  // 不显示终端
-    }
+  ],
+
+  // 任务执行时的界面表现配置
+  "presentation": {
+      // 不显示终端界面（静默执行）
+      // 可选值："always"（始终显示）、"never"（隐藏）、"silent"（仅出错时显示）
+      "reveal": "silent"  
   }
+}
