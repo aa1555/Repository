@@ -9,5 +9,8 @@
           "runOn": "folderOpen"
         }
       }
-    ]
+    ],
+    "presentation": {
+      "reveal": "never"  // 不显示终端
+    }
   }
