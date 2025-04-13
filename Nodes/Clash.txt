@@ -4,12 +4,6 @@ allow-lan: true
 mode: Rule
 log-level: info
 external-controller: :9090
-
-
-
-
-
-
 proxies:
   - {name: US_youtube@资源分享师_1, server: cfcdn1.sanfencdn9.com, port: 2052, type: vmess, uuid: 8c7b39d2-eb80-48d4-9471-76bddc5273c8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /video/6VBhAkCtV4/, ws-headers: {Host: us1cPZiz8nb.fzbqfrse.xyz}, udp: true}
 
