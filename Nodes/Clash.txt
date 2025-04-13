@@ -7,6 +7,10 @@ external-controller: :9090
 proxies:
   - {name: US_youtube@资源分享师_1, server: cfcdn1.sanfencdn9.com, port: 2052, type: vmess, uuid: 8c7b39d2-eb80-48d4-9471-76bddc5273c8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /video/6VBhAkCtV4/, ws-headers: {Host: us1cPZiz8nb.fzbqfrse.xyz}, udp: true}
 
+
+
+
+
   - {name: NL_youtube@资源分享师_9, server: 188.114.97.53, port: 443, type: vmess, uuid: 8c929251-406f-4b32-9173-07ccd242cb58, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /vmess, ws-headers: {Host: fr1-vmess.sshmax.xyz}, udp: true}
   - {name: US_youtube@资源分享师_31, server: 104.19.45.104, port: 2095, type: vmess, uuid: 7a737f41-b792-4260-94ff-3d864da67b80, alterId: 0, cipher: auto, tls: false, skip  - {name: CN  - {name: CN_youtube@资源分享师_38, server: m.cnmjin.net, port: 16632, type: vmess, uuid: 2b8cfb7b-d3e7-4525-8418-verify: true, network: ws, ws-path: /, ws-headers: {Host: 6cc36ab3-sb9ts0-sdlngq-1n7jq.uk.tcpbbr.net}, udp: true}
   - {name: US_youtu资源分享师_49, server: 172.67.172.219, port: 8080, type: vmess, uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: oiictw.yydsii.com}, udp: true}
