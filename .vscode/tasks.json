@@ -1,16 +1,17 @@
 {
-  "version": "2.0.0",
-  "tasks": [
-    {
-      "label": "Git Sync",
-      "type": "shell",
-      "command": "git pull; git push",
-      "presentation": {
-        "reveal": "silent"
-      },
-      "runOptions": {
-        "runOn": "folderOpen"
-      }
-    }
-  ]
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Auto Sync on Open",
+            "type": "shell",
+            "command": "git pull && git push",  // 先拉取再推送
+            "runOn": "folderOpen",             // 打开文件夹时触发
+            "presentation": {
+                "echo": true,
+                "reveal": "never",             // 静默执行，不显示终端
+                "focus": false,
+                "panel": "shared"
+            }
+        }
+    ]
 }

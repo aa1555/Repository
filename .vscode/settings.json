@@ -1,0 +1,5 @@
+{
+    "gitAutomator.autoPull": true,
+    "gitAutomator.autoPush": true,
+    "gitAutomator.runOnStartup": true
+  }
