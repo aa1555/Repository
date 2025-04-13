@@ -1,10 +1,15 @@
 {
     "version": "2.0.0",
+    "options": {
+    "shell": {
+        "executable": "pwsh.exe"
+    }
+},
     "tasks": [
       {
         "label": "Git sync on startup",
         "type": "shell",
-        "command": "git pull; if ($?) { git push }",
+        "command": "git pull && git push }",
         "runOptions": {
           "runOn": "folderOpen"
         }
