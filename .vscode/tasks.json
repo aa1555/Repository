@@ -3,7 +3,7 @@
       {
         "label": "Git sync on startup",
         "type": "shell",
-        "command": "git pull && git push }",
+        "command": "git pull}",
         "runOptions": {
           "runOn": "folderOpen"
         }
