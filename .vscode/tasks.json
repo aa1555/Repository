@@ -28,6 +28,6 @@
   "presentation": {
       // 不显示终端界面（静默执行）
       // 可选值："always"（始终显示）、"never"（隐藏）、"silent"（仅出错时显示）
-      "reveal": "silent"  
+      "reveal": "never"  
   }
 }
