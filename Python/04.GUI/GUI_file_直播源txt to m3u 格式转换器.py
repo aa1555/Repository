@@ -6,7 +6,7 @@ from tkinter import ttk
 class M3U8Converter:
     def __init__(self, root):
         self.root = root
-        self.root.title("直播源格式转换器")
+        self.root.title("txt to m3u 格式转换器")
         self.root.geometry("600x300")
         
         # 创建主框架
@@ -29,10 +29,6 @@ class M3U8Converter:
         
         # 转换按钮
         ttk.Button(self.main_frame, text="开始转换", command=self.start_conversion).grid(row=2, column=1, pady=20)
-        
-        # 进度条
-        self.progress = ttk.Progressbar(self.main_frame, length=400, mode='indeterminate')
-        self.progress.grid(row=3, column=0, columnspan=3, pady=10)
 
     def select_input_file(self):
         filename = filedialog.askopenfilename(
@@ -41,9 +37,10 @@ class M3U8Converter:
         )
         if filename:
             self.input_path.set(filename)
-            # 自动设置输出文件路径
-            output_name = os.path.splitext(os.path.basename(filename))[0] + ".m3u8"
-            self.output_path.set(os.path.join(os.path.expanduser("~"), "Desktop", output_name))
+            # 自动设置输出文件路径（保存在输入文件所在文件夹）
+            dirname = os.path.dirname(filename)
+            basename = os.path.splitext(os.path.basename(filename))[0] + ".m3u8"
+            self.output_path.set(os.path.join(dirname, basename))
 
     def select_output_file(self):
         filename = filedialog.asksaveasfilename(
@@ -62,14 +59,11 @@ class M3U8Converter:
             messagebox.showerror("错误", "请选择输入和输出文件!")
             return
             
-        self.progress.start()
         try:
             self.convert_to_m3u8(input_file, output_file)
             messagebox.showinfo("成功", "转换完成！")
         except Exception as e:
             messagebox.showerror("错误", f"转换过程中出现错误：{str(e)}")
-        finally:
-            self.progress.stop()
 
     def convert_to_m3u8(self, input_file, output_file):
         current_group_title = None

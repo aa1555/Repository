@@ -5,7 +5,7 @@ from tkinter import filedialog, messagebox, ttk
 class FileRenamerApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("文件重命名工具")
+        self.root.title("批量文件重命名工具")
         self.root.geometry("900x700")  # 进一步扩大窗口
         
         # 设置窗口最小尺寸
