@@ -52,7 +52,7 @@ class M3U8Converter:
         input_frame = ttk.Frame(main_frame)
         input_frame.pack(fill=tk.X, pady=5)
         
-        ttk.Label(input_frame, text="TXT输入文件:").pack(side=tk.LEFT)
+        ttk.Label(input_frame, text="     TXT输入文件:").pack(side=tk.LEFT)
         ttk.Entry(input_frame, textvariable=self.input_path, width=50).pack(side=tk.LEFT, padx=5)
         ttk.Button(input_frame, text="浏览...", command=self.browse_input).pack(side=tk.LEFT)
 

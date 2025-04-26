@@ -39,7 +39,7 @@ class M3U8ParserApp:
         input_frame = ttk.Frame(main_frame)
         input_frame.pack(fill=tk.X, pady=5)
         
-        ttk.Label(input_frame, text="M3U8输入文件:").pack(side=tk.LEFT)
+        ttk.Label(input_frame, text="M3U8/M3U输入文件:").pack(side=tk.LEFT)
         ttk.Entry(input_frame, textvariable=self.input_path, width=50).pack(side=tk.LEFT, padx=5)
         ttk.Button(input_frame, text="浏览...", command=self.browse_input).pack(side=tk.LEFT)
 
@@ -47,7 +47,7 @@ class M3U8ParserApp:
         output_frame = ttk.Frame(main_frame)
         output_frame.pack(fill=tk.X, pady=5)
         
-        ttk.Label(output_frame, text="TXT输出文件:").pack(side=tk.LEFT)
+        ttk.Label(output_frame, text="             TXT输出文件:").pack(side=tk.LEFT)
         ttk.Entry(output_frame, textvariable=self.output_path, width=50).pack(side=tk.LEFT, padx=5)
         ttk.Button(output_frame, text="浏览...", command=self.browse_output).pack(side=tk.LEFT)
 
