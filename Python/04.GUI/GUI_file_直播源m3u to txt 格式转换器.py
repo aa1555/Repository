@@ -5,23 +5,10 @@ import logging
 import threading
 from pathlib import Path
 
-class TextHandler(logging.Handler):
-    """将日志输出重定向到ScrolledText组件"""
-    def __init__(self, text_widget):
-        super().__init__()
-        self.text_widget = text_widget
-        
-    def emit(self, record):
-        msg = self.format(record)
-        self.text_widget.configure(state='normal')
-        self.text_widget.insert(tk.END, msg + '\n')
-        self.text_widget.configure(state='disabled')
-        self.text_widget.yview(tk.END)
-
-class M3U8Converter:
+class M3U8ParserApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("txt to m3u 格式转换器")
+        self.root.title("M3U8/M3U to TXT 解析转换器")
         self.root.geometry("800x600")
         
         # 初始化变量
@@ -52,7 +39,7 @@ class M3U8Converter:
         input_frame = ttk.Frame(main_frame)
         input_frame.pack(fill=tk.X, pady=5)
         
-        ttk.Label(input_frame, text="输入文件:").pack(side=tk.LEFT)
+        ttk.Label(input_frame, text="M3U8输入文件:").pack(side=tk.LEFT)
         ttk.Entry(input_frame, textvariable=self.input_path, width=50).pack(side=tk.LEFT, padx=5)
         ttk.Button(input_frame, text="浏览...", command=self.browse_input).pack(side=tk.LEFT)
 
@@ -60,7 +47,7 @@ class M3U8Converter:
         output_frame = ttk.Frame(main_frame)
         output_frame.pack(fill=tk.X, pady=5)
         
-        ttk.Label(output_frame, text="输出文件:").pack(side=tk.LEFT)
+        ttk.Label(output_frame, text="TXT输出文件:").pack(side=tk.LEFT)
         ttk.Entry(output_frame, textvariable=self.output_path, width=50).pack(side=tk.LEFT, padx=5)
         ttk.Button(output_frame, text="浏览...", command=self.browse_output).pack(side=tk.LEFT)
 
@@ -85,18 +72,18 @@ class M3U8Converter:
 
     def browse_input(self):
         file_path = filedialog.askopenfilename(
-            filetypes=[("Text files", "*.txt"), ("All files", "*.*")]
+            filetypes=[("M3U/M3U8 files", "*.m3u *.m3u8"), ("All files", "*.*")]
         )
         if file_path:
             self.input_path.set(file_path)
             # 自动生成输出路径
-            output_path = Path(file_path).with_suffix('.m3u8')
+            output_path = Path(file_path).with_suffix('.txt')
             self.output_path.set(str(output_path))
 
     def browse_output(self):
         file_path = filedialog.asksaveasfilename(
-            defaultextension=".m3u8",
-            filetypes=[("M3U8 files", "*.m3u8"), ("All files", "*.*")]
+            defaultextension=".txt",
+            filetypes=[("Text files", "*.txt"), ("All files", "*.*")]
         )
         if file_path:
             self.output_path.set(file_path)
@@ -133,7 +120,7 @@ class M3U8Converter:
 
     def run_conversion(self, input_file, output_file):
         try:
-            success = self.convert_to_m3u8(input_file, output_file)
+            success = parse_m3u8(input_file, output_file)
             if success:
                 self.status_var.set(f"转换完成！文件已保存到：{output_file}")
                 messagebox.showinfo("完成", "转换成功！")
@@ -146,62 +133,85 @@ class M3U8Converter:
             self.processing = False
             self.root.after(0, lambda: self.convert_btn.config(state=tk.NORMAL))
 
-    def convert_to_m3u8(self, input_file, output_file):
-        current_group_title = None
-        processed_channels = 0
+def parse_m3u8(input_file, output_file):
+    # 存储分类和频道信息的字典
+    categories = {}
+    current_category = None
+    current_channel = None
+    processed_channels = 0
+    
+    try:
+        with open(input_file, 'r', encoding='utf-8') as f:
+            lines = f.readlines()
         
-        try:
-            with open(input_file, 'r', encoding='utf-8') as infile:
-                lines = infile.readlines()
+        logging.info(f"开始解析文件: {input_file}")
+        
+        for line in lines:
+            line = line.strip()
             
-            logging.info(f"开始解析文件: {input_file}")
-            
-            with open(output_file, 'w', encoding='utf-8') as outfile:
-                outfile.write("#EXTM3U\n")  # 添加M3U8头部
+            # 跳过空行和#EXTM3U行
+            if not line or line.startswith('#EXTM3U'):
+                continue
                 
-                for line in lines:
-                    line = line.strip()
-                    if not line:
-                        continue
+            # 解析频道信息行
+            if line.startswith('#EXTINF'):
+                # 使用正则表达式提取频道名称和分类
+                match = re.search(r'tvg-name="([^"]+)".*group-title="([^"]+)"', line)
+                if match:
+                    current_channel = match.group(1)
+                    category = match.group(2)
+                    
+                    # 初始化分类字典
+                    if category not in categories:
+                        categories[category] = []
                         
-                    if line.endswith(",#genre#"):
-                        current_group_title = line[:-7]
-                        logging.info(f"找到分类: {current_group_title}")
-                        continue
-                        
-                    if line and current_group_title:
-                        try:
-                            parts = line.split(',', 1)
-                            if len(parts) != 2:
-                                logging.warning(f"跳过格式不正确的行: {line}")
-                                continue
-                                
-                            channel_name, url = parts
-                            channel_name = channel_name.strip()
-                            m3u8_line = (
-                                f'#EXTINF:-1 tvg-name="{channel_name}" '
-                                f'group-title="{current_group_title.replace(",", "")}",{channel_name}\n'
-                                f'{url}\n'
-                            )
-                            outfile.write(m3u8_line)
-                            processed_channels += 1
-                        except Exception as e:
-                            logging.warning(f"处理行时出错: {line}. 错误: {e}")
-            
-            logging.info(f"转换完成，共处理 {processed_channels} 个频道")
-            return True
-            
-        except IOError as e:
-            logging.error(f"文件操作错误: {e}")
-            raise Exception(f"文件操作错误: {e}")
-        except Exception as e:
-            logging.error(f"处理文件时出错: {str(e)}")
-            raise
+                    current_category = category
+                else:
+                    logging.warning(f"无法解析的行: {line}")
+                    
+            # 处理URL行
+            elif current_channel and current_category:
+                # 添加频道和URL到对应分类
+                categories[current_category].append((current_channel, line))
+                processed_channels += 1
+                current_channel = None
+        
+        logging.info(f"共找到 {len(categories)} 个分类，{processed_channels} 个频道")
+        
+        # 写入输出文件
+        with open(output_file, 'w', encoding='utf-8') as f:
+            for category, channels in categories.items():
+                # 写入分类标题
+                f.write(f"{category},#genre#\n")
+                
+                # 写入频道信息
+                for channel, url in channels:
+                    f.write(f"{channel},{url}\n")
+                
+                # 添加空行分隔不同分类
+                f.write("\n")
+        
+        logging.info(f"成功写入输出文件: {output_file}")
+        return True
+        
+    except Exception as e:
+        logging.error(f"处理文件时出错: {str(e)}")
+        raise
 
-def main():
-    root = tk.Tk()
-    app = M3U8Converter(root)
-    root.mainloop()
+class TextHandler(logging.Handler):
+    """将日志输出重定向到ScrolledText组件"""
+    def __init__(self, text_widget):
+        super().__init__()
+        self.text_widget = text_widget
+        
+    def emit(self, record):
+        msg = self.format(record)
+        self.text_widget.configure(state='normal')
+        self.text_widget.insert(tk.END, msg + '\n')
+        self.text_widget.configure(state='disabled')
+        self.text_widget.yview(tk.END)
 
 if __name__ == "__main__":
-    main()
+    root = tk.Tk()
+    app = M3U8ParserApp(root)
+    root.mainloop()
