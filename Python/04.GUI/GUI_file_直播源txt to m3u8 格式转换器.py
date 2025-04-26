@@ -21,7 +21,7 @@ class TextHandler(logging.Handler):
 class M3U8Converter:
     def __init__(self, root):
         self.root = root
-        self.root.title("txt to m3u 格式转换器")
+        self.root.title("txt to m3u8 格式转换器")
         self.root.geometry("800x600")
         
         # 初始化变量
@@ -52,7 +52,7 @@ class M3U8Converter:
         input_frame = ttk.Frame(main_frame)
         input_frame.pack(fill=tk.X, pady=5)
         
-        ttk.Label(input_frame, text="输入文件:").pack(side=tk.LEFT)
+        ttk.Label(input_frame, text="TXT输入文件:").pack(side=tk.LEFT)
         ttk.Entry(input_frame, textvariable=self.input_path, width=50).pack(side=tk.LEFT, padx=5)
         ttk.Button(input_frame, text="浏览...", command=self.browse_input).pack(side=tk.LEFT)
 
@@ -60,7 +60,7 @@ class M3U8Converter:
         output_frame = ttk.Frame(main_frame)
         output_frame.pack(fill=tk.X, pady=5)
         
-        ttk.Label(output_frame, text="输出文件:").pack(side=tk.LEFT)
+        ttk.Label(output_frame, text="M3U8输出文件:").pack(side=tk.LEFT)
         ttk.Entry(output_frame, textvariable=self.output_path, width=50).pack(side=tk.LEFT, padx=5)
         ttk.Button(output_frame, text="浏览...", command=self.browse_output).pack(side=tk.LEFT)
 
