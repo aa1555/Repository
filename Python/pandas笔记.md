@@ -178,4 +178,4 @@ read_date = pd.read_excel(path,header=None,names=['序号','姓名','年龄','�
 print(read_date.reset_index(drop=True)) # 索引被直接删除
 print(read_date.reset_index(drop=False)) # 索引列会被还原为普通列
 ```
- 
+
