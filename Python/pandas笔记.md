@@ -179,3 +179,393 @@ print(read_date.reset_index(drop=True)) # 索引被直接删除
 print(read_date.reset_index(drop=False)) # 索引列会被还原为普通列
 ```
  
+
+
+---
+
+
+
+
+
+# Pandas 示例：销售数据分析全流程
+
+以下是一个综合性的 Pandas 示例，涵盖大纲中的所有核心知识点（从基础操作到高级功能），并通过一个完整的销售数据分析项目串联起来。我们将使用模拟数据演示数据处理全流程。
+
+## 功能需求
+1. 创建和操作 DataFrame（基础操作）。
+2. 数据清洗（处理缺失值、重复值、异常值）。
+3. 数据类型转换与字符串处理。
+4. 数据筛选、排序和聚合。
+5. 分组统计与透视表。
+6. 时间序列处理。
+7. 性能优化技巧。
+8. 数据导出与可视化（结合 Matplotlib）。
+
+## 完整代码
+
+```python
+import pandas as pd
+import numpy as np
+from datetime import datetime
+import matplotlib.pyplot as plt
+
+# ====================== 1. 基础操作 ======================
+# 创建 DataFrame（模拟销售数据）
+data = {
+    'Date': ['2023-01-01', '2023-01-02', '2023-01-03', '2023-01-04', '2023-01-05'],
+    'Product': ['A', 'B', 'A', 'C', 'B'],
+    'Region': ['East', 'West', 'East', 'North', 'South'],
+    'Sales': [100, 200, np.nan, 150, 180],  # 包含缺失值
+    'Price': [10.5, 20.3, 15.0, 12.8, 18.2]
+}
+df = pd.DataFrame(data)
+
+# 查看数据
+print("原始数据：")
+print(df.head())
+
+# ====================== 2. 数据清洗 ======================
+# 处理缺失值：填充销售额的缺失值为该产品的平均值
+product_mean_sales = df.groupby('Product')['Sales'].transform('mean')
+df['Sales'] = df['Sales'].fillna(product_mean_sales)
+
+# 删除重复值（如果存在）
+df = df.drop_duplicates()
+
+# 处理异常值：将销售额大于200的标记为异常（假设200是合理上限）
+df['Is_Outlier'] = df['Sales'] > 200
+
+# ====================== 3. 数据类型转换与字符串处理 ======================
+# 转换日期格式
+df['Date'] = pd.to_datetime(df['Date'])
+
+# 提取月份和季度
+df['Month'] = df['Date'].dt.month
+df['Quarter'] = df['Date'].dt.quarter
+
+# 字符串操作：将产品名称转为大写
+df['Product'] = df['Product'].str.upper()
+
+# ====================== 4. 数据筛选与排序 ======================
+# 筛选东部地区的数据
+east_data = df[df['Region'] == 'East']
+
+# 筛选销售额大于150的记录
+high_sales = df[df['Sales'] > 150]
+
+# 按销售额降序排序
+sorted_df = df.sort_values('Sales', ascending=False)
+
+# ====================== 5. 数据聚合与分组 ======================
+# 按产品分组计算总销售额和平均价格
+product_stats = df.groupby('Product').agg({
+    'Sales': ['sum', 'mean'],
+    'Price': 'mean'
+})
+print("\n按产品分组的统计：")
+print(product_stats)
+
+# 多列分组：按产品和地区分组计算销售总额
+grouped_stats = df.groupby(['Product', 'Region'])['Sales'].sum().reset_index()
+print("\n按产品和地区分组的销售总额：")
+print(grouped_stats)
+
+# ====================== 6. 透视表 ======================
+# 创建透视表：产品 vs 地区，汇总销售额
+pivot_table = pd.pivot_table(df, values='Sales', index='Product', columns='Region', aggfunc='sum', fill_value=0)
+print("\n透视表：产品 vs 地区的销售总额")
+print(pivot_table)
+
+# ====================== 7. 时间序列处理 ======================
+# 设置日期为索引
+df_time = df.set_index('Date')
+
+# 按月份重采样计算月度销售总额
+monthly_sales = df_time['Sales'].resample('M').sum()
+print("\n月度销售总额：")
+print(monthly_sales)
+
+# 计算7天滑动平均销售额
+rolling_avg = df_time['Sales'].rolling(window=2).mean()  # 窗口设为2天（示例数据较少）
+print("\n2天滑动平均销售额：")
+print(rolling_avg)
+
+# ====================== 8. 性能优化 ======================
+# 使用更高效的数据类型（如将字符串转换为分类类型）
+df['Product'] = df['Product'].astype('category')
+df['Region'] = df['Region'].astype('category')
+
+# 避免链式赋值（推荐使用 .loc）
+# 错误示范：df[df['Sales'] > 150]['Price'] = 0  # 可能无法生效
+# 正确做法：
+df.loc[df['Sales'] > 150, 'Price'] = 0  # 将高销售额产品的价格设为0（模拟促销）
+
+# ====================== 9. 数据导出 ======================
+# 导出为CSV
+df.to_csv('sales_data_cleaned.csv', index=False)
+
+# 导出为Excel（带多个Sheet）
+with pd.ExcelWriter('sales_report.xlsx') as writer:
+    df.to_excel(writer, sheet_name='Raw Data', index=False)
+    product_stats.to_excel(writer, sheet_name='Product Stats')
+    pivot_table.to_excel(writer, sheet_name='Pivot Table')
+
+# ====================== 10. 数据可视化 ======================
+# 绘制产品销售额柱状图
+plt.figure(figsize=(10, 5))
+product_sales = df.groupby('Product')['Sales'].sum()
+product_sales.plot(kind='bar', color=['blue', 'green', 'red'])
+plt.title('Total Sales by Product')
+plt.xlabel('Product')
+plt.ylabel('Sales (万元)')
+plt.grid(axis='y')
+plt.savefig('sales_by_product.png')  # 保存图片
+plt.show()
+
+# 绘制时间序列折线图
+plt.figure(figsize=(10, 5))
+df_time['Sales'].plot(marker='o')
+plt.title('Daily Sales Trend')
+plt.xlabel('Date')
+plt.ylabel('Sales (万元)')
+plt.grid(True)
+plt.savefig('sales_trend.png')
+plt.show()
+```
+
+## 代码解析（对应大纲知识点）
+
+| **知识点**         | **代码实现**                                                                 |
+|--------------------|------------------------------------------------------------------------------|
+| 基础操作           | DataFrame 创建、head() 查看数据。                                             |
+| 数据清洗           | 缺失值填充 (fillna)、去重 (drop_duplicates)、异常值标记。                     |
+| 数据类型转换       | to_datetime 转换日期、astype('category') 优化分类数据。                        |
+| 字符串处理         | str.upper() 转换产品名称为大写。                                              |
+| 数据筛选与排序     | 布尔索引 (df[df['Region'] == 'East'])、sort_values() 排序。                    |
+| 数据聚合           | groupby() + agg() 分组统计。                                                  |
+| 透视表             | pd.pivot_table() 多维汇总。                                                   |
+| 时间序列           | resample() 重采样、rolling() 滑动窗口计算。                                   |
+| 性能优化           | 分类数据类型 (astype('category'))、避免链式赋值。                              |
+| 数据导出           | to_csv() 和 ExcelWriter 导出多 Sheet。                                         |
+| 可视化             | matplotlib 绘制柱状图和折线图。                                               |
+
+## 生成的文件
+- **CSV 文件**：`sales_data_cleaned.csv`（清洗后的数据）。
+- **Excel 报表**：`sales_report.xlsx`（包含原始数据、统计表和透视表）。
+- **图片**：`sales_by_product.png` 和 `sales_trend.png`（可视化结果）。
+
+## 如何扩展？
+1. **大数据处理**：结合 Dask 或分块读取 (chunksize) 处理超大数据集。
+2. **自动化报告**：用 Jupyter Notebook + Markdown 生成交互式报告。
+3. **数据库集成**：从 SQL 数据库直接读取数据（pd.read_sql()）。
+
+这个示例覆盖了 Pandas 的全流程操作，适合直接运行学习！如果有任何问题，欢迎提问。 🐼📊
+
+
+
+
+---
+
+
+
+
+
+# 销售数据分析报表示例
+
+以下是一个综合示例，涵盖 openpyxl 大纲中的所有核心知识点（基础操作、样式、公式、图表、合并单元格、大数据处理等）。我们将创建一个销售数据分析报表，包含动态数据填充、样式美化、公式计算、图表生成和合并单元格等功能。
+
+## 功能需求
+
+1. 创建一个新的 Excel 文件。
+2. 写入销售数据（模拟数据）。
+3. 设置单元格样式（字体、颜色、边框等）。
+4. 使用公式计算总销售额和平均值。
+5. 插入柱状图可视化销售数据。
+6. 合并单元格作为标题。
+7. 调整列宽和行高。
+8. 保存文件。
+
+## 完整代码
+
+python
+
+from openpyxl import Workbook
+
+from openpyxl.styles import Font, PatternFill, Border, Side, Alignment
+
+from openpyxl.chart import BarChart, Reference
+
+from openpyxl.utils import get_column_letter
+
+1. 创建工作簿和工作表
+
+wb = Workbook()
+
+ws = wb.active
+
+ws.title = "Sales Report"
+
+2. 写入标题（合并单元格）
+
+ws.merge_cells('A1:D1')
+
+title_cell = ws['A1']
+
+title_cell.value = "2023年销售数据分析报表"
+
+title_cell.font = Font(size=16, bold=True, color="FFFFFF")
+
+title_cell.fill = PatternFill(start_color="4F81BD", end_color="4F81BD", fill_type="solid")
+
+title_cell.alignment = Alignment(horizontal="center")
+
+3. 写入表头
+
+headers = ["产品", "季度", "销售额（万元）", "同比增长"]
+
+ws.append(headers)
+
+设置表头样式
+
+for col in range(1, len(headers) + 1):
+
+cell = ws.cell(row=2, column=col)
+
+cell.font = Font(bold=True)
+
+cell.fill = PatternFill(start_color="DCE6F1", end_color="DCE6F1", fill_type="solid")
+
+cell.border = Border(left=Side(style='thin'), right=Side(style='thin'),
+
+top=Side(style='thin'), bottom=Side(style='thin'))
+
+4. 写入模拟数据
+
+sales_data = [
+
+["产品A", "Q1", 120, 0.15],
+
+["产品A", "Q2", 150, 0.20],
+
+["产品A", "Q3", 180, 0.25],
+
+["产品A", "Q4", 200, 0.30],
+
+["产品B", "Q1", 80, 0.10],
+
+["产品B", "Q2", 90, 0.12],
+
+["产品B", "Q3", 110, 0.18],
+
+["产品B", "Q4", 130, 0.22],
+
+]
+
+for row in sales_data:
+
+ws.append(row)
+
+设置数据区域样式
+
+for row in ws.iter_rows(min_row=3, max_row=ws.max_row, min_col=1, max_col=4):
+
+for cell in row:
+
+cell.border = Border(left=Side(style='thin'), right=Side(style='thin'),
+
+top=Side(style='thin'), bottom=Side(style='thin'))
+
+5. 使用公式计算总销售额和平均值
+
+total_row = ws.max_row + 2
+
+ws.cell(row=total_row, column=1).value = "总计"
+
+ws.cell(row=total_row, column=3).value = f"=SUM(C3:C{ws.max_row})"  # 总销售额
+
+ws.cell(row=total_row + 1, column=1).value = "平均值"
+
+ws.cell(row=total_row + 1, column=3).value = f"=AVERAGE(C3:C{ws.max_row})"  # 平均销售额
+
+设置公式单元格样式
+
+for row in [total_row, total_row + 1]:
+
+for col in [1, 3]:
+
+cell = ws.cell(row=row, column=col)
+
+cell.font = Font(bold=True)
+
+6. 插入柱状图
+
+chart = BarChart()
+
+chart.title = "各产品季度销售额"
+
+chart.x_axis.title = "产品 & 季度"
+
+chart.y_axis.title = "销售额（万元）"
+
+定义数据范围（产品+季度作为分类，销售额作为值）
+
+data = Reference(ws, min_col=3, min_row=2, max_row=ws.max_row)
+
+categories = Reference(ws, min_col=1, min_row=2, max_row=ws.max_row, min_col2=2)
+
+chart.add_data(data, titles_from_data=True)
+
+chart.set_categories(categories)
+
+将图表插入到工作表中
+
+ws.add_chart(chart, "F2")
+
+7. 调整列宽和行高
+
+ws.column_dimensions['A'].width = 15  # 产品列宽
+
+ws.column_dimensions['B'].width = 10  # 季度列宽
+
+ws.column_dimensions['C'].width = 15  # 销售额列宽
+
+ws.column_dimensions['D'].width = 15  # 同比增长列宽
+
+for row in ws.iter_rows(min_row=1, max_row=ws.max_row):
+
+row[0].alignment = Alignment(horizontal="center")  # 第一列居中
+
+8. 保存文件
+
+wb.save("sales_report.xlsx")
+
+print("Excel 文件已生成：sales_report.xlsx")
+
+
+## 代码解析（对应大纲知识点）
+
+| 知识点 | 代码实现 |
+| --- | --- |
+| 基础操作 | 创建工作簿 (`Workbook()`)、写入数据 (`ws.append()`)、保存文件 (`wb.save()`)。 |
+| 样式设置 | 字体 (`Font`)、填充 (`PatternFill`)、边框 (`Border`)、对齐 (`Alignment`)。 |
+| 公式计算 | `f"=SUM(C3:C{ws.max_row})"` 和 `f"=AVERAGE(C3:C{ws.max_row})"`。 |
+| 图表生成 | `BarChart`, `Reference` 定义数据范围、`ws.add_chart()` 插入图表。 |
+| 合并单元格 | `ws.merge_cells('A1:D1')`。 |
+| 大数据处理 | 本例数据量较小,但演示了 `ws.iter_rows()` 高效遍历方法。 |
+| 文件操作 | `wb.save()` 保存为 `.xlsx` 文件。 |
+
+## 生成的 Excel 文件效果
+
+1. 标题: 合并单元格 + 居中 + 蓝色背景 + 白色字体。
+2. 表头: 加粗 + 浅蓝色背景 + 边框。
+3. 数据区域: 统一边框 + 居中对齐。
+4. 公式: 自动计算总销售额和平均值。
+5. 图表: 柱状图展示各产品季度销售额。
+
+## 如何扩展?
+
+1. 动态数据: 替换 `sales_data` 为从数据库或 CSV 读取的真实数据（结合 pandas）。
+2. 更多图表: 添加折线图、饼图等（参考 openpyxl.chart 文档）。
+3. 模板填充: 预先设计 Excel 模板，在 Python 中填充数据（保留格式）。
+
+这个示例覆盖了 openpyxl 的核心功能，适合直接运行学习！如果有任何问题，欢迎提问。
