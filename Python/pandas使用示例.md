@@ -20,6 +20,10 @@ import numpy as np
 from datetime import datetime
 import matplotlib.pyplot as plt
 
+# 设置中文字体支持
+plt.rcParams['font.sans-serif'] = ['SimHei']  # 使用黑体
+plt.rcParams['axes.unicode_minus'] = False  # 解决负号显示问题
+
 # ====================== 1. 基础操作 ======================
 # 创建 DataFrame（模拟销售数据）
 data = {
@@ -113,35 +117,66 @@ df.loc[df['Sales'] > 150, 'Price'] = 0  # 将高销售额产品的价格设为0�
 
 # ====================== 9. 数据导出 ======================
 # 导出为CSV
-df.to_csv('sales_data_cleaned.csv', index=False)
+df.to_csv('res/sales_data_cleaned.csv', index=False)
 
 # 导出为Excel（带多个Sheet）
-with pd.ExcelWriter('sales_report.xlsx') as writer:
-    df.to_excel(writer, sheet_name='Raw Data', index=False)
-    product_stats.to_excel(writer, sheet_name='Product Stats')
-    pivot_table.to_excel(writer, sheet_name='Pivot Table')
+with pd.ExcelWriter('res/sales_report.xlsx') as writer:
+    df.to_excel(writer, sheet_name='原始数据', index=False)
+    product_stats.to_excel(writer, sheet_name='产品统计')
+    pivot_table.to_excel(writer, sheet_name='透视表')
 
 # ====================== 10. 数据可视化 ======================
+# 设置图表风格
+plt.style.use('ggplot')
+
 # 绘制产品销售额柱状图
-plt.figure(figsize=(10, 5))
+plt.figure(figsize=(10, 6))
 product_sales = df.groupby('Product')['Sales'].sum()
-product_sales.plot(kind='bar', color=['blue', 'green', 'red'])
-plt.title('Total Sales by Product')
-plt.xlabel('Product')
-plt.ylabel('Sales (万元)')
-plt.grid(axis='y')
-plt.savefig('sales_by_product.png')  # 保存图片
+product_sales.plot(kind='bar', color=['#1f77b4', '#ff7f0e', '#2ca02c'])
+plt.title('各产品总销售额统计')
+plt.xlabel('产品类别')
+plt.ylabel('销售额（万元）')
+plt.xticks(rotation=0)  # 不旋转x轴标签
+plt.grid(axis='y', linestyle='--', alpha=0.7)
+plt.tight_layout()
+plt.savefig('res/各产品销售额.png', dpi=300)  # 保存高清图片
 plt.show()
 
 # 绘制时间序列折线图
-plt.figure(figsize=(10, 5))
-df_time['Sales'].plot(marker='o')
-plt.title('Daily Sales Trend')
-plt.xlabel('Date')
-plt.ylabel('Sales (万元)')
-plt.grid(True)
-plt.savefig('sales_trend.png')
+plt.figure(figsize=(12, 6))
+df_time['Sales'].plot(marker='o', linestyle='-', color='#d62728')
+plt.title('每日销售趋势分析')
+plt.xlabel('日期')
+plt.ylabel('销售额（万元）')
+plt.grid(True, linestyle='--', alpha=0.6)
+plt.tight_layout()
+plt.savefig('res/销售趋势图.png', dpi=300)
 plt.show()
+
+# 绘制月度销售总额柱状图
+plt.figure(figsize=(10, 6))
+monthly_sales.plot(kind='bar', color='#9467bd')
+plt.title('月度销售总额统计')
+plt.xlabel('月份')
+plt.ylabel('销售额（万元）')
+plt.xticks(rotation=0)
+plt.grid(axis='y', linestyle='--', alpha=0.7)
+plt.tight_layout()
+plt.savefig('res/月度销售总额.png', dpi=300)
+plt.show()
+
+# 绘制滑动平均销售额折线图
+plt.figure(figsize=(12, 6))
+rolling_avg.plot(marker='s', linestyle='--', color='#8c564b')
+plt.title('2天滑动平均销售额')
+plt.xlabel('日期')
+plt.ylabel('平均销售额（万元）')
+plt.grid(True, linestyle='--', alpha=0.6)
+plt.tight_layout()
+plt.savefig('res/滑动平均销售额.png', dpi=300)
+plt.show()
+
+print("所有图表已生成并保存为PNG文件")
 ```
 
 ## 代码解析（对应大纲知识点）

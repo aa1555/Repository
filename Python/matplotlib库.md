@@ -110,7 +110,7 @@ ax6.set_ylabel('销售额 ($)')
 plt.tight_layout()
 
 # 保存综合图表
-plt.savefig('sales_analysis.png', dpi=300, bbox_inches='tight')
+plt.savefig('res/sales_analysis.png', dpi=300, bbox_inches='tight')
 
 # 7. 3D 散点图：销售额、利润和月份
 fig_3d = plt.figure(figsize=(8, 6))
@@ -120,7 +120,7 @@ ax_3d.set_xlabel('月份')
 ax_3d.set_ylabel('销售额 ($)')
 ax_3d.set_zlabel('利润 ($)')
 ax_3d.set_title('3D 销售额与利润')
-plt.savefig('3d_sales.png', dpi=300)
+plt.savefig('res/3d_sales.png', dpi=300)
 
 # 8. 动态图表：模拟销售额随时间变化
 fig_anim = plt.figure(figsize=(8, 6))
@@ -138,7 +138,7 @@ def update(frame):
     return line,
 
 ani = FuncAnimation(fig_anim, update, frames=len(months), interval=500, blit=True)
-ani.save('sales_animation.gif', writer='pillow')
+ani.save('res/sales_animation.gif', writer='pillow')
 
 # 显示所有图表
 plt.show()

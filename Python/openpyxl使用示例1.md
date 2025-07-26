@@ -96,7 +96,7 @@ chart.x_axis.title = "产品 & 季度"
 chart.y_axis.title = "销售额（万元）"
 
 data = Reference(ws, min_col=3, min_row=2, max_row=ws.max_row)
-categories = Reference(ws, min_col=1, min_row=2, max_row=ws.max_row, min_col2=2)
+categories = Reference(ws, min_col=1, min_row=2, max_row=ws.max_row)
 
 chart.add_data(data, titles_from_data=True)
 chart.set_categories(categories)
@@ -113,7 +113,7 @@ for row in ws.iter_rows(min_row=1, max_row=ws.max_row):
     row[0].alignment = Alignment(horizontal="center")
 
 # 8. 保存文件
-wb.save("sales_report.xlsx")
+wb.save("res/sales_report.xlsx")
 print("Excel 文件已生成：sales_report.xlsx")
 ```
 
