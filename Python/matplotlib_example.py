@@ -1,25 +1,3 @@
-#### 常用的图表类型及其应用场景:
-
-简单的说，看趋势折线图，比数据柱状图，定关系散点图，查占比饼状图，看分布直方图，找离群箱线图。
-
-<p align="center">
-<img src="../Misc/img/choose_your_chart.png" alt="图片加载失败" width="400">
-</p>
-
-
-
-
-
----
-
-
-
-
-以下是一个综合的 Python 示例，涵盖了 **Matplotlib 学习大纲** 中的主要知识点。这个示例通过一个完整的脚本，展示如何使用 Matplotlib 绘制多种类型的图表（折线图、散点图、柱状图、直方图、饼图、箱线图、3D 图表、动态图表等），并结合 NumPy 和 Pandas 进行数据处理，展示子图、自定义样式、注释、双轴图表等功能。代码中包含详细注释，便于理解每个部分的用途。
-
-为了保持清晰，示例将数据可视化任务集中在分析一个模拟的“销售数据集”上，涵盖大纲中的核心内容。代码使用 Python 和 Matplotlib，适合在 Jupyter Notebook 或标准 Python 环境中运行。
-
-```python
 import os
 import numpy as np
 import pandas as pd
@@ -142,52 +120,3 @@ ani.save('sales_animation.gif', writer='pillow')
 
 # 显示所有图表
 plt.show()
-```
-
----
-
-### **代码说明**
-1. **基础功能**（模块 1）：
-   - 使用 `plt.style.use('seaborn')` 设置主题。
-   - 创建 `Figure` 和 `Axes` 对象，使用 `plt.subplots()` 布局。
-   - 保存图表为 PNG 和 GIF 格式。
-2. **核心绘图类型**（模块 2）：
-   - 折线图：绘制销售额和利润（双 Y 轴）。
-   - 散点图：展示销售额与利润的关系，使用颜色映射。
-   - 柱状图：堆叠各品类的销售额。
-   - 直方图：展示销售额分布。
-   - 饼图：显示最后一个月的品类销售占比。
-   - 箱线图：比较各品类销售分布。
-3. **图表定制**（模块 3）：
-   - 设置标题、轴标签、图例和网格。
-   - 自定义颜色、透明度和点大小。
-   - 使用 Seaborn 调色板美化饼图。
-4. **进阶功能**（模块 4）：
-   - 双 Y 轴图表：结合折线图显示销售额和利润。
-   - 3D 散点图：展示月份、销售额和利润的关系。
-   - 动态图表：使用 `FuncAnimation` 创建销售动画。
-   - 注释：在散点图中添加箭头和文本。
-5. **数据处理**（模块 5）：
-   - 使用 NumPy 生成模拟数据。
-   - 使用 Pandas DataFrame 组织数据。
-   - 结合 Seaborn 的调色板进行美化。
-6. **实际应用**（模块 6）：
-   - 模拟销售数据分析场景，生成多种图表。
-   - 输出专业可视化结果，保存为文件。
-7. **Matplotlib 生态**（模块 7）：
-   - 结合 Seaborn 进行颜色美化。
-   - 使用 `mpl_toolkits.mplot3d` 绘制 3D 图表。
-8. **调试与优化**（模块 8）：
-   - 使用 `tight_layout()` 避免子图重叠。
-   - 优化文件输出（高 DPI 保存）。
-
-### **运行说明**
-- **依赖**：确保安装了 `numpy`、`pandas`、`matplotlib` 和 `seaborn`（`pip install numpy pandas matplotlib seaborn`）。
-- **环境**：推荐在 Jupyter Notebook 中运行，以便逐块查看图表。
-- **输出**：
-  - 生成 `sales_analysis.png`（综合图表）。
-  - 生成 `3d_sales.png`（3D 图表）。
-  - 生成 `sales_animation.gif`（动态图表）。
-- **中文支持**：如果遇到中文乱码，请设置 Matplotlib 的字体，例如 `plt.rcParams['font.sans-serif'] = ['SimHei']`（Windows）或 `['Arial Unicode MS']`（macOS）。
-
-如果需要更详细的某个部分的代码、额外的练习，或针对特定知识点的扩展示例，请告诉我！
