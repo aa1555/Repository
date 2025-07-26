@@ -1,0 +1,6 @@
+Date,Product,Region,Sales,Price,Is_Outlier,Month,Quarter
+2023-01-01,A,East,100.0,10.5,False,1,1
+2023-01-02,B,West,200.0,0.0,False,1,1
+2023-01-03,A,East,100.0,15.0,False,1,1
+2023-01-04,C,North,150.0,12.8,False,1,1
+2023-01-05,B,South,180.0,0.0,False,1,1
