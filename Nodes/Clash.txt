@@ -6,7 +6,7 @@ log-level: info
 external-controller: :9090
 
 
-
+    
 proxies:
   - {name: CN_youtube@资源分享师_1, server: wolun.mangguo2019.top, port: 40134, type: trojan, password: f28c538c-6d77-3877-baf3-9edd3e9aa1b0, sni: wolun.mangguo2019.top, skip-cert-verify: true, udp: true}
   - {name: US_youtube@资源分享师      _1, server: www.visa.com, port: 443, type: vmess, uuid: 98d18509-b938-410d-aa0e-3b7f79afd66d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: jpv.xiaoqi555.xyz}, udp: true}
