@@ -17,6 +17,12 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
     },
     {
+      "name": "王二小放牛娃",
+      "type": 0,
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/aa1555/Repository/refs/heads/main/Video/01.Live%E7%9B%B4%E6%92%AD%E6%BA%90/%E7%8E%8B%E4%BA%8C%E5%B0%8F%E6%94%BE%E7%89%9B%E5%A8%83.m3u",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+    },
+    {
       "name": "03",
       "type": 0,
       "url": "https://ghfast.top/https://raw.githubusercontent.com/aa1555/Repository/main/Video/01.Live%E7%9B%B4%E6%92%AD%E6%BA%90/03.txt",
