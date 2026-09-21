@@ -1,0 +1,866 @@
+#EXTM3U x-tvg-url="https://iptv.yang-1989.xyz/epg.xml.gz"
+#EXT-X-APTV-PREVIEW: FALSE
+#EXT-X-APTV-LATENCY: FALSE
+#EXTINF:-1 tvg-id="免費訂閲" tvg-name="免費訂閲" tvg-logo="https://epg.yang-1989.xyz/logo/温馨提示.png" group-title="•溫馨「提示」",免費訂閲：請勿販賣...
+https://epg.yang-1989.xyz/v/302.mp4
+#EXTINF:-1 tvg-id="免費訂閲" tvg-name="免費訂閲" tvg-logo="https://epg.yang-1989.xyz/logo/温馨提示.png" group-title="•溫馨「提示」",維護時間：2026-8-21 #佛系維護...
+https://epg.yang-1989.xyz/v/301.mp4
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV1.webp" group-title="•央視「Relay」",CCTV 1 綜合「Relay」
+https://iptv.yang-1989.xyz/cn/kc2k3c.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV2.webp" group-title="•央視「Relay」",CCTV 2 財經「Relay」
+https://iptv.yang-1989.xyz/cn/6hxnnn.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV3.webp" group-title="•央視「Relay」",CCTV 3 綜藝「Relay」
+https://iptv.yang-1989.xyz/cn/v2mxxj.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV4.webp" group-title="•央視「Relay」",CCTV 4 中文國際「Relay」
+https://iptv.yang-1989.xyz/cn/wcwfby.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV5.webp" group-title="•央視「Relay」",CCTV 5 體育「Relay」
+https://iptv.yang-1989.xyz/cn/y3jmzw.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV5%2B.webp" group-title="•央視「Relay」",CCTV 5+ 體育賽事「Relay」
+https://iptv.yang-1989.xyz/cn/6ume82.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV6.webp" group-title="•央視「Relay」",CCTV 6 電影「Relay」
+https://iptv.yang-1989.xyz/cn/99g2g5.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV7.webp" group-title="•央視「Relay」",CCTV 7 國防軍事「Relay」
+https://iptv.yang-1989.xyz/cn/zaxhmt.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV8.webp" group-title="•央視「Relay」",CCTV 8 電視劇「Relay」
+https://iptv.yang-1989.xyz/cn/9bkxbs.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV9.webp" group-title="•央視「Relay」",CCTV 9 記錄「Relay」
+https://iptv.yang-1989.xyz/cn/kqqkz9.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV10.webp" group-title="•央視「Relay」",CCTV 10 科教「Relay」
+https://iptv.yang-1989.xyz/cn/jzbzqr.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV11.webp" group-title="•央視「Relay」",CCTV 11 戲曲「Relay」
+https://iptv.yang-1989.xyz/cn/rs997w.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV12.webp" group-title="•央視「Relay」",CCTV 12 社會與法「Relay」
+https://iptv.yang-1989.xyz/cn/gt79rw.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV13.webp" group-title="•央視「Relay」",CCTV 13 新聞「Relay」
+https://iptv.yang-1989.xyz/cn/5dnaj2.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV14.webp" group-title="•央視「Relay」",CCTV 14 少兒「Relay」
+https://iptv.yang-1989.xyz/cn/6avnny.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV15.webp" group-title="•央視「Relay」",CCTV 15 音樂「Relay」
+https://iptv.yang-1989.xyz/cn/fe3x3n.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV16.webp" group-title="•央視「Relay」",CCTV 16 奧林匹克「Relay」
+https://iptv.yang-1989.xyz/cn/baj3ve.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV17.webp" group-title="•央視「Relay」",CCTV 17 農村農業「Relay」
+https://iptv.yang-1989.xyz/cn/rdg75g.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/北京卫视.webp" group-title="•央視「Relay」",北京衛視「Relay」
+https://iptv.yang-1989.xyz/cn/nagjpb.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/东方卫视.webp" group-title="•央視「Relay」",東方衛視「Relay」
+https://iptv.yang-1989.xyz/cn/985ncc.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/广东卫视.webp" group-title="•央視「Relay」",廣東衛視「Relay」
+https://iptv.yang-1989.xyz/cn/67e4p8.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/浙江卫视.webp" group-title="•央視「Relay」",浙江衛視「Relay」
+https://iptv.yang-1989.xyz/cn/djrky4.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/江苏卫视.webp" group-title="•央視「Relay」",江蘇衛視「Relay」
+https://iptv.yang-1989.xyz/cn/kypy9m.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/湖南卫视.webp" group-title="•央視「Relay」",湖南衛視「Relay」
+https://iptv.yang-1989.xyz/cn/ajve88.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/四川卫视.webp" group-title="•央視「Relay」",四川衛視「Relay」
+https://iptv.yang-1989.xyz/cn/4zkbxr.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="凤凰中文台" tvg-name="凤凰中文台" tvg-logo="https://iptv.yang-1989.xyz/logo/凤凰中文台.webp" group-title="•香港「Relay」" catchup="append" catchup-days="3" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="okhttp/3.8",鳳凰衛視·中文「72小时回看」
+#EXTVLCOPT:http-user-agent=okhttp/3.8
+https://iptv.yang-1989.xyz/phoenix/frdbrw.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="凤凰资讯台" tvg-name="凤凰资讯台" tvg-logo="https://iptv.yang-1989.xyz/logo/凤凰资讯台.webp" group-title="•香港「Relay」" catchup="append" catchup-days="3" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="okhttp/3.8",鳳凰衛視·資訊「72小时回看」
+#EXTVLCOPT:http-user-agent=okhttp/3.8
+https://iptv.yang-1989.xyz/phoenix/96426d.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="凤凰香港台" tvg-name="凤凰香港台" tvg-logo="https://iptv.yang-1989.xyz/logo/凤凰香港台.webp" group-title="•香港「Relay」" catchup="append" catchup-days="3" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="okhttp/3.8",鳳凰衛視·香港「72小时回看」
+#EXTVLCOPT:http-user-agent=okhttp/3.8
+https://iptv.yang-1989.xyz/phoenix/5bxqk8.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://iptv.yang-1989.xyz/logo/翡翠台.webp" group-title="•香港「Relay」" catchup="append" catchup-days="1" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",翡翠台「24小时回看」
+https://iptv.yang-1989.xyz/hk/2kfp4z.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://iptv.yang-1989.xyz/logo/無綫新聞台.webp" group-title="•香港「Relay」" catchup="append" catchup-days="1" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",無綫新聞台「3小时回看」
+https://iptv.yang-1989.xyz/hk/yj43ks.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://iptv.yang-1989.xyz/logo/明珠台.webp" group-title="•香港「Relay」",明珠台
+https://iptv.yang-1989.xyz/hk/vfgy93.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://iptv.yang-1989.xyz/logo/TVB%20Plus.webp" group-title="•香港「Relay」",TVB Plus
+https://iptv.yang-1989.xyz/hk/gbg8dg.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://iptv.yang-1989.xyz/logo/美亞電影台.webp" group-title="•香港「Relay」",美亞電影台
+https://iptv.yang-1989.xyz/hk/cnsaxd.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="https://iptv.yang-1989.xyz/logo/PopC.webp" group-title="•香港「Relay」",PopC
+https://iptv.yang-1989.xyz/hk/hjb3ke.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://iptv.yang-1989.xyz/logo/ViuTV.webp" group-title="•香港「Relay」",ViuTV
+https://iptv.yang-1989.xyz/hk/hfedr8.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="ViuTVsix" tvg-name="ViuTVsix" tvg-logo="https://iptv.yang-1989.xyz/logo/ViuTVsix.webp" group-title="•香港「Relay」",ViuTVsix
+https://iptv.yang-1989.xyz/hk/aq2k85.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="Now直播台" tvg-name="Now直播台" tvg-logo="https://iptv.yang-1989.xyz/logo/Now直播台.webp" group-title="•香港「Relay」",Now直播台
+https://iptv.yang-1989.xyz/hk/vexbne.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" tvg-logo="https://iptv.yang-1989.xyz/logo/Now新聞台.webp" group-title="•香港「Relay」",Now新聞台
+https://iptv.yang-1989.xyz/hk/432hbx.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="Now財經台" tvg-name="Now財經台" tvg-logo="https://iptv.yang-1989.xyz/logo/Now財經台.webp" group-title="•香港「Relay」",Now財經台
+https://iptv.yang-1989.xyz/hk/r6zfur.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="Now Sports 精選" tvg-name="Now Sports 精選" tvg-logo="https://iptv.yang-1989.xyz/logo/Now%20Sports%20精選.webp" group-title="•香港「Relay」",Now Sports 精選
+https://iptv.yang-1989.xyz/hk/hzm6ae.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="Now Sports 英超2台" tvg-name="Now Sports 英超2台" tvg-logo="https://iptv.yang-1989.xyz/logo/Now%20Sports%20英超2台.webp" group-title="•香港「Relay」",Now Sports 英超
+https://iptv.yang-1989.xyz/hkg/myeeud.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="商業電台 雷霆881" tvg-name="商業電台 雷霆881" tvg-logo="https://iptv.yang-1989.xyz/logo/商業電台%20雷霆881.webp" group-title="•香港「Relay」",雷霆881「電台」
+https://iptv.yang-1989.xyz/hkg/znmgjr.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="商業電台 叱咤903" tvg-name="商業電台 叱咤903" tvg-logo="https://iptv.yang-1989.xyz/logo/商業電台%20叱咤903.webp" group-title="•香港「Relay」",叱咤903「電台」
+https://iptv.yang-1989.xyz/hkg/wt86ke.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="商業電台 AM864" tvg-name="商業電台 AM864" tvg-logo="https://iptv.yang-1989.xyz/logo/商業電台%20AM864.webp" group-title="•香港「Relay」",AM864「電台」
+https://iptv.yang-1989.xyz/hkg/cyp4ek.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="HOY 國際財經台" tvg-name="HOY 國際財經台" tvg-logo="https://iptv.yang-1989.xyz/logo/HOY%20國際財經台.webp" group-title="•香港「Relay」",HOY 國際財經台
+https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
+#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://iptv.yang-1989.xyz/logo/HOY%20TV.webp" group-title="•香港「Relay」",HOY TV
+https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
+#EXTINF:-1 tvg-id="HOY 資訊台" tvg-name="HOY 資訊台" tvg-logo="https://iptv.yang-1989.xyz/logo/HOY%20資訊台.webp" group-title="•香港「Relay」",HOY 資訊台
+https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+#EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://iptv.yang-1989.xyz/logo/RTHK31.webp" group-title="•香港「Relay」",RTHK 31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://iptv.yang-1989.xyz/logo/RTHK32.webp" group-title="•香港「Relay」",RTHK 32
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="RTHK33" tvg-name="RTHK33" tvg-logo="https://iptv.yang-1989.xyz/logo/RTHK33.webp" group-title="•香港「Relay」",RTHK 33
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="澳門衛星" tvg-name="澳門衛星" tvg-logo="https://iptv.yang-1989.xyz/logo/澳門衛星.webp" group-title="•香港「Relay」",澳門衛星
+https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
+#EXTINF:-1 tvg-id="澳門葡萄牙" tvg-name="澳門葡萄牙" tvg-logo="https://iptv.yang-1989.xyz/logo/澳門葡萄牙.webp" group-title="•香港「Relay」",澳門葡文
+https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8
+#EXTINF:-1 tvg-id="澳視澳門" tvg-name="澳視澳門" tvg-logo="https://iptv.yang-1989.xyz/logo/澳視澳門.webp" group-title="•香港「Relay」",澳視澳門
+https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
+#EXTINF:-1 tvg-id="澳門資訊" tvg-name="澳門資訊" tvg-logo="https://iptv.yang-1989.xyz/logo/澳門資訊.webp" group-title="•香港「Relay」",澳門資訊
+https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 tvg-id="澳門體育" tvg-name="澳門體育" tvg-logo="https://iptv.yang-1989.xyz/logo/澳門體育.webp" group-title="•香港「Relay」",澳門體育
+https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 tvg-id="澳門綜藝" tvg-name="澳門綜藝" tvg-logo="https://iptv.yang-1989.xyz/logo/澳門綜藝.webp" group-title="•香港「Relay」",澳門綜藝
+https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 tvg-id="緯來日本台" tvg-name="緯來日本台" tvg-logo="https://iptv.yang-1989.xyz/logo/緯來日本台.webp" group-title="•台灣「Relay」",緯來日本「Relay」
+https://iptv.yang-1989.xyz/tw/pnbkxx.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="緯來體育台" tvg-name="緯來體育台" tvg-logo="https://iptv.yang-1989.xyz/logo/緯來體育台.webp" group-title="•台灣「Relay」",緯來體育「Relay」
+https://iptv.yang-1989.xyz/tw/79q5js.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="緯來電影台" tvg-name="緯來電影台" tvg-logo="https://iptv.yang-1989.xyz/logo/緯來電影台.webp" group-title="•台灣「Relay」",緯來電影「Relay」
+https://iptv.yang-1989.xyz/tw/u9w3jt.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="緯來綜合台" tvg-name="緯來綜合台" tvg-logo="https://iptv.yang-1989.xyz/logo/緯來綜合台.webp" group-title="•台灣「Relay」",緯來綜合「Relay」
+https://iptv.yang-1989.xyz/tw/xsq6vc.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="緯來戲劇台" tvg-name="緯來戲劇台" tvg-logo="https://iptv.yang-1989.xyz/logo/緯來戲劇台.webp" group-title="•台灣「Relay」",緯來戲劇「Relay」
+https://iptv.yang-1989.xyz/tw/knryv6.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="緯來育樂台" tvg-name="緯來育樂台" tvg-logo="https://iptv.yang-1989.xyz/logo/緯來育樂台.webp" group-title="•台灣「Relay」",緯來育樂「Relay」
+https://iptv.yang-1989.xyz/tw/trmpjm.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="愛爾達體育1台" tvg-name="愛爾達體育1台" tvg-logo="https://iptv.yang-1989.xyz/logo/愛爾達體育1台.webp" group-title="•台灣「Relay」",愛爾達體育 一
+https://iptv.yang-1989.xyz/tw/4st5jk.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="愛爾達體育2台" tvg-name="愛爾達體育2台" tvg-logo="https://iptv.yang-1989.xyz/logo/愛爾達體育2台.webp" group-title="•台灣「Relay」",愛爾達體育 二
+https://iptv.yang-1989.xyz/tw/m6zpzg.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="愛爾達體育3台" tvg-name="愛爾達體育3台" tvg-logo="https://iptv.yang-1989.xyz/logo/愛爾達體育3台.webp" group-title="•台灣「Relay」",愛爾達體育 三
+https://iptv.yang-1989.xyz/tw/9tpcag.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="愛爾達體育4台" tvg-name="愛爾達體育4台" tvg-logo="https://iptv.yang-1989.xyz/logo/愛爾達體育4台.webp" group-title="•台灣「Relay」",愛爾達體育 四
+https://iptv.yang-1989.xyz/tw/uhgkj5.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1" tvg-logo="https://iptv.yang-1989.xyz/logo/DAZN%201.webp" group-title="•台灣「Relay」",DAZN 1
+https://iptv.yang-1989.xyz/tw/ajx4s4.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2" tvg-logo="https://iptv.yang-1989.xyz/logo/DAZN%202.webp" group-title="•台灣「Relay」",DAZN 2
+https://iptv.yang-1989.xyz/tw/2a4srg.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="年代新聞台" tvg-name="年代新聞台" tvg-logo="https://iptv.yang-1989.xyz/logo/年代新聞台.webp" group-title="•台灣「Relay」",年代新聞「Relay」
+https://iptv.yang-1989.xyz/tw/2kmqa9.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://iptv.yang-1989.xyz/logo/中天亞洲台.webp" group-title="•台灣「Relay」",中天亞洲「Relay」
+https://iptv.yang-1989.xyz/tw/nnus5m.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="中天綜合台" tvg-name="中天綜合台" tvg-logo="https://iptv.yang-1989.xyz/logo/中天綜合台.webp" group-title="•台灣「Relay」",中天綜合「Relay」
+https://iptv.yang-1989.xyz/tw/dffubt.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="中天娛樂台" tvg-name="中天娛樂台" tvg-logo="https://iptv.yang-1989.xyz/logo/中天娛樂台.webp" group-title="•台灣「Relay」",中天娛樂「Relay」
+https://iptv.yang-1989.xyz/tw/yfx9y6.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="東森電影台" tvg-name="東森電影台" tvg-logo="https://iptv.yang-1989.xyz/logo/東森電影台.webp" group-title="•台灣「Relay」",東森電影「Relay」
+https://iptv.yang-1989.xyz/tw/vh5x57.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="東森洋片台" tvg-name="東森洋片台" tvg-logo="https://iptv.yang-1989.xyz/logo/東森洋片台.webp" group-title="•台灣「Relay」",東森洋片「Relay」
+https://iptv.yang-1989.xyz/tw/p6bdqc.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="東森綜合台" tvg-name="東森綜合台" tvg-logo="https://iptv.yang-1989.xyz/logo/東森綜合台.webp" group-title="•台灣「Relay」",東森綜合「Relay」
+https://iptv.yang-1989.xyz/tw/pvg5n7.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="東森戲劇台" tvg-name="東森戲劇台" tvg-logo="https://iptv.yang-1989.xyz/logo/東森戲劇台.webp" group-title="•台灣「Relay」",東森戲劇「Relay」
+https://iptv.yang-1989.xyz/tw/qqu7mh.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="東森幼幼台" tvg-name="東森幼幼台" tvg-logo="https://iptv.yang-1989.xyz/logo/東森幼幼台.webp" group-title="•台灣「Relay」",東森幼幼「Relay」
+https://iptv.yang-1989.xyz/tw/h5edhc.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://iptv.yang-1989.xyz/logo/台視.webp" group-title="•台灣「Relay」",台視「Relay」
+https://iptv.yang-1989.xyz/tw/3xfmfc.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="MTV綜合台" tvg-name="MTV綜合台" tvg-logo="https://iptv.yang-1989.xyz/logo/MTV綜合台.webp" group-title="•台灣「Relay」",MTV綜合台「Relay」
+https://iptv.yang-1989.xyz/tw/ndxyup.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="動物星球" tvg-name="動物星球" tvg-logo="https://iptv.yang-1989.xyz/logo/動物星球.webp" group-title="•台灣「Relay」",動物星球「Relay」
+https://iptv.yang-1989.xyz/tw/e5g7hm.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="CATCHPLAY電影台" tvg-name="CATCHPLAY電影台" tvg-logo="https://iptv.yang-1989.xyz/logo/CATCHPLAY電影台.webp" group-title="•台灣「Relay」",CATCHPLAY 電影「Relay」
+https://iptv.yang-1989.xyz/tw/b8xc2s.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="龍祥時代" tvg-name="龍祥時代" tvg-logo="https://iptv.yang-1989.xyz/logo/龍祥時代.webp" group-title="•台灣「Relay」",龍祥時代「Relay」
+https://iptv.yang-1989.xyz/tw/ammdaq.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="好萊塢電影台" tvg-name="好萊塢電影台" tvg-logo="https://iptv.yang-1989.xyz/logo/好萊塢電影台.webp" group-title="•台灣「Relay」",好萊塢電影「Relay」
+https://iptv.yang-1989.xyz/tw/hsr8hm.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://iptv.yang-1989.xyz/logo/CINEMAX.webp" group-title="•台灣「Relay」",CINEMAX「Relay」
+https://iptv.yang-1989.xyz/tw/y7kd3u.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="博斯運動一台" tvg-name="博斯運動一台" tvg-logo="https://iptv.yang-1989.xyz/logo/博斯運動一台.webp" group-title="•台灣「Relay」",博斯運動 一「4gTV」
+https://iptv.yang-1989.xyz/4gtv/qha8sk.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="博斯運動二台" tvg-name="博斯運動二台" tvg-logo="https://iptv.yang-1989.xyz/logo/博斯運動二台.webp" group-title="•台灣「Relay」",博斯運動 二「4gTV」
+https://iptv.yang-1989.xyz/4gtv/d65acp.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="博斯無限台" tvg-name="博斯無限台" tvg-logo="https://iptv.yang-1989.xyz/logo/博斯無限台.webp" group-title="•台灣「Relay」",博斯無限 一「4gTV」
+https://iptv.yang-1989.xyz/4gtv/rjvzks.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="博斯無限二台" tvg-name="博斯無限二台" tvg-logo="https://iptv.yang-1989.xyz/logo/博斯無限二台.webp" group-title="•台灣「Relay」",博斯無限 二「4gTV」
+https://iptv.yang-1989.xyz/4gtv/spbusb.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="博斯高球台" tvg-name="博斯高球台" tvg-logo="https://iptv.yang-1989.xyz/logo/博斯高球台.webp" group-title="•台灣「Relay」",博斯高球 一「4gTV」
+https://iptv.yang-1989.xyz/4gtv/vtdrdf.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球二台" tvg-logo="https://iptv.yang-1989.xyz/logo/博斯高球二台.webp" group-title="•台灣「Relay」",博斯高球 二「4gTV」
+https://iptv.yang-1989.xyz/4gtv/68hdnr.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="博斯網球台" tvg-name="博斯網球台" tvg-logo="https://iptv.yang-1989.xyz/logo/博斯網球台.webp" group-title="•台灣「Relay」",博斯網球「4gTV」
+https://iptv.yang-1989.xyz/4gtv/fnms84.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="博斯魅力台" tvg-name="博斯魅力台" tvg-logo="https://iptv.yang-1989.xyz/logo/博斯魅力台.webp" group-title="•台灣「Relay」",博斯魅力「4gTV」
+https://iptv.yang-1989.xyz/4gtv/ftfcyf.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://iptv.yang-1989.xyz/logo/中視.webp" group-title="•台灣「Relay」",中視「4gTV」
+https://iptv.yang-1989.xyz/4gtv/u2yusf.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://iptv.yang-1989.xyz/logo/中視新聞.webp" group-title="•台灣「Relay」",中視新聞「4gTV」
+https://iptv.yang-1989.xyz/4gtv/2jbbb9.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台" tvg-logo="https://iptv.yang-1989.xyz/logo/東森新聞台.webp" group-title="•台灣「Relay」",東森新聞「4gTV」
+https://iptv.yang-1989.xyz/4gtv/2ywhq6.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="https://iptv.yang-1989.xyz/logo/東森財經新聞台.webp" group-title="•台灣「Relay」",東森財經「4gTV」
+https://iptv.yang-1989.xyz/4gtv/fvtnw6.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://iptv.yang-1989.xyz/logo/TVBS.webp" group-title="•台灣「Relay」",TVBS「4gTV」
+https://iptv.yang-1989.xyz/4gtv/e86xy6.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://iptv.yang-1989.xyz/logo/TVBS新聞.webp" group-title="•台灣「Relay」",TVBS 新聞「4gTV」
+https://iptv.yang-1989.xyz/4gtv/vfgsn9.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="TVBS歡樂台" tvg-name="TVBS歡樂台" tvg-logo="https://iptv.yang-1989.xyz/logo/TVBS歡樂台.webp" group-title="•台灣「Relay」",TVBS 歡樂「4gTV」
+https://iptv.yang-1989.xyz/4gtv/z52qd4.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://iptv.yang-1989.xyz/logo/TVBS精采台.webp" group-title="•台灣「Relay」",TVBS 精采「4gTV」
+https://iptv.yang-1989.xyz/4gtv/ybb7vp.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="KLT-靖天國際台" tvg-name="KLT-靖天國際台" tvg-logo="https://iptv.yang-1989.xyz/logo/KLT-靖天國際台.webp" group-title="•台灣「Relay」",靖天國際「4gTV」
+https://iptv.yang-1989.xyz/4gtv/9dha6m.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="Nice TV靖天歡樂台" tvg-name="Nice TV靖天歡樂台" tvg-logo="https://iptv.yang-1989.xyz/logo/Nice%20TV靖天歡樂台.webp" group-title="•台灣「Relay」",靖天歡樂「4gTV」
+https://iptv.yang-1989.xyz/4gtv/utt6hr.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="靖天映畫" tvg-name="靖天映畫" tvg-logo="https://iptv.yang-1989.xyz/logo/靖天映畫.webp" group-title="•台灣「Relay」",靖天映畫「4gTV」
+https://iptv.yang-1989.xyz/4gtv/v6wt99.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="靖天戲劇台" tvg-name="靖天戲劇台" tvg-logo="https://iptv.yang-1989.xyz/logo/靖天戲劇台.webp" group-title="•台灣「Relay」",靖天戲劇「4gTV」
+https://iptv.yang-1989.xyz/4gtv/48emeg.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://iptv.yang-1989.xyz/logo/靖天日本台.webp" group-title="•台灣「Relay」",靖天日本「4gTV」
+https://iptv.yang-1989.xyz/4gtv/bw8kjp.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="靖天綜合台" tvg-name="靖天綜合台" tvg-logo="https://iptv.yang-1989.xyz/logo/靖天綜合台.webp" group-title="•台灣「Relay」",靖天綜合「4gTV」
+https://iptv.yang-1989.xyz/4gtv/44srxe.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="靖天育樂台" tvg-name="靖天育樂台" tvg-logo="https://iptv.yang-1989.xyz/logo/靖天育樂台.webp" group-title="•台灣「Relay」",靖天育樂「4gTV」
+https://iptv.yang-1989.xyz/4gtv/eg8yy8.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="靖天資訊台" tvg-name="靖天資訊台" tvg-logo="https://iptv.yang-1989.xyz/logo/靖天資訊台.webp" group-title="•台灣「Relay」",靖天資訊「4gTV」
+https://iptv.yang-1989.xyz/4gtv/kv6s35.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天電影台" tvg-logo="https://iptv.yang-1989.xyz/logo/靖天電影台.webp" group-title="•台灣「Relay」",靖天電影「4gTV」
+https://iptv.yang-1989.xyz/4gtv/cr6wvu.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://iptv.yang-1989.xyz/logo/靖天卡通台.webp" group-title="•台灣「Relay」",靖天卡通「4gTV」
+https://iptv.yang-1989.xyz/4gtv/8wbgfp.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="靖洋卡通台Nice Bingo" tvg-name="靖洋卡通台Nice Bingo" tvg-logo="https://iptv.yang-1989.xyz/logo/靖洋卡通台Nice%20Bingo.webp" group-title="•台灣「Relay」",靖洋卡通「4gTV」
+https://iptv.yang-1989.xyz/4gtv/b536f5.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="靖洋戲劇台" tvg-name="靖洋戲劇台" tvg-logo="https://iptv.yang-1989.xyz/logo/靖洋戲劇台.webp" group-title="•台灣「Relay」",靖洋戲劇「4gTV」
+https://iptv.yang-1989.xyz/4gtv/sfbyjr.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://iptv.yang-1989.xyz/logo/八大精彩台.webp" group-title="•台灣「Relay」",八大精彩「4gTV」
+https://iptv.yang-1989.xyz/4gtv/va8vjx.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="八大綜藝台" tvg-name="八大綜藝台" tvg-logo="https://iptv.yang-1989.xyz/logo/八大綜藝台.webp" group-title="•台灣「Relay」",八大綜藝「4gTV」
+https://iptv.yang-1989.xyz/4gtv/jfc7fg.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="公視戲劇" tvg-name="公視戲劇" tvg-logo="https://iptv.yang-1989.xyz/logo/公視戲劇.webp" group-title="•台灣「Relay」",公視戲劇「4gTV」
+https://iptv.yang-1989.xyz/4gtv/yuzppw.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://iptv.yang-1989.xyz/logo/寰宇新聞台.webp" group-title="•台灣「Relay」",寰宇新聞「4gTV」
+https://iptv.yang-1989.xyz/4gtv/xgudq8.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://iptv.yang-1989.xyz/logo/寰宇新聞台灣台.webp" group-title="•台灣「Relay」",寰宇新聞台灣「4gTV」
+https://iptv.yang-1989.xyz/4gtv/qfypuz.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經台" tvg-logo="https://iptv.yang-1989.xyz/logo/寰宇財經台.webp" group-title="•台灣「Relay」",寰宇財經「4gTV」
+https://iptv.yang-1989.xyz/4gtv/6bpbhv.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://iptv.yang-1989.xyz/logo/華視.webp" group-title="•台灣「Relay」",華視「4gTV」
+https://iptv.yang-1989.xyz/4gtv/paunx7.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://iptv.yang-1989.xyz/logo/華視新聞.webp" group-title="•台灣「Relay」",華視新聞「4gTV」
+https://iptv.yang-1989.xyz/4gtv/fyz2jh.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://iptv.yang-1989.xyz/logo/民視.webp" group-title="•台灣「Relay」",民視「4gTV」
+https://iptv.yang-1989.xyz/4gtv/t8y7ep.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://iptv.yang-1989.xyz/logo/民視台灣台.webp" group-title="•台灣「Relay」",民視台灣「4gTV」
+https://iptv.yang-1989.xyz/4gtv/ac7x27.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="民視影劇台" tvg-name="民視影劇台" tvg-logo="https://iptv.yang-1989.xyz/logo/民視影劇台.webp" group-title="•台灣「Relay」",民視影劇「4gTV」
+https://iptv.yang-1989.xyz/4gtv/4yykt2.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://iptv.yang-1989.xyz/logo/民視新聞台.webp" group-title="•台灣「Relay」",民視新聞「4gTV」
+https://iptv.yang-1989.xyz/4gtv/s6uqkg.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台" tvg-logo="https://iptv.yang-1989.xyz/logo/民視旅遊台.webp" group-title="•台灣「Relay」",民視旅遊「4gTV」
+https://iptv.yang-1989.xyz/4gtv/yzg3nd.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://iptv.yang-1989.xyz/logo/民視第一台.webp" group-title="•台灣「Relay」",民視第一「4gTV」
+https://iptv.yang-1989.xyz/4gtv/6rbch3.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" tvg-logo="https://iptv.yang-1989.xyz/logo/民視綜藝台.webp" group-title="•台灣「Relay」",民視綜藝「4gTV」
+https://iptv.yang-1989.xyz/4gtv/mvnw26.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="三立綜合台" tvg-name="三立綜合台" tvg-logo="https://iptv.yang-1989.xyz/logo/三立綜合台.webp" group-title="•台灣「Relay」",三立綜合「4gTV」
+https://iptv.yang-1989.xyz/4gtv/r9t6er.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="三立新聞iNEWS" tvg-name="三立新聞iNEWS" tvg-logo="https://iptv.yang-1989.xyz/logo/三立新聞iNEWS.webp" group-title="•台灣「Relay」",三立新聞iNEWS「4gTV」
+https://iptv.yang-1989.xyz/4gtv/y3envg.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="INULTRA" tvg-name="INULTRA" tvg-logo="https://iptv.yang-1989.xyz/logo/INULTRA.webp" group-title="•台灣「Relay」",INULTRA「4gTV」
+https://iptv.yang-1989.xyz/4gtv/amgbf6.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="愛爾達生活旅遊台" tvg-name="愛爾達生活旅遊台" tvg-logo="https://iptv.yang-1989.xyz/logo/愛爾達生活旅遊台.webp" group-title="•台灣「Relay」",愛爾達生活旅遊「4gTV」
+https://iptv.yang-1989.xyz/4gtv/9j7tz5.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://iptv.yang-1989.xyz/logo/鏡電視新聞台.webp" group-title="•台灣「Relay」",鏡電視新聞「4gTV」
+https://iptv.yang-1989.xyz/4gtv/9f9ukt.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="半島國際新聞台" tvg-name="半島國際新聞台" tvg-logo="https://iptv.yang-1989.xyz/logo/半島國際新聞台.webp" group-title="•台灣「Relay」",半島國際新聞「4gTV」
+https://iptv.yang-1989.xyz/4gtv/mw6v5d.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="DW德國之聲" tvg-name="DW德國之聲" tvg-logo="https://iptv.yang-1989.xyz/logo/DW.webp" group-title="•台灣「Relay」",DW 德國之聲「4gTV」
+https://iptv.yang-1989.xyz/4gtv/jft23m.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="FRANCE24 英文台" tvg-name="FRANCE24 英文台" tvg-logo="https://iptv.yang-1989.xyz/logo/France%2024.webp" group-title="•台灣「Relay」",France 24「4gTV」
+https://iptv.yang-1989.xyz/4gtv/3cmune.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="NHK World Japan" tvg-name="NHK World Japan" tvg-logo="https://iptv.yang-1989.xyz/logo/NHK%20World-Japan.webp" group-title="•台灣「Relay」",NHK 新聞資訊「4gTV」
+https://iptv.yang-1989.xyz/4gtv/r49ub8.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="CNBC Asia 財經台" tvg-name="CNBC Asia 財經台" tvg-logo="https://iptv.yang-1989.xyz/logo/CNBC%20Asia%20財經台.webp" group-title="•台灣「Relay」",CNBC Asia 財經「4gTV」
+https://iptv.yang-1989.xyz/4gtv/96fb8r.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="SBN全球財經台" tvg-name="SBN全球財經台" tvg-logo="https://iptv.yang-1989.xyz/logo/SBN全球財經台.webp" group-title="•台灣「Relay」",SBN 全球財經「4gTV」
+https://iptv.yang-1989.xyz/4gtv/bj74f2.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="Bloomberg TV" tvg-name="Bloomberg TV" tvg-logo="https://iptv.yang-1989.xyz/logo/Bloomberg%20TV.webp" group-title="•台灣「Relay」",Bloomberg TV「4gTV」
+https://iptv.yang-1989.xyz/4gtv/yc276a.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://iptv.yang-1989.xyz/logo/亞洲旅遊台.webp" group-title="•台灣「Relay」",亞洲旅遊「4gTV」
+https://iptv.yang-1989.xyz/4gtv/axqv7k.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X" tvg-logo="https://iptv.yang-1989.xyz/logo/時尚運動X.webp" group-title="•台灣「Relay」",時尚運動X「4gTV」
+https://iptv.yang-1989.xyz/4gtv/mg73g9.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="智林體育台" tvg-name="智林體育台" tvg-logo="https://iptv.yang-1989.xyz/logo/智林體育台.webp" group-title="•台灣「Relay」",智林體育「4gTV」
+https://iptv.yang-1989.xyz/4gtv/kuva9q.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="amc電影台" tvg-name="amc電影台" tvg-logo="https://iptv.yang-1989.xyz/logo/amc電影台.webp" group-title="•台灣「Relay」",amc電影台「4gTV」
+https://iptv.yang-1989.xyz/4gtv/9hyuye.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="My Cinema Europe 我的歐洲電影" tvg-name="My Cinema Europe 我的歐洲電影" tvg-logo="https://iptv.yang-1989.xyz/logo/My%20Cinema%20Europe%20我的歐洲電影.webp" group-title="•台灣「Relay」",MCE 我的歐洲電影「4gTV」
+https://iptv.yang-1989.xyz/4gtv/c2bd92.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台" tvg-logo="https://iptv.yang-1989.xyz/logo/影迷數位電影台.webp" group-title="•台灣「Relay」",影迷數位電影「4gTV」
+https://iptv.yang-1989.xyz/4gtv/6egd8c.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="影迷數位紀實台" tvg-name="影迷數位紀實台" tvg-logo="https://iptv.yang-1989.xyz/logo/影迷數位紀實台.webp" group-title="•台灣「Relay」",影迷數位紀實「4gTV」
+https://iptv.yang-1989.xyz/4gtv/9vasxj.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="CinemaWorld" tvg-name="CinemaWorld" tvg-logo="https://iptv.yang-1989.xyz/logo/CinemaWorld.webp" group-title="•台灣「Relay」",CinemaWorld「4gTV」
+https://iptv.yang-1989.xyz/4gtv/njxmyw.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="經典電影台" tvg-name="經典電影台" tvg-logo="https://iptv.yang-1989.xyz/logo/經典電影台.webp" group-title="•台灣「Relay」",經典電影「4gTV」
+https://iptv.yang-1989.xyz/4gtv/z6dp88.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://iptv.yang-1989.xyz/logo/Love%20Nature.webp" group-title="•台灣「Relay」",Love Nature「4gTV」
+https://iptv.yang-1989.xyz/4gtv/du5xy9.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="視納華仁紀實頻道" tvg-name="視納華仁紀實頻道" tvg-logo="https://iptv.yang-1989.xyz/logo/視納華仁紀實頻道.webp" group-title="•台灣「Relay」",視納華仁紀實頻道「4gTV」
+https://iptv.yang-1989.xyz/4gtv/qu3kws.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="CI 罪案偵查頻道" tvg-name="CI 罪案偵查頻道" tvg-logo="https://iptv.yang-1989.xyz/logo/CI%20罪案偵查頻道.webp" group-title="•台灣「Relay」",CI 罪案偵查頻道「4gTV」
+https://iptv.yang-1989.xyz/4gtv/eg63zr.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="History 歷史頻道" tvg-name="History 歷史頻道" tvg-logo="https://iptv.yang-1989.xyz/logo/History%20歷史頻道.webp" group-title="•台灣「Relay」",History 歷史頻道「4gTV」
+https://iptv.yang-1989.xyz/4gtv/hdrrg5.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://iptv.yang-1989.xyz/logo/ROCK%20Action.webp" group-title="•台灣「Relay」",ROCK Action「4gTV」
+https://iptv.yang-1989.xyz/4gtv/2m97yb.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="ROCK Entertainment" tvg-name="ROCK Entertainment" tvg-logo="https://iptv.yang-1989.xyz/logo/ROCK%20Entertainment.webp" group-title="•台灣「Relay」",ROCK Entertainment「4gTV」
+https://iptv.yang-1989.xyz/4gtv/vmr3zz.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="ROCK Xstream搖滾極限頻道" tvg-name="ROCK Xstream搖滾極限頻道" tvg-logo="https://iptv.yang-1989.xyz/logo/ROCK%20X%20Stream.webp" group-title="•台灣「Relay」",ROCK Xstream「4gTV」
+https://iptv.yang-1989.xyz/4gtv/ka8dnr.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="ARIRANG阿里郎頻道" tvg-name="ARIRANG阿里郎頻道" tvg-logo="https://iptv.yang-1989.xyz/logo/Arirang%20TV.webp" group-title="•台灣「Relay」",Arirang TV「4gTV」
+https://iptv.yang-1989.xyz/4gtv/ryh2ar.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="韓國娛樂台 KMTV" tvg-name="韓國娛樂台 KMTV" tvg-logo="https://iptv.yang-1989.xyz/logo/韓國娛樂台%20KMTV.webp" group-title="•台灣「Relay」",韓國娛樂台 KMTV「4gTV」
+https://iptv.yang-1989.xyz/4gtv/evj5cm.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="Lifetime 娛樂頻道" tvg-name="Lifetime 娛樂頻道" tvg-logo="https://iptv.yang-1989.xyz/logo/Lifetime%20娛樂頻道.webp" group-title="•台灣「Relay」",Lifetime 娛樂頻道「4gTV」
+https://iptv.yang-1989.xyz/4gtv/7ebnu6.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="fun探索娛樂台" tvg-name="fun探索娛樂台" tvg-logo="https://iptv.yang-1989.xyz/logo/fun探索娛樂台.webp" group-title="•台灣「Relay」",fun探索娛樂「4gTV」
+https://iptv.yang-1989.xyz/4gtv/rcsxmx.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="HITS頻道" tvg-name="HITS頻道" tvg-logo="https://iptv.yang-1989.xyz/logo/HITS頻道.webp" group-title="•台灣「Relay」",HITS頻道「4gTV」
+https://iptv.yang-1989.xyz/4gtv/ngy7y9.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="灣聲線上音樂廳" tvg-name="灣聲線上音樂廳" tvg-logo="https://iptv.yang-1989.xyz/logo/灣聲線上音樂廳.webp" group-title="•台灣「Relay」",灣聲線上音樂廳「4gTV」
+https://iptv.yang-1989.xyz/4gtv/4725s6.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" tvg-logo="https://iptv.yang-1989.xyz/logo/豬哥亮歌廳秀.webp" group-title="•台灣「Relay」",豬哥亮歌廳秀「4gTV」
+https://iptv.yang-1989.xyz/4gtv/be564p.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="采昌影劇台" tvg-name="采昌影劇台" tvg-logo="https://iptv.yang-1989.xyz/logo/采昌影劇台.webp" group-title="•台灣「Relay」",采昌影劇「4gTV」
+https://iptv.yang-1989.xyz/4gtv/szahta.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="CLASSICA 古典樂" tvg-name="CLASSICA 古典樂" tvg-logo="https://iptv.yang-1989.xyz/logo/CLASSICA%20古典樂.webp" group-title="•台灣「Relay」",CLASSICA 古典樂「4gTV」
+https://iptv.yang-1989.xyz/4gtv/mh5tnz.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="Mezzo Live" tvg-name="Mezzo Live" tvg-logo="https://iptv.yang-1989.xyz/logo/Mezzo%20Live.webp" group-title="•台灣「Relay」",Mezzo Live「4gTV」
+https://iptv.yang-1989.xyz/4gtv/yw2unu.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="電影原聲台CMusic" tvg-name="電影原聲台CMusic" tvg-logo="https://iptv.yang-1989.xyz/logo/電影原聲台CMusic.webp" group-title="•台灣「Relay」",電影原聲 CMusic「4gTV」
+https://iptv.yang-1989.xyz/4gtv/u9nqac.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="TRACE Urban" tvg-name="TRACE Urban" tvg-logo="https://iptv.yang-1989.xyz/logo/TRACE%20Urban.webp" group-title="•台灣「Relay」",TRACE Urban「4gTV」
+https://iptv.yang-1989.xyz/4gtv/cm2nzn.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="TRACE Sport Stars" tvg-name="TRACE Sport Stars" tvg-logo="https://iptv.yang-1989.xyz/logo/TRACE%20Sport%20Stars.webp" group-title="•台灣「Relay」",TRACE Sport Stars「4gTV」
+https://iptv.yang-1989.xyz/4gtv/yjfrd2.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="GINX Esports TV" tvg-name="GINX Esports TV" tvg-logo="https://iptv.yang-1989.xyz/logo/GINX%20Esports%20TV.webp" group-title="•台灣「Relay」",GINX Esports TV「4gTV」
+https://iptv.yang-1989.xyz/4gtv/tvjpdx.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="DreamWorks 夢工廠動畫" tvg-name="DreamWorks 夢工廠動畫" tvg-logo="https://iptv.yang-1989.xyz/logo/DreamWorks%20夢工廠動畫.webp" group-title="•台灣「Relay」",DreamWorks 夢工廠動畫「4gTV」
+https://iptv.yang-1989.xyz/4gtv/db2cxe.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="精選動漫台" tvg-name="精選動漫台" tvg-logo="https://iptv.yang-1989.xyz/logo/精選動漫台.webp" group-title="•台灣「Relay」",精選動漫「4gTV」
+https://iptv.yang-1989.xyz/4gtv/4uxk5n.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="經典卡通台" tvg-name="經典卡通台" tvg-logo="https://iptv.yang-1989.xyz/logo/經典卡通台.webp" group-title="•台灣「Relay」",經典卡通「4gTV」
+https://iptv.yang-1989.xyz/4gtv/zn8v5b.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="MagellanTV頻道 (麥哲倫頻道)" tvg-name="MagellanTV頻道 (麥哲倫頻道)" tvg-logo="https://iptv.yang-1989.xyz/logo/MagellanTV頻道%20(麥哲倫頻道).webp" group-title="•台灣「Relay」",MagellanTV頻道「4gTV」
+https://iptv.yang-1989.xyz/4gtv/y3zn29.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="MOMO親子台" tvg-name="MOMO親子台" tvg-logo="https://iptv.yang-1989.xyz/logo/MOMO親子台.webp" group-title="•台灣「Relay」",MOMO親子「4gTV」
+https://iptv.yang-1989.xyz/4gtv/p4jkpu.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="Nick Jr. 兒童頻道" tvg-name="Nick Jr. 兒童頻道" tvg-logo="https://iptv.yang-1989.xyz/logo/Nick%20Jr.%20兒童頻道.webp" group-title="•台灣「Relay」",Nick Jr. 兒童頻道「4gTV」
+https://iptv.yang-1989.xyz/4gtv/wqg4f4.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="尼克兒童頻道" tvg-name="尼克兒童頻道" tvg-logo="https://iptv.yang-1989.xyz/logo/Nickelodeon.webp" group-title="•台灣「Relay」",尼克兒童頻道「4gTV」
+https://iptv.yang-1989.xyz/4gtv/t86yjr.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="Pet Club TV" tvg-name="Pet Club TV" tvg-logo="https://iptv.yang-1989.xyz/logo/Pet%20Club%20TV.webp" group-title="•台灣「Relay」",Pet Club TV「4gTV」
+https://iptv.yang-1989.xyz/4gtv/5s2gm2.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="LiveABC互動英語頻道" tvg-name="LiveABC互動英語頻道" tvg-logo="https://iptv.yang-1989.xyz/logo/LiveABC互動英語頻道.webp" group-title="•台灣「Relay」",LiveABC互動英語頻道「4gTV」
+https://iptv.yang-1989.xyz/4gtv/udbmk8.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="ELTV英語學習台" tvg-name="ELTV英語學習台" tvg-logo="https://iptv.yang-1989.xyz/logo/ELTV英語學習台.webp" group-title="•台灣「Relay」",ELTA生活英語「4gTV」
+https://iptv.yang-1989.xyz/4gtv/j8ypq4.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="達文西頻道" tvg-name="達文西頻道" tvg-logo="https://iptv.yang-1989.xyz/logo/達文西頻道.webp" group-title="•台灣「Relay」",達文西頻道「4gTV」
+https://iptv.yang-1989.xyz/4gtv/4vst4g.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="滾動力rollor" tvg-name="滾動力rollor" tvg-logo="https://iptv.yang-1989.xyz/logo/滾動力rollor.webp" group-title="•台灣「Relay」",滾動力rollor「4gTV」
+https://iptv.yang-1989.xyz/4gtv/zqq8ju.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="Global Trekker" tvg-name="Global Trekker" tvg-logo="https://iptv.yang-1989.xyz/logo/Global%20Trekker.webp" group-title="•台灣「Relay」",Global Trekker「4gTV」
+https://iptv.yang-1989.xyz/4gtv/dyvgvr.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="LUXE TV Channel" tvg-name="LUXE TV Channel" tvg-logo="https://iptv.yang-1989.xyz/logo/LUXE%20TV%20Channel.webp" group-title="•台灣「Relay」",LUXE TV Channel「4gTV」
+https://iptv.yang-1989.xyz/4gtv/hncd6x.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="getwin sport運動台" tvg-name="getwin sport運動台" tvg-logo="https://iptv.yang-1989.xyz/logo/getwin%20sport運動台.webp" group-title="•台灣「Relay」",Getwin Sports運動「4gTV」
+https://iptv.yang-1989.xyz/4gtv/ysdgwj.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="ABC Australia 澳洲公廣頻道" tvg-name="ABC Australia 澳洲公廣頻道" tvg-logo="https://iptv.yang-1989.xyz/logo/ABC%20Australia%20澳洲公廣頻道.webp" group-title="•台灣「Relay」",ABC Australia 澳洲公廣「4gTV」
+https://iptv.yang-1989.xyz/4gtv/whasys.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="wedotv Movies" tvg-name="wedotv Movies" tvg-logo="https://iptv.yang-1989.xyz/logo/wedotv%20Movies.webp" group-title="•台灣「Relay」",wedotv Movies「4gTV」
+https://iptv.yang-1989.xyz/4gtv/2gsbsw.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="OUTtv" tvg-name="OUTtv" tvg-logo="https://iptv.yang-1989.xyz/logo/OUTtv.webp" group-title="•台灣「Relay」",OUTtv「4gTV」
+https://iptv.yang-1989.xyz/4gtv/kw62sb.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="TV5MONDE STYLE 生活時尚" tvg-name="TV5MONDE STYLE 生活時尚" tvg-logo="https://iptv.yang-1989.xyz/logo/TV5MONDE%20STYLE%20生活時尚.webp" group-title="•台灣「Relay」",TV5MONDE STYLE 生活時尚「4gTV」
+https://iptv.yang-1989.xyz/4gtv/5nk8bg.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="幸福空間居家台" tvg-name="幸福空間居家台" tvg-logo="https://iptv.yang-1989.xyz/logo/幸福空間居家台.webp" group-title="•台灣「Relay」",幸福空間居家「4gTV」
+https://iptv.yang-1989.xyz/4gtv/dejadg.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="車迷TV" tvg-name="車迷TV" tvg-logo="https://iptv.yang-1989.xyz/logo/車迷TV.webp" group-title="•台灣「Relay」",車迷 TV「4gTV」
+https://iptv.yang-1989.xyz/4gtv/mjay3q.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="金光布袋戲" tvg-name="金光布袋戲" tvg-logo="https://iptv.yang-1989.xyz/logo/金光布袋戲.webp" group-title="•台灣「Relay」",金光布袋戲「4gTV」
+https://iptv.yang-1989.xyz/4gtv/cngz9c.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="原住民族電視台" tvg-name="原住民族電視台" tvg-logo="https://iptv.yang-1989.xyz/logo/原住民族電視台.webp" group-title="•台灣「Relay」",原住民族電視「4gTV」
+https://iptv.yang-1989.xyz/4gtv/9cg46p.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="客家電視台" tvg-name="客家電視台" tvg-logo="https://iptv.yang-1989.xyz/logo/客家電視台.webp" group-title="•台灣「Relay」",客家電視「4gTV」
+https://iptv.yang-1989.xyz/4gtv/qthfnz.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="人間衛視" tvg-name="人間衛視" tvg-logo="https://iptv.yang-1989.xyz/logo/人間衛視.webp" group-title="•台灣「Relay」",人間衛視「4gTV」
+https://iptv.yang-1989.xyz/4gtv/snvxan.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="大愛電視" tvg-name="大愛電視" tvg-logo="https://iptv.yang-1989.xyz/logo/大愛電視.webp" group-title="•台灣「Relay」",大愛電視「4gTV」
+https://iptv.yang-1989.xyz/4gtv/88ner5.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="大愛二台" tvg-name="大愛二台" tvg-logo="https://iptv.yang-1989.xyz/logo/大愛電視.webp" group-title="•台灣「Relay」",大愛電視 2「4gTV」
+https://iptv.yang-1989.xyz/4gtv/ra9qkg.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="好消息" tvg-name="好消息" tvg-logo="https://iptv.yang-1989.xyz/logo/好消息.webp" group-title="•台灣「Relay」",好消息 1「4gTV」
+https://iptv.yang-1989.xyz/4gtv/fe2egs.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://iptv.yang-1989.xyz/logo/好消息2台.webp" group-title="•台灣「Relay」",好消息 2「4gTV」
+https://iptv.yang-1989.xyz/4gtv/rckwb5.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="國會頻道1" tvg-name="國會頻道1" tvg-logo="https://iptv.yang-1989.xyz/logo/國會頻道1.webp" group-title="•台灣「Relay」",國會頻道 1「4gTV」
+https://iptv.yang-1989.xyz/4gtv/e54xgm.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="國會頻道2" tvg-name="國會頻道2" tvg-logo="https://iptv.yang-1989.xyz/logo/國會頻道2.webp" group-title="•台灣「Relay」",國會頻道 2「4gTV」
+https://iptv.yang-1989.xyz/4gtv/fsad6b.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="東森購物一台" tvg-name="東森購物一台" tvg-logo="https://iptv.yang-1989.xyz/logo/東森購物台.webp" group-title="•台灣「Relay」",東森購物 一「4gTV」
+https://iptv.yang-1989.xyz/4gtv/y8n637.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="東森購物二台" tvg-name="東森購物二台" tvg-logo="https://iptv.yang-1989.xyz/logo/東森購物台.webp" group-title="•台灣「Relay」",東森購物 二「4gTV」
+https://iptv.yang-1989.xyz/4gtv/8qbvxa.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="東森購物三台" tvg-name="東森購物三台" tvg-logo="https://iptv.yang-1989.xyz/logo/東森購物台.webp" group-title="•台灣「Relay」",東森購物 三「4gTV」
+https://iptv.yang-1989.xyz/4gtv/qt2wn4.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="東森購物四台" tvg-name="東森購物四台" tvg-logo="https://iptv.yang-1989.xyz/logo/東森購物台.webp" group-title="•台灣「Relay」",東森購物 四「4gTV」
+https://iptv.yang-1989.xyz/4gtv/e4patn.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="新唐人亞太台" tvg-name="新唐人亞太台" tvg-logo="https://iptv.yang-1989.xyz/logo/新唐人亞太台.webp" group-title="•台灣「Relay」",新唐人亞太「4gTV」
+https://iptv.yang-1989.xyz/4gtv/3b7cut.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://iptv.yang-1989.xyz/logo/龍華偶像台.webp" group-title="•台灣「Relay」",龍華偶像「ofiii」
+https://iptv.yang-1989.xyz/ofiii/4a8ken.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="龍華卡通台" tvg-name="龍華卡通台" tvg-logo="https://iptv.yang-1989.xyz/logo/龍華卡通台.webp" group-title="•台灣「Relay」",龍華卡通「ofiii」
+https://iptv.yang-1989.xyz/ofiii/3u6ctm.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="https://iptv.yang-1989.xyz/logo/龍華戲劇台.webp" group-title="•台灣「Relay」",龍華戲劇「ofiii」
+https://iptv.yang-1989.xyz/ofiii/dfktfp.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://iptv.yang-1989.xyz/logo/龍華日韓台.webp" group-title="•台灣「Relay」",龍華日韓「ofiii」
+https://iptv.yang-1989.xyz/ofiii/m3e7mc.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="龍華洋片台" tvg-name="龍華洋片台" tvg-logo="https://iptv.yang-1989.xyz/logo/龍華洋片台.webp" group-title="•台灣「Relay」",龍華洋片「ofiii」
+https://iptv.yang-1989.xyz/ofiii/t2mspb.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="龍華經典台" tvg-name="龍華經典台" tvg-logo="https://iptv.yang-1989.xyz/logo/龍華經典台.webp" group-title="•台灣「Relay」",龍華經典「ofiii」
+https://iptv.yang-1989.xyz/ofiii/pszd2h.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://iptv.yang-1989.xyz/logo/龍華電影台.webp" group-title="•台灣「Relay」",龍華電影「ofiii」
+https://iptv.yang-1989.xyz/ofiii/7jr8fv.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://iptv.yang-1989.xyz/logo/中天新聞台.webp" group-title="•台灣「Relay」",中天新聞「ofiii」
+https://iptv.yang-1989.xyz/ofiii/dr6hpx.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="台灣戲劇台" tvg-name="台灣戲劇台" tvg-logo="https://iptv.yang-1989.xyz/logo/台灣戲劇台.webp" group-title="•台灣「Relay」",台灣戲劇「ofiii」
+https://iptv.yang-1989.xyz/ofiii/6drh2s.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="DayStar" tvg-name="DayStar" tvg-logo="https://iptv.yang-1989.xyz/logo/DayStar.webp" group-title="•台灣「Relay」",DayStar「ofiii」
+https://iptv.yang-1989.xyz/ofiii/76nu5y.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="第1商業" tvg-name="第1商業" tvg-logo="https://iptv.yang-1989.xyz/logo/第1商業.webp" group-title="•台灣「Relay」",第1商業「ofiii」
+https://iptv.yang-1989.xyz/ofiii/mg26hb.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="Smart知識台" tvg-name="Smart知識台" tvg-logo="https://iptv.yang-1989.xyz/logo/Smart知識台.webp" group-title="•台灣「Relay」",Smart知識「ofiii」
+https://iptv.yang-1989.xyz/ofiii/3uv5r6.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://iptv.yang-1989.xyz/logo/翡翠台.webp" group-title="•港澳台「Juli」",翡翠台
+https://cdn.qd.je/163189/fct
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://iptv.yang-1989.xyz/logo/翡翠台.webp" group-title="•港澳台「Juli」",翡翠台 4K「字幕」
+https://cdn.qd.je/163189/fct4k
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://iptv.yang-1989.xyz/logo/翡翠台.webp" group-title="•港澳台「Juli」",翡翠台「字幕」
+https://cdn.qd.je/163189/fct2
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://iptv.yang-1989.xyz/logo/翡翠台.webp" group-title="•港澳台「Juli」",翡翠台「WebVTT字幕」
+https://cdn.qd.je/163189/fctvtt
+#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://iptv.yang-1989.xyz/logo/無綫新聞台.webp" group-title="•港澳台「Juli」",無綫新聞台
+https://cdn.qd.je/163189/wxxw
+#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://iptv.yang-1989.xyz/logo/無綫新聞台.webp" group-title="•港澳台「Juli」",無綫新聞台
+https://cdn.qd.je/163189/wxxwt
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://iptv.yang-1989.xyz/logo/明珠台.webp" group-title="•港澳台「Juli」",明珠台「字幕」
+https://cdn.qd.je/163189/mzt
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://iptv.yang-1989.xyz/logo/明珠台.webp" group-title="•港澳台「Juli」",明珠台「WebVTT字幕」
+https://cdn.qd.je/163189/mztvtt
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://iptv.yang-1989.xyz/logo/TVB%20Plus.webp" group-title="•港澳台「Juli」",TVB Plus
+https://cdn.qd.je/163189/tvbp2
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://iptv.yang-1989.xyz/logo/TVB%20Plus.webp" group-title="•港澳台「Juli」",TVB Plus「字幕」
+https://cdn.qd.je/163189/tvbp
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://iptv.yang-1989.xyz/logo/TVB%20Plus.webp" group-title="•港澳台「Juli」",TVB Plus「WebVTT字幕」
+https://cdn.qd.je/163189/tvbpvtt
+#EXTINF:-1 tvg-id="黃金華劇台" tvg-name="黃金華劇台" tvg-logo="https://iptv.yang-1989.xyz/logo/黃金華劇台.webp" group-title="•港澳台「Juli」",黃金華劇台「WebVTT字幕」
+https://cdn.qd.je/163189/hjhjt
+#EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" tvg-logo="https://iptv.yang-1989.xyz/logo/Now新聞台.webp" group-title="•港澳台「Juli」",Now新聞台
+https://cdn.qd.je/163189/now
+#EXTINF:-1 tvg-id="凤凰中文台" tvg-name="凤凰中文台" tvg-logo="https://iptv.yang-1989.xyz/logo/凤凰中文台.webp" group-title="•港澳台「Juli」",凤凰中文台
+https://cdn.qd.je/163189/fhzw
+#EXTINF:-1 tvg-id="凤凰资讯台" tvg-name="凤凰资讯台" tvg-logo="https://iptv.yang-1989.xyz/logo/凤凰资讯台.webp" group-title="•港澳台「Juli」",凤凰资讯台
+https://cdn.qd.je/163189/fhzx
+#EXTINF:-1 tvg-id="凤凰香港台" tvg-name="凤凰香港台" tvg-logo="https://iptv.yang-1989.xyz/logo/凤凰香港台.webp" group-title="•港澳台「Juli」",凤凰香港台
+https://cdn.qd.je/163189/fhhk
+#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://iptv.yang-1989.xyz/logo/HOY%20TV.webp" group-title="•港澳台「Juli」",HOY TV
+https://cdn.qd.je/163189/hoy
+#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://iptv.yang-1989.xyz/logo/HOY%20TV.webp" group-title="•港澳台「Juli」",HOY TV
+https://cdn.qd.je/163189/hoy2
+#EXTINF:-1 tvg-id="HOY 資訊台" tvg-name="HOY 資訊台" tvg-logo="https://iptv.yang-1989.xyz/logo/HOY%20資訊台.webp" group-title="•港澳台「Juli」",HOY 資訊台
+https://cdn.qd.je/163189/hoy78
+#EXTINF:-1 tvg-id="HOY 國際財經台" tvg-name="HOY 國際財經台" tvg-logo="https://iptv.yang-1989.xyz/logo/HOY%20國際財經台.webp" group-title="•港澳台「Juli」",HOY 國際財經台
+https://cdn.qd.je/163189/hoy76
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://iptv.yang-1989.xyz/logo/ViuTV.webp" group-title="•港澳台「Juli」",ViuTV
+https://cdn.qd.je/163189/viu
+#EXTINF:-1 tvg-id="ViuTVsix" tvg-name="ViuTVsix" tvg-logo="https://iptv.yang-1989.xyz/logo/ViuTVsix.webp" group-title="•港澳台「Juli」",ViuTVsix
+https://cdn.qd.je/163189/viu6
+#EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://iptv.yang-1989.xyz/logo/RTHK31.webp" group-title="•港澳台「Juli」",RTHK31
+https://cdn.qd.je/163189/rthk31
+#EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK32" tvg-logo="https://iptv.yang-1989.xyz/logo/RTHK32.webp" group-title="•港澳台「Juli」",RTHK32
+https://cdn.qd.je/163189/rthk32
+#EXTINF:-1 tvg-id="RTHK33" tvg-name="RTHK33" tvg-logo="https://iptv.yang-1989.xyz/logo/RTHK33.webp" group-title="•港澳台「Juli」",RTHK33
+https://cdn.qd.je/163189/rthk33
+#EXTINF:-1 tvg-id="千禧經典台" tvg-name="千禧經典台" tvg-logo="https://iptv.yang-1989.xyz/logo/千禧經典台.webp" group-title="•港澳台「Juli」",千禧經典台
+https://cdn.qd.je/163189/tvbc
+#EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娛樂新聞台" tvg-logo="https://iptv.yang-1989.xyz/logo/娛樂新聞台.webp" group-title="•港澳台「Juli」",娛樂新聞台
+https://cdn.qd.je/163189/ylxw
+#EXTINF:-1 tvg-id="TVB Jade" tvg-name="TVB Jade" tvg-logo="https://iptv.yang-1989.xyz/logo/翡翠台.webp" group-title="•港澳台「Juli」",华丽翡翠台
+https://cdn.qd.je/163189/hlt
+#EXTINF:-1 tvg-id="TVB Jade" tvg-name="TVB Jade" tvg-logo="https://iptv.yang-1989.xyz/logo/翡翠台.webp" group-title="•港澳台「Juli」",华丽翡翠台「硬字幕」
+https://cdn.qd.je/163189/jade
+#EXTINF:-1 tvg-id="TVB Jade" tvg-name="TVB Jade" tvg-logo="https://iptv.yang-1989.xyz/logo/翡翠台.webp" group-title="•港澳台「Juli」",华丽翡翠台「新加坡」
+https://cdn.qd.je/163189/hlfct
+#EXTINF:-1 tvg-id="TVB Jade" tvg-name="TVB Jade" tvg-logo="https://iptv.yang-1989.xyz/logo/翡翠台.webp" group-title="•港澳台「Juli」",华丽翡翠台「新加坡」
+https://cdn.qd.je/163189/jade2
+#EXTINF:-1 tvg-id="TVB1" tvg-name="TVB1" tvg-logo="https://iptv.yang-1989.xyz/logo/TVB.webp" group-title="•港澳台「Juli」",TVB1
+https://cdn.qd.je/163189/tvb1
+#EXTINF:-1 tvg-id="TVBJ1" tvg-name="TVBJ1" tvg-logo="https://iptv.yang-1989.xyz/logo/TVB.webp" group-title="•港澳台「Juli」",TVBJ1
+https://cdn.qd.je/163189/j1
+#EXTINF:-1 tvg-id="TVB Drama" tvg-name="TVB Drama" tvg-logo="https://iptv.yang-1989.xyz/logo/TVB%20Drama.webp" group-title="•港澳台「Juli」",TVB Drama
+https://cdn.qd.je/163189/tvbd
+#EXTINF:-1 tvg-id="TVB 功夫台" tvg-name="TVB 功夫台" tvg-logo="https://iptv.yang-1989.xyz/logo/TVB%20功夫台.webp" group-title="•港澳台「Juli」",TVB 功夫台
+https://cdn.qd.je/163189/yzwx
+#EXTINF:-1 tvg-id="TVB 星河台" tvg-name="TVB 星河台" tvg-logo="https://iptv.yang-1989.xyz/logo/TVB%20星河台.webp" group-title="•港澳台「Juli」",TVB 星河台
+https://cdn.qd.je/163189/tvbxh
+#EXTINF:-1 tvg-id="TVB 星河台" tvg-name="TVB 星河台" tvg-logo="https://iptv.yang-1989.xyz/logo/TVB%20星河台.webp" group-title="•港澳台「Juli」",TVB 星河台
+https://cdn.qd.je/163189/xinghe
+#EXTINF:-1 tvg-id="TVB 星河台" tvg-name="TVB 星河台" tvg-logo="https://iptv.yang-1989.xyz/logo/TVB%20星河台.webp" group-title="•港澳台「Juli」",TVB 星河台
+https://cdn.qd.je/163189/tvbxh2
+#EXTINF:-1 tvg-id="澳視澳門" tvg-name="澳視澳門" tvg-logo="https://iptv.yang-1989.xyz/logo/澳視澳門.webp" group-title="•港澳台「Juli」",澳視澳門
+https://cdn.qd.je/163189/asam
+#EXTINF:-1 tvg-id="澳門衛星" tvg-name="澳門衛星" tvg-logo="https://iptv.yang-1989.xyz/logo/澳門衛星.webp" group-title="•港澳台「Juli」",澳門衛星
+https://cdn.qd.je/163189/as
+#EXTINF:-1 tvg-id="澳門體育" tvg-name="澳門體育" tvg-logo="https://iptv.yang-1989.xyz/logo/澳門體育.webp" group-title="•港澳台「Juli」",澳門體育
+https://cdn.qd.je/163189/amty
+#EXTINF:-1 tvg-id="澳門綜藝" tvg-name="澳門綜藝" tvg-logo="https://iptv.yang-1989.xyz/logo/澳門綜藝.webp" group-title="•港澳台「Juli」",澳門綜藝
+https://cdn.qd.je/163189/amzy
+#EXTINF:-1 tvg-id="澳門蓮花衛視" tvg-name="澳門蓮花衛視" tvg-logo="https://iptv.yang-1989.xyz/logo/澳門蓮花衛視.webp" group-title="•港澳台「Juli」",澳門蓮花
+https://cdn.qd.je/163189/amlh
+#EXTINF:-1 tvg-id="天映頻道新加坡" tvg-name="天映頻道新加坡" tvg-logo="https://iptv.yang-1989.xyz/logo/天映頻道.webp" group-title="•港澳台「Juli」",天映頻道「新加坡」
+https://cdn.qd.je/163189/typd
+#EXTINF:-1 tvg-id="天映經典新加坡" tvg-name="天映經典新加坡" tvg-logo="https://iptv.yang-1989.xyz/logo/天映經典頻道.webp" group-title="•港澳台「Juli」",天映經典「新加坡」
+https://cdn.qd.je/163189/ccm
+#EXTINF:-1 tvg-id="天映頻道馬來西亞" tvg-name="天映頻道馬來西亞" tvg-logo="https://iptv.yang-1989.xyz/logo/天映頻道.webp" group-title="•港澳台「Juli」",天映頻道「馬來西亞」
+https://cdn.qd.je/163189/typd2
+#EXTINF:-1 tvg-id="天映經典馬來西亞" tvg-name="天映經典馬來西亞" tvg-logo="https://iptv.yang-1989.xyz/logo/天映經典頻道.webp" group-title="•港澳台「Juli」",天映經典「馬來西亞」
+https://cdn.qd.je/163189/ccm2
+#EXTINF:-1 tvg-id="Astro AOD" tvg-name="Astro AOD" tvg-logo="https://iptv.yang-1989.xyz/logo/Astro%20AOD.webp" group-title="•港澳台「Juli」",Astro AOD
+https://cdn.qd.je/163189/aod
+#EXTINF:-1 tvg-id="Astro 歡喜台" tvg-name="Astro 歡喜台" tvg-logo="https://iptv.yang-1989.xyz/logo/Astro%20歡喜台.webp" group-title="•港澳台「Juli」",Astro 歡喜台
+https://cdn.qd.je/163189/hxt
+#EXTINF:-1 tvg-id="iQIYI" tvg-name="iQIYI" tvg-logo="https://iptv.yang-1989.xyz/logo/iQIYI.webp" group-title="•港澳台「Juli」",iQIYI
+https://cdn.qd.je/163189/iqiyi
+#EXTINF:-1 tvg-id="八度空間" tvg-name="八度空間" tvg-logo="https://iptv.yang-1989.xyz/logo/八度空間.webp" group-title="•港澳台「Juli」",八度空間
+https://cdn.qd.je/163189/8tv
+#EXTINF:-1 tvg-id="Channel 5" tvg-name="Channel 5" tvg-logo="https://iptv.yang-1989.xyz/logo/Channel%205.webp" group-title="•港澳台「Juli」",Channel 5
+https://cdn.qd.je/163189/ch5
+#EXTINF:-1 tvg-id="Channel 8" tvg-name="Channel 8" tvg-logo="https://iptv.yang-1989.xyz/logo/Channel%208.webp" group-title="•港澳台「Juli」",Channel 8
+https://cdn.qd.je/163189/ch8
+#EXTINF:-1 tvg-id="Channel U" tvg-name="Channel U" tvg-logo="https://iptv.yang-1989.xyz/logo/Channel%20U.webp" group-title="•港澳台「Juli」",Channel U
+https://cdn.qd.je/163189/chu
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV1.webp" group-title="•港澳台「Juli」",CCTV1
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv1
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV2" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV2.webp" group-title="•港澳台「Juli」",CCTV2
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv2
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV3.webp" group-title="•港澳台「Juli」",CCTV3
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv3
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV4.webp" group-title="•港澳台「Juli」",CCTV4
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv4
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV5.webp" group-title="•港澳台「Juli」",CCTV5
+https://cdn.qd.je/163189/cctv5
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV5.webp" group-title="•港澳台「Juli」",CCTV5
+https://cdn.qd.je/163189/cctv5-2
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV5%2B.webp" group-title="•港澳台「Juli」",CCTV5+
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV5%2B.webp" group-title="•港澳台「Juli」",CCTV5+
+https://cdn.qd.je/163189/cctv5p-2
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV6.webp" group-title="•港澳台「Juli」",CCTV6
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv6
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV7.webp" group-title="•港澳台「Juli」",CCTV7
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv7
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV8.webp" group-title="•港澳台「Juli」",CCTV8
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV9.webp" group-title="•港澳台「Juli」",CCTV9
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv9
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV10.webp" group-title="•港澳台「Juli」",CCTV10
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv10
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV11.webp" group-title="•港澳台「Juli」",CCTV11
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv11
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV12.webp" group-title="•港澳台「Juli」",CCTV12
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv12
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV13.webp" group-title="•港澳台「Juli」",CCTV13
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv13
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV13.webp" group-title="•港澳台「Juli」",CCTV13
+https://cdn.qd.je/163189/cctv13-2
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV14.webp" group-title="•港澳台「Juli」",CCTV14
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv14
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV15.webp" group-title="•港澳台「Juli」",CCTV15
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv15
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV16.webp" group-title="•港澳台「Juli」",CCTV16
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv16
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV16.webp" group-title="•港澳台「Juli」",CCTV16
+https://cdn.qd.je/163189/cctv16-2
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV17.webp" group-title="•港澳台「Juli」",CCTV17
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv17
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://iptv.yang-1989.xyz/logo/五星体育.webp" group-title="•港澳台「Juli」",五星体育
+https://cdn.qd.je/163189/wxty
+#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://iptv.yang-1989.xyz/logo/重温经典.webp" group-title="•港澳台「Juli」",重温经典
+https://cdn.qd.je/163189/cwjd2
+#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://iptv.yang-1989.xyz/logo/重温经典.webp" group-title="•港澳台「Juli」",重温经典
+https://cdn.qd.je/163189/cwjd
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://iptv.yang-1989.xyz/logo/广东珠江.webp" group-title="•港澳台「Juli」",广东珠江
+https://cdn.qd.je/163189/gdzj
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://iptv.yang-1989.xyz/logo/广东体育.webp" group-title="•港澳台「Juli」",广东体育
+https://cdn.qd.je/163189/gdty
+#EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://iptv.yang-1989.xyz/logo/广州综合.webp" group-title="•港澳台「Juli」",广州综合
+https://cdn.qd.je/163189/gzzh
+#EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://iptv.yang-1989.xyz/logo/广州新闻.webp" group-title="•港澳台「Juli」",广州新闻
+https://cdn.qd.je/163189/gzxw
+#EXTINF:-1 tvg-id="南国都市4K" tvg-name="南国都市4K" tvg-logo="https://iptv.yang-1989.xyz/logo/南国都市4K.webp" group-title="•港澳台「Juli」",广州南国都市
+https://cdn.qd.je/163189/ngds
+#EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/海峡卫视.webp" group-title="•港澳台「Juli」",海峡卫视
+https://cdn.qd.je/163189/hxws
+#EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/海峡卫视.webp" group-title="•港澳台「Juli」",海峡卫视
+https://cdn.qd.je/163189/hxws2
+#EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://iptv.yang-1989.xyz/logo/龍華電影台.webp" group-title="•港澳台「Juli」",龍華電影台
+https://cdn.qd.je/163189/lhdy
+#EXTINF:-1 tvg-id="龍華經典台" tvg-name="龍華經典台" tvg-logo="https://iptv.yang-1989.xyz/logo/龍華經典台.webp" group-title="•港澳台「Juli」",龍華經典台
+https://cdn.qd.je/163189/lhjd
+#EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://iptv.yang-1989.xyz/logo/龍華偶像台.webp" group-title="•港澳台「Juli」",龍華偶像台
+https://cdn.qd.je/163189/lhox
+#EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://iptv.yang-1989.xyz/logo/龍華日韓台.webp" group-title="•港澳台「Juli」",龍華日韓台
+https://cdn.qd.je/163189/lhrh
+#EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="https://iptv.yang-1989.xyz/logo/龍華戲劇台.webp" group-title="•港澳台「Juli」",龍華戲劇台
+https://cdn.qd.je/163189/lhxj
+#EXTINF:-1 tvg-id="龍華洋片台" tvg-name="龍華洋片台" tvg-logo="https://iptv.yang-1989.xyz/logo/龍華洋片台.webp" group-title="•港澳台「Juli」",龍華洋片台
+https://cdn.qd.je/163189/lhyp
+#EXTINF:-1 tvg-id="龍華卡通台" tvg-name="龍華卡通台" tvg-logo="https://iptv.yang-1989.xyz/logo/龍華卡通台.webp" group-title="•港澳台「Juli」",龍華卡通台
+https://cdn.qd.je/163189/lhkt
+#EXTINF:-1 tvg-id="金光布袋戲" tvg-name="金光布袋戲" tvg-logo="https://iptv.yang-1989.xyz/logo/金光布袋戲.webp" group-title="•港澳台「Juli」",金光布袋戲
+https://cdn.qd.je/163189/jgbdx
+#EXTINF:-1 tvg-id="金光布袋戲" tvg-name="金光布袋戲" tvg-logo="https://iptv.yang-1989.xyz/logo/金光布袋戲.webp" group-title="•港澳台「Juli」",金光布袋戲
+https://cdn.qd.je/163189/jgbdx2
+#EXTINF:-1 tvg-id="民視影劇台" tvg-name="民視影劇台" tvg-logo="https://iptv.yang-1989.xyz/logo/民視影劇台.webp" group-title="•港澳台「Juli」",民視影劇台
+https://cdn.qd.je/163189/msyj
+#EXTINF:-1 tvg-id="公視戲劇" tvg-name="公視戲劇" tvg-logo="https://iptv.yang-1989.xyz/logo/公視戲劇.webp" group-title="•港澳台「Juli」",公視戲劇
+https://cdn.qd.je/163189/gsxj
+#EXTINF:-1 tvg-id="采昌影劇台" tvg-name="采昌影劇台" tvg-logo="https://iptv.yang-1989.xyz/logo/采昌影劇台.webp" group-title="•港澳台「Juli」",采昌影劇台
+https://cdn.qd.je/163189/ccyj
+#EXTINF:-1 tvg-id="靖天映畫" tvg-name="靖天映畫" tvg-logo="https://iptv.yang-1989.xyz/logo/靖天映畫.webp" group-title="•港澳台「Juli」",靖天映畫
+https://cdn.qd.je/163189/jtyh
+#EXTINF:-1 tvg-id="靖天戲劇台" tvg-name="靖天戲劇台" tvg-logo="https://iptv.yang-1989.xyz/logo/靖天戲劇台.webp" group-title="•港澳台「Juli」",靖天戲劇台
+https://cdn.qd.je/163189/jtxj
+#EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天電影台" tvg-logo="https://iptv.yang-1989.xyz/logo/靖天電影台.webp" group-title="•港澳台「Juli」",靖天電影台
+https://cdn.qd.je/163189/jtdy
+#EXTINF:-1 tvg-id="靖洋戲劇台" tvg-name="靖洋戲劇台" tvg-logo="https://iptv.yang-1989.xyz/logo/靖洋戲劇台.webp" group-title="•港澳台「Juli」",靖洋戲劇台
+https://cdn.qd.je/163189/jyxj
+#EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台" tvg-logo="https://iptv.yang-1989.xyz/logo/影迷數位電影台.webp" group-title="•港澳台「Juli」",影迷數位電影台
+https://cdn.qd.je/163189/ymswdyt
+#EXTINF:-1 tvg-id="amc電影台" tvg-name="amc電影台" tvg-logo="https://iptv.yang-1989.xyz/logo/amc電影台.webp" group-title="•港澳台「Juli」",amc電影台
+https://cdn.qd.je/163189/amc
+#EXTINF:-1 tvg-id="CinemaWorld" tvg-name="CinemaWorld" tvg-logo="https://iptv.yang-1989.xyz/logo/CinemaWorld.webp" group-title="•港澳台「Juli」",CinemaWorld
+https://cdn.qd.je/163189/cinemaworld
+#EXTINF:-1 tvg-id="My Cinema Europe 我的歐洲電影" tvg-name="My Cinema Europe 我的歐洲電影" tvg-logo="https://iptv.yang-1989.xyz/logo/My%20Cinema%20Europe%20我的歐洲電影.webp" group-title="•港澳台「Juli」",MCE 我的歐洲電影
+https://cdn.qd.je/163189/mce
+#EXTINF:-1 tvg-id="經典電影台" tvg-name="經典電影台" tvg-logo="https://iptv.yang-1989.xyz/logo/經典電影台.webp" group-title="•港澳台「Juli」",經典電影台
+https://cdn.qd.je/163189/jddyt
+#EXTINF:-1 tvg-id="電影原聲台CMusic" tvg-name="電影原聲台CMusic" tvg-logo="https://iptv.yang-1989.xyz/logo/電影原聲台CMusic.webp" group-title="•港澳台「Juli」",電影原聲台CMusic
+https://cdn.qd.je/163189/cmusic
+#EXTINF:-1 tvg-id="DreamWorks 夢工廠動畫" tvg-name="DreamWorks 夢工廠動畫" tvg-logo="https://iptv.yang-1989.xyz/logo/DreamWorks%20夢工廠動畫.webp" group-title="•港澳台「Juli」",DreamWorks 夢工廠動畫
+https://cdn.qd.je/163189/dreamworks
+#EXTINF:-1 tvg-id="精選動漫台" tvg-name="精選動漫台" tvg-logo="https://iptv.yang-1989.xyz/logo/精選動漫台.webp" group-title="•港澳台「Juli」",精選動漫台
+https://cdn.qd.je/163189/jxdmt
+#EXTINF:-1 tvg-id="緯來電影台" tvg-name="緯來電影台" tvg-logo="https://iptv.yang-1989.xyz/logo/緯來電影台.webp" group-title="•港澳台「Juli」",緯來電影台
+https://cdn.qd.je/163189/wldy
+#EXTINF:-1 tvg-id="緯來戲劇台" tvg-name="緯來戲劇台" tvg-logo="https://iptv.yang-1989.xyz/logo/緯來戲劇台.webp" group-title="•港澳台「Juli」",緯來戲劇台
+https://cdn.qd.je/163189/wlxj
+#EXTINF:-1 tvg-id="緯來體育台" tvg-name="緯來體育台" tvg-logo="https://iptv.yang-1989.xyz/logo/緯來體育台.webp" group-title="•港澳台「Juli」",緯來體育台
+https://cdn.qd.je/163189/wlty
+#EXTINF:-1 tvg-id="龍祥時代" tvg-name="龍祥時代" tvg-logo="https://iptv.yang-1989.xyz/logo/龍祥時代.webp" group-title="•港澳台「Juli」",龍祥時代
+https://cdn.qd.je/163189/lxsd
+#EXTINF:-1 tvg-id="東森電影台" tvg-name="東森電影台" tvg-logo="https://iptv.yang-1989.xyz/logo/東森電影台.webp" group-title="•港澳台「Juli」",東森電影台
+https://cdn.qd.je/163189/dsdy
+#EXTINF:-1 tvg-id="東森戲劇台" tvg-name="東森戲劇台" tvg-logo="https://iptv.yang-1989.xyz/logo/東森戲劇台.webp" group-title="•港澳台「Juli」",東森戲劇台
+https://cdn.qd.je/163189/dsxj
+#EXTINF:-1 tvg-id="東森洋片台" tvg-name="東森洋片台" tvg-logo="https://iptv.yang-1989.xyz/logo/東森洋片台.webp" group-title="•港澳台「Juli」",東森洋片台
+https://cdn.qd.je/163189/dsyp
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://iptv.yang-1989.xyz/logo/咪视界4K.webp" group-title="•咪視「Relay」",咪視界 𝟜𝕂-𝟙「Relay」
+https://iptv.yang-1989.xyz/migu/s6m7s5.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://iptv.yang-1989.xyz/logo/咪视界4K.webp" group-title="•咪視「Relay」",咪視界 𝟜𝕂-𝟚「Relay」
+https://iptv.yang-1989.xyz/migu/xxuwt8.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+#EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://iptv.yang-1989.xyz/logo/睛彩广场舞.webp" group-title="•咪視「Relay」",睛彩广场舞「Relay」
+https://migu.yang-1989.xyz/migu/u385ak.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="睛彩少年" tvg-name="睛彩青少" tvg-logo="https://iptv.yang-1989.xyz/logo/睛彩青少.webp" group-title="•咪視「Relay」",睛彩青少「Relay」
+https://migu.yang-1989.xyz/migu/sqk3gg.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://iptv.yang-1989.xyz/logo/睛彩竞技.webp" group-title="•咪視「Relay」",睛彩竞技「Relay」
+https://migu.yang-1989.xyz/migu/7znqu3.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://iptv.yang-1989.xyz/logo/睛彩篮球.webp" group-title="•咪視「Relay」",睛彩篮球「Relay」
+https://migu.yang-1989.xyz/migu/td8hbh.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://iptv.yang-1989.xyz/logo/咪视界.webp" group-title="•咪視「Relay」",咪視界 𝟙「Relay」
+https://migu.yang-1989.xyz/migu/9w9xru.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://iptv.yang-1989.xyz/logo/咪视界.webp" group-title="•咪視「Relay」",咪視界 𝟚「Relay」
+https://migu.yang-1989.xyz/migu/ay2avf.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://iptv.yang-1989.xyz/logo/咪视界.webp" group-title="•咪視「Relay」",咪視界 𝟛「Relay」
+https://migu.yang-1989.xyz/migu/y9x3cc.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://iptv.yang-1989.xyz/logo/咪视界.webp" group-title="•咪視「Relay」",咪視界 𝟜「Relay」
+https://migu.yang-1989.xyz/migu/gs3nh3.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://iptv.yang-1989.xyz/logo/咪视界.webp" group-title="•咪視「Relay」",咪視界 𝟝「Relay」
+https://migu.yang-1989.xyz/migu/dqsaxx.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://iptv.yang-1989.xyz/logo/咪视界.webp" group-title="•咪視「Relay」",咪視界 𝟞「Relay」
+https://migu.yang-1989.xyz/migu/wjtzt3.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://iptv.yang-1989.xyz/logo/咪视界.webp" group-title="•咪視「Relay」",咪視界 𝟟「Relay」
+https://migu.yang-1989.xyz/migu/34c4wt.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://iptv.yang-1989.xyz/logo/咪视界.webp" group-title="•咪視「Relay」",咪視界 𝟠「Relay」
+https://migu.yang-1989.xyz/migu/yd7t4q.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://iptv.yang-1989.xyz/logo/咪视界.webp" group-title="•咪視「Relay」",咪視界 𝟡「Relay」
+https://migu.yang-1989.xyz/migu/heqgz8.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://iptv.yang-1989.xyz/logo/咪视界.webp" group-title="•咪視「Relay」",咪視界 𝟙𝟘「Relay」
+https://migu.yang-1989.xyz/migu/r5ybz2.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://iptv.yang-1989.xyz/logo/咪视界.webp" group-title="•咪視「Relay」",咪視界 𝟙𝟙「Relay」
+https://migu.yang-1989.xyz/migu/2pzqtp.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://iptv.yang-1989.xyz/logo/咪视界.webp" group-title="•咪視「Relay」",咪視界 𝟙𝟚「Relay」
+https://migu.yang-1989.xyz/migu/2z9g5z.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://iptv.yang-1989.xyz/logo/咪视界.webp" group-title="•咪視「Relay」",咪視界 𝟙𝟛「Relay」
+https://migu.yang-1989.xyz/migu/6mjfhm.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://iptv.yang-1989.xyz/logo/咪视界.webp" group-title="•咪視「Relay」",咪視界 𝟙𝟜「Relay」
+https://migu.yang-1989.xyz/migu/qwyshy.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://iptv.yang-1989.xyz/logo/咪视界.webp" group-title="•咪視「Relay」",咪視界 𝟙𝟝「Relay」
+https://migu.yang-1989.xyz/migu/sfc25c.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://iptv.yang-1989.xyz/logo/咪视界.webp" group-title="•咪視「Relay」",咪視界 𝟙𝟞「Relay」
+https://migu.yang-1989.xyz/migu/auvd42.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://iptv.yang-1989.xyz/logo/咪视界.webp" group-title="•咪視「Relay」",咪視界 𝟙𝟟「Relay」
+https://migu.yang-1989.xyz/migu/7avymh.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://iptv.yang-1989.xyz/logo/咪视界.webp" group-title="•咪視「Relay」",咪視界 𝟙𝟠「Relay」
+https://migu.yang-1989.xyz/migu/n8hwrf.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://iptv.yang-1989.xyz/logo/咪视界.webp" group-title="•咪視「Relay」",咪視界 𝟙𝟡「Relay」
+https://migu.yang-1989.xyz/migu/d3tqgp.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://iptv.yang-1989.xyz/logo/咪视界.webp" group-title="•咪視「Relay」",咪視界 𝟚𝟘「Relay」
+https://migu.yang-1989.xyz/migu/vv45ex.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://iptv.yang-1989.xyz/logo/咪视界.webp" group-title="•咪視「Relay」",咪視界 𝟚𝟙「Relay」
+https://migu.yang-1989.xyz/migu/88td9m.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://iptv.yang-1989.xyz/logo/咪视界.webp" group-title="•咪視「Relay」",咪視界 𝟚𝟚「Relay」
+https://migu.yang-1989.xyz/migu/apc6qz.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://iptv.yang-1989.xyz/logo/咪视界.webp" group-title="•咪視「Relay」",咪視界 𝟚𝟛「Relay」
+https://migu.yang-1989.xyz/migu/q765bt.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://iptv.yang-1989.xyz/logo/咪视界.webp" group-title="•咪視「Relay」",咪視界 𝟚𝟜「Relay」
+https://migu.yang-1989.xyz/migu/ndezhp.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://iptv.yang-1989.xyz/logo/咪视界.webp" group-title="•咪視「Relay」",咪視界 𝟚𝟝「Relay」
+https://migu.yang-1989.xyz/migu/ag5kg2.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://iptv.yang-1989.xyz/logo/咪视界.webp" group-title="•咪視「Relay」",咪視界 𝟚𝟞「Relay」
+https://migu.yang-1989.xyz/migu/rqa5vb.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://iptv.yang-1989.xyz/logo/咪视界.webp" group-title="•咪視「Relay」",咪視界 𝟚𝟟「Relay」
+https://migu.yang-1989.xyz/migu/zcapzm.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://iptv.yang-1989.xyz/logo/咪视界.webp" group-title="•咪視「Relay」",咪視界 𝟚𝟠「Relay」
+https://migu.yang-1989.xyz/migu/zmpkca.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://iptv.yang-1989.xyz/logo/咪视界.webp" group-title="•咪視「Relay」",咪視界 𝟚𝟡「Relay」
+https://migu.yang-1989.xyz/migu/dkvs5u.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://iptv.yang-1989.xyz/logo/咪视界.webp" group-title="•咪視「Relay」",咪視界 𝟛𝟘「Relay」
+https://migu.yang-1989.xyz/migu/4tvc2u.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://iptv.yang-1989.xyz/logo/咪视界.webp" group-title="•咪視「Relay」",咪視界 𝟛𝟙「Relay」
+https://migu.yang-1989.xyz/migu/5y3v79.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://iptv.yang-1989.xyz/logo/咪视界.webp" group-title="•咪視「Relay」",咪視界 𝟛𝟚「Relay」
+https://migu.yang-1989.xyz/migu/j9xfgd.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://iptv.yang-1989.xyz/logo/咪视界.webp" group-title="•咪視「Relay」",咪視界 𝟛𝟛「Relay」
+https://migu.yang-1989.xyz/migu/tf9vsf.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://iptv.yang-1989.xyz/logo/咪视界.webp" group-title="•咪視「Relay」",咪視界 𝟛𝟜「Relay」
+https://migu.yang-1989.xyz/migu/n5vbye.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://iptv.yang-1989.xyz/logo/咪视界.webp" group-title="•咪視「Relay」",咪視界 𝟛𝟝「Relay」
+https://migu.yang-1989.xyz/migu/8dhzfe.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://iptv.yang-1989.xyz/logo/咪视界.webp" group-title="•咪視「Relay」",咪視界 𝟛𝟞「Relay」
+https://migu.yang-1989.xyz/migu/8psd5e.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://iptv.yang-1989.xyz/logo/BBC%20Earth.webp" group-title="•綜合「Relay」",BBC Earth
+https://migu.yang-1989.xyz/comp/rqf9bx.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="BBC Lifestyle" tvg-name="BBC Lifestyle" tvg-logo="https://iptv.yang-1989.xyz/logo/BBC%20Lifestyle.webp" group-title="•綜合「Relay」",BBC Lifestyle
+https://migu.yang-1989.xyz/comp/7qt7vf.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://iptv.yang-1989.xyz/logo/Discovery.webp" group-title="•綜合「Relay」",Discovery
+https://migu.yang-1989.xyz/comp/uz5x69.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://iptv.yang-1989.xyz/logo/HBO%20HD.webp" group-title="•綜合「Relay」",HBO
+https://migu.yang-1989.xyz/comp/kcnuwt.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-logo="https://iptv.yang-1989.xyz/logo/HBO%20Hits.webp" group-title="•綜合「Relay」",HBO Hits
+https://migu.yang-1989.xyz/comp/y5vdeq.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://iptv.yang-1989.xyz/logo/HBO%20Family.webp" group-title="•綜合「Relay」",HBO Family
+https://migu.yang-1989.xyz/comp/pv9vpn.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="https://iptv.yang-1989.xyz/logo/HBO%20Signature.webp" group-title="•綜合「Relay」",HBO Signature
+https://migu.yang-1989.xyz/comp/ysybhs.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="Channel 5" tvg-name="Channel 5" tvg-logo="https://iptv.yang-1989.xyz/logo/Channel%205.webp" group-title="•綜合「Relay」",Channel 5
+https://migu.yang-1989.xyz/comp/ehw4wy.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="Channel 8" tvg-name="Channel 8" tvg-logo="https://iptv.yang-1989.xyz/logo/Channel%208.webp" group-title="•綜合「Relay」",Channel 8
+https://migu.yang-1989.xyz/comp/atwmem.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="Channel U" tvg-name="Channel U" tvg-logo="https://iptv.yang-1989.xyz/logo/Channel%20U.webp" group-title="•綜合「Relay」",Channel U
+https://migu.yang-1989.xyz/comp/52eggc.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://iptv.yang-1989.xyz/logo/%E4%B8%AD%E5%A4%A9%E4%BA%9E%E6%B4%B2%E5%8F%B0.webp" group-title="•綜合「Relay」",中天亞洲
+https://migu.yang-1989.xyz/comp/mjhz6r.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="FIGHT SPORTS" tvg-name="FIGHT SPORTS" tvg-logo="https://iptv.yang-1989.xyz/logo/FIGHT%20SPORTS.webp" group-title="•體育「Relay」",FIGHT SPORTS
+https://migu.yang-1989.xyz/sprt/h3278b.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV" tvg-logo="https://iptv.yang-1989.xyz/logo/SPOTV.webp" group-title="•體育「Relay」",SPOTV
+https://migu.yang-1989.xyz/sprt/y3jyjs.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="SPOTV 2" tvg-name="SPOTV 2" tvg-logo="https://iptv.yang-1989.xyz/logo/SPOTV%202.webp" group-title="•體育「Relay」",SPOTV 2
+https://migu.yang-1989.xyz/sprt/wdaymn.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="https://iptv.yang-1989.xyz/logo/Eurosport%201.webp" group-title="•體育「Relay」",Eurosport 1
+https://migu.yang-1989.xyz/sprt/vfjtxb.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="https://iptv.yang-1989.xyz/logo/Eurosport%202.webp" group-title="•體育「Relay」",Eurosport 2
+https://migu.yang-1989.xyz/sprt/n89v5h.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="TNT Sports 1" tvg-name="TNT Sports 1" tvg-logo="https://iptv.yang-1989.xyz/logo/TNT%20Sports%201.webp" group-title="•體育「Relay」",TNT Sport 1
+https://migu.yang-1989.xyz/sprt/m9uh29.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="TNT Sports 2" tvg-name="TNT Sports 2" tvg-logo="https://iptv.yang-1989.xyz/logo/TNT%20Sports%202.webp" group-title="•體育「Relay」",TNT Sport 2
+https://migu.yang-1989.xyz/sprt/kznd25.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="TNT Sports 3" tvg-name="TNT Sports 3" tvg-logo="https://iptv.yang-1989.xyz/logo/TNT%20Sports%203.webp" group-title="•體育「Relay」",TNT Sport 3
+https://migu.yang-1989.xyz/sprt/mp9vfj.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="TNT Sports 4" tvg-name="TNT Sports 4" tvg-logo="https://iptv.yang-1989.xyz/logo/TNT%20Sports%204.webp" group-title="•體育「Relay」",TNT Sport 4
+https://migu.yang-1989.xyz/sprt/zr4h8t.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="beIN Sports 1" tvg-name="beIN Sports 1" tvg-logo="https://iptv.yang-1989.xyz/logo/beIN%20Sports%201.webp" group-title="•體育「Relay」",beIN Sports 1
+https://migu.yang-1989.xyz/sprt/x2sjqb.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="beIN Sports 2" tvg-name="beIN Sports 2" tvg-logo="https://iptv.yang-1989.xyz/logo/beIN%20Sports%202.webp" group-title="•體育「Relay」",beIN Sports 2
+https://migu.yang-1989.xyz/sprt/xmxxh5.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="beIN Sports 3" tvg-name="beIN Sports 3" tvg-logo="https://iptv.yang-1989.xyz/logo/beIN%20Sports%203.webp" group-title="•體育「Relay」",beIN Sports 3
+https://migu.yang-1989.xyz/sprt/qrtk66.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="beIN Sports 4" tvg-name="beIN Sports 4" tvg-logo="https://iptv.yang-1989.xyz/logo/beIN%20Sports%204.webp" group-title="•體育「Relay」",beIN Sports 4
+https://migu.yang-1989.xyz/sprt/yyx3en.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="beIN Sports 5" tvg-name="beIN Sports 5" tvg-logo="https://iptv.yang-1989.xyz/logo/beIN%20Sports%205.webp" group-title="•體育「Relay」",beIN Sports 5
+https://migu.yang-1989.xyz/sprt/ytq8w7.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="Hub Premier 1" tvg-name="Hub Premier 1" tvg-logo="https://iptv.yang-1989.xyz/logo/Hub%20Premier%201.webp" group-title="•體育「Relay」",Hub Premier 1
+https://migu.yang-1989.xyz/sprt/5x89q6.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="Hub Premier 2" tvg-name="Hub Premier 2" tvg-logo="https://iptv.yang-1989.xyz/logo/Hub%20Premier%202.webp" group-title="•體育「Relay」",Hub Premier 2 UHD
+https://migu.yang-1989.xyz/sprt/syvsqc.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="Hub Premier 3" tvg-name="Hub Premier 3" tvg-logo="https://iptv.yang-1989.xyz/logo/Hub%20Premier%203.webp" group-title="•體育「Relay」",Hub Premier 3
+https://migu.yang-1989.xyz/sprt/m36gzn.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="Hub Premier 4" tvg-name="Hub Premier 4" tvg-logo="https://iptv.yang-1989.xyz/logo/Hub%20Premier%204.webp" group-title="•體育「Relay」",Hub Premier 4
+https://migu.yang-1989.xyz/sprt/ggu82b.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="Hub Premier 5" tvg-name="Hub Premier 5" tvg-logo="https://iptv.yang-1989.xyz/logo/Hub%20Premier%205.webp" group-title="•體育「Relay」",Hub Premier 5
+https://migu.yang-1989.xyz/sprt/qtj8f9.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="Hub Premier 6" tvg-name="Hub Premier 6" tvg-logo="https://iptv.yang-1989.xyz/logo/Hub%20Premier%206.webp" group-title="•體育「Relay」",Hub Premier 6
+https://migu.yang-1989.xyz/sprt/f8phzj.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="Hub Sports 1" tvg-name="Hub Sports 1" tvg-logo="https://iptv.yang-1989.xyz/logo/Hub%20Sports%201.webp" group-title="•體育「Relay」",Hub Sports 1
+https://migu.yang-1989.xyz/sprt/8rkhxn.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="Hub Sports 2" tvg-name="Hub Sports 2" tvg-logo="https://iptv.yang-1989.xyz/logo/Hub%20Sports%202.webp" group-title="•體育「Relay」",Hub Sports 2
+https://migu.yang-1989.xyz/sprt/a89jc6.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="Hub Sports 3" tvg-name="Hub Sports 3" tvg-logo="https://iptv.yang-1989.xyz/logo/Hub%20Sports%203.webp" group-title="•體育「Relay」",Hub Sports 3
+https://migu.yang-1989.xyz/sprt/mjy6s3.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="Hub Sports 4" tvg-name="Hub Sports 4" tvg-logo="https://iptv.yang-1989.xyz/logo/Hub%20Sports%204.webp" group-title="•體育「Relay」",Hub Sports 4
+https://migu.yang-1989.xyz/sprt/jym8d8.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="Hub Sports 5" tvg-name="Hub Sports 5" tvg-logo="https://iptv.yang-1989.xyz/logo/Hub%20Sports%205.webp" group-title="•體育「Relay」",Hub Sports 5
+https://migu.yang-1989.xyz/sprt/v6cdbg.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="Hub Sports 6" tvg-name="Hub Sports 6" tvg-logo="https://iptv.yang-1989.xyz/logo/Hub%20Sports%206.webp" group-title="•體育「Relay」",Hub Sports 6
+https://migu.yang-1989.xyz/sprt/nq98nu.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="Hub Sports 7" tvg-name="Hub Sports 7" tvg-logo="https://iptv.yang-1989.xyz/logo/Hub%20Sports%207.webp" group-title="•體育「Relay」",Hub Sports 7
+https://migu.yang-1989.xyz/sprt/qmxsrr.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="Hub Sports 8" tvg-name="Hub Sports 8" tvg-logo="https://iptv.yang-1989.xyz/logo/Hub%20Sports%208.webp" group-title="•體育「Relay」",Hub Sports 8
+https://migu.yang-1989.xyz/sprt/9eh7sx.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="TSN 1" tvg-name="TSN 1" tvg-logo="https://iptv.yang-1989.xyz/logo/TSN%201.webp" group-title="•體育「Relay」",TSN 1
+https://migu.yang-1989.xyz/sprt/yeccvv.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="TSN 2" tvg-name="TSN 2" tvg-logo="https://iptv.yang-1989.xyz/logo/TSN%202.webp" group-title="•體育「Relay」",TSN 2
+https://migu.yang-1989.xyz/sprt/sumws7.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="TSN 3" tvg-name="TSN 3" tvg-logo="https://iptv.yang-1989.xyz/logo/TSN%203.webp" group-title="•體育「Relay」",TSN 3
+https://migu.yang-1989.xyz/sprt/u9nma6.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="TSN 4" tvg-name="TSN 4" tvg-logo="https://iptv.yang-1989.xyz/logo/TSN%204.webp" group-title="•體育「Relay」",TSN 4
+https://migu.yang-1989.xyz/sprt/3czmjs.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="TSN 5" tvg-name="TSN 5" tvg-logo="https://iptv.yang-1989.xyz/logo/TSN%205.webp" group-title="•體育「Relay」",TSN 5
+https://migu.yang-1989.xyz/sprt/z7862n.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="Sky Sports Main Event" tvg-name="Sky Sports Main Event" tvg-logo="https://iptv.yang-1989.xyz/logo/Sky%20Sports%20Main%20Event.webp" group-title="•體育「Relay」",Sky Sports Main Event
+https://migu.yang-1989.xyz/sprts/89gnv2.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="Sky Sports Premier League" tvg-name="Sky Sports Premier League" tvg-logo="https://iptv.yang-1989.xyz/logo/Sky%20Sports%20Premier%20League.webp" group-title="•體育「Relay」",Sky Sports Premier League
+https://migu.yang-1989.xyz/sprts/x638ae.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="Sky Sports F1" tvg-name="Sky Sports F1" tvg-logo="https://iptv.yang-1989.xyz/logo/Sky%20Sports%20F1.webp" group-title="•體育「Relay」",Sky Sports F1
+https://migu.yang-1989.xyz/sprts/3v2ks8.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="Sky Sports Football" tvg-name="Sky Sports Football" tvg-logo="https://iptv.yang-1989.xyz/logo/Sky%20Sports%20Football.webp" group-title="•體育「Relay」",Sky Sports Football
+https://migu.yang-1989.xyz/sprts/tpg9rq.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-name="Sky Sports Cricket" tvg-logo="https://iptv.yang-1989.xyz/logo/Sky%20Sports%20Cricket.webp" group-title="•體育「Relay」",Sky Sports Cricket
+https://migu.yang-1989.xyz/sprts/dcguse.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="Sky Sports Golf" tvg-name="Sky Sports Golf" tvg-logo="https://iptv.yang-1989.xyz/logo/Sky%20Sports%20Golf.webp" group-title="•體育「Relay」",Sky Sports Golf
+https://migu.yang-1989.xyz/sprts/xew6b2.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="Sky Sports Mix" tvg-name="Sky Sports Mix" tvg-logo="https://iptv.yang-1989.xyz/logo/Sky%20Sports%20Mix.webp" group-title="•體育「Relay」",Sky Sports Mix
+https://migu.yang-1989.xyz/sprts/nfdtt7.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+#EXTINF:-1 tvg-id="Sky Sports Racing" tvg-name="Sky Sports Racing" tvg-logo="https://iptv.yang-1989.xyz/logo/Sky%20Sports%20Racing.webp" group-title="•體育「Relay」",Sky Sports Racing
+https://migu.yang-1989.xyz/sprts/zger9r.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
