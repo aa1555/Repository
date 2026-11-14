@@ -1,4 +1,5 @@
-﻿CCTV1,http://173.208.212.130:8181/720p/cctv1.m3u8
+央视频道,#genre#
+CCTV1,http://173.208.212.130:8181/720p/cctv1.m3u8
 CCTV1,http://139.227.221.147:9901/tsfile/live/0001_1.m3u8?key=txiptv
 CCTV2,http://173.208.212.130:8181/720p/cctv2.m3u8
 CCTV2,http://139.227.221.147:9901/tsfile/live/0002_1.m3u8?key=txiptv
@@ -43,6 +44,7 @@ CCTV世界地理,http://173.208.212.130:8181/720p/sjdl.m3u8
 CCTV卫生健康,http://173.208.212.130:8181/720p/wsjk.m3u8
 CCTV央视文化精品,http://173.208.212.130:8181/720p/ysjp.m3u8
 CCTV央视台球,http://173.208.212.130:8181/720p/ystq.m3u8
+卫视频道,#genre#
 安徽卫视,http://173.208.212.130:8181/720p/ahws.m3u8
 安徽卫视,http://139.227.221.147:9901/tsfile/live/0130_1.m3u8?key=txiptv
 北京卫视,http://173.208.212.130:8181/720p/bjws.m3u8
@@ -71,6 +73,7 @@ CCTV央视台球,http://173.208.212.130:8181/720p/ystq.m3u8
 浙江卫视,http://173.208.212.130:8181/720p/zjws.m3u8
 浙江卫视,http://139.227.221.147:9901/tsfile/live/0124_1.m3u8?key=txiptv
 旅游卫视,http://139.227.221.147:9901/tsfile/live/0114_1.m3u8?key=txiptv
+睛彩频道,#genre#
 睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
 睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=BingCha
 睛彩竞技,http://gslbserv.itv.cmvideo.cn:80/3000000020000011528/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989
@@ -79,6 +82,7 @@ CCTV央视台球,http://173.208.212.130:8181/720p/ystq.m3u8
 睛彩篮球,http://gslbserv.itv.cmvideo.cn:80/3000000020000011529/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=BingCha
 睛彩青少,http://gslbserv.itv.cmvideo.cn:80/3000000020000011525/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
 睛彩青少,http://gslbserv.itv.cmvideo.cn:80/3000000020000011525/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=BingCha
+咪视界,#genre#
 咪视界4K-1,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
 咪视界4K-1,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=BingCha
 咪视界4K-2,http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=YanG-1989
@@ -159,6 +163,7 @@ CCTV央视台球,http://173.208.212.130:8181/720p/ystq.m3u8
 咪视界37,http://gslbserv.itv.cmvideo.cn:80/3000000020000011521/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=BingCha
 咪视界38,http://gslbserv.itv.cmvideo.cn:80/3000000020000011522/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989
 咪视界38,http://gslbserv.itv.cmvideo.cn:80/3000000020000011522/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=BingCha
+历年春晚,#genre#
 春晚1987,https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
 春晚1988,https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
 春晚1989,https://txmov2.a.kwimgs.com/bs3/video-hls/5194620763762726260_hlsb.m3u8
@@ -175,6 +180,7 @@ CCTV央视台球,http://173.208.212.130:8181/720p/ystq.m3u8
 春晚2025,https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8
 春晚2025,https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
 春晚2025,https://svipsvip.ffzyread1.com/20250129/35458_c988286f/index.m3u8
+轮播,#genre#
 成龙,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lbcl
 成龙,http://107.150.60.122/live/lbcl.m3u8
 周润发,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lbzrf
