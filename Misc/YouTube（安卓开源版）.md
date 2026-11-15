@@ -4,18 +4,8 @@
 
 https://github.com/j-hc/revanced-magisk-module
 
-GmsCore:
+## MicroG RE
 
-需要安装这个东西youtube才能运行
-
-https://github.com/microg/GmsCore/releases
-
-https://github.com/ReVanced/GmsCore
-
-https://github.com/NoName-exe/revanced-extended
-
-## VancedMicroG
-
-项目地址：https://github.com/TeamVanced/VancedMicroG
+项目地址：https://github.com/j-hc/revanced-magisk-module/releases
 
 YouTube revanced不能单独运行，需要配合MicroG
