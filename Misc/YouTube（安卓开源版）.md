@@ -2,7 +2,7 @@
 
 项目地址：
 
-https://github.com/j-hc/revanced-magisk-module
+https://github.com/j-hc/revanced-magisk-module/releases
 
 ## MicroG RE
 
