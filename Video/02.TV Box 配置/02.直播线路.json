@@ -21,12 +21,6 @@
       "type": 0,
       "url": "https://ghfast.top/https://raw.githubusercontent.com/aa1555/Repository/refs/heads/main/Video/01.Live%E7%9B%B4%E6%92%AD%E6%BA%90/%E7%8E%8B%E4%BA%8C%E5%B0%8F%E6%94%BE%E7%89%9B%E5%A8%83.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-    },
-    {
-      "name": "地方台可以看",
-      "type": 0,
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/aa1555/Repository/main/Video/01.Live%E7%9B%B4%E6%92%AD%E6%BA%90/%E5%9C%B0%E6%96%B9%E5%8F%B0%E4%B8%8D%E9%94%99.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
     }
   ],
 
