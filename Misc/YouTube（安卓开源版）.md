@@ -8,4 +8,4 @@ https://github.com/j-hc/revanced-magisk-module/releases
 
 项目地址：https://github.com/j-hc/revanced-magisk-module/releases
 
-YouTube revanced不能单独运行，需要配合MicroG
+提示：YouTube revanced不能单独运行，需要配合MicroG
